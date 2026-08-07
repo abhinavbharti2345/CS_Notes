@@ -1,5 +1,4 @@
 [
-  "calendar",
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
@@ -11,5 +10,8 @@
   "pdf-plus",
   "smart-connections",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "calendar"
 ]

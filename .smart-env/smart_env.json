@@ -16,8 +16,12 @@
     "file_exclusions": "Untitled",
     "folder_exclusions": ""
   },
-  "gitignore_exclusions": [],
-  "gitignore_exclusions_updated_at": 0,
+  "gitignore_exclusions": [
+    ".tmp.driveupload/\r",
+    "*.tmp\r",
+    "*.tmp.*\r"
+  ],
+  "gitignore_exclusions_updated_at": 1786144318553,
   "language": "en",
   "re_import_wait_time": 13,
   "smart_chat_threads": {
@@ -56,7 +60,8 @@
         "render_markdown": true,
         "show_full_path": false
       }
-    }
+    },
+    "footer_connections": true
   },
   "context_items": {
     "template_preset": "xml_structured",
