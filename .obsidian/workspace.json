@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ext_&_res/Extra_Courses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extra_Courses"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6a573f390d8bf79",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef1b1edfa7ae7f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "661b5a2a752526c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fae886399558dcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "525f850e4473d9f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7d4d0bf627a9b18",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d88b4e2434353bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe35aee3c783c99",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "16c0410ceabb239d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "34ac0a80406c71fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0766ddddcc38b01c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c51489388f6cbfb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd73e21ea4e8d6a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e1efd4381c5252f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
+    }
+  },
+  "active": "16c0410ceabb239d",
+  "lastOpenFiles": [
+    "README.md",
+    "Ext_&_res/Extra_Courses.md",
+    "Ext_&_res",
+    "03. Linked List Hub.md",
+    "2026-08-06.md",
+    "DSA/00. Fundamentals/Bit Manipulation Basics.md",
+    "DSA/00. Fundamentals/Asymptotic Notations (Big-O, Big-Theta, Big-Omega).md",
+    "DSA/02. Hashing/Hash Tables & Hash Maps.md",
+    "DSA/DSA Hub.md",
+    "DSA/01. Arrays & Strings/01. Arrays & Strings Hub.md",
+    "DSA/03. Linked List/LRU & LFU Cache.md",
+    "DSA/03. Linked List/Reverse & Merge Linked Lists.md",
+    "DSA/03. Linked List/Fast & Slow Pointers (Linked List).md",
+    "DSA/03. Linked List/Singly & Doubly Linked Lists.md",
+    "DSA/03. Linked List/03. Linked List Hub.md",
+    "DSA/03. Linked List",
+    "DSA/02. Hashing/Prefix Hashing & Rolling Hash.md",
+    "DSA/02. Hashing/Frequency Counting & Hash Sets.md",
+    "DSA/00. Fundamentals/00. Fundamentals Hub.md",
+    "DSA/02. Hashing/02. Hashing Hub.md",
+    "DSA/01. Arrays & Strings/String Algorithms Hub.md",
+    "DSA/01. Arrays & Strings/Binary Search Hub & Variants.md",
+    "DSA/01. Arrays & Strings/Coordinate Compression.md",
+    "DSA/01. Arrays & Strings/Kadane's Algorithm.md",
+    "DSA/01. Arrays & Strings/Prefix Sum & Difference Array.md",
+    "DSA/01. Arrays & Strings/Sliding Window.md",
+    "DSA/01. Arrays & Strings/Two Pointers.md",
+    "DSA/01. Arrays & Strings/Arrays (Hub).md",
+    "DSA/02. Hashing",
+    "DSA/01. Arrays & Strings",
+    "DSA/00. Fundamentals",
+    "DAILY NOTES",
+    "AI & ML",
+    "DBMS",
+    "WebDev",
+    "OS"
+  ]
+}
