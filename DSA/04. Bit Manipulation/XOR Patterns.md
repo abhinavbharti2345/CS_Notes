@@ -1,0 +1,76 @@
+# XOR Patterns
+
+> **Master Note:** [[Bit Manipulation]]  
+> **Related Notes:** [[Bitwise Operators]] | [[Bit Tricks]] | [[Problems]]
+
+---
+
+## 1. Core XOR Identities
+
+The XOR ($\oplus$) operator has unique mathematical properties that make it a cornerstone for parity tracking, duplicate elimination, and space-optimized problem solving.
+
+| Identity | Meaning | Algorithmic Implication |
+| :--- | :--- | :--- |
+| **$A \oplus 0 = A$** | XOR with zero preserves value | $0$ serves as the neutral identity element |
+| **$A \oplus A = 0$** | XOR with self cancels to zero | Any duplicate pair cancels completely |
+
+---
+
+## 2. Cancellation & Algebraic Manipulation
+
+Because XOR is both **commutative** and **associative**:
+- **Commutative:** $A \oplus B = B \oplus A$
+- **Associative:** $(A \oplus B) \oplus C = A \oplus (B \oplus C)$
+
+Any sequence of XOR operations can be freely rearranged and grouped:
+
+```
+A ^ B ^ C ^ A ^ B = (A ^ A) ^ (B ^ B) ^ C
+                  = 0 ^ 0 ^ C
+                  = C
+```
+
+### Key Takeaway
+- If an element appears an **even number of times**, its net contribution to the total XOR is `0`.
+- If an element appears an **odd number of times**, its net contribution to the total XOR is the element itself.
+
+---
+
+## 3. XOR Problem Recognition Guide
+
+Use this recognition guide to match interview problem statements to their XOR pattern:
+
+| Problem Shape | Pattern / Strategy | Reference |
+| :--- | :--- | :--- |
+| **One element appears odd times, rest appear even times** | XOR all elements $\to$ duplicate pairs cancel out, the lone unique element survives | [[Problems#1. Single Number\|Single Number]] |
+| **Two values missing from a contiguous range $[1, N+2]$** | XOR array with full range $\to$ get $x \oplus y \to$ find a set bit position $\to$ partition elements by that bit and XOR | [[Problems#2. Two Missing Numbers\|Two Missing Numbers]] |
+| **Minimum XOR of any pair $(i, j)$ in an array** | Sort array $\to$ compare adjacent elements only ($A[i] \oplus A[i+1]$) | [[Problems#3. Minimum XOR Pair\|Minimum XOR Pair]] |
+| **Sum of XOR of all pairs $(i < j)$** | Per-bit contribution: for each bit $b$, contribution is $\text{count0} \times \text{count1} \times 2^b$ | [[Problems#4. Sum of XOR of All Pairs\|Sum of XOR of All Pairs]] |
+
+---
+
+## 4. Bit-Count XOR Observation
+
+*(Class Observation & Theoretical Foundation)*
+
+Consider an array with duplicate pairs and one unique element:
+```
+A = [5, 5, 4, 11, 11, 9, 4]
+```
+
+Instead of viewing XOR purely as an aggregate scalar operation, we can inspect each bit position independently across all numbers:
+- Count how many numbers in the array have a **1** at bit position $i$.
+- If the count of 1s at position $i$ is **odd**, then the unique element must have a 1 at bit position $i$.
+- If the count of 1s at position $i$ is **even**, the 1s cancel in pairs, meaning the unique element has a 0 at bit position $i$.
+
+### Why This Matters
+This bit-counting principle generalizes the XOR cancellation mechanism and explains *why* XOR works at the hardware and bit level. It also directly extends to problems where elements appear 3 times (modulo 3 counting), $k$ times (modulo $k$ counting), or pair-sum calculations.
+
+---
+
+## Navigation
+
+- **Back to Master Note:** [[Bit Manipulation]]
+- **Operator Basics:** [[Bitwise Operators]]
+- **Low-Level Bit Masks:** [[Bit Tricks]]
+- **Detailed Solutions & Code:** [[Problems]]
