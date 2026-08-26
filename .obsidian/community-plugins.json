@@ -2,7 +2,6 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "homepage",
   "obsidian-linter",
   "omnisearch",
@@ -13,5 +12,6 @@
   "templater-obsidian",
   "obsidian-icon-folder",
   "editing-toolbar",
-  "calendar"
+  "calendar",
+  "github-sync"
 ]
