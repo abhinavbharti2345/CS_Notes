@@ -1,7 +1,18 @@
+---
+topic: Data Structures & Algorithms
+subtopic: Bit Manipulation
+type: concept
+tags:
+  - dsa
+  - bit-manipulation
+  - bitwise-operators
+date: 2026-09-05
+---
+
 # Bitwise Operators
 
 > **Master Note:** [[Bit Manipulation]]  
-> **Related Notes:** [[Bit Tricks]] | [[XOR Patterns]] | [[Problems]]
+> **Related Notes:** [[Bit Tricks]] | [[XOR Patterns]] | [[Bit Manipulation Problems]]
 
 ---
 
@@ -11,9 +22,9 @@ Bitwise operators perform operations directly on the individual binary bits of i
 
 | Operator | Symbol | Description |
 | :--- | :---: | :--- |
-| **AND** | `&` | 1 only if **both** bits are 1 |
-| **OR** | `\|` | 1 if **either** bit is 1 |
-| **XOR** | `^` | 1 if bits are **different** |
+| **AND** | `&` | `1` only if **both** bits are 1 |
+| **OR** | <code>&#124;</code> | `1` if **either** bit is 1 |
+| **XOR** | `^` | `1` if bits are **different** |
 | **NOT** | `~` | Flips every bit (bitwise complement) |
 
 ---
@@ -38,14 +49,14 @@ The NOT operator inverts all bits:
 
 Consider decimal numbers $20$ and $45$:
 
-```
+```text
 20  = 10100₂
 45  = 101101₂
 ```
 
 Evaluating bitwise operations:
 
-```
+```text
   010100  (20)
 & 101101  (45)
 ---------
@@ -64,11 +75,10 @@ Evaluating bitwise operations:
 
 ---
 
-## 4. Basic Properties
+## 4. Fundamental Algebraic Properties
 
 ### AND Properties (`&`)
-
-```
+```text
 A & 0 = 0
 A & A = A
 ```
@@ -76,8 +86,7 @@ A & A = A
 - Any bit AND-ed with itself remains unchanged.
 
 ### OR Properties (`|`)
-
-```
+```text
 A | 0 = A
 A | A = A
 ```
@@ -85,8 +94,7 @@ A | A = A
 - Any bit OR-ed with itself remains unchanged.
 
 ### XOR Properties (`^`)
-
-```
+```text
 A ^ 0 = A
 A ^ A = 0
 ```
@@ -98,31 +106,28 @@ A ^ A = 0
 > *For algorithmic techniques, cancellation patterns, and problem-solving strategies using XOR, see [[XOR Patterns]].*
 
 ### Commutative Property
-
 The order of operands does not affect the result:
-
-```
+```text
 A & B = B & A
 A | B = B | A
 A ^ B = B ^ A
 ```
 
 ### Associative Property
-
 Grouping of operands does not affect the result:
-
-```
+```text
 (A & B) & C = A & (B & C)
 (A | B) | C = A | (B | C)
 (A ^ B) ^ C = A ^ (B ^ C)
 ```
 
-Because bitwise operations are commutative and associative, a sequence of XOR operations can be reordered in any order (fundamental for cancellation techniques in [[Problems]]).
+Because bitwise operations are commutative and associative, a sequence of XOR operations can be reordered in any order (fundamental for cancellation techniques in [[Bit Manipulation Problems]]).
 
 ---
 
-## Navigation
-
-- **Back to Master Note:** [[Bit Manipulation]]
-- **Next:** [[Bit Tricks]]
-- **Deep Dive into XOR:** [[XOR Patterns]]
+## 🔗 Related Notes
+- [[DSA/README|🌳 DSA Master MOC]]
+- [[Bit Manipulation|⚡ Bit Manipulation Master Note]]
+- [[Bit Tricks]]
+- [[XOR Patterns]]
+- [[Bit Manipulation Problems]]

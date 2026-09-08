@@ -1,7 +1,19 @@
+---
+topic: Data Structures & Algorithms
+subtopic: Bit Manipulation
+type: concept
+tags:
+  - dsa
+  - bit-manipulation
+  - xor
+  - patterns
+date: 2026-09-05
+---
+
 # XOR Patterns
 
 > **Master Note:** [[Bit Manipulation]]  
-> **Related Notes:** [[Bitwise Operators]] | [[Bit Tricks]] | [[Problems]]
+> **Related Notes:** [[Bitwise Operators]] | [[Bit Tricks]] | [[Bit Manipulation Problems]]
 
 ---
 
@@ -24,7 +36,7 @@ Because XOR is both **commutative** and **associative**:
 
 Any sequence of XOR operations can be freely rearranged and grouped:
 
-```
+```text
 A ^ B ^ C ^ A ^ B = (A ^ A) ^ (B ^ B) ^ C
                   = 0 ^ 0 ^ C
                   = C
@@ -42,19 +54,19 @@ Use this recognition guide to match interview problem statements to their XOR pa
 
 | Problem Shape | Pattern / Strategy | Reference |
 | :--- | :--- | :--- |
-| **One element appears odd times, rest appear even times** | XOR all elements $\to$ duplicate pairs cancel out, the lone unique element survives | [[Problems#1. Single Number\|Single Number]] |
-| **Two values missing from a contiguous range $[1, N+2]$** | XOR array with full range $\to$ get $x \oplus y \to$ find a set bit position $\to$ partition elements by that bit and XOR | [[Problems#2. Two Missing Numbers\|Two Missing Numbers]] |
-| **Minimum XOR of any pair $(i, j)$ in an array** | Sort array $\to$ compare adjacent elements only ($A[i] \oplus A[i+1]$) | [[Problems#3. Minimum XOR Pair\|Minimum XOR Pair]] |
-| **Sum of XOR of all pairs $(i < j)$** | Per-bit contribution: for each bit $b$, contribution is $\text{count0} \times \text{count1} \times 2^b$ | [[Problems#4. Sum of XOR of All Pairs\|Sum of XOR of All Pairs]] |
+| **One element appears odd times, rest appear even times** | XOR all elements $\to$ duplicate pairs cancel out, the lone unique element survives | [[Bit Manipulation Problems#1. Single Number\|Single Number]] |
+| **Two values missing from a contiguous range $[1, N+2]$** | XOR array with full range $\to$ get $x \oplus y \to$ find a set bit position $\to$ partition elements by that bit and XOR | [[Bit Manipulation Problems#2. Two Missing Numbers\|Two Missing Numbers]] |
+| **Minimum XOR of any pair $(i, j)$ in an array** | Sort array $\to$ compare adjacent elements only ($A[i] \oplus A[i+1]$) | [[Bit Manipulation Problems#3. Minimum XOR Pair\|Minimum XOR Pair]] |
+| **Sum of XOR of all pairs $(i < j)$** | Per-bit contribution: for each bit $b$, contribution is $\text{count0} \times \text{count1} \times 2^b$ | [[Bit Manipulation Problems#4. Sum of XOR of All Pairs\|Sum of XOR of All Pairs]] |
 
 ---
 
 ## 4. Bit-Count XOR Observation
 
-*(Class Observation & Theoretical Foundation)*
+*(Theoretical Foundation)*
 
 Consider an array with duplicate pairs and one unique element:
-```
+```text
 A = [5, 5, 4, 11, 11, 9, 4]
 ```
 
@@ -68,9 +80,9 @@ This bit-counting principle generalizes the XOR cancellation mechanism and expla
 
 ---
 
-## Navigation
-
-- **Back to Master Note:** [[Bit Manipulation]]
-- **Operator Basics:** [[Bitwise Operators]]
-- **Low-Level Bit Masks:** [[Bit Tricks]]
-- **Detailed Solutions & Code:** [[Problems]]
+## 🔗 Related Notes
+- [[DSA/README|🌳 DSA Master MOC]]
+- [[Bit Manipulation|⚡ Bit Manipulation Master Note]]
+- [[Bitwise Operators]]
+- [[Bit Tricks]]
+- [[Bit Manipulation Problems]]

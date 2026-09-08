@@ -1,0 +1,182 @@
+{
+  ".agents/skills/obsidian-skills/.claude-plugin/marketplace.json": {
+    "mtime": 1787752384.5213916,
+    "seen": 1788299865.9880848,
+    "ast_hash": "6cc766fabbbfd07e6daa524d47e8821a",
+    "semantic_hash": "6cc766fabbbfd07e6daa524d47e8821a"
+  },
+  ".agents/skills/obsidian-skills/.claude-plugin/plugin.json": {
+    "mtime": 1787752384.5223918,
+    "seen": 1788299865.9880931,
+    "ast_hash": "c4ee2b8514ff3fb267b855f25360c891",
+    "semantic_hash": "c4ee2b8514ff3fb267b855f25360c891"
+  },
+  ".agents/rules/graphify.md": {
+    "mtime": 1787755009.698312,
+    "seen": 1788299865.9880958,
+    "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
+    "semantic_hash": ""
+  },
+  ".agents/rules/vault-organization.md": {
+    "mtime": 1787754825.1325727,
+    "seen": 1788299865.9880967,
+    "ast_hash": "4b98e242082354474858a516e5c23baa",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/README.md": {
+    "mtime": 1787752384.5233915,
+    "seen": 1788299865.988098,
+    "ast_hash": "75900dd4fb56bd59e52125b8151b4c3c",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/defuddle/SKILL.md": {
+    "mtime": 1787752384.5253916,
+    "seen": 1788299865.9880989,
+    "ast_hash": "f8ae7870c2a3a59843db9f4bdf7d6688",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/json-canvas/SKILL.md": {
+    "mtime": 1787752384.5263934,
+    "seen": 1788299865.9880998,
+    "ast_hash": "6f1f3aefcaafc8f844bee620cfaa18fe",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/json-canvas/references/EXAMPLES.md": {
+    "mtime": 1787752384.5263934,
+    "seen": 1788299865.9881005,
+    "ast_hash": "a046c07cf1cf4f9de531cdb415cd14ae",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-bases/SKILL.md": {
+    "mtime": 1787752384.5283923,
+    "seen": 1788299865.9881015,
+    "ast_hash": "93b448a57f43307a8b9c45ba040e76a7",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md": {
+    "mtime": 1787752384.529394,
+    "seen": 1788299865.9881022,
+    "ast_hash": "86efaae5587776059fe6b49462e0340c",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-cli/SKILL.md": {
+    "mtime": 1787752384.530394,
+    "seen": 1788299865.988103,
+    "ast_hash": "2ef8f2e29d87b0984d920500cd928d99",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/SKILL.md": {
+    "mtime": 1787752384.5313926,
+    "seen": 1788299865.9881036,
+    "ast_hash": "594a5b4199304d9f9c25d765f7010036",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/references/CALLOUTS.md": {
+    "mtime": 1787752384.5313926,
+    "seen": 1788299865.9881043,
+    "ast_hash": "5aa10159af4764298637ad4e81d6a2f1",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/references/EMBEDS.md": {
+    "mtime": 1787752384.5323915,
+    "seen": 1788299865.988105,
+    "ast_hash": "0ff7ad04c5f06d316d8d6b6a0bcd74ed",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/references/PROPERTIES.md": {
+    "mtime": 1787752384.5323915,
+    "seen": 1788299865.9881058,
+    "ast_hash": "5ff42c0791b7f60b339e0c04063477b6",
+    "semantic_hash": ""
+  },
+  ".agents/workflows/graphify.md": {
+    "mtime": 1787755009.6993144,
+    "seen": 1788299865.9881063,
+    "ast_hash": "637776aa6f7496d069afe7520c845c8a",
+    "semantic_hash": ""
+  },
+  "Agent.md": {
+    "mtime": 1788299809.1202593,
+    "seen": 1788299865.9881065,
+    "ast_hash": "d1d45200a4e07016ded971d84e4661fe",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bit Manipulation.md": {
+    "mtime": 1787752616.2170806,
+    "seen": 1788299865.9881072,
+    "ast_hash": "e16c1f98bc0b55d03ace2a0ecc3fc245",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bit Tricks.md": {
+    "mtime": 1787753473.9043684,
+    "seen": 1788299865.9881077,
+    "ast_hash": "69334eaba31274fe6c67cf2e8b712e2d",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bitwise Operators.md": {
+    "mtime": 1787752621.996443,
+    "seen": 1788299865.9881089,
+    "ast_hash": "8affb8b341eb902b09e7d8a48e462cd1",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Problems.md": {
+    "mtime": 1787752643.3652925,
+    "seen": 1788299865.9881094,
+    "ast_hash": "8ef37256b5d1ca16c03513684dcea2af",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/XOR Patterns.md": {
+    "mtime": 1787752634.0634959,
+    "seen": 1788299865.9881098,
+    "ast_hash": "f0205ea09dfa4e55fde84f8076e26538",
+    "semantic_hash": ""
+  },
+  "Dashboard.md": {
+    "mtime": 1788299360.0081494,
+    "seen": 1788299865.988111,
+    "ast_hash": "25199ec9931d9b16af27e93fb7d00b62",
+    "semantic_hash": ""
+  },
+  "Ext_&_res/Extra_Courses.md": {
+    "mtime": 1786144080.772971,
+    "seen": 1788299865.9881117,
+    "ast_hash": "393b3a8be14f74569d3546a772aa38bf",
+    "semantic_hash": ""
+  },
+  "Python.md": {
+    "mtime": 1786424936.295,
+    "seen": 1788299865.9881124,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1787754538.1381757,
+    "seen": 1788299865.9881132,
+    "ast_hash": "64de4d1f2dbee081e945c1c087e45f6d",
+    "semantic_hash": ""
+  },
+  "WebDev/JS Fundamentals.md": {
+    "mtime": 1786613662.6456702,
+    "seen": 1788299865.9881139,
+    "ast_hash": "e8081972dc278dd8af1347a919a329b3",
+    "semantic_hash": ""
+  },
+  "WebDev/Node.js.md": {
+    "mtime": 1788299933.6221862,
+    "seen": 1788299940.1021342,
+    "ast_hash": "5cf508c6e2c63b60202b8d884609e045",
+    "semantic_hash": ""
+  },
+  "Source/bit 1.pdf": {
+    "mtime": 1787750453.825008,
+    "seen": 1788299865.9881153,
+    "ast_hash": "a5d6d0a47ff1120bbe13a2de7f687e60",
+    "semantic_hash": ""
+  },
+  "Source/bit 2.pdf": {
+    "mtime": 1787750519.166996,
+    "seen": 1788299865.9881158,
+    "ast_hash": "261b119ae15a017f9821711f0bc67a1c",
+    "semantic_hash": ""
+  }
+}

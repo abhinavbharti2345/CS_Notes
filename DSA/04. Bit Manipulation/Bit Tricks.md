@@ -1,15 +1,27 @@
+---
+topic: Data Structures & Algorithms
+subtopic: Bit Manipulation
+type: concept
+tags:
+  - dsa
+  - bit-manipulation
+  - bit-tricks
+  - bitmasks
+date: 2026-09-05
+---
+
 # Bit Tricks
 
 > **Master Note:** [[Bit Manipulation]]  
-> **Related Notes:** [[Bitwise Operators]] | [[XOR Patterns]] | [[Problems]]
+> **Related Notes:** [[Bitwise Operators]] | [[XOR Patterns]] | [[Bit Manipulation Problems]]
 
 ---
 
-## 1. Even / Odd Check
+## 1. Even / Odd Check (Parity)
 
 Checking parity using bitwise AND is faster than modulo arithmetic (`N % 2`).
 
-```
+```text
 N & 1
 ```
 
@@ -70,7 +82,7 @@ $$A \gg n = \lfloor A / 2^n \rfloor \quad (\text{integer / floor division})$$
 Let `i` = **bit position** (0-indexed from the right).
 
 The fundamental building block for targeted bit manipulation is the single-bit mask:
-```
+```text
 1 << i
 ```
 This produces a binary value where only the $i$-th bit is `1` and all other bits are `0`.
@@ -81,7 +93,7 @@ This produces a binary value where only the $i$-th bit is `1` and all other bits
 
 To test whether the $i$-th bit is `1` or `0`:
 
-```
+```text
 N & (1 << i)
 ```
 
@@ -96,7 +108,7 @@ N & (1 << i)
 
 To turn bit $i$ ON without modifying any other bit:
 
-```
+```text
 N | (1 << i)
 ```
 
@@ -109,7 +121,7 @@ N | (1 << i)
 
 To toggle bit $i$ ($0 \to 1$ or $1 \to 0$):
 
-```
+```text
 N ^ (1 << i)
 ```
 
@@ -122,7 +134,7 @@ N ^ (1 << i)
 
 To turn bit $i$ OFF without modifying any other bit:
 
-```
+```text
 N & ~(1 << i)
 ```
 
@@ -130,26 +142,118 @@ N & ~(1 << i)
 - `(1 << i)` has only bit $i$ set.
 - `~(1 << i)` creates a mask where **every bit is 1 except bit $i$**, which is 0.
 - AND-ing `N` with this inverted mask forces bit $i$ to `0` while keeping all other bits identical ($A \& 1 = A$).
-
-> [!note] Source Note
-> The class handwritten notes discuss "check + flip" and show the mask `~(1 << i)` for unsetting. This material is preserved faithfully.
-
+	
 ---
 
 ## Summary of Operations
 
-| Operation | Formula | Mask Used |
-| :--- | :--- | :--- |
-| **Check $i$-th bit** | `N & (1 << i)` | `1 << i` |
-| **Set $i$-th bit** | `N \| (1 << i)` | `1 << i` |
-| **Flip $i$-th bit** | `N ^ (1 << i)` | `1 << i` |
-| **Unset $i$-th bit** | `N & ~(1 << i)` | `~(1 << i)` |
+| Operation            | Formula                              | Mask Used    |
+| :------------------- | :----------------------------------- | :----------- |
+| **Check $i$-th bit** | `N & (1 << i)`                       | `1 << i`     |
+| **Set $i$-th bit**   | <code>N &#124; (1 &lt;&lt; i)</code> | `1 << i`     |
+| **Flip $i$-th bit**  | `N ^ (1 << i)`                       | `1 << i`     |
+| **Unset $i$-th bit** | `N & ~(1 << i)`                      | `~(1 << i)`  |
 
 ---
 
-## Navigation
+## 5. The All-Ones Mask (`-1L`) & Mask Generation
 
-- **Back to Master Note:** [[Bit Manipulation]]
-- **Operators:** [[Bitwise Operators]]
-- **XOR Techniques:** [[XOR Patterns]]
-- **Applied Problems:** [[Problems]]
+### What is `-1L`?
+In Java:
+- `-1` is the decimal value negative one.
+- `L` suffix specifies a 64-bit signed `long`.
+
+### Why is `-1L` all 1s in Binary?
+Java uses **two's complement** for signed integers.
+- For 64-bit `1L`: `00000000 00000000 ... 00000001`
+- Inverting bits (`~1L`): `11111111 11111111 ... 11111110`
+- Adding 1 (`two's complement`): `11111111 11111111 ... 11111111`
+
+$$\text{Binary of } -1\text{L} = \underbrace{11111111 \dots 11111111}_{64 \text{ ones}}$$
+
+### Why is `-1L` Useful in Bit Manipulation?
+
+Since all 64 bits are `1`, `-1L` is the ultimate starting block for creating custom masks of any length without loops:
+
+#### 1. Creating $B$ Trailing Zeros (`-1L << B`)
+Left shifting `-1L` by $B$ introduces $B$ zeros at the least significant bits:
+
+```text
+-1L << B  =  11111111 ... 1111 0000 ... 0000
+                               ↑
+                             B zeros
+```
+
+#### 2. Creating $B$ Trailing Ones (`~(-1L << B)`)
+Bitwise NOT on the above inverts all bits, leaving exactly $B$ ones at the end:
+
+```text
+~(-1L << B)  =  00000000 ... 0000 1111 ... 1111
+                                  ↑
+                                B ones
+```
+
+#### 3. Creating a Range Mask $[L, R]$ (Bits $L$ through $R$ set to 1)
+```java
+long rangeMask = (-1L << L) & ~(-1L << (R + 1));
+// or:
+long rangeMask = ((1L << (R - L + 1)) - 1) << L;
+```
+
+---
+
+## 6. Counting Set Bits (Hamming Weight / Population Count)
+
+Counting the number of `1`s (set bits) in a binary number is a classic interview problem. Here are the two most common ways in Java:
+
+### 1. Built-in Method — `Integer.bitCount(n)` (Fastest & Recommended)
+
+Java provides high-performance hardware-accelerated methods:
+
+```java
+int count = Integer.bitCount(n); // For 32-bit int
+long countLong = Long.bitCount(n); // For 64-bit long
+```
+
+#### Example Walkthrough:
+$$n = 13$$
+$$13_{10} = 1101_2$$
+- Bit positions set: bit 0 (`1`), bit 2 (`1`), bit 3 (`1`) $\implies$ total set bits = **3**.
+
+```java
+Integer.bitCount(13); // returns 3
+```
+
+- **Time Complexity:** $O(1)$ (internally uses parallel bit summation / POPCNT CPU instruction).
+- **Space Complexity:** $O(1)$.
+
+---
+
+### 2. Brian Kernighan’s Algorithm ($O(\text{set bits})$)
+
+If asked to implement manual bit counting without built-in libraries:
+
+```java
+public int countSetBits(int n) {
+    int count = 0;
+    while (n != 0) {
+        n = n & (n - 1); // Clears the lowest set bit in each iteration
+        count++;
+    }
+    return count;
+}
+```
+
+#### Why It Works:
+- `n & (n - 1)` always flips the lowest set bit (`1` $\to$ `0`) and all lower `0`s to `0`.
+- The loop runs **only as many times as there are set bits** (e.g. for `13 = 1101`, exactly 3 iterations), making it significantly faster than checking all 32 bits.
+
+---
+
+## 🔗 Related Notes
+- [[DSA/README|🌳 DSA Master MOC]]
+- [[Quick Look|⚡ DSA & Java Quick Look Reference]]
+- [[Bit Manipulation|⚡ Bit Manipulation Master Note]]
+- [[Bitwise Operators]]
+- [[XOR Patterns]]
+- [[Bit Manipulation Problems]]

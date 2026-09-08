@@ -7,12 +7,12 @@
   "omnisearch",
   "quickadd",
   "pdf-plus",
-  "smart-connections",
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "obsidian-icon-folder",
   "editing-toolbar",
   "calendar",
-  "github-sync",
-  "terminal"
+  "terminal",
+  "local-llm-hub",
+  "ollama-assistant"
 ]

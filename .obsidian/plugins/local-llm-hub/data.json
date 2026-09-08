@@ -1,0 +1,50 @@
+{
+  "llmConfig": {
+    "framework": "ollama",
+    "baseUrl": "http://localhost:11434",
+    "model": ""
+  },
+  "llmVerified": false,
+  "availableModels": [],
+  "llmProfiles": {
+    "Default": {
+      "config": {
+        "framework": "ollama",
+        "baseUrl": "http://localhost:11434",
+        "model": ""
+      },
+      "availableModels": [],
+      "verified": false
+    }
+  },
+  "selectedLlmProfile": "Default",
+  "saveChatHistory": true,
+  "maxSavedChatHistories": 100,
+  "manualChatSaveFolder": "",
+  "systemPrompt": "",
+  "encryption": {
+    "enabled": false,
+    "encryptChatHistory": false,
+    "encryptWorkflowHistory": false,
+    "publicKey": "",
+    "encryptedPrivateKey": "",
+    "salt": ""
+  },
+  "editHistory": {
+    "enabled": true,
+    "diff": {
+      "contextLines": 3
+    }
+  },
+  "slashCommands": [],
+  "enabledWorkflowHotkeys": [],
+  "enabledWorkflowEventTriggers": [],
+  "workspaceFolder": "LocalLlmHub",
+  "skillsFolder": "skills",
+  "hideWorkspaceFolder": true,
+  "vaultToolAllowedFolders": [],
+  "knowledgeSources": [],
+  "mcpServers": [],
+  "agentPlugins": [],
+  "vaultToolMode": "all"
+}
