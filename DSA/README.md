@@ -21,7 +21,7 @@ Welcome to the **Data Structures & Algorithms Knowledge Base**. This repository 
 ```text
 00. Fundamentals (Time & Space Complexity, Asymptotic Notation, Math)
         ↓
-01. Arrays & Strings (Two Pointers, Sliding Window, Prefix Sums)
+01. [[DSA/01. Strings/README|Arrays & Strings]] (Two Pointers, Sliding Window, Prefix Sums, String Arithmetic)
         ↓
 02. Hashing (HashMaps, HashSets, Frequency Maps, Collision Resolution)
         ↓
@@ -46,6 +46,10 @@ Welcome to the **Data Structures & Algorithms Knowledge Base**. This repository 
 
 ## 📚 Active Modules
 
+### 🔤 [[DSA/01. Strings/README|01. Strings]]
+String operations, character manipulation, two-pointer simulation, and memory optimization:
+- [[DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]] — Column-by-column math simulation, `StringBuilder` vs `String`, and carry propagation.
+
 ### ⚡ [[Bit Manipulation|04. Bit Manipulation]]
 Bit-level integer representation, operators, low-level tricks, and algorithmic XOR patterns:
 - [[Bitwise Operators]] — AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), truth tables, and algebraic identities
@@ -58,6 +62,6 @@ Bit-level integer representation, operators, low-level tricks, and algorithmic X
 ## 🔗 Quick Links & Reference
 - [[Dashboard|🧭 Main Command Center]]
 - [[Quick Look|⚡ Quick Look & Cheatsheet (Frequently Forgotten Syntax)]]
+- [[DSA/01. Strings/README|🔤 01. Strings Master Note]]
 - [[Bit Manipulation|📁 Bit Manipulation Master Note]]
 - [[Bit Manipulation Problems|💡 Bit Manipulation Problems]]
-

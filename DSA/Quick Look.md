@@ -158,6 +158,11 @@ sb.setCharAt(0, 'H');
 sb.deleteCharAt(sb.length() - 1); // delete last char (backtracking)
 sb.reverse();
 String result = sb.toString();
+
+// Right-to-Left Arithmetic Template (Add Binary / Add Strings)
+// (i >= 0 || j >= 0 || carry != 0) with sb.append(sum % base) + sb.reverse()
+int bit1 = (i >= 0) ? a.charAt(i) - '0' : 0;
+int bit2 = (j >= 0) ? b.charAt(j) - '0' : 0;
 ```
 
 ---

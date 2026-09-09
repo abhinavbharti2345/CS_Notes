@@ -23,7 +23,7 @@ Welcome to the **Java Knowledge Base**. This module covers core Java concepts, o
 - **Foundations:** Primitive types, wrapper classes, memory model (Stack vs Heap)
 - **Object-Oriented Programming:** Encapsulation, Inheritance, Polymorphism, Interfaces & Abstract Classes
 - **Collections Framework:** `List`, `Set`, `Map`, `Queue`, `Deque`, Custom Comparators (`Comparable` vs `Comparator`)
-- **Strings & Streams:** `String` immutability, `StringBuilder`, Stream API, Lambda expressions
+- **Strings & Streams:** `String` immutability, [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder (Architecture & Patterns)]], Stream API, Lambda expressions
 - **Concurrency & Multithreading:** Thread lifecycle, `synchronized`, `Locks`, `ExecutorService`
 - **Generics & Exception Handling:** Try-catch-finally, custom exceptions, bounded type parameters
 

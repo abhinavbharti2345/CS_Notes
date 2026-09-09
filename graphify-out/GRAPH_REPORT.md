@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-08)
 
 ## Corpus Check
-- 52 files · ~27,144 words
+- 55 files · ~29,414 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 547 nodes · 611 edges · 38 communities (35 shown, 3 thin omitted)
+- 578 nodes · 654 edges · 39 communities (36 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `177e5a16`
+- Built from commit: `30ae247e`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -23,7 +23,7 @@
 - 1. Single Number
 - Functions Reference
 - Classical ML/README.md
-- 2. Two Missing Numbers
+- ➕ String Arithmetic & Add Binary Pattern
 - Bit Tricks
 - ⚡ Bit Manipulation
 - 4. Fundamental Algebraic Properties
@@ -45,14 +45,15 @@
 - Introduction to Node.js
 - 🌐 Backend Development Knowledge Base
 - ⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference
-- 🟢 Node.js Runtime & Architecture
-- 🟨 JavaScript Foundations for Backend
+- 🛒 ShopKart Authentication Project & Viva Prep
+- 🌳 Data Structures & Algorithms (DSA) Knowledge Base
 - Features, Targets, and Datasets
 - Supervised vs Unsupervised Learning
 - Train-Test Split and Generalization
-- Introduction to Machine Learning
+- 2. Two Missing Numbers
 - XOR Patterns
 - 🥇 Tier 1 (Worth doing)
+- 🏗️ StringBuilder (Architecture, Methods & DSA Patterns)
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
@@ -69,7 +70,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (38 total, 3 thin omitted)
+## Communities (39 total, 3 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.07
@@ -88,8 +89,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.13
-Nodes (17): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, 🧭 Command Center, 🧠 Core Knowledge Graph, 🏗️ Learning Areas & Domains, ⚡ Quick Actions (+9 more)
+Cohesion: 0.14
+Nodes (16): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, 🧭 Command Center, 🧠 Core Knowledge Graph, 🏗️ Learning Areas & Domains, ⚡ Quick Actions (+8 more)
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.07
@@ -100,12 +101,12 @@ Cohesion: 0.13
 Nodes (13): Any Type Functions, Date Arithmetic, Date Functions & Fields, Duration Type, File Functions, Functions Reference, Global Functions, Link Functions (+5 more)
 
 ### Community 7 - "Classical ML/README.md"
-Cohesion: 0.12
-Nodes (19): 🏡 Concrete Pipeline Walkthrough: House Price Prediction, End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🗺️ The 10-Stage Machine Learning Lifecycle, 📊 Classical Machine Learning Foundations (+11 more)
+Cohesion: 0.08
+Nodes (28): 🏡 Concrete Pipeline Walkthrough: House Price Prediction, End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🗺️ The 10-Stage Machine Learning Lifecycle, 1. Traditional Programming (Rule-Based) (+20 more)
 
-### Community 8 - "2. Two Missing Numbers"
-Cohesion: 0.14
-Nodes (14): 2. Two Missing Numbers, Algorithm, Approach 1 — Sorting, Approach 2 — Sum and Square Sum, Approach 3 — XOR Partitioning (Optimal), Class Worked Example:, Complexity, Example (+6 more)
+### Community 8 - "➕ String Arithmetic & Add Binary Pattern"
+Cohesion: 0.17
+Nodes (12): Complexity:, ❓ Edge Case Deep-Dive: Unequal String Lengths, 💻 Full Implementation: LeetCode 67 (Add Binary), 🔄 Generalization: Decimal String Addition (LeetCode 415: Add Strings), 🔗 Related Notes, ➕ String Arithmetic & Add Binary Pattern, 💡 The Core Problem, The Java String Trap: (+4 more)
 
 ### Community 9 - "Bit Tricks"
 Cohesion: 0.08
@@ -148,8 +149,8 @@ Cohesion: 0.50
 Nodes (3): Defuddle, Output formats, Usage
 
 ### Community 22 - "Backend/README.md"
-Cohesion: 0.29
-Nodes (7): 💻 Complete Registration Controller Example, 🔑 End-to-End Login Request Lifecycle, 🔄 End-to-End Registration Request Lifecycle, 🎯 Lab Overview, 🔗 Related Notes, 🛒 ShopKart Authentication Project & Viva Prep, 🧪 TA Viva & Interview Questions
+Cohesion: 0.20
+Nodes (12): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🔗 Connections, 📖 Learning Path (+4 more)
 
 ### Community 23 - "Async JavaScript and JSON"
 Cohesion: 0.18
@@ -179,13 +180,13 @@ Nodes (8): 1. [[JavaScript Foundations|01. JavaScript Foundations]], 2. [[Node.j
 Cohesion: 0.10
 Nodes (21): 🔢 1. Number & Math Essentials, 📊 2. Arrays & Matrices, 🔤 3. Strings & Characters, 🗃️ 4. Collections Framework (`java.util.*`), ⚡ 5. Bit Manipulation High-Yield Tricks, ⚠️ 6. Common Pitfalls & Gotchas, 📝 7. Quick Capture / Add to Quick Look, Array Utilities (`java.util.Arrays`) (+13 more)
 
-### Community 30 - "🟢 Node.js Runtime & Architecture"
-Cohesion: 0.33
-Nodes (6): 🔗 Connections, 📖 Learning Path, 🟢 Node.js Runtime & Architecture, Prerequisites, 🔗 Related Notes, What This Prepares You For
+### Community 30 - "🛒 ShopKart Authentication Project & Viva Prep"
+Cohesion: 0.29
+Nodes (7): 💻 Complete Registration Controller Example, 🔑 End-to-End Login Request Lifecycle, 🔄 End-to-End Registration Request Lifecycle, 🎯 Lab Overview, 🔗 Related Notes, 🛒 ShopKart Authentication Project & Viva Prep, 🧪 TA Viva & Interview Questions
 
-### Community 31 - "🟨 JavaScript Foundations for Backend"
+### Community 31 - "🌳 Data Structures & Algorithms (DSA) Knowledge Base"
 Cohesion: 0.33
-Nodes (6): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For
+Nodes (6): 📚 Active Modules, ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[DSA/01. Strings/README|01. Strings]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
 
 ### Community 32 - "Features, Targets, and Datasets"
 Cohesion: 0.17
@@ -199,9 +200,9 @@ Nodes (12): 1. Supervised Learning (Labels Provided), 2. Unsupervised Learning (
 Cohesion: 0.18
 Nodes (11): 🎯 Generalization: The Core Goal of Machine Learning, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, Standard Split Proportions:, ✂️ The Train-Test Split, The Warning Sign of Overfitting: (+3 more)
 
-### Community 35 - "Introduction to Machine Learning"
-Cohesion: 0.22
-Nodes (9): 1. Traditional Programming (Rule-Based), 2. Machine Learning (Data-Driven Learning), 🔑 Core Takeaways, Introduction to Machine Learning, Next Step, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🔄 Traditional Programming vs. Machine Learning (+1 more)
+### Community 35 - "2. Two Missing Numbers"
+Cohesion: 0.14
+Nodes (14): 2. Two Missing Numbers, Algorithm, Approach 1 — Sorting, Approach 2 — Sum and Square Sum, Approach 3 — XOR Partitioning (Optimal), Class Worked Example:, Complexity, Example (+6 more)
 
 ### Community 36 - "XOR Patterns"
 Cohesion: 0.25
@@ -211,22 +212,26 @@ Nodes (8): 1. Core XOR Identities, 2. Cancellation & Algebraic Manipulation, 3. 
 Cohesion: 0.25
 Nodes (7): 1. Stanford University – Machine Learning Specialization, 2. DeepLearning.AI – Deep Learning Specialization, 3. Google, 4. IBM, 🥇 Tier 1 (Worth doing), 🥈 Tier 2 (Very useful for software engineers), 🥉 Tier 3 (Good additions)
 
+### Community 38 - "🏗️ StringBuilder (Architecture, Methods & DSA Patterns)"
+Cohesion: 0.18
+Nodes (11): 💡 1. What is `StringBuilder`?, ⚔️ 2. The Big Comparison: `String` vs `StringBuilder` vs `StringBuffer`, 🏛️ 3. Internal Architecture & Capacity, 🛠️ 4. Essential Methods & Time Complexities, 🎯 5. High-Frequency DSA Patterns, ⚠️ 6. Common Pitfalls & Traps, Pattern 1: Backtracking & DFS (Path Construction), Pattern 2: Right-to-Left Arithmetic & Reversal (+3 more)
+
 ## Knowledge Gaps
-- **381 isolated node(s):** `graphify`, `Purpose`, `1. Inspect Before Adding`, `2. Organize by Knowledge, Not Source`, `3. Universal CS Structure` (+376 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 390 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **402 isolated node(s):** `graphify`, `Purpose`, `1. Inspect Before Adding`, `2. Organize by Knowledge, Not Source`, `3. Universal CS Structure` (+397 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 411 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Bit Manipulation Problems` connect `1. Single Number` to `2. Two Missing Numbers`, `Dashboard.md`?**
-  _High betweenness centrality (0.093) - this node is a cross-community bridge._
+  _High betweenness centrality (0.091) - this node is a cross-community bridge._
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
-  _High betweenness centrality (0.056) - this node is a cross-community bridge._
+  _High betweenness centrality (0.055) - this node is a cross-community bridge._
 - **Why does `⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference` connect `⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference` to `Dashboard.md`?**
-  _High betweenness centrality (0.047) - this node is a cross-community bridge._
+  _High betweenness centrality (0.046) - this node is a cross-community bridge._
 - **What connects `graphify`, `Purpose`, `1. Inspect Before Adding` to the rest of the system?**
-  _381 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _402 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**

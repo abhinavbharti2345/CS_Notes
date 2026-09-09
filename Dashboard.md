@@ -20,6 +20,9 @@
 > [!info]+ 🌳 DSA (Data Structures & Algorithms)
 > - [[DSA/README|🌳 DSA Master Roadmap (MOC)]]
 >   - [[Quick Look|⚡ Quick Look & Cheatsheet (Frequently Forgotten Syntax)]]
+>   - [[DSA/01. Strings/README|🔤 01. Strings (Master Note)]]
+>     - [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder (Architecture & Patterns)]]
+>     - [[DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]]
 >   - [[Bit Manipulation|⚡ 04. Bit Manipulation (Master Note)]]
 >     - [[Bitwise Operators]]
 >     - [[Bit Tricks]]

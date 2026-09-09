@@ -2851,55 +2851,55 @@
       "source_location": "L1"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_complete_registration_controller_example",
-      "label": "\ud83d\udcbb Complete Registration Controller Example",
+      "id": "webdev_backend_javascript_readme_connections",
+      "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
       "community": 22,
       "community_name": "Backend/README.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcbb complete registration controller example",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L85"
+      "norm_label": "\ud83d\udd17 connections",
+      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "source_location": "L47"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_end_to_end_login_request_lifecycle",
-      "label": "\ud83d\udd11 End-to-End Login Request Lifecycle",
+      "id": "webdev_backend_javascript_readme_javascript_foundations_for_backend",
+      "label": "\ud83d\udfe8 JavaScript Foundations for Backend",
       "_origin": "ast",
       "community": 22,
       "community_name": "Backend/README.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd11 end-to-end login request lifecycle",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L62"
+      "norm_label": "\ud83d\udfe8 javascript foundations for backend",
+      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "source_location": "L11"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_end_to_end_registration_request_lifecycle",
-      "label": "\ud83d\udd04 End-to-End Registration Request Lifecycle",
+      "id": "webdev_backend_javascript_readme_learning_path",
+      "label": "\ud83d\udcd6 Learning Path",
       "_origin": "ast",
       "community": 22,
       "community_name": "Backend/README.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 end-to-end registration request lifecycle",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L23"
+      "norm_label": "\ud83d\udcd6 learning path",
+      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "source_location": "L18"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_lab_overview",
-      "label": "\ud83c\udfaf Lab Overview",
+      "id": "webdev_backend_javascript_readme_prerequisites",
+      "label": "Prerequisites",
       "_origin": "ast",
       "community": 22,
       "community_name": "Backend/README.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83c\udfaf lab overview",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L15"
+      "norm_label": "prerequisites",
+      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "source_location": "L49"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_related_notes",
+      "id": "webdev_backend_javascript_readme_related_notes",
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 22,
@@ -2907,32 +2907,92 @@
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L167"
+      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "source_location": "L60"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_shopkart_authentication_project_viva_prep",
-      "label": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
+      "id": "webdev_backend_javascript_readme_what_this_prepares_you_for",
+      "label": "What This Prepares You For",
       "_origin": "ast",
       "community": 22,
       "community_name": "Backend/README.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uded2 shopkart authentication project & viva prep",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L13"
+      "norm_label": "what this prepares you for",
+      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "source_location": "L52"
     },
     {
-      "id": "webdev_backend_shopkart_auth_project_ta_viva_interview_questions",
-      "label": "\ud83e\uddea TA Viva & Interview Questions",
+      "id": "webdev_backend_node_js_readme_connections",
+      "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
       "community": 22,
       "community_name": "Backend/README.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\uddea ta viva & interview questions",
-      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
-      "source_location": "L140"
+      "norm_label": "\ud83d\udd17 connections",
+      "source_file": "WebDev/Backend/Node.js/README.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "webdev_backend_node_js_readme_learning_path",
+      "label": "\ud83d\udcd6 Learning Path",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcd6 learning path",
+      "source_file": "WebDev/Backend/Node.js/README.md",
+      "source_location": "L18"
+    },
+    {
+      "id": "webdev_backend_node_js_readme_node_js_runtime_architecture",
+      "label": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udfe2 node.js runtime & architecture",
+      "source_file": "WebDev/Backend/Node.js/README.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "webdev_backend_node_js_readme_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "WebDev/Backend/Node.js/README.md",
+      "source_location": "L44"
+    },
+    {
+      "id": "webdev_backend_node_js_readme_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "WebDev/Backend/Node.js/README.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "webdev_backend_node_js_readme_what_this_prepares_you_for",
+      "label": "What This Prepares You For",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "what this prepares you for",
+      "source_file": "WebDev/Backend/Node.js/README.md",
+      "source_location": "L47"
     },
     {
       "id": "webdev_backend_javascript_async_javascript_and_json_async_and_await",
@@ -3724,7 +3784,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\uddc3\ufe0f 4. collections framework (`java.util.*`)",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L165"
+      "source_location": "L170"
     },
     {
       "id": "dsa_quick_look_5_bit_manipulation_high_yield_tricks",
@@ -3736,7 +3796,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a1 5. bit manipulation high-yield tricks",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L248"
+      "source_location": "L253"
     },
     {
       "id": "dsa_quick_look_6_common_pitfalls_gotchas",
@@ -3748,7 +3808,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a0\ufe0f 6. common pitfalls & gotchas",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L288"
+      "source_location": "L293"
     },
     {
       "id": "dsa_quick_look_7_quick_capture_add_to_quick_look",
@@ -3760,7 +3820,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcdd 7. quick capture / add to quick look",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L299"
+      "source_location": "L304"
     },
     {
       "id": "dsa_quick_look_array_utilities_java_util_arrays",
@@ -3784,7 +3844,7 @@
       "node_kind": "heading",
       "norm_label": "`arraylist` (dynamic array)",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L167"
+      "source_location": "L172"
     },
     {
       "id": "dsa_quick_look_character_utilities_character",
@@ -3832,7 +3892,7 @@
       "node_kind": "heading",
       "norm_label": "`deque` / `arraydeque` (stack & queue)",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L231"
+      "source_location": "L236"
     },
     {
       "id": "dsa_quick_look_hashmap_key_value_lookups",
@@ -3844,7 +3904,7 @@
       "node_kind": "heading",
       "norm_label": "`hashmap` (key-value lookups)",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L186"
+      "source_location": "L191"
     },
     {
       "id": "dsa_quick_look_hashset_unique_elements",
@@ -3856,7 +3916,7 @@
       "node_kind": "heading",
       "norm_label": "`hashset` (unique elements)",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L205"
+      "source_location": "L210"
     },
     {
       "id": "dsa_quick_look_navigation_connections",
@@ -3880,7 +3940,7 @@
       "node_kind": "heading",
       "norm_label": "`priorityqueue` (heaps)",
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L213"
+      "source_location": "L218"
     },
     {
       "id": "dsa_quick_look_quick_look_java_dsa_cheatsheet_take_a_look_reference",
@@ -4147,148 +4207,160 @@
       "source_location": "L13"
     },
     {
-      "id": "webdev_backend_node_js_readme_connections",
-      "label": "\ud83d\udd17 Connections",
+      "id": "webdev_backend_shopkart_auth_project_complete_registration_controller_example",
+      "label": "\ud83d\udcbb Complete Registration Controller Example",
       "_origin": "ast",
       "community": 30,
-      "community_name": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 connections",
-      "source_file": "WebDev/Backend/Node.js/README.md",
-      "source_location": "L42"
+      "norm_label": "\ud83d\udcbb complete registration controller example",
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L85"
     },
     {
-      "id": "webdev_backend_node_js_readme_learning_path",
-      "label": "\ud83d\udcd6 Learning Path",
+      "id": "webdev_backend_shopkart_auth_project_end_to_end_login_request_lifecycle",
+      "label": "\ud83d\udd11 End-to-End Login Request Lifecycle",
       "_origin": "ast",
       "community": 30,
-      "community_name": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcd6 learning path",
-      "source_file": "WebDev/Backend/Node.js/README.md",
-      "source_location": "L18"
+      "norm_label": "\ud83d\udd11 end-to-end login request lifecycle",
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L62"
     },
     {
-      "id": "webdev_backend_node_js_readme_node_js_runtime_architecture",
-      "label": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "id": "webdev_backend_shopkart_auth_project_end_to_end_registration_request_lifecycle",
+      "label": "\ud83d\udd04 End-to-End Registration Request Lifecycle",
       "_origin": "ast",
       "community": 30,
-      "community_name": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udfe2 node.js runtime & architecture",
-      "source_file": "WebDev/Backend/Node.js/README.md",
-      "source_location": "L11"
+      "norm_label": "\ud83d\udd04 end-to-end registration request lifecycle",
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L23"
     },
     {
-      "id": "webdev_backend_node_js_readme_prerequisites",
-      "label": "Prerequisites",
+      "id": "webdev_backend_shopkart_auth_project_lab_overview",
+      "label": "\ud83c\udfaf Lab Overview",
       "_origin": "ast",
       "community": 30,
-      "community_name": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "WebDev/Backend/Node.js/README.md",
-      "source_location": "L44"
+      "norm_label": "\ud83c\udfaf lab overview",
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L15"
     },
     {
-      "id": "webdev_backend_node_js_readme_related_notes",
+      "id": "webdev_backend_shopkart_auth_project_related_notes",
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 30,
-      "community_name": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "WebDev/Backend/Node.js/README.md",
-      "source_location": "L54"
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L167"
     },
     {
-      "id": "webdev_backend_node_js_readme_what_this_prepares_you_for",
-      "label": "What This Prepares You For",
+      "id": "webdev_backend_shopkart_auth_project_shopkart_authentication_project_viva_prep",
+      "label": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "_origin": "ast",
       "community": 30,
-      "community_name": "\ud83d\udfe2 Node.js Runtime & Architecture",
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "what this prepares you for",
-      "source_file": "WebDev/Backend/Node.js/README.md",
+      "norm_label": "\ud83d\uded2 shopkart authentication project & viva prep",
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "webdev_backend_shopkart_auth_project_ta_viva_interview_questions",
+      "label": "\ud83e\uddea TA Viva & Interview Questions",
+      "_origin": "ast",
+      "community": 30,
+      "community_name": "\ud83d\uded2 ShopKart Authentication Project & Viva Prep",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\uddea ta viva & interview questions",
+      "source_file": "WebDev/Backend/ShopKart Auth Project.md",
+      "source_location": "L140"
+    },
+    {
+      "id": "dsa_readme_active_modules",
+      "label": "\ud83d\udcda Active Modules",
+      "_origin": "ast",
+      "community": 31,
+      "community_name": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcda active modules",
+      "source_file": "DSA/README.md",
       "source_location": "L47"
     },
     {
-      "id": "webdev_backend_javascript_readme_connections",
-      "label": "\ud83d\udd17 Connections",
+      "id": "dsa_readme_bit_manipulation_04_bit_manipulation",
+      "label": "\u26a1 [[Bit Manipulation|04. Bit Manipulation]]",
       "_origin": "ast",
       "community": 31,
-      "community_name": "\ud83d\udfe8 JavaScript Foundations for Backend",
+      "community_name": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 connections",
-      "source_file": "WebDev/Backend/JavaScript/README.md",
-      "source_location": "L47"
+      "norm_label": "\u26a1 [[bit manipulation|04. bit manipulation]]",
+      "source_file": "DSA/README.md",
+      "source_location": "L53"
     },
     {
-      "id": "webdev_backend_javascript_readme_javascript_foundations_for_backend",
-      "label": "\ud83d\udfe8 JavaScript Foundations for Backend",
+      "id": "dsa_readme_data_structures_algorithms_dsa_knowledge_base",
+      "label": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "_origin": "ast",
       "community": 31,
-      "community_name": "\ud83d\udfe8 JavaScript Foundations for Backend",
+      "community_name": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udfe8 javascript foundations for backend",
-      "source_file": "WebDev/Backend/JavaScript/README.md",
-      "source_location": "L11"
+      "norm_label": "\ud83c\udf33 data structures & algorithms (dsa) knowledge base",
+      "source_file": "DSA/README.md",
+      "source_location": "L13"
     },
     {
-      "id": "webdev_backend_javascript_readme_learning_path",
-      "label": "\ud83d\udcd6 Learning Path",
+      "id": "dsa_readme_dsa_01_strings_readme_01_strings",
+      "label": "\ud83d\udd24 [[DSA/01. Strings/README|01. Strings]]",
       "_origin": "ast",
       "community": 31,
-      "community_name": "\ud83d\udfe8 JavaScript Foundations for Backend",
+      "community_name": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcd6 learning path",
-      "source_file": "WebDev/Backend/JavaScript/README.md",
-      "source_location": "L18"
-    },
-    {
-      "id": "webdev_backend_javascript_readme_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 31,
-      "community_name": "\ud83d\udfe8 JavaScript Foundations for Backend",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "WebDev/Backend/JavaScript/README.md",
+      "norm_label": "\ud83d\udd24 [[dsa/01. strings/readme|01. strings]]",
+      "source_file": "DSA/README.md",
       "source_location": "L49"
     },
     {
-      "id": "webdev_backend_javascript_readme_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
+      "id": "dsa_readme_dsa_master_roadmap",
+      "label": "\ud83d\uddfa\ufe0f DSA Master Roadmap",
       "_origin": "ast",
       "community": 31,
-      "community_name": "\ud83d\udfe8 JavaScript Foundations for Backend",
+      "community_name": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "WebDev/Backend/JavaScript/README.md",
-      "source_location": "L60"
+      "norm_label": "\ud83d\uddfa\ufe0f dsa master roadmap",
+      "source_file": "DSA/README.md",
+      "source_location": "L19"
     },
     {
-      "id": "webdev_backend_javascript_readme_what_this_prepares_you_for",
-      "label": "What This Prepares You For",
+      "id": "dsa_readme_quick_links_reference",
+      "label": "\ud83d\udd17 Quick Links & Reference",
       "_origin": "ast",
       "community": 31,
-      "community_name": "\ud83d\udfe8 JavaScript Foundations for Backend",
+      "community_name": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "what this prepares you for",
-      "source_file": "WebDev/Backend/JavaScript/README.md",
-      "source_location": "L52"
+      "norm_label": "\ud83d\udd17 quick links & reference",
+      "source_file": "DSA/README.md",
+      "source_location": "L62"
     },
     {
       "id": "ai_ml_classical_ml_features_targets_and_datasets_1_the_key_components_of_a_dataset",
@@ -4711,112 +4783,172 @@
       "source_location": "L14"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_1_traditional_programming_rule_based",
-      "label": "1. Traditional Programming (Rule-Based)",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_2_two_missing_numbers",
+      "label": "2. Two Missing Numbers",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "1. traditional programming (rule-based)",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L17"
+      "norm_label": "2. two missing numbers",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L70"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_2_machine_learning_data_driven_learning",
-      "label": "2. Machine Learning (Data-Driven Learning)",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_algorithm_154",
+      "label": "Algorithm",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "2. machine learning (data-driven learning)",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L36"
+      "norm_label": "algorithm",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L154"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_core_takeaways",
-      "label": "\ud83d\udd11 Core Takeaways",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_approach_1_sorting",
+      "label": "Approach 1 \u2014 Sorting",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd11 core takeaways",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L95"
+      "norm_label": "approach 1 \u2014 sorting",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L83"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_introduction_to_machine_learning",
-      "label": "Introduction to Machine Learning",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_approach_2_sum_and_square_sum",
+      "label": "Approach 2 \u2014 Sum and Square Sum",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "introduction to machine learning",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L11"
+      "norm_label": "approach 2 \u2014 sum and square sum",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L99"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_next_step",
-      "label": "Next Step",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_approach_3_xor_partitioning_optimal",
+      "label": "Approach 3 \u2014 XOR Partitioning (Optimal)",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L104"
+      "norm_label": "approach 3 \u2014 xor partitioning (optimal)",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L124"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_class_worked_example",
+      "label": "Class Worked Example:",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L102"
+      "norm_label": "class worked example:",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L136"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_complexity_180",
+      "label": "Complexity",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L107"
+      "norm_label": "complexity",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L180"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_traditional_programming_vs_machine_learning",
-      "label": "\ud83d\udd04 Traditional Programming vs. Machine Learning",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_example_75",
+      "label": "Example",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 traditional programming vs. machine learning",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L13"
+      "norm_label": "example",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L75"
     },
     {
-      "id": "ai_ml_classical_ml_introduction_to_machine_learning_what_is_a_model",
-      "label": "\ud83d\udcd0 What is a \"Model\"?",
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_key_steps",
+      "label": "Key Steps:",
       "_origin": "ast",
       "community": 35,
-      "community_name": "Introduction to Machine Learning",
+      "community_name": "2. Two Missing Numbers",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcd0 what is a \"model\"?",
-      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L64"
+      "norm_label": "key steps:",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_pattern_when_to_use_184",
+      "label": "Pattern / When to Use",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "2. Two Missing Numbers",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pattern / when to use",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L184"
+    },
+    {
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_problem_72",
+      "label": "Problem",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "2. Two Missing Numbers",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "problem",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L72"
+    },
+    {
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_step_1_linear_sum",
+      "label": "Step 1 \u2014 Linear Sum:",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "2. Two Missing Numbers",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "step 1 \u2014 linear sum:",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L103"
+    },
+    {
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_step_2_sum_of_squares",
+      "label": "Step 2 \u2014 Sum of Squares:",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "2. Two Missing Numbers",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "step 2 \u2014 sum of squares:",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L109"
+    },
+    {
+      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_step_3_solve_system_of_equations",
+      "label": "Step 3 \u2014 Solve System of Equations:",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "2. Two Missing Numbers",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "step 3 \u2014 solve system of equations:",
+      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
+      "source_location": "L115"
     },
     {
       "id": "dsa_04_bit_manipulation_xor_patterns_1_core_xor_identities",
@@ -5011,6 +5143,138 @@
       "source_location": "L48"
     },
     {
+      "id": "dsa_01_strings_stringbuilder_1_what_is_stringbuilder",
+      "label": "\ud83d\udca1 1. What is `StringBuilder`?",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udca1 1. what is `stringbuilder`?",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_2_the_big_comparison_string_vs_stringbuilder_vs_stringbuffer",
+      "label": "\u2694\ufe0f 2. The Big Comparison: `String` vs `StringBuilder` vs `StringBuffer`",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2694\ufe0f 2. the big comparison: `string` vs `stringbuilder` vs `stringbuffer`",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_3_internal_architecture_capacity",
+      "label": "\ud83c\udfdb\ufe0f 3. Internal Architecture & Capacity",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfdb\ufe0f 3. internal architecture & capacity",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L67"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_4_essential_methods_time_complexities",
+      "label": "\ud83d\udee0\ufe0f 4. Essential Methods & Time Complexities",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udee0\ufe0f 4. essential methods & time complexities",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_5_high_frequency_dsa_patterns",
+      "label": "\ud83c\udfaf 5. High-Frequency DSA Patterns",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfaf 5. high-frequency dsa patterns",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L98"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_6_common_pitfalls_traps",
+      "label": "\u26a0\ufe0f 6. Common Pitfalls & Traps",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a0\ufe0f 6. common pitfalls & traps",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L153"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_pattern_1_backtracking_dfs_path_construction",
+      "label": "Pattern 1: Backtracking & DFS (Path Construction)",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pattern 1: backtracking & dfs (path construction)",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L100"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_pattern_2_right_to_left_arithmetic_reversal",
+      "label": "Pattern 2: Right-to-Left Arithmetic & Reversal",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pattern 2: right-to-left arithmetic & reversal",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L124"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_pattern_3_efficient_buffer_resetting",
+      "label": "Pattern 3: Efficient Buffer Resetting",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pattern 3: efficient buffer resetting",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L139"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L179"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "label": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "_origin": "ast",
+      "community": 38,
+      "community_name": "\ud83c\udfd7\ufe0f StringBuilder (Architecture, Methods & DSA Patterns)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfd7\ufe0f stringbuilder (architecture, methods & dsa patterns)",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L15"
+    },
+    {
       "id": "dsa_04_bit_manipulation_bit_tricks",
       "label": "Bit Tricks.md",
       "_origin": "ast",
@@ -5115,6 +5379,60 @@
       "node_kind": "page",
       "norm_label": "dsa/readme.md",
       "source_file": "DSA/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "dsa_01_strings_add_binary_string_arithmetic",
+      "label": "Add Binary & String Arithmetic.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Strings",
+        "type": "concept",
+        "date": "2026-09-08"
+      },
+      "node_kind": "page",
+      "norm_label": "add binary & string arithmetic.md",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "dsa_01_strings_stringbuilder",
+      "label": "StringBuilder.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Strings",
+        "type": "concept",
+        "date": "2026-09-08"
+      },
+      "node_kind": "page",
+      "norm_label": "stringbuilder.md",
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "dsa_01_strings_readme",
+      "label": "01. Strings/README.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Strings",
+        "type": "moc",
+        "date": "2026-09-08"
+      },
+      "node_kind": "page",
+      "norm_label": "01. strings/readme.md",
+      "source_file": "DSA/01. Strings/README.md",
       "source_location": "L1"
     },
     {
@@ -5275,7 +5593,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfd7\ufe0f learning areas & domains",
       "source_file": "Dashboard.md",
-      "source_location": "L48"
+      "source_location": "L51"
     },
     {
       "id": "dashboard_quick_actions",
@@ -5290,64 +5608,52 @@
       "source_location": "L8"
     },
     {
-      "id": "dsa_readme_active_modules",
-      "label": "\ud83d\udcda Active Modules",
+      "id": "dsa_01_strings_readme_essential_string_idioms_java",
+      "label": "\u26a1 Essential String Idioms (Java)",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcda active modules",
-      "source_file": "DSA/README.md",
-      "source_location": "L47"
+      "norm_label": "\u26a1 essential string idioms (java)",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L33"
     },
     {
-      "id": "dsa_readme_bit_manipulation_04_bit_manipulation",
-      "label": "\u26a1 [[Bit Manipulation|04. Bit Manipulation]]",
+      "id": "dsa_01_strings_readme_module_learning_path",
+      "label": "\ud83d\uddfa\ufe0f Module Learning Path",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u26a1 [[bit manipulation|04. bit manipulation]]",
-      "source_file": "DSA/README.md",
-      "source_location": "L49"
-    },
-    {
-      "id": "dsa_readme_data_structures_algorithms_dsa_knowledge_base",
-      "label": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf33 data structures & algorithms (dsa) knowledge base",
-      "source_file": "DSA/README.md",
-      "source_location": "L13"
-    },
-    {
-      "id": "dsa_readme_dsa_master_roadmap",
-      "label": "\ud83d\uddfa\ufe0f DSA Master Roadmap",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f dsa master roadmap",
-      "source_file": "DSA/README.md",
+      "norm_label": "\ud83d\uddfa\ufe0f module learning path",
+      "source_file": "DSA/01. Strings/README.md",
       "source_location": "L19"
     },
     {
-      "id": "dsa_readme_quick_links_reference",
-      "label": "\ud83d\udd17 Quick Links & Reference",
+      "id": "dsa_01_strings_readme_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 quick links & reference",
-      "source_file": "DSA/README.md",
-      "source_location": "L58"
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "dsa_01_strings_readme_strings_string_manipulation",
+      "label": "\ud83d\udd24 Strings & String Manipulation",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd24 strings & string manipulation",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L13"
     },
     {
       "id": "java_readme_connections",
@@ -6133,6 +6439,114 @@
       "source_location": "L14"
     },
     {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_1_traditional_programming_rule_based",
+      "label": "1. Traditional Programming (Rule-Based)",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. traditional programming (rule-based)",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L17"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_2_machine_learning_data_driven_learning",
+      "label": "2. Machine Learning (Data-Driven Learning)",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. machine learning (data-driven learning)",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L36"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_core_takeaways",
+      "label": "\ud83d\udd11 Core Takeaways",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd11 core takeaways",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L95"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_introduction_to_machine_learning",
+      "label": "Introduction to Machine Learning",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "introduction to machine learning",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L104"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L102"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L107"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_traditional_programming_vs_machine_learning",
+      "label": "\ud83d\udd04 Traditional Programming vs. Machine Learning",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd04 traditional programming vs. machine learning",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "ai_ml_classical_ml_introduction_to_machine_learning_what_is_a_model",
+      "label": "\ud83d\udcd0 What is a \"Model\"?",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcd0 what is a \"model\"?",
+      "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
+      "source_location": "L64"
+    },
+    {
       "id": "ai_ml_classical_ml_readme_classical_machine_learning_foundations",
       "label": "\ud83d\udcca Classical Machine Learning Foundations",
       "_origin": "ast",
@@ -6277,172 +6691,148 @@
       "source_location": "L78"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_2_two_missing_numbers",
-      "label": "2. Two Missing Numbers",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_complexity",
+      "label": "Complexity:",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "2. two missing numbers",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L70"
+      "norm_label": "complexity:",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L134"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_algorithm_154",
-      "label": "Algorithm",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_edge_case_deep_dive_unequal_string_lengths",
+      "label": "\u2753 Edge Case Deep-Dive: Unequal String Lengths",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "algorithm",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L154"
+      "norm_label": "\u2753 edge case deep-dive: unequal string lengths",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L86"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_approach_1_sorting",
-      "label": "Approach 1 \u2014 Sorting",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_full_implementation_leetcode_67_add_binary",
+      "label": "\ud83d\udcbb Full Implementation: LeetCode 67 (Add Binary)",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "approach 1 \u2014 sorting",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L83"
+      "norm_label": "\ud83d\udcbb full implementation: leetcode 67 (add binary)",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L107"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_approach_2_sum_and_square_sum",
-      "label": "Approach 2 \u2014 Sum and Square Sum",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_generalization_decimal_string_addition_leetcode_415_add_strings",
+      "label": "\ud83d\udd04 Generalization: Decimal String Addition (LeetCode 415: Add Strings)",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "approach 2 \u2014 sum and square sum",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L99"
+      "norm_label": "\ud83d\udd04 generalization: decimal string addition (leetcode 415: add strings)",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L140"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_approach_3_xor_partitioning_optimal",
-      "label": "Approach 3 \u2014 XOR Partitioning (Optimal)",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "approach 3 \u2014 xor partitioning (optimal)",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L124"
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L171"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_class_worked_example",
-      "label": "Class Worked Example:",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "label": "\u2795 String Arithmetic & Add Binary Pattern",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "class worked example:",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L136"
+      "norm_label": "\u2795 string arithmetic & add binary pattern",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L15"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_complexity_180",
-      "label": "Complexity",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_the_core_problem",
+      "label": "\ud83d\udca1 The Core Problem",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "complexity",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L180"
+      "norm_label": "\ud83d\udca1 the core problem",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L29"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_example_75",
-      "label": "Example",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_the_java_string_trap",
+      "label": "The Java String Trap:",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "example",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L75"
+      "norm_label": "the java string trap:",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L49"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_key_steps",
-      "label": "Key Steps:",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_the_optimal_solution_stringbuilder",
+      "label": "The Optimal Solution: `StringBuilder`",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "key steps:",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L126"
+      "norm_label": "the optimal solution: `stringbuilder`",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L53"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_pattern_when_to_use_184",
-      "label": "Pattern / When to Use",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_the_three_loop_conditions_while_i_0_j_0_carry_0",
+      "label": "The Three Loop Conditions (`while (i >= 0 || j >= 0 || carry != 0)`)",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "pattern / when to use",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L184"
+      "norm_label": "the three loop conditions (`while (i >= 0 || j >= 0 || carry != 0)`)",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L100"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_problem_72",
-      "label": "Problem",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_the_universal_right_to_left_arithmetic_template",
+      "label": "\u2699\ufe0f The Universal Right-to-Left Arithmetic Template",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "problem",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L72"
+      "norm_label": "\u2699\ufe0f the universal right-to-left arithmetic template",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L59"
     },
     {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_step_1_linear_sum",
-      "label": "Step 1 \u2014 Linear Sum:",
+      "id": "dsa_01_strings_add_binary_string_arithmetic_why_stringbuilder_instead_of_string",
+      "label": "\ud83e\udde0 Why `StringBuilder` instead of `String`?",
       "_origin": "ast",
       "community": 8,
-      "community_name": "2. Two Missing Numbers",
+      "community_name": "\u2795 String Arithmetic & Add Binary Pattern",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "step 1 \u2014 linear sum:",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L103"
-    },
-    {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_step_2_sum_of_squares",
-      "label": "Step 2 \u2014 Sum of Squares:",
-      "_origin": "ast",
-      "community": 8,
-      "community_name": "2. Two Missing Numbers",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "step 2 \u2014 sum of squares:",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L109"
-    },
-    {
-      "id": "dsa_04_bit_manipulation_bit_manipulation_problems_step_3_solve_system_of_equations",
-      "label": "Step 3 \u2014 Solve System of Equations:",
-      "_origin": "ast",
-      "community": 8,
-      "community_name": "2. Two Missing Numbers",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "step 3 \u2014 solve system of equations:",
-      "source_file": "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-      "source_location": "L115"
+      "norm_label": "\ud83e\udde0 why `stringbuilder` instead of `string`?",
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L37"
     },
     {
       "id": "dsa_04_bit_manipulation_bit_tricks_1_built_in_method_integer_bitcount_n_fastest_recommended",
@@ -9328,7 +9718,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L48",
+      "source_location": "L51",
       "weight": 1.0
     },
     {
@@ -9340,6 +9730,303 @@
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
       "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_edge_case_deep_dive_unequal_string_lengths",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_the_three_loop_conditions_while_i_0_j_0_carry_0",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_full_implementation_leetcode_67_add_binary",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_complexity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_full_implementation_leetcode_67_add_binary",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L107",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_generalization_decimal_string_addition_leetcode_415_add_strings",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L140",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L171",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_the_core_problem",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_why_stringbuilder_instead_of_string",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_the_universal_right_to_left_arithmetic_template",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L59",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_edge_case_deep_dive_unequal_string_lengths",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L86",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_why_stringbuilder_instead_of_string",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_the_java_string_trap",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic_why_stringbuilder_instead_of_string",
+      "target": "dsa_01_strings_add_binary_string_arithmetic_the_optimal_solution_stringbuilder",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme",
+      "target": "dsa_01_strings_readme_strings_string_manipulation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme_strings_string_manipulation",
+      "target": "dsa_01_strings_readme_module_learning_path",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme_strings_string_manipulation",
+      "target": "dsa_01_strings_readme_essential_string_idioms_java",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme_strings_string_manipulation",
+      "target": "dsa_01_strings_readme_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder",
+      "target": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_5_high_frequency_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_pattern_1_backtracking_dfs_path_construction",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L100",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_5_high_frequency_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_pattern_2_right_to_left_arithmetic_reversal",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L124",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_5_high_frequency_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_pattern_3_efficient_buffer_resetting",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L139",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_6_common_pitfalls_traps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L153",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L179",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_1_what_is_stringbuilder",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_2_the_big_comparison_string_vs_stringbuilder_vs_stringbuffer",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_3_internal_architecture_capacity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_4_essential_methods_time_complexities",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
+      "target": "dsa_01_strings_stringbuilder_5_high_frequency_dsa_patterns",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L98",
       "weight": 1.0
     },
     {
@@ -10505,7 +11192,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L167",
+      "source_location": "L172",
       "weight": 1.0
     },
     {
@@ -10516,7 +11203,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L186",
+      "source_location": "L191",
       "weight": 1.0
     },
     {
@@ -10527,7 +11214,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L205",
+      "source_location": "L210",
       "weight": 1.0
     },
     {
@@ -10538,7 +11225,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L213",
+      "source_location": "L218",
       "weight": 1.0
     },
     {
@@ -10549,7 +11236,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L231",
+      "source_location": "L236",
       "weight": 1.0
     },
     {
@@ -10571,7 +11258,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L165",
+      "source_location": "L170",
       "weight": 1.0
     },
     {
@@ -10593,18 +11280,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L248",
-      "weight": 1.0
-    },
-    {
-      "source": "dsa_quick_look_quick_look_java_dsa_cheatsheet_take_a_look_reference",
-      "target": "dsa_quick_look_6_common_pitfalls_gotchas",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "DSA/Quick Look.md",
-      "source_location": "L288",
+      "source_location": "L253",
       "weight": 1.0
     },
     {
@@ -10620,13 +11296,24 @@
     },
     {
       "source": "dsa_quick_look_quick_look_java_dsa_cheatsheet_take_a_look_reference",
+      "target": "dsa_quick_look_6_common_pitfalls_gotchas",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/Quick Look.md",
+      "source_location": "L293",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_quick_look_quick_look_java_dsa_cheatsheet_take_a_look_reference",
       "target": "dsa_quick_look_7_quick_capture_add_to_quick_look",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/Quick Look.md",
-      "source_location": "L299",
+      "source_location": "L304",
       "weight": 1.0
     },
     {
@@ -10653,13 +11340,24 @@
     },
     {
       "source": "dsa_readme_active_modules",
-      "target": "dsa_readme_bit_manipulation_04_bit_manipulation",
+      "target": "dsa_readme_dsa_01_strings_readme_01_strings",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/README.md",
       "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_readme_active_modules",
+      "target": "dsa_readme_bit_manipulation_04_bit_manipulation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/README.md",
+      "source_location": "L53",
       "weight": 1.0
     },
     {
@@ -10692,7 +11390,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/README.md",
-      "source_location": "L58",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -12644,7 +13342,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bit_manipulation",
+      "target": "dsa_01_strings_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12655,7 +13353,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bitwise_operators",
+      "target": "dsa_01_strings_stringbuilder",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12666,7 +13364,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bit_tricks",
+      "target": "dsa_01_strings_add_binary_string_arithmetic",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12677,7 +13375,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_xor_patterns",
+      "target": "dsa_04_bit_manipulation_bit_manipulation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12688,7 +13386,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bit_manipulation_problems",
+      "target": "dsa_04_bit_manipulation_bitwise_operators",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12699,7 +13397,29 @@
     },
     {
       "source": "dashboard",
-      "target": "webdev_backend_readme",
+      "target": "dsa_04_bit_manipulation_bit_tricks",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dashboard.md",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard",
+      "target": "dsa_04_bit_manipulation_xor_patterns",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dashboard.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard",
+      "target": "dsa_04_bit_manipulation_bit_manipulation_problems",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12710,29 +13430,7 @@
     },
     {
       "source": "dashboard",
-      "target": "webdev_backend_javascript_readme",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Dashboard.md",
-      "source_location": "L31",
-      "weight": 1.0
-    },
-    {
-      "source": "dashboard",
-      "target": "webdev_backend_node_js_readme",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Dashboard.md",
-      "source_location": "L32",
-      "weight": 1.0
-    },
-    {
-      "source": "dashboard",
-      "target": "webdev_backend_shopkart_auth_project",
+      "target": "webdev_backend_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -12743,13 +13441,46 @@
     },
     {
       "source": "dashboard",
+      "target": "webdev_backend_javascript_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dashboard.md",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard",
+      "target": "webdev_backend_node_js_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dashboard.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard",
+      "target": "webdev_backend_shopkart_auth_project",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dashboard.md",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard",
       "target": "java_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L40",
+      "source_location": "L43",
       "weight": 1.0
     },
     {
@@ -12760,7 +13491,139 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L44",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic",
+      "target": "dsa_01_strings_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic",
+      "target": "dsa_04_bit_manipulation_bit_manipulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L175",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic",
+      "target": "dsa_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_add_binary_string_arithmetic",
+      "target": "dsa_quick_look",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme",
+      "target": "dsa_01_strings_stringbuilder",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme",
+      "target": "dsa_quick_look",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme",
+      "target": "dsa_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_readme",
+      "target": "dsa_04_bit_manipulation_bit_manipulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder",
+      "target": "dsa_01_strings_add_binary_string_arithmetic",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder",
+      "target": "dsa_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder",
+      "target": "dsa_quick_look",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "dsa_01_strings_stringbuilder",
+      "target": "java_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DSA/01. Strings/StringBuilder.md",
+      "source_location": "L19",
       "weight": 1.0
     },
     {
@@ -13469,5 +14332,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "177e5a16fa709aa29b7a0a4b7f8e34ce61c9bf3b"
+  "built_at_commit": "30ae247e253b480d888f9953a9e648418f5219af"
 }

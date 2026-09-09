@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/04. Bit Manipulation/Bit Tricks.md",
+                "file": "DSA/01. Strings/StringBuilder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit Tricks"
+              "title": "StringBuilder"
             }
           }
         ]
@@ -228,22 +228,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DSA/04. Bit Manipulation/Bit Manipulation.md",
-    "graphify-out/cache/ast/v0.9.53-s2/e6c2bb0f4fa4e3035e50f070e8ef1175ceb2ae0132ac2475855b476ee3a0c036.json",
-    "graphify-out/cache/ast/v0.9.53-s2/db87f08d6402cb7867d21935e910b63409dda25df5e743a34042ceffd86bd174.json",
-    "graphify-out/cache/ast/v0.9.53-s2/daa71fdf21d297b43971204ca9a344248fa33aa32e637ebeae9dabe981dabde9.json",
-    "DSA/04. Bit Manipulation/Bit Tricks.md",
-    "graphify-out/cache/ast/v0.9.53-s2/16a1d52bf6e71bc29347df11955cec6e94861e73593df9c46258b8f16e1ca81a.json",
-    "graphify-out/cache/ast/v0.9.53-s2/8504157b1b5db618fcddd63567ce8b7087c8e105246c984f88137cc7d95f925d.json",
-    "graphify-out/cache/ast/v0.9.53-s2/1759ddd1d6f53caeb3088cb09c9e0babb2d3b4f010c76c461fad82e92389e5b3.json",
-    "DSA/04. Bit Manipulation/Bitwise Operators.md",
     "DSA/Quick Look.md",
-    "graphify-out/2026-09-08/manifest.json",
+    "graphify-out/cache/ast/v0.9.53-s2/12acae31fdf68ae95f6583553253d31aa34c2cd6d2793f1f1eb509cddca0d3bb.json",
+    "graphify-out/cache/ast/v0.9.53-s2/0701033d80a5dac72da247b34e7e2d72d1d86bc190251b180afb98c972c6060b.json",
+    "graphify-out/cache/ast/v0.9.53-s2/0001a4a0196965806bf756cadeaaf67af573f8c037a90a9c0f0416d3bcc9a808.json",
+    "graphify-out/cache/ast/v0.9.53-s2/26e850bd13f2c7da92d83e50dae46d03ecc10cb52d2caa111c37f88027a596d2.json",
+    "DSA/01. Strings/README.md",
+    "DSA/01. Strings/StringBuilder.md",
+    "DSA/01. Strings/Add Binary & String Arithmetic.md",
+    "graphify-out/cache/ast/v0.9.53-s2/68f43f848c978989e3cb70ce8944c50efbd35608e0ecb02ed871402c28fdcef4.json",
+    "graphify-out/cache/ast/v0.9.53-s2/898ccd1010e4f10fcac41f6c4fea8a6d49d82a036be943358774fdc7468c0ba5.json",
+    "graphify-out/cache/ast/v0.9.53-s2/ecf6eda3a8b290769e4ef49fed31c48769025ac67cbee66decbd7597791022ad.json",
+    "graphify-out/cache/ast/v0.9.53-s2/13807a08c2725b3c20ced88fc12bee6a567978bdb28e31bcb9784c667181fda8.json",
+    "graphify-out/cache/ast/v0.9.53-s2/7758e76fbd5804330d632cb7d6ec208f880969a0e19eed90208155e63ca4fa2c.json",
+    "graphify-out/cache/ast/v0.9.53-s2/4f8a8556cce31d8c6573f87f6f349a93e03fa87d1aa43ad0df1a2352a79a4eb5.json",
+    "DSA/04. Bit Manipulation/Bit Tricks.md",
+    "DSA/04. Bit Manipulation/Bit Manipulation.md",
+    "DSA/04. Bit Manipulation/Bitwise Operators.md",
     "graphify-out/2026-09-08/GRAPH_REPORT.md",
-    "graphify-out/2026-09-08/graph.json",
-    "graphify-out/2026-09-08",
     "DSA/README.md",
-    "graphify-out/cache/ast/v0.9.53-s2/be7adf5a928b4ee23ada4b32043a9ea421a4982a8a6c0f67e4b4ea35be485af5.json",
     "JAVA/README.md",
     "DSA/04. Bit Manipulation/XOR Patterns.md",
     "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
@@ -259,9 +262,6 @@
     "graphify-out/2026-09-05/GRAPH_REPORT.md",
     "AI & ML/Classical ML/Train-Test Split and Generalization.md",
     "AI & ML/Classical ML/Features, Targets, and Datasets.md",
-    "AI & ML/Classical ML/README.md",
-    "AI & ML/README.md",
-    "WebDev/Backend/Node.js/Core Modules.md",
-    "WebDev/Backend/Node.js/Introduction to Node.js.md"
+    "AI & ML/Classical ML/README.md"
   ]
 }
