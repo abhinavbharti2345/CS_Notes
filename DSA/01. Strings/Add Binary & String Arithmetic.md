@@ -170,7 +170,8 @@ class Solution {
 
 ## 🔗 Related Notes
 - [[DSA/01. Strings/README|📁 01. Strings Master MOC]]
+- [[DSA/DSA Problems/67. Add Binary|💡 67. Add Binary (Problem Walkthrough & Top 100% char[] Optimization)]]
+- [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder Deep Dive]]
 - [[DSA/README|🌳 DSA Master Roadmap]]
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
-- [[Bit Manipulation|⚡ Bit Manipulation Master Note]]
 - [[Dashboard|🧭 Main Command Center]]

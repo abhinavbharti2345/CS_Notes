@@ -23,6 +23,7 @@
 >   - [[DSA/01. Strings/README|🔤 01. Strings (Master Note)]]
 >     - [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder (Architecture & Patterns)]]
 >     - [[DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]]
+>     - [[DSA/DSA Problems/67. Add Binary|💡 67. Add Binary (Problem Walkthrough & Optimization)]]
 >   - [[Bit Manipulation|⚡ 04. Bit Manipulation (Master Note)]]
 >     - [[Bitwise Operators]]
 >     - [[Bit Tricks]]

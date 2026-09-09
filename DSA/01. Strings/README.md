@@ -30,6 +30,12 @@ Welcome to the **Strings** module. Strings are one of the most foundational data
 
 ---
 
+## 💡 Practice Problems
+
+- **[[DSA/DSA Problems/67. Add Binary|67. Add Binary]]** *(Easy)* — Simulation with `StringBuilder` vs top 100% direct `char[]` backward fill optimization.
+
+---
+
 ## ⚡ Essential String Idioms (Java)
 *(Full quick look: [[Quick Look]])*
 

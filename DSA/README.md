@@ -48,7 +48,9 @@ Welcome to the **Data Structures & Algorithms Knowledge Base**. This repository 
 
 ### 🔤 [[DSA/01. Strings/README|01. Strings]]
 String operations, character manipulation, two-pointer simulation, and memory optimization:
+- [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder]] — Mutable character buffers, memory growth model, and DSA patterns.
 - [[DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]] — Column-by-column math simulation, `StringBuilder` vs `String`, and carry propagation.
+- [[DSA/DSA Problems/67. Add Binary|💡 67. Add Binary]] — Problem walkthrough, baseline vs. 100% `char[]` backward-fill optimization.
 
 ### ⚡ [[Bit Manipulation|04. Bit Manipulation]]
 Bit-level integer representation, operators, low-level tricks, and algorithmic XOR patterns:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/01. Strings/StringBuilder.md",
+                "file": "DSA/DSA Problems/67. Add Binary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StringBuilder"
+              "title": "67. Add Binary"
             }
           }
         ]
@@ -226,22 +226,28 @@
       "ollama-assistant:Open Ollama Assistant": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "661b5a2a752526c2",
   "lastOpenFiles": [
-    "DSA/Quick Look.md",
-    "graphify-out/cache/ast/v0.9.53-s2/12acae31fdf68ae95f6583553253d31aa34c2cd6d2793f1f1eb509cddca0d3bb.json",
-    "graphify-out/cache/ast/v0.9.53-s2/0701033d80a5dac72da247b34e7e2d72d1d86bc190251b180afb98c972c6060b.json",
-    "graphify-out/cache/ast/v0.9.53-s2/0001a4a0196965806bf756cadeaaf67af573f8c037a90a9c0f0416d3bcc9a808.json",
-    "graphify-out/cache/ast/v0.9.53-s2/26e850bd13f2c7da92d83e50dae46d03ecc10cb52d2caa111c37f88027a596d2.json",
-    "DSA/01. Strings/README.md",
-    "DSA/01. Strings/StringBuilder.md",
+    "graphify-out/cache/ast/v0.9.53-s2/27299221ab04888668414082fbc690bf0afe566e01c325d30d8eda8c3292c95a.json",
+    "graphify-out/cache/ast/v0.9.53-s2/d2f7c3975d988a7c7c6e8fcbbde03b4b3876e24af889e8ef5795e23ebadc54a5.json",
+    "graphify-out/cache/ast/v0.9.53-s2/b2a44c924d92d25d6715e47177a34834effbeb87b9aa5d37bf837f4c7a0a72f2.json",
+    "graphify-out/cache/ast/v0.9.53-s2/e230ca1a116322943a1128ffb8f39165b7ac472c56a6cbb5a20d430ba8303e15.json",
+    "graphify-out/cache/ast/v0.9.53-s2/fc05d34e63d5ad917533aa94f78c6f0ab6c7d7c6a941a5d72a91679668c3651e.json",
+    "Dashboard.md",
+    "DSA/DSA Problems/67. Add Binary.md",
+    "DSA/DSA Problems",
     "DSA/01. Strings/Add Binary & String Arithmetic.md",
-    "graphify-out/cache/ast/v0.9.53-s2/68f43f848c978989e3cb70ce8944c50efbd35608e0ecb02ed871402c28fdcef4.json",
-    "graphify-out/cache/ast/v0.9.53-s2/898ccd1010e4f10fcac41f6c4fea8a6d49d82a036be943358774fdc7468c0ba5.json",
-    "graphify-out/cache/ast/v0.9.53-s2/ecf6eda3a8b290769e4ef49fed31c48769025ac67cbee66decbd7597791022ad.json",
-    "graphify-out/cache/ast/v0.9.53-s2/13807a08c2725b3c20ced88fc12bee6a567978bdb28e31bcb9784c667181fda8.json",
-    "graphify-out/cache/ast/v0.9.53-s2/7758e76fbd5804330d632cb7d6ec208f880969a0e19eed90208155e63ca4fa2c.json",
-    "graphify-out/cache/ast/v0.9.53-s2/4f8a8556cce31d8c6573f87f6f349a93e03fa87d1aa43ad0df1a2352a79a4eb5.json",
+    "graphify-out/cache/ast/v0.9.53-s2/cfd27a883de7b1920c02966de278f436006ee2edfe6b9f1db9a75629beeea344.json",
+    "graphify-out/cache/ast/v0.9.53-s2/ece86fb0db8f004045a48c071a2bebad87efefea3fc2ab43f1eecb6310876cdf.json",
+    "graphify-out/cache/ast/v0.9.53-s2/01fa6b098c45aaddb5ee58f8f83de060aa38be15d6ecb3b19a8c567e52efb0d3.json",
+    "graphify-out/cache/ast/v0.9.53-s2/6b806c13514e056bcc2e444ea6591c22e18c731f344514d8a62813d3caea4692.json",
+    "graphify-out/cache/ast/v0.9.53-s2/9879146ee3412cba0e84581a005a5f893e339281adc4b528bbea5265553eb515.json",
+    "DSA/01. Strings/Problems/67. Add Binary.md",
+    "DSA/Problems/67. Add Binary.md",
+    "graphify-out/2026-09-09/GRAPH_REPORT.md",
+    "DSA/01. Strings/StringBuilder.md",
+    "DSA/Quick Look.md",
+    "DSA/01. Strings/README.md",
     "DSA/04. Bit Manipulation/Bit Tricks.md",
     "DSA/04. Bit Manipulation/Bit Manipulation.md",
     "DSA/04. Bit Manipulation/Bitwise Operators.md",
@@ -252,16 +258,11 @@
     "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
     "README.md",
     "Python.md",
-    "Dashboard.md",
     "Agent.md",
     "Wiki Links.md",
     "WebDev/Backend/JavaScript/Variables and Data Types.md",
     "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
     "AI & ML/Classical ML/Introduction to Machine Learning.md",
-    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-    "graphify-out/2026-09-05/GRAPH_REPORT.md",
-    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
-    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
-    "AI & ML/Classical ML/README.md"
+    "AI & ML/Classical ML/End-to-End ML Pipeline.md"
   ]
 }
