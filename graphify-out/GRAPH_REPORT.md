@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 79 files · ~61,078 words
+- 79 files · ~61,394 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 932 nodes · 1122 edges · 61 communities (59 shown, 2 thin omitted)
+- 933 nodes · 1123 edges · 63 communities (61 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `87e6afff`
+- Built from commit: `948cd120`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -76,6 +76,8 @@
 - 📐 Linear Regression Assumptions & Residual Analysis
 - 🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)
 - 🚨 Data Leakage: The 3 Critical Leakage Patterns
+- 🔗 Linked Lists Module
+- ☕ Java Knowledge Base & Roadmap
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
@@ -92,7 +94,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (61 total, 2 thin omitted)
+## Communities (63 total, 2 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -111,8 +113,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.13
-Nodes (14): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist?, 🌐 Introduction to Computer Networks, 🔗 Linked Lists Module, 🧭 Module Learning Path, 📚 Module Notes (+6 more)
+Cohesion: 0.19
+Nodes (5): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist?, 🌐 Introduction to Computer Networks
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.05
@@ -323,16 +325,24 @@ Cohesion: 0.12
 Nodes (17): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🛠️ 4. Remedies for Heteroscedasticity, 📜 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework), 🔍 Comprehensive Diagnostic Pattern Cheat Sheet (+9 more)
 
 ### Community 59 - "🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)"
-Cohesion: 0.12
-Nodes (17): 1️⃣ MCAR — Missing Completely At Random, ❓ 1. The Missing Data Problem, 2️⃣ MAR — Missing At Random, 🔬 2. The 3 Missingness Mechanisms (MCAR vs. MAR vs. MNAR), 📊 3. Imputation Strategies: Numerical vs. Categorical, 3️⃣ MNAR — Missing Not At Random (The Danger Zone) 🚨, 🏷️ 4. The Missing Indicator Feature (`was_missing`), ⚠️ 5. The Hidden Statistical Pitfalls of Mean Imputation (+9 more)
+Cohesion: 0.11
+Nodes (18): 1️⃣ MCAR — Missing Completely At Random, ❓ 1. The Missing Data Problem, 2️⃣ MAR — Missing At Random, 🔬 2. The 3 Missingness Mechanisms (MCAR vs. MAR vs. MNAR), 📊 3. Imputation Strategies: Numerical vs. Categorical, 3️⃣ MNAR — Missing Not At Random (The Danger Zone) 🚨, 🏷️ 4. The Missing Indicator Feature (`was_missing`), ⚠️ 5. The Hidden Statistical Pitfalls of Mean Imputation (+10 more)
 
 ### Community 60 - "🚨 Data Leakage: The 3 Critical Leakage Patterns"
 Cohesion: 0.11
 Nodes (19): 1️⃣ Preprocessing Leakage (Test $\to$ Train), 2️⃣ Target Leakage (Post-Event $\to$ Pre-Event), 3️⃣ Temporal Leakage (Future $\to$ Past), 🚨 Data Leakage: The 3 Critical Leakage Patterns, 🧠 Master Comparison: The 3 Leakage Types, Next Steps, Other Target Leakage Examples:, Prerequisites (+11 more)
 
+### Community 61 - "🔗 Linked Lists Module"
+Cohesion: 0.40
+Nodes (5): 🔗 Linked Lists Module, 🧭 Module Learning Path, 📚 Module Notes, ⚡ Quick Comparison: Array vs. Linked List, 🔗 Related Notes & Navigation
+
+### Community 62 - "☕ Java Knowledge Base & Roadmap"
+Cohesion: 0.50
+Nodes (4): 🔗 Connections, 🗺️ Core Topics, ☕ Java Knowledge Base & Roadmap, ⚡ Quick Reference & Syntax
+
 ## Knowledge Gaps
-- **638 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+633 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 646 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **639 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+634 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 647 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
@@ -345,7 +355,7 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
   _High betweenness centrality (0.041) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _638 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _639 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**

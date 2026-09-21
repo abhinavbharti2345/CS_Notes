@@ -145,6 +145,20 @@ $$\text{Salaries} = [₹30\text{k}, \; ₹32\text{k}, \; ₹35\text{k}, \; \math
 
 ---
 
+### 🏷️ Categorical Imputation: Mode vs. `"Unknown"`
+
+Because qualitative categories (e.g. `City = ['Delhi', 'Mumbai', missing, 'Delhi']`) have no mathematical mean or median, two core strategies are employed:
+
+| Strategy | Action Taken | Real-World Meaning | Scikit-Learn Configuration |
+| :--- | :--- | :--- | :--- |
+| **1. Mode (Most Frequent)** | Fills missing entries with the most common class (`'Delhi'`). | Assumes the missing observation follows the dominant population majority. | `SimpleImputer(strategy='most_frequent')` |
+| **2. `"Unknown"` Constant** | Creates an explicit new category (`'Unknown'`). | Preserves missingness as an independent state; downstream [[Categorical Encoding\|One-Hot Encoding]] generates a dedicated `City_Unknown` column. | `SimpleImputer(strategy='constant', fill_value='Unknown')` |
+
+> [!important] When to Use `"Unknown"` Over Mode
+> Use `"Unknown"` when the fact that a category was omitted may carry distinct domain meaning (e.g., missing medical department, unverified merchant country, or withheld survey response). Mode imputation should only be used when missingness is pure accidental noise (MCAR) and the dominant class overwhelmingly represents reality.
+
+---
+
 ## 🏷️ 4. The Missing Indicator Feature (`was_missing`)
 
 When data is missing (especially under **MAR** or **MNAR**), the fact that a value was missing often carries **strong predictive signal**:

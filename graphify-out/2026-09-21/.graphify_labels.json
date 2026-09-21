@@ -25,7 +25,7 @@
   "23": "Async JavaScript and JSON",
   "24": "Event Loop and Non-Blocking I/O",
   "25": "V8 Engine",
-  "26": "Core Modules",
+  "26": "🔁 End-to-End ML Pipeline",
   "27": "Introduction to Node.js",
   "28": "📏 Feature Scaling & StandardScaler",
   "29": "⚡ Quick Look: Java DSA Cheatsheet & \"Take a Look\" Reference",
@@ -42,7 +42,7 @@
   "40": "📦 Packets and Packet Switching",
   "41": "🔍 Binary Search",
   "42": "Protocol Data Units: Segment, Packet, Frame & Bits",
-  "43": "🧹 Data Preprocessing & Feature Engineering",
+  "43": "🌐 Backend Development Knowledge Base",
   "44": "🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)",
   "45": "Switching Techniques: Packet vs. Circuit Switching",
   "46": "🧠 Introduction to Machine Learning",
@@ -55,8 +55,9 @@
   "53": "📚 Roadmap Stages & Core Notes",
   "54": "Subnet Masks and CIDR Notation",
   "55": "🔤 Strings & String Manipulation",
+  "56": "Quick Look / Take a Look Cheatsheet Rule",
+  "57": "🧭 Computer Science Knowledge Vault: Command Center",
   "58": "📐 Linear Regression Assumptions & Residual Analysis",
-  "59": "🩹 Missing Value Imputation",
-  "60": "🚨 Data Leakage: The 3 Critical Leakage Patterns",
-  "61": "🔗 Linked Lists Module"
+  "59": "🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)",
+  "60": "🚨 Data Leakage: The 3 Critical Leakage Patterns"
 }
