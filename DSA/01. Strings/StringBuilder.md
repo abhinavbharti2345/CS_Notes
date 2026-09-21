@@ -14,9 +14,8 @@ date: 2026-09-08
 
 # 🏗️ StringBuilder (Architecture, Methods & DSA Patterns)
 
-> **Module Hub:** [[DSA/01. Strings/README|01. Strings]]  
-> **Master Roadmap:** [[DSA/README|DSA Master Roadmap]]  
-> **Java Foundations:** [[JAVA/README|Java MOC]] | **Quick Reference:** [[Quick Look|⚡ Quick Look Cheatsheet]]
+> [!abstract] Module Overview
+> **Module Hub:** [[DSA/01. Strings/README|01. Strings]] | **Roadmap:** [[DSA/README|DSA Master Roadmap]] | **Java Foundations:** [[JAVA/README|Java MOC]]
 
 ---
 
@@ -24,13 +23,22 @@ date: 2026-09-08
 
 `StringBuilder` is a **mutable sequence of characters** in Java. Unlike standard `String` objects (which are immutable and cannot be altered once created), a `StringBuilder` allows characters and substrings to be appended, inserted, modified, or removed in-place without generating garbage objects on the heap.
 
-```text
-String (Immutable):
-"hello" + " world"  ──→ Allocates a brand new String "hello world" in heap/pool
-                       (Old strings become garbage if not referenced)
+```mermaid
+flowchart TD
+    subgraph S ["❌ String Concatenation (Immutable Heap Allocation: O(N^2))"]
+        direction LR
+        S1["'hello'"] -->|'+ world'| S2["'hello world'<br/><i>(New Heap Object Allocated)</i>"]
+    end
 
-StringBuilder (Mutable):
-['h','e','l','l','o', _, _, _, ...] ──→ Appends " world" in-place into internal buffer
+    subgraph SB ["✅ StringBuilder Mutation (In-Place Dynamic Buffer: O(N))"]
+        direction LR
+        B1["['h','e','l','l','o', _, _, ...]"] -->|'.append()'| B2["['h','e','l','l','o',' ','w','o','r','l','d']<br/><i>(Zero Garbage Allocations)</i>"]
+    end
+
+    classDef bad fill:#1e293b,stroke:#ef4444,stroke-width:1.5px,color:#fff;
+    classDef good fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    class S1,S2 bad;
+    class B1,B2 good;
 ```
 
 ---
@@ -45,7 +53,7 @@ StringBuilder (Mutable):
 | **Memory Overhead** | Creates intermediate objects | Single dynamic buffer | Single dynamic buffer + sync lock overhead |
 | **Best Use Case** | Constants, Map keys, read-only text | **Algorithms, DSA, loops, single-thread** | Legacy multithreaded logging |
 
-> [!important] Why `String +=` is an Interview Red Flag
+> [!danger] Why `String +=` is an Anti-Pattern in Loops
 > Concatenating strings in a loop of size $N$:
 > ```java
 > String s = "";
@@ -66,9 +74,9 @@ StringBuilder (Mutable):
 
 ## 🏛️ 3. Internal Architecture & Capacity
 
-Internally, `StringBuilder` is backed by a resizable array:
+Internally, `StringBuilder` is backed by a resizable character array (`char[]` in Java 8, `byte[]` with Latin-1/UTF-16 encoding in Java 9+):
 - **Default Capacity:** `16` characters.
-- **Dynamic Resizing:** When the buffer is full, it grows using the formula:
+- **Dynamic Resizing Formula:**
   $$\text{New Capacity} = (\text{Old Capacity} \times 2) + 2$$
 - **Pre-sizing for Optimization:** If you know the expected length, allocate capacity upfront to avoid array reallocation and copying:
   ```java
@@ -98,7 +106,17 @@ Internally, `StringBuilder` is backed by a resizable array:
 ## 🎯 5. High-Frequency DSA Patterns
 
 ### Pattern 1: Backtracking & DFS (Path Construction)
-When building candidate strings in backtracking (e.g. Permutations, Subsets, Binary Tree Paths), append before recursion and delete after:
+
+```mermaid
+flowchart TD
+    Start["sb = 'root'"] --> Checkpoint["Save checkpoint: len = 4"]
+    Checkpoint --> Append["sb.append('->left')<br/>sb = 'root->left'"]
+    Append --> Recurse["recurse(left)"]
+    Recurse --> Rollback["sb.setLength(len)<br/>⚡ Instant rollback to 'root'!"]
+
+    classDef step fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    class Start,Checkpoint,Append,Recurse,Rollback step;
+```
 
 ```java
 void backtrack(TreeNode root, StringBuilder sb, List<String> result) {
@@ -127,7 +145,9 @@ When computing arithmetic from least to most significant digit (e.g. [[DSA/01. S
 ```java
 StringBuilder ans = new StringBuilder();
 while (i >= 0 || j >= 0 || carry != 0) {
-    int sum = carry + ...;
+    int sum = carry;
+    if (i >= 0) sum += a.charAt(i--) - '0';
+    if (j >= 0) sum += b.charAt(j--) - '0';
     ans.append(sum % base);
     carry = sum / base;
 }
@@ -169,7 +189,7 @@ for (String query : queries) {
 > sb.append("Hello ").append(name).append("!"); // ✅ Good: zero intermediate allocations
 > ```
 
-> [!warning] 3. `deleteCharAt()` vs `setLength()`
+> [!tip] 3. `deleteCharAt()` vs `setLength()`
 > To remove the last character:
 > - `sb.deleteCharAt(sb.length() - 1);` $\to O(1)$ since it's the tail.
 > - `sb.setLength(sb.length() - 1);` $\to O(1)$ and slightly faster.
@@ -182,3 +202,4 @@ for (String query : queries) {
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
 - [[JAVA/README|☕ Java Foundations]]
 - [[Dashboard|🧭 Main Command Center]]
+

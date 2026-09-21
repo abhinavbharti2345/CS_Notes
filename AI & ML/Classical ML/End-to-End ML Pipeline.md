@@ -69,7 +69,7 @@ To see how these 10 steps connect in practice, let's trace a real-world **House 
 | **2. Understand Data** | Exploratory Data Analysis | Check summary statistics, detect missing entries, identify outliers. |
 | **3. Clean Data** | Handle data defects | Fill missing bedroom counts with the median value; remove corrupted rows. |
 | **4. Train/Test Split** | Separate evaluation set | Allocate 8,000 houses to `train_set` and 2,000 houses to `test_set`. |
-| **5. Preprocess** | Feature transformation | Scale square footage to standard range; encode categorical neighborhoods. |
+| **5. Preprocess** | [[Feature Scaling\|Feature transformation]] | Scale square footage using [[Feature Scaling\|StandardScaler]]; encode categorical neighborhoods. |
 | **6. Choose Model** | Select algorithm | Select **Linear Regression** as baseline. |
 | **7. Train** | Model optimization | Fit regression line to minimize prediction errors on the 8,000 training homes. |
 | **8. Predict** | Generate predictions | Feed the 2,000 test features into the model: $\hat{y} = \text{model.predict}(X_{\text{test}})$. |
@@ -87,10 +87,12 @@ To see how these 10 steps connect in practice, let's trace a real-world **House 
 - [[Train-Test Split and Generalization]]
 
 ### Next Step
-- **Linear Regression** — The foundational mathematical algorithm for predicting continuous numeric targets.
+- [[Feature Scaling]] — How scaling transforms features and optimizes loss surface geometry.
 
 ## 🔗 Related Notes
 - [[Classical ML/README|📁 Classical ML Foundations MOC]]
+- [[Data Preprocessing/README|🧹 Data Preprocessing MOC]]
+- [[Feature Scaling]]
 - [[Introduction to Machine Learning]]
 - [[Supervised vs Unsupervised Learning]]
 - [[Features, Targets, and Datasets]]

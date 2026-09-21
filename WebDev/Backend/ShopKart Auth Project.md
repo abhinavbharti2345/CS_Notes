@@ -10,75 +10,71 @@ tags:
 date: 2026-09-04
 ---
 
-# 🛒 ShopKart Authentication Project & Viva Prep
+# 🛒 ShopKart Authentication Architecture & Engineering Guide
 
-## 🎯 Lab Overview
-
-In the **ShopKart** project, our goal is to build a robust, secure authentication system from scratch using [[Introduction to Node.js|Node.js]], Express, and MongoDB.
-
-This note documents how all foundational concepts connect together in the **Registration** and **Login** request lifecycles, followed by a comprehensive **Viva / Interview Preparation Guide**.
+> [!abstract] Project Architecture Overview
+> In the **ShopKart** project, our goal is to build a robust, secure authentication system from scratch using [[Introduction to Node.js|Node.js]], Express, and MongoDB.
+> 
+> This note documents how foundational backend concepts connect together in the **Registration** and **Login** request lifecycles, along with security considerations and core architecture patterns.
 
 ---
 
 ## 🔄 End-to-End Registration Request Lifecycle
 
-```text
-[ Client: Postman / Browser ]
-             │
-             │ HTTP POST /api/register with JSON Body:
-             │ { "fullName": "John Doe", "email": "john@gmail.com", "password": "pass123", "phone": "9876543210" }
-             ▼
-[ Express Server ]
-             │
-             │ 1. express.json() parses JSON into JS Object ──> req.body
-             ▼
-[ Register Controller ]
-             │
-             ├── 2. [[Objects and Destructuring|Destructuring]]:
-             │      const { fullName, email, password, phone } = req.body;
-             │
-             ├── 3. [[Functions and Control Flow|Validation]]:
-             │      if (password.length < 6) {
-             │          return res.status(400).json({ message: "Password must be at least 6 characters" });
-             │      }
-             │
-             ├── 4. [[Async JavaScript and JSON|Async Check & Hash]]:
-             │      const existingUser = await Customer.findOne({ email });
-             │      if (existingUser) return res.status(400).json({ message: "Email already registered" });
-             │
-             │      const hashedPassword = await bcrypt.hash(password, 10);
-             │
-             ├── 5. Save to MongoDB:
-             │      await Customer.create({ fullName, email, password: hashedPassword, phone });
-             │
-             ▼
-[ Send HTTP Response ]
-             │
-             └── res.status(201).json({ message: "User registered successfully" });
+```mermaid
+sequenceDiagram
+    autonumber
+    actor Client as 💻 Client (Browser / App)
+    participant Server as 🟢 Express Server
+    participant Bcrypt as 🔐 Bcrypt Engine
+    participant DB as 🍃 MongoDB Database
+
+    Client->>Server: POST /api/register (JSON Payload)
+    Note over Server: express.json() parses body<br/>Destructure { fullName, email, password, phone }<br/>Validate field presence & length >= 6
+    
+    Server->>DB: Customer.findOne({ email })
+    DB-->>Server: null (User does not exist)
+    
+    Server->>Bcrypt: bcrypt.hash(password, saltRounds=10)
+    Bcrypt-->>Server: hashedPassword string ($2b$10$...)
+    
+    Server->>DB: Customer.create({ fullName, email, password: hashedPassword, phone })
+    DB-->>Server: Saved Customer Document
+    
+    Server-->>Client: HTTP 201 Created ({ message: "User registered successfully", customerId })
 ```
+
+> [!tip] Security Best Practice: Password Hashing
+> Passwords must **never** be stored in plaintext. `bcrypt` utilizes a cryptographic salt with a configurable cost factor (work factor) to generate a slow one-way hash, protecting against rainbow table and brute-force attacks.
 
 ---
 
 ## 🔑 End-to-End Login Request Lifecycle
 
-```text
-[ Client: Postman / Browser ]
-             │
-             │ HTTP POST /customers/login with JSON Body:
-             │ { "email": "john@gmail.com", "password": "pass123" }
-             ▼
-[ Express Server & Node.js Runtime ]
-             │
-             │ 1. Read and destructure { email, password } from req.body
-             │ 2. Query MongoDB: const customer = await Customer.findOne({ email });
-             │ 3. Check existence: if (!customer) return res.status(400)...
-             │ 4. Compare Passwords: const isMatch = await bcrypt.compare(password, customer.password);
-             │ 5. Generate JWT Token (payload with userId & role)
-             │ 6. Set HttpOnly Cookie: res.cookie("token", jwtToken, { httpOnly: true });
-             │
-             ▼
-[ Send HTTP Response ] ──> res.json({ message: "Login successful", customerId: customer._id });
+```mermaid
+sequenceDiagram
+    autonumber
+    actor Client as 💻 Client (Browser / App)
+    participant Server as 🟢 Express Server
+    participant Bcrypt as 🔐 Bcrypt Engine
+    participant DB as 🍃 MongoDB Database
+
+    Client->>Server: POST /customers/login (JSON: { email, password })
+    Note over Server: Destructure { email, password }
+    
+    Server->>DB: Customer.findOne({ email: email.toLowerCase() })
+    DB-->>Server: customer document with hashed password
+    
+    Server->>Bcrypt: bcrypt.compare(password, customer.password)
+    Bcrypt-->>Server: isMatch = true
+    
+    Note over Server: Generate JWT signed with JWT_SECRET<br/>Payload: { userId: customer._id, role: "user" }
+    
+    Server-->>Client: Set HttpOnly Cookie ("token") + HTTP 200 OK
 ```
+
+> [!important] HttpOnly Cookie Protection
+> Storing authentication tokens in `HttpOnly` cookies prevents client-side JavaScript (e.g., via Cross-Site Scripting / XSS attacks) from reading the sensitive session token.
 
 ---
 
@@ -137,7 +133,7 @@ module.exports = { registerCustomer };
 
 ---
 
-## 🧪 TA Viva & Interview Questions
+## 💡 Core Backend Architectural Q&A
 
 > [!question]- 1. What is an Object in JavaScript and why is it important for backend development?
 > **Answer:** An object is an in-memory data structure of key-value pairs representing entities. In backend development, objects are crucial because incoming HTTP request data (`req.body`), database records (MongoDB documents), and API JSON responses are all structured and manipulated as JavaScript objects.
@@ -172,3 +168,4 @@ module.exports = { registerCustomer };
 - [[Async JavaScript and JSON]]
 - [[Introduction to Node.js]]
 - [[Event Loop and Non-Blocking IO]]
+

@@ -1,0 +1,470 @@
+{
+  ".agents/skills/obsidian-skills/.claude-plugin/marketplace.json": {
+    "mtime": 1787752384.5213916,
+    "seen": 1788299865.9880848,
+    "ast_hash": "6cc766fabbbfd07e6daa524d47e8821a",
+    "semantic_hash": "6cc766fabbbfd07e6daa524d47e8821a"
+  },
+  ".agents/skills/obsidian-skills/.claude-plugin/plugin.json": {
+    "mtime": 1787752384.5223918,
+    "seen": 1788299865.9880931,
+    "ast_hash": "c4ee2b8514ff3fb267b855f25360c891",
+    "semantic_hash": "c4ee2b8514ff3fb267b855f25360c891"
+  },
+  ".agents/rules/graphify.md": {
+    "mtime": 1787755009.698312,
+    "seen": 1788299865.9880958,
+    "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
+    "semantic_hash": ""
+  },
+  ".agents/rules/vault-organization.md": {
+    "mtime": 1787754825.1325727,
+    "seen": 1788299865.9880967,
+    "ast_hash": "4b98e242082354474858a516e5c23baa",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/README.md": {
+    "mtime": 1787752384.5233915,
+    "seen": 1788299865.988098,
+    "ast_hash": "75900dd4fb56bd59e52125b8151b4c3c",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/defuddle/SKILL.md": {
+    "mtime": 1787752384.5253916,
+    "seen": 1788299865.9880989,
+    "ast_hash": "f8ae7870c2a3a59843db9f4bdf7d6688",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/json-canvas/SKILL.md": {
+    "mtime": 1787752384.5263934,
+    "seen": 1788299865.9880998,
+    "ast_hash": "6f1f3aefcaafc8f844bee620cfaa18fe",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/json-canvas/references/EXAMPLES.md": {
+    "mtime": 1787752384.5263934,
+    "seen": 1788299865.9881005,
+    "ast_hash": "a046c07cf1cf4f9de531cdb415cd14ae",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-bases/SKILL.md": {
+    "mtime": 1787752384.5283923,
+    "seen": 1788299865.9881015,
+    "ast_hash": "93b448a57f43307a8b9c45ba040e76a7",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md": {
+    "mtime": 1787752384.529394,
+    "seen": 1788299865.9881022,
+    "ast_hash": "86efaae5587776059fe6b49462e0340c",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-cli/SKILL.md": {
+    "mtime": 1787752384.530394,
+    "seen": 1788299865.988103,
+    "ast_hash": "2ef8f2e29d87b0984d920500cd928d99",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/SKILL.md": {
+    "mtime": 1787752384.5313926,
+    "seen": 1788299865.9881036,
+    "ast_hash": "594a5b4199304d9f9c25d765f7010036",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/references/CALLOUTS.md": {
+    "mtime": 1787752384.5313926,
+    "seen": 1788299865.9881043,
+    "ast_hash": "5aa10159af4764298637ad4e81d6a2f1",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/references/EMBEDS.md": {
+    "mtime": 1787752384.5323915,
+    "seen": 1788299865.988105,
+    "ast_hash": "0ff7ad04c5f06d316d8d6b6a0bcd74ed",
+    "semantic_hash": ""
+  },
+  ".agents/skills/obsidian-skills/skills/obsidian-markdown/references/PROPERTIES.md": {
+    "mtime": 1787752384.5323915,
+    "seen": 1788299865.9881058,
+    "ast_hash": "5ff42c0791b7f60b339e0c04063477b6",
+    "semantic_hash": ""
+  },
+  ".agents/workflows/graphify.md": {
+    "mtime": 1787755009.6993144,
+    "seen": 1788299865.9881063,
+    "ast_hash": "637776aa6f7496d069afe7520c845c8a",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bit Manipulation.md": {
+    "mtime": 1788831028.822304,
+    "seen": 1788831035.9701233,
+    "ast_hash": "bfcaba0b20399ed70fa7f337d98cbed6",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bit Tricks.md": {
+    "mtime": 1788831016.431216,
+    "seen": 1788831035.9701245,
+    "ast_hash": "d49a2374e465a15f0657714ec22101ab",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bitwise Operators.md": {
+    "mtime": 1788823564.4657285,
+    "seen": 1788823574.9565513,
+    "ast_hash": "811a26a3c67588aaa8b4f9a4162bc5cc",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/XOR Patterns.md": {
+    "mtime": 1788626663.9446113,
+    "seen": 1788626684.145859,
+    "ast_hash": "a27d459a98ea0064bfbde8e0587a05f5",
+    "semantic_hash": ""
+  },
+  "Dashboard.md": {
+    "mtime": 1789973421.3968625,
+    "seen": 1789973430.0049329,
+    "ast_hash": "fbead280ff1d74915849913175bf1f73",
+    "semantic_hash": ""
+  },
+  "Ext_&_res/Extra_Courses.md": {
+    "mtime": 1786144080.772971,
+    "seen": 1788299865.9881117,
+    "ast_hash": "393b3a8be14f74569d3546a772aa38bf",
+    "semantic_hash": ""
+  },
+  "Python.md": {
+    "mtime": 1786424936.295,
+    "seen": 1788299865.9881124,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "LocalLlmHub/workspace-state.json": {
+    "mtime": 1788300366.8508747,
+    "seen": 1788505539.842512,
+    "ast_hash": "bfc1f4a094ca52310482c258b56c81a0",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/JavaScript/Async JavaScript and JSON.md": {
+    "mtime": 1788505929.5105555,
+    "seen": 1788506014.4631796,
+    "ast_hash": "94db35e0990f2a1ee1477dece419a8e9",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/JavaScript/Functions and Control Flow.md": {
+    "mtime": 1788505921.2054672,
+    "seen": 1788506014.4631803,
+    "ast_hash": "f63c76101b70f7be013491f3ae00e45d",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/JavaScript/Objects and Destructuring.md": {
+    "mtime": 1788505913.33723,
+    "seen": 1788506014.463181,
+    "ast_hash": "a8b2b69c1d22220cd942acaaa9be59a4",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/JavaScript/README.md": {
+    "mtime": 1788506599.1105545,
+    "seen": 1788506620.555873,
+    "ast_hash": "8a11cf1c512ec5d75f37f1213251e611",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/JavaScript/Variables and Data Types.md": {
+    "mtime": 1788505906.2057135,
+    "seen": 1788506014.463182,
+    "ast_hash": "88dd4afa91e8d34456c29d5f0cc3d9f4",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/Node.js/Core Modules.md": {
+    "mtime": 1788505969.5433478,
+    "seen": 1788506014.463183,
+    "ast_hash": "f76e298b085ecafe981e55c83b1f7d1b",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/Node.js/Event Loop and Non-Blocking IO.md": {
+    "mtime": 1788505962.2719991,
+    "seen": 1788506014.4631832,
+    "ast_hash": "f166c8b3360821377b4d13a702346c30",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/Node.js/Introduction to Node.js.md": {
+    "mtime": 1788506702.880944,
+    "seen": 1788506720.424194,
+    "ast_hash": "1f393bdfe4bb0f28398f4facecbce02b",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/Node.js/README.md": {
+    "mtime": 1788506606.9649076,
+    "seen": 1788506620.5558784,
+    "ast_hash": "84118dc4f4c5d4daf7e49c1e8e155b0d",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/Node.js/V8 Engine.md": {
+    "mtime": 1788505954.397161,
+    "seen": 1788506014.4631848,
+    "ast_hash": "01abe596d3dd49885af7cf0fe470aa15",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/README.md": {
+    "mtime": 1789973244.0783224,
+    "seen": 1789973325.2457843,
+    "ast_hash": "e6e33af15105d2ff203b722fe9ccdfd2",
+    "semantic_hash": ""
+  },
+  "WebDev/Backend/ShopKart Auth Project.md": {
+    "mtime": 1789973230.5762048,
+    "seen": 1789973325.245785,
+    "ast_hash": "9022bc079be6a9044d41fb19c3b63fe9",
+    "semantic_hash": ""
+  },
+  ".agents/rules/obsidian.md": {
+    "mtime": 1788506287.3054714,
+    "seen": 1788506620.555838,
+    "ast_hash": "ebf6fa40435491f709ccc61a3cec96e9",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/End-to-End ML Pipeline.md": {
+    "mtime": 1789970961.7976649,
+    "seen": 1789970971.2708068,
+    "ast_hash": "b22459081edd3af491316181504fd540",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/Features, Targets, and Datasets.md": {
+    "mtime": 1788582934.4052918,
+    "seen": 1788582966.8854768,
+    "ast_hash": "6a60063503c2dec8bffd6d3b61f2ce3c",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/Introduction to Machine Learning.md": {
+    "mtime": 1789973652.6249378,
+    "seen": 1789973676.8938541,
+    "ast_hash": "eee6d40003ceea8d85606385675e7d0b",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/README.md": {
+    "mtime": 1789969225.1600475,
+    "seen": 1789969236.0640771,
+    "ast_hash": "fd96cb7b0de2946eaf50a518a49aadbc",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md": {
+    "mtime": 1789972495.408167,
+    "seen": 1789972583.263521,
+    "ast_hash": "3975ff01e18d71d164e65457b3a934c3",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/Train-Test Split and Generalization.md": {
+    "mtime": 1788582942.4807715,
+    "seen": 1788582966.8854797,
+    "ast_hash": "94a2e459224b31b6ba0cc555694618a0",
+    "semantic_hash": ""
+  },
+  "AI & ML/README.md": {
+    "mtime": 1789973396.4893296,
+    "seen": 1789973430.0048864,
+    "ast_hash": "0bab6b8bde0fc41a77e458038c009ae7",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/Bit Manipulation Problems.md": {
+    "mtime": 1788626633.1237068,
+    "seen": 1788626684.145855,
+    "ast_hash": "d3b08ee2afe673c26518b363eb656cad",
+    "semantic_hash": ""
+  },
+  "DSA/README.md": {
+    "mtime": 1789973299.4934049,
+    "seen": 1789973325.2457705,
+    "ast_hash": "30d894991491b59e572b94f574dd3953",
+    "semantic_hash": ""
+  },
+  ".agents/rules/quick-look.md": {
+    "mtime": 1788822601.1473382,
+    "seen": 1788823346.4921715,
+    "ast_hash": "15a678d11441fadda52ab824c777a0dc",
+    "semantic_hash": ""
+  },
+  "DSA/Quick Look.md": {
+    "mtime": 1789643729.1080265,
+    "seen": 1789643741.3516314,
+    "ast_hash": "f77ba473eae1f6a3ac28db3f910056e0",
+    "semantic_hash": ""
+  },
+  "JAVA/README.md": {
+    "mtime": 1788832587.99734,
+    "seen": 1788832593.3583088,
+    "ast_hash": "a0a18f1dca140af1082cce776a586a1d",
+    "semantic_hash": ""
+  },
+  "DSA/01. Strings/Add Binary & String Arithmetic.md": {
+    "mtime": 1789973668.7999475,
+    "seen": 1789973676.8938777,
+    "ast_hash": "a1568cc0488e8281922b5c334f844fe6",
+    "semantic_hash": ""
+  },
+  "DSA/01. Strings/README.md": {
+    "mtime": 1788913528.8025033,
+    "seen": 1788913548.19177,
+    "ast_hash": "96e388e08679125cfd789666ad9d5103",
+    "semantic_hash": ""
+  },
+  "DSA/01. Strings/StringBuilder.md": {
+    "mtime": 1789973660.6589513,
+    "seen": 1789973676.89388,
+    "ast_hash": "57aa46eb6b048f2910583f1d3500638f",
+    "semantic_hash": ""
+  },
+  "DSA/DSA Problems/67. Add Binary.md": {
+    "mtime": 1788913520.5703788,
+    "seen": 1788913548.1917758,
+    "ast_hash": "fb1d9bcc486986eef724ebf3d850414d",
+    "semantic_hash": ""
+  },
+  "DSA/02. Binary Search/Binary Search.md": {
+    "mtime": 1788990703.063609,
+    "seen": 1788990724.8927386,
+    "ast_hash": "fd75dd32c1d0b8cf1e1fa247ad9643c9",
+    "semantic_hash": ""
+  },
+  "DSA/03. Linked Lists/Linked List Fundamentals.md": {
+    "mtime": 1789643696.8073173,
+    "seen": 1789643741.351624,
+    "ast_hash": "9d7e6d09a6d5dcfc8e99a6297d2dce7b",
+    "semantic_hash": ""
+  },
+  "DSA/03. Linked Lists/Linked List Patterns.md": {
+    "mtime": 1789643707.1043823,
+    "seen": 1789643741.3516252,
+    "ast_hash": "709e0c76737f3441daa8af1e1cf6c18b",
+    "semantic_hash": ""
+  },
+  "DSA/03. Linked Lists/README.md": {
+    "mtime": 1789643683.5449994,
+    "seen": 1789643741.351626,
+    "ast_hash": "880f82b320590ba0a5ff2b1c49dc4ba4",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md": {
+    "mtime": 1789973613.9493277,
+    "seen": 1789973676.8938649,
+    "ast_hash": "1a2e7b68b9681876def4683e4d9fe435",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Encapsulation and Decapsulation.md": {
+    "mtime": 1789973530.106748,
+    "seen": 1789973676.8938658,
+    "ast_hash": "a757c2ad77bb7f87678fc72445c3a7ec",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Ethernet and MAC Addressing.md": {
+    "mtime": 1789973604.739595,
+    "seen": 1789973676.8938668,
+    "ast_hash": "e23e21b48f5ce65876345923f1e23a99",
+    "semantic_hash": ""
+  },
+  "Computer Networking/IP Addressing Fundamentals.md": {
+    "mtime": 1789972963.5872197,
+    "seen": 1789973325.2457478,
+    "ast_hash": "a252bdf1f42507847032d5ae2b084542",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Introduction to Computer Networks.md": {
+    "mtime": 1789973594.5225122,
+    "seen": 1789973676.8938687,
+    "ast_hash": "ea7314471b6a65d64724290647ebd5bd",
+    "semantic_hash": ""
+  },
+  "Computer Networking/MTU and Fragmentation.md": {
+    "mtime": 1789973570.8906934,
+    "seen": 1789973676.8938699,
+    "ast_hash": "38b20a8107a68d409f08f606e846e689",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md": {
+    "mtime": 1789973476.8913817,
+    "seen": 1789973676.8938704,
+    "ast_hash": "2828944aa736241860a9079c9d9d7c3f",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Network ID and Host ID.md": {
+    "mtime": 1789973189.8323743,
+    "seen": 1789973325.2457516,
+    "ast_hash": "40109ab149ae45b91093bd30dff8f44c",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Network Performance - Delay, Latency, Throughput.md": {
+    "mtime": 1789973581.8840551,
+    "seen": 1789973676.8938718,
+    "ast_hash": "1bc42e6b6363dce8eebfb9c2fc90b836",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Network Protocols and Standards.md": {
+    "mtime": 1789973126.2605221,
+    "seen": 1789973325.2457528,
+    "ast_hash": "c69795b97d6db0666d46cd0d17a2b3b1",
+    "semantic_hash": ""
+  },
+  "Computer Networking/OSI vs TCP-IP Model.md": {
+    "mtime": 1789973456.7792008,
+    "seen": 1789973676.8938735,
+    "ast_hash": "b9fee23e289ad7f57e7eab7291602683",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Packets and Packet Switching.md": {
+    "mtime": 1789973491.1122513,
+    "seen": 1789973676.8938742,
+    "ast_hash": "cc02dcc99635430006aa996a52728cbe",
+    "semantic_hash": ""
+  },
+  "Computer Networking/README.md": {
+    "mtime": 1789973057.0001624,
+    "seen": 1789973325.2457547,
+    "ast_hash": "8c2457f0bc5ce1af18a6d0fa7c8c0fee",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Subnet Masks and CIDR Notation.md": {
+    "mtime": 1789972992.9435575,
+    "seen": 1789973325.245756,
+    "ast_hash": "6acaf3615a10cf26739caaa4902f39db",
+    "semantic_hash": ""
+  },
+  "Computer Networking/Switching Techniques - Packet vs Circuit.md": {
+    "mtime": 1789973506.1338716,
+    "seen": 1789973676.8938768,
+    "ast_hash": "afaec130531fdd2508dfa025d7dd2509",
+    "semantic_hash": ""
+  },
+  "AI & ML/Data Preprocessing/Feature Scaling.md": {
+    "mtime": 1789973625.8728104,
+    "seen": 1789973676.8938613,
+    "ast_hash": "3c65d8ad9dba3c4dc6bc1d8ed11e8699",
+    "semantic_hash": ""
+  },
+  "AI & ML/Data Preprocessing/README.md": {
+    "mtime": 1789973383.3919158,
+    "seen": 1789973430.0048847,
+    "ast_hash": "835e2844882f4de38975f028fa7a8ec3",
+    "semantic_hash": ""
+  },
+  "AI & ML/Data Preprocessing/Data Leakage.md": {
+    "mtime": 1789973548.5768847,
+    "seen": 1789973676.8938603,
+    "ast_hash": "509e6bb9457a09b66dccbc60f39f5256",
+    "semantic_hash": ""
+  },
+  "AI & ML/Data Preprocessing/Missing Value Imputation.md": {
+    "mtime": 1789972529.2833192,
+    "seen": 1789972583.2635262,
+    "ast_hash": "c7e3da46e0bbca507e69e288ce37d4a2",
+    "semantic_hash": ""
+  },
+  ".agents/rules/Agent.md": {
+    "mtime": 1789738170.1646185,
+    "seen": 1789973325.2457123,
+    "ast_hash": "d25e4ea5f3a604e079bec593a2ee9878",
+    "semantic_hash": ""
+  },
+  "AI & ML/Data Preprocessing/Categorical Encoding.md": {
+    "mtime": 1789973642.4948697,
+    "seen": 1789973676.8938591,
+    "ast_hash": "9d79b01e2edf349d1b9a8b8ef22b8c1c",
+    "semantic_hash": ""
+  }
+}

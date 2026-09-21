@@ -18,15 +18,17 @@ date: 2026-09-05
 ## 📖 Learning Path
 
 1. **[[Introduction to Machine Learning]]**
-   - The fundamental paradigm shift (Programming vs ML)
-   - What is a "Model"? (Mathematical approximation of patterns)
-   - Real-world intuition: Hours studied $\rightarrow$ Exam marks
+   - Core intuition: Examples $\rightarrow$ Discover Pattern $\rightarrow$ Predict $\hat{y}$
+   - The 3 Pillars: Input $X$, Target $y$, and Model (Learned Pattern)
+   - What is "Learning"? (Iterative parameter adjustment loop: predict $\rightarrow$ error $\rightarrow$ adjust $\rightarrow$ repeat)
+   - Paradigm shift (Traditional rule-based code vs Data-driven ML)
 
 2. **[[Supervised vs Unsupervised Learning]]**
-   - **Supervised Learning**: Labeled data
-     - *Regression*: Predicting continuous numerical values (e.g., house prices, marks)
-     - *Classification*: Predicting discrete categories (e.g., spam vs not spam, cat vs dog)
-   - **Unsupervised Learning**: Unlabeled data (Finding intrinsic structure, Customer segmentation, Clustering, PCA)
+   - **Supervised Learning** ($X + y$): Labeled examples (flashcard analogy)
+     - *Regression*: Continuous numerical targets (e.g., house prices ₹75L, weather 31.5°C, salary ₹85k, marks)
+     - *Classification*: Discrete categorical targets (e.g., pass/fail, spam/not spam, cat/dog, fraud, disease)
+   - **Unsupervised Learning** ($X$ only): Unlabeled pattern discovery & grouping (e.g., clustering, PCA)
+   - The Master Mental Map & Taxonomy
 
 3. **[[Features, Targets, and Datasets]]**
    - Features ($X$) = Inputs used for prediction

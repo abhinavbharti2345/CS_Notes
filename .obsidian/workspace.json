@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA Problems/67. Add Binary.md",
+                "file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "67. Add Binary"
+              "title": "Introduction to Machine Learning"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.8333435058594
+    "width": 267.5220184326172
   },
   "right": {
     "id": "b7d4d0bf627a9b18",
@@ -226,43 +226,43 @@
       "ollama-assistant:Open Ollama Assistant": false
     }
   },
-  "active": "661b5a2a752526c2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "graphify-out/cache/ast/v0.9.53-s2/27299221ab04888668414082fbc690bf0afe566e01c325d30d8eda8c3292c95a.json",
-    "graphify-out/cache/ast/v0.9.53-s2/d2f7c3975d988a7c7c6e8fcbbde03b4b3876e24af889e8ef5795e23ebadc54a5.json",
-    "graphify-out/cache/ast/v0.9.53-s2/b2a44c924d92d25d6715e47177a34834effbeb87b9aa5d37bf837f4c7a0a72f2.json",
-    "graphify-out/cache/ast/v0.9.53-s2/e230ca1a116322943a1128ffb8f39165b7ac472c56a6cbb5a20d430ba8303e15.json",
-    "graphify-out/cache/ast/v0.9.53-s2/fc05d34e63d5ad917533aa94f78c6f0ab6c7d7c6a941a5d72a91679668c3651e.json",
-    "Dashboard.md",
-    "DSA/DSA Problems/67. Add Binary.md",
-    "DSA/DSA Problems",
-    "DSA/01. Strings/Add Binary & String Arithmetic.md",
-    "graphify-out/cache/ast/v0.9.53-s2/cfd27a883de7b1920c02966de278f436006ee2edfe6b9f1db9a75629beeea344.json",
-    "graphify-out/cache/ast/v0.9.53-s2/ece86fb0db8f004045a48c071a2bebad87efefea3fc2ab43f1eecb6310876cdf.json",
-    "graphify-out/cache/ast/v0.9.53-s2/01fa6b098c45aaddb5ee58f8f83de060aa38be15d6ecb3b19a8c567e52efb0d3.json",
-    "graphify-out/cache/ast/v0.9.53-s2/6b806c13514e056bcc2e444ea6591c22e18c731f344514d8a62813d3caea4692.json",
-    "graphify-out/cache/ast/v0.9.53-s2/9879146ee3412cba0e84581a005a5f893e339281adc4b528bbea5265553eb515.json",
-    "DSA/01. Strings/Problems/67. Add Binary.md",
-    "DSA/Problems/67. Add Binary.md",
-    "graphify-out/2026-09-09/GRAPH_REPORT.md",
-    "DSA/01. Strings/StringBuilder.md",
-    "DSA/Quick Look.md",
-    "DSA/01. Strings/README.md",
-    "DSA/04. Bit Manipulation/Bit Tricks.md",
-    "DSA/04. Bit Manipulation/Bit Manipulation.md",
-    "DSA/04. Bit Manipulation/Bitwise Operators.md",
-    "graphify-out/2026-09-08/GRAPH_REPORT.md",
-    "DSA/README.md",
-    "JAVA/README.md",
-    "DSA/04. Bit Manipulation/XOR Patterns.md",
-    "DSA/04. Bit Manipulation/Bit Manipulation Problems.md",
-    "README.md",
-    "Python.md",
-    "Agent.md",
-    "Wiki Links.md",
-    "WebDev/Backend/JavaScript/Variables and Data Types.md",
+    "graphify-out/cache/ast/v0.9.53-s2/71be218360e6451950f9960ef7adde793bcab97b0f78e0afa46d6967c598774f.json",
+    "graphify-out/cache/ast/v0.9.53-s2/46a2f635a3ed5d55d32ee490e695ec463c48f33a508c6de2a7922907552f4cce.json",
+    "graphify-out/cache/ast/v0.9.53-s2/2aaaaa882d36fda5c965961f9b068e63d31abacda73452970ec1d197406ec861.json",
+    "graphify-out/cache/ast/v0.9.53-s2/c2a6edb12dcfff7718417e9d37087888f59180499011a7550b07a973d94c48c6.json",
+    "graphify-out/cache/ast/v0.9.53-s2/442d40a52142a5030ee1545f401fd36b9a90c3dc7bab330d551c56794d2ca1cb.json",
+    "graphify-out/cache/ast/v0.9.53-s2/c674000feb7a949825fcf08332e109a30e6b46854f6e3a6f28a46f4c9429ccc0.json",
+    "graphify-out/cache/ast/v0.9.53-s2/75c4a342137d6323345e7875c5bc82d1ac6672a050313ccc45486875d44a1d04.json",
+    "graphify-out/cache/ast/v0.9.53-s2/d1d9af8ec9b165252f2c8918737b4fdc38413a8ded36079a5e5899d8b6dcb7ed.json",
+    "graphify-out/cache/ast/v0.9.53-s2/66d00a1cd650010b9703b9d07e8a76209e1b0f881528a8158c5167fc4b3d304b.json",
+    "graphify-out/cache/ast/v0.9.53-s2/058e51dcd957ac9479a9971d823aad05126cb61d0a0e012ad8be8b68fafe8a50.json",
+    "graphify-out/cache/ast/v0.9.53-s2/bcca20005b3f50e57864c25b6e6de91c8b7a3bd5f97d87257d213308a93ff8e6.json",
     "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
+    "Computer Networking/OSI vs TCP-IP Model.md",
+    "Computer Networking/Packets and Packet Switching.md",
+    "AI & ML/Data Preprocessing/Categorical Encoding.md",
+    "Computer Networking/Encapsulation and Decapsulation.md",
+    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
+    "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+    "AI & ML/Data Preprocessing/Data Leakage.md",
+    "AI & ML/Data Preprocessing/README.md",
+    "AI & ML/Data Preprocessing/Feature Scaling.md",
     "AI & ML/Classical ML/Introduction to Machine Learning.md",
-    "AI & ML/Classical ML/End-to-End ML Pipeline.md"
+    "AI & ML/Classical ML/README.md",
+    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
+    "graphify-out/2026-09-21/GRAPH_REPORT.md",
+    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+    "Dashboard.md",
+    "Computer Networking/Subnet Masks and CIDR Notation.md",
+    "Computer Networking/README.md",
+    "Computer Networking/Network ID and Host ID.md",
+    "Computer Networking/IP Addressing Fundamentals.md",
+    "Computer Networking/MTU and Fragmentation.md",
+    "Computer Networking/Ethernet and MAC Addressing.md",
+    "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
+    "Computer Networking/Network Protocols and Standards.md",
+    "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md"
   ]
 }

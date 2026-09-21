@@ -14,9 +14,8 @@ date: 2026-09-08
 
 # ➕ String Arithmetic & Add Binary Pattern
 
-> **Module Hub:** [[DSA/01. Strings/README|01. Strings]]  
-> **Master Roadmap:** [[DSA/README|DSA Master Roadmap]]  
-> **Quick Reference:** [[Quick Look|⚡ Quick Look Cheatsheet]]
+> [!abstract] Module Overview
+> **Module Hub:** [[DSA/01. Strings/README|01. Strings]] | **Master Roadmap:** [[DSA/README|DSA Master Roadmap]] | **Quick Reference:** [[Quick Look|⚡ Quick Look Cheatsheet]]
 
 ---
 
@@ -32,6 +31,27 @@ When adding two large numbers represented as strings (such as **binary strings**
 
 We simulate manual column-by-column addition from **right to left** (least significant digit to most significant).
 
+```mermaid
+flowchart TD
+    subgraph Simulation ["Right-to-Left Arithmetic Loop"]
+        Start["i = a.length() - 1<br/>j = b.length() - 1<br/>carry = 0"] --> Condition{"i >= 0 || j >= 0 || carry != 0"}
+        
+        Condition -- "Yes" --> Extract["bitA = (i >= 0) ? a[i] - '0' : 0<br/>bitB = (j >= 0) ? b[j] - '0' : 0"]
+        Extract --> Calc["sum = bitA + bitB + carry<br/>sb.append(sum % Base)<br/>carry = sum / Base"]
+        Calc --> Decrement["i--, j--"]
+        Decrement --> Condition
+        
+        Condition -- "No" --> Reverse["sb.reverse().toString()<br/><b>⚡ Result Completed!</b>"]
+    end
+
+    classDef step fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    classDef decision fill:#1e293b,stroke:#f59e0b,stroke-width:1.5px,color:#fff;
+    classDef finish fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
+    class Start,Extract,Calc,Decrement step;
+    class Condition decision;
+    class Reverse finish;
+```
+
 ---
 
 ## 🧠 Why `StringBuilder` instead of `String`?
@@ -41,9 +61,11 @@ When processing right $\to$ left:
 - 2nd calculated bit $\to$ next bit to the left
 - 3rd calculated bit $\to$ next bit to the left
 
-```text
-Processed order:   1  0  1  1
-Actual answer:     1  1  0  1  (Reversed!)
+```mermaid
+flowchart TD
+    P["Processed Order: 1 -> 0 -> 1 -> 1"] --> R["Reversed Final String: 1 1 0 1"]
+    classDef style fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    class P,R style;
 ```
 
 ### The Java String Trap:
@@ -85,17 +107,11 @@ return ans.reverse().toString();
 
 ## ❓ Edge Case Deep-Dive: Unequal String Lengths
 
-> [!question] Critical Question
-> If `i < 0` (meaning string `A` has no bits left), but `B` still has bits (`j >= 0`), what should `bit1` be?
-> 
-> **Answer: `bit1 = 0`**  
-> 
+> [!important] Missing Digits Rule
+> If `i < 0` (meaning string `A` has no bits left), but `B` still has bits (`j >= 0`), `bit1` defaults to `0`.  
 > Just like manual column addition on paper, missing leading positions are treated as leading zeros:
-> ```text
->     A:   "1 0 1"       →  "0 1 0 1"   (A exhausted at index -1, treat as 0)
->   + B: "1 1 0 1"       →  "1 1 0 1"
->   ----------------                
-> ```
+> - String A: `" 1 0 1"` $\to$ `"0 1 0 1"`
+> - String B: `"+ 1 1 0 1"` $\to$ `"+ 1 1 0 1"`
 
 ### The Three Loop Conditions (`while (i >= 0 || j >= 0 || carry != 0)`)
 1. `i >= 0`: String `A` still has digits.
@@ -175,3 +191,4 @@ class Solution {
 - [[DSA/README|🌳 DSA Master Roadmap]]
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
 - [[Dashboard|🧭 Main Command Center]]
+

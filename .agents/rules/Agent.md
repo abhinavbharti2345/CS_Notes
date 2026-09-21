@@ -24,6 +24,7 @@ Read these when relevant:
 .agent/rules/dashboard.md
 .agent/rules/graph.md
 
+
 If a rule conflicts with an explicit user instruction, follow the user's instruction.
 
 

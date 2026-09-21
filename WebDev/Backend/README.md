@@ -11,87 +11,86 @@ date: 2026-09-04
 
 # 🌐 Backend Development Knowledge Base
 
-Welcome to the **Backend Development Knowledge Base**. This repository contains interconnected study notes designed to take you from core JavaScript foundations to production-ready backend architectures with [[Introduction to Node.js|Node.js]], Express, MongoDB, and Authentication.
+> [!abstract] Master Backend MOC
+> Welcome to the **Backend Development Knowledge Base**. This repository contains interconnected architecture notes designed to take you from core JavaScript runtime mechanics to production-ready backend architectures with [[Introduction to Node.js|Node.js]], Express, MongoDB, and Authentication.
 
 ---
 
-## 🗺️ Master 13-Part Learning Path
+## 🗺️ Master 13-Part Learning Roadmap
 
-```text
-PART 0 — [[JavaScript Foundations|JavaScript Foundations]] (Variables, Objects, Functions, Async, JSON)
-        ↓
-PART 1 — [[Introduction to Node.js|Node.js Runtime]] & [[V8 Engine|V8 Engine]]
-        ↓
-PART 2 — npm, Packages & package.json (Upcoming)
-        ↓
-PART 3 — Express.js Framework (Upcoming)
-        ↓
-PART 4 — HTTP & RESTful APIs (Upcoming)
-        ↓
-PART 5 — MongoDB & Mongoose ODM (Upcoming)
-        ↓
-PART 6 — Password Hashing with bcrypt (Upcoming)
-        ↓
-PART 7 — JWT (JSON Web Tokens) (Upcoming)
-        ↓
-PART 8 — Cookies & HttpOnly Security (Upcoming)
-        ↓
-PART 9 — Authentication Middleware (Upcoming)
-        ↓
-PART 10 — MVC Architecture (Upcoming)
-        ↓
-PART 11 — [[ShopKart Auth Project|Build ShopKart Authentication]]
-        ↓
-PART 12 — Postman API Testing (Upcoming)
-        ↓
-PART 13 — Viva & Interview Preparation
+```mermaid
+flowchart TD
+    P0["🟨 PART 0: JavaScript Foundations<br/><i>Variables, Objects, Functions, Async, JSON</i>"]
+    P1["🟢 PART 1: Node.js Runtime & V8 Engine<br/><i>Single thread, Libuv, JIT compilation</i>"]
+    P2["📦 PART 2: npm & Package Architecture"]
+    P3["🚂 PART 3: Express.js Framework & Middleware"]
+    P4["🌐 PART 4: HTTP & RESTful API Design"]
+    P5["🍃 PART 5: MongoDB & Mongoose ODM"]
+    P6["🔐 PART 6: Cryptographic Hashing with bcrypt"]
+    P7["🎟️ PART 7: JWT (JSON Web Tokens)"]
+    P8["🍪 PART 8: Cookies & HttpOnly Security"]
+    P9["🛡️ PART 9: Auth Middleware & RBAC"]
+    P10["🏛️ PART 10: MVC & Scalable Project Structure"]
+    P11["🛒 PART 11: Production Auth Project (ShopKart)"]
+    P12["📮 PART 12: API Integration Testing"]
+    P13["🧠 PART 13: System Architecture Deep Dives"]
+
+    P0 --> P1 --> P2 --> P3 --> P4 --> P5 --> P6 --> P7 --> P8 --> P9 --> P10 --> P11 --> P12 --> P13
+
+    classDef active fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
+    classDef planned fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    class P0,P1,P11 active;
+    class P2,P3,P4,P5,P6,P7,P8,P9,P10,P12,P13 planned;
 ```
 
 ---
 
 ## 📚 Core Modules
 
-### 1. [[JavaScript Foundations|01. JavaScript Foundations]]
+### 1. [[WebDev/Backend/JavaScript/README|01. JavaScript Foundations]]
 The essential JavaScript concepts required for backend engineering:
 - [[Variables and Data Types]] — `const` vs `let`, primitives, `null` vs `undefined`, string methods
 - [[Objects and Destructuring]] — Key-value pairs, nested payloads, destructuring `req.body`
 - [[Functions and Control Flow]] — Declarations, parameters vs arguments, arrow functions, early `return`, `if/else`
 - [[Async JavaScript and JSON]] — `async/await`, Promises, non-blocking DB calls, JSON data format
 
-### 2. [[Node.js Runtime|02. Node.js Runtime & Architecture]]
+### 2. [[WebDev/Backend/Node.js/README|02. Node.js Runtime & Architecture]]
 How JavaScript executes outside the browser on servers:
 - [[Introduction to Node.js]] — JavaScript runtime environment & browser vs server capabilities
 - [[V8 Engine]] — Google's C++ engine, JIT compilation, machine code
-- [[Event Loop and Non-Blocking IO]] — Single-threaded concurrency & waiter analogy
+- [[Event Loop and Non-Blocking IO]] — Single-threaded concurrency & worker pool
 - [[Core Modules]] — Built-in modules (`fs`, `http`, `path`, `os`)
 
-### 3. Practical Lab Implementation
-- [[ShopKart Auth Project]] — The complete authentication request lifecycle & TA viva guide.
+### 3. Practical Implementation
+- [[ShopKart Auth Project]] — The complete authentication request lifecycle, bcrypt hashing, and HttpOnly session cookies.
 
 ---
 
 ## 🔄 Knowledge Flow Graph
 
-```text
-[[Variables and Data Types]]
-        │
-        ▼
-[[Objects and Destructuring]] ──┐
-        │                       │
-        ▼                       ▼
-[[Functions and Control Flow]] ─┼─> [[ShopKart Auth Project]]
-        │                       │           ▲
-        ▼                       │           │
-[[Async JavaScript and JSON]] ──┘           │
-        │                                   │
-        ▼                                   │
-[[Introduction to Node.js]]                 │
-        │                                   │
-        ├──> [[V8 Engine]]                  │
-        │                                   │
-        ├──> [[Event Loop and Non-Blocking IO]]
-        │                                   │
-        └──> [[Core Modules]] ──────────────┘
+```mermaid
+flowchart TD
+    V["Variables and Data Types"] --> O["Objects and Destructuring"]
+    O --> F["Functions and Control Flow"]
+    F --> A["Async JavaScript and JSON"]
+    
+    A --> N["Introduction to Node.js"]
+    N --> V8["V8 Engine"]
+    N --> EL["Event Loop and Non-Blocking IO"]
+    N --> CM["Core Modules"]
+
+    O -.-> SK["🛒 ShopKart Auth Project"]
+    F -.-> SK
+    A -.-> SK
+    EL -.-> SK
+    CM -.-> SK
+
+    classDef js fill:#1e293b,stroke:#f59e0b,stroke-width:1.5px,color:#fff;
+    classDef node fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    classDef proj fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
+    class V,O,F,A js;
+    class N,V8,EL,CM node;
+    class SK proj;
 ```
 
 ---
@@ -100,4 +99,5 @@ How JavaScript executes outside the browser on servers:
 - [[Dashboard|🧭 Main Command Center]]
 - [[WebDev/Backend/JavaScript/README|📁 JavaScript Foundations MOC]]
 - [[WebDev/Backend/Node.js/README|📁 Node.js Runtime MOC]]
-- [[ShopKart Auth Project|🧪 ShopKart Auth Lab & Viva]]
+- [[ShopKart Auth Project|🛒 ShopKart Auth Project]]
+

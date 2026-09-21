@@ -290,7 +290,57 @@ long maskRangeLtoR     = (-1L << L) & ~(-1L << (R + 1)); // 1s from bit L to R
 
 ---
 
-## ⚠️ 6. Common Pitfalls & Gotchas
+## 🔗 6. Linked List High-Yield Boilerplates
+*(Full deep dive: [[Linked List Fundamentals]], [[Linked List Patterns]], [[DSA/03. Linked Lists/README|Linked Lists Master Note]])*
+
+```java
+// 1. Definition
+class Node {
+    int data;
+    Node next;
+    Node(int data) { this.data = data; this.next = null; }
+}
+
+// 2. Traversal
+Node curr = head;
+while (curr != null) {
+    // process curr.data
+    curr = curr.next;
+}
+
+// 3. Insertion after 'curr' (Order Matters!)
+newNode.next = curr.next;
+curr.next = newNode;
+
+// 4. Deletion after 'curr'
+curr.next = curr.next.next;
+
+// 5. Fast & Slow Pointers (Find Middle / Detect Cycle)
+Node slow = head, fast = head;
+while (fast != null && fast.next != null) {
+    slow = slow.next;
+    fast = fast.next.next;
+}
+
+// 6. In-Place Reversal (O(N) time, O(1) space)
+Node prev = null, curr = head;
+while (curr != null) {
+    Node next = curr.next;
+    curr.next = prev;
+    prev = curr;
+    curr = next;
+}
+head = prev;
+
+// 7. Dummy Head Pattern (Eliminates head edge cases)
+Node dummy = new Node(0);
+dummy.next = head;
+// return dummy.next;
+```
+
+---
+
+## ⚠️ 7. Common Pitfalls & Gotchas
 
 > [!warning] Top Java DSA Traps to Avoid
 > 1. **String Equality:** NEVER use `==` for String content comparison. Always use `s1.equals(s2)`.
@@ -298,8 +348,11 @@ long maskRangeLtoR     = (-1L << L) & ~(-1L << (R + 1)); // 1s from bit L to R
 > 3. **Array vs List Length:** `arr.length` (field), `str.length()` (method), `list.size()` (method).
 > 4. **Comparator Overflow:** Never do `(a, b) -> a - b` when numbers can be negative or large (e.g. `Integer.MIN_VALUE` or `10^9`). Use `Integer.compare(a, b)`.
 > 5. **Modulo Arithmetic:** For negative numbers, `(a % mod + mod) % mod`.
+> 6. **Linked List Pointer Loss:** Never assign `curr.next = newNode` before `newNode.next = curr.next`.
+> 7. **Chained Pointer NPE:** Never access `curr.next.next` without validating `curr != null && curr.next != null`.
 
 ---
 
-## 📝 7. Quick Capture / Add to Quick Look
+## 📝 8. Quick Capture / Add to Quick Look
 *Got a new syntax snippet or forgot something while coding? Add it here or ask the AI to append it!*
+
