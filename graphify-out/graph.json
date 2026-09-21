@@ -6208,7 +6208,19 @@
       "node_kind": "heading",
       "norm_label": "1\ufe0f\u20e3 log transformation (primary remedy)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L201"
+      "source_location": "L256"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_random_residuals_ideal_well_specified",
+      "label": "\ud83c\udfb2 1. Random Residuals (Ideal & Well-Specified)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfb2 1. random residuals (ideal & well-specified)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L99"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_what_is_an_assumption_why_do_residuals_matter",
@@ -6221,6 +6233,18 @@
       "norm_label": "\ud83e\udde9 1. what is an assumption & why do residuals matter?",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
       "source_location": "L22"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_curved_residual_pattern_non_linearity",
+      "label": "\ud83c\udf19 2. Curved Residual Pattern (Non-Linearity)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf19 2. curved residual pattern (non-linearity)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L123"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_residual_analysis_residual_plots",
@@ -6244,7 +6268,19 @@
       "node_kind": "heading",
       "norm_label": "2\ufe0f\u20e3 weighted least squares (wls)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L221"
+      "source_location": "L276"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_funnel_shaped_residuals_heteroscedasticity",
+      "label": "\ud83d\udce3 3. Funnel-Shaped Residuals (Heteroscedasticity)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce3 3. funnel-shaped residuals (heteroscedasticity)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L148"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
@@ -6256,7 +6292,19 @@
       "node_kind": "heading",
       "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L157"
+      "source_location": "L205"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_clustered_groupings_omitted_categorical_sub_population",
+      "label": "\ud83e\udde9 4. Clustered Groupings (Omitted Categorical Sub-Population)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde9 4. clustered groupings (omitted categorical sub-population)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L173"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
@@ -6268,7 +6316,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udee0\ufe0f 4. remedies for heteroscedasticity",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L197"
+      "source_location": "L252"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
@@ -6280,7 +6328,19 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcdc 5. the classical 6 linear regression assumptions (gauss-markov framework)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L226"
+      "source_location": "L281"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_trend_over_time_autocorrelation",
+      "label": "\ud83d\udcc8 5. Trend Over Time (Autocorrelation)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcc8 5. trend over time (autocorrelation)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L189"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
@@ -6304,7 +6364,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L183"
+      "source_location": "L231"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_homoscedasticity_constant_variance",
@@ -6316,7 +6376,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L176"
+      "source_location": "L224"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_key_summary_takeaways",
@@ -6328,7 +6388,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L273"
+      "source_location": "L328"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
@@ -6343,6 +6403,42 @@
       "source_location": "L15"
     },
     {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_next_steps",
+      "label": "Next Steps",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next steps",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L348"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L343"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L341"
+    },
+    {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_python_diagnostic_implementation",
       "label": "\ud83d\udcbb Python Diagnostic Implementation",
       "_origin": "ast",
@@ -6352,7 +6448,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python diagnostic implementation",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L250"
+      "source_location": "L305"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_related_notes",
@@ -6364,17 +6460,17 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L297"
+      "source_location": "L352"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_5_residual_signatures",
-      "label": "\ud83d\udcca Visualizing the 5 Residual Signatures",
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "label": "\ud83d\udcca Visualizing the Diagnostic Patterns with Session 4 Data",
       "_origin": "ast",
       "community": 35,
       "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcca visualizing the 5 residual signatures",
+      "norm_label": "\ud83d\udcca visualizing the diagnostic patterns with session 4 data",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
       "source_location": "L93"
     },
@@ -6766,6 +6862,23 @@
       "norm_label": "\ud83c\udfd7\ufe0f stringbuilder (architecture, methods & dsa patterns)",
       "source_file": "DSA/01. Strings/StringBuilder.md",
       "source_location": "L15"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits",
+      "label": "09. Data Units - Segment, Packet, Frame, Bits.md",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "09. data units - segment, packet, frame, bits.md",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L1"
     },
     {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
@@ -8642,23 +8755,6 @@
       "source_location": "L96"
     },
     {
-      "id": "computer_networking_06_osi_vs_tcp_ip_model",
-      "label": "06. OSI vs TCP-IP Model.md",
-      "_origin": "ast",
-      "community": 47,
-      "community_name": "\ud83c\udfdb\ufe0f Layered Network Models: OSI vs. TCP/IP Architecture",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "06. osi vs tcp-ip model.md",
-      "source_file": "Computer Networking/06. OSI vs TCP-IP Model.md",
-      "source_location": "L1"
-    },
-    {
       "id": "computer_networking_06_osi_vs_tcp_ip_model_1_why_do_networks_use_layers",
       "label": "\ud83e\uddf1 1. Why Do Networks Use Layers?",
       "_origin": "ast",
@@ -9653,23 +9749,6 @@
       "source_location": "L174"
     },
     {
-      "id": "computer_networking_07_network_protocols_and_standards",
-      "label": "07. Network Protocols and Standards.md",
-      "_origin": "ast",
-      "community": 51,
-      "community_name": "Network Protocols and Standards",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "07. network protocols and standards.md",
-      "source_file": "Computer Networking/07. Network Protocols and Standards.md",
-      "source_location": "L1"
-    },
-    {
       "id": "computer_networking_07_network_protocols_and_standards_1_why_do_networks_need_protocols",
       "label": "\u2753 1. Why Do Networks Need Protocols?",
       "_origin": "ast",
@@ -9985,6 +10064,23 @@
       "norm_label": "\ud83e\uddee stage 4 \u2014 subnetting ii & routing",
       "source_file": "Computer Networking/README.md",
       "source_location": "L72"
+    },
+    {
+      "id": "computer_networking_13_network_id_and_host_id",
+      "label": "13. Network ID and Host ID.md",
+      "_origin": "ast",
+      "community": 54,
+      "community_name": "Network ID and Host ID",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "13. network id and host id.md",
+      "source_file": "Computer Networking/13. Network ID and Host ID.md",
+      "source_location": "L1"
     },
     {
       "id": "computer_networking_13_network_id_and_host_id_1_the_street_name_house_number_analogy",
@@ -10953,7 +11049,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 connections",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L58"
+      "source_location": "L64"
     },
     {
       "id": "ai_ml_01_classical_ml_readme_learning_path",
@@ -10977,7 +11073,7 @@
       "node_kind": "heading",
       "norm_label": "next topics",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L63"
+      "source_location": "L69"
     },
     {
       "id": "ai_ml_01_classical_ml_readme_prerequisites",
@@ -10989,7 +11085,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L60"
+      "source_location": "L66"
     },
     {
       "id": "ai_ml_01_classical_ml_readme_related_notes",
@@ -11001,7 +11097,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L70"
+      "source_location": "L76"
     },
     {
       "id": "computer_networking_08_encapsulation_and_decapsulation",
@@ -11057,61 +11153,217 @@
       "source_location": "L15"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_next_steps",
-      "label": "Next Steps",
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics",
+      "label": "07. Regression Evaluation Metrics.md",
       "_origin": "ast",
       "community": 63,
-      "community_name": "\ud83d\udd17 Prerequisites & Next Steps",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next steps",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L293"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 63,
-      "community_name": "\ud83d\udd17 Prerequisites & Next Steps",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L288"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 63,
-      "community_name": "\ud83d\udd17 Prerequisites & Next Steps",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L286"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits",
-      "label": "09. Data Units - Segment, Packet, Frame, Bits.md",
-      "_origin": "ast",
-      "community": 64,
-      "community_name": "Computer Networking/README.md",
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
       "file_type": "document",
       "frontmatter": {
-        "topic": "Computer Networks",
+        "topic": "Classical Machine Learning",
         "type": "concept",
-        "date": "2026-09-18"
+        "date": "2026-09-21"
       },
       "node_kind": "page",
-      "norm_label": "09. data units - segment, packet, frame, bits.md",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "norm_label": "07. regression evaluation metrics.md",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
       "source_location": "L1"
     },
     {
-      "id": "computer_networking_13_network_id_and_host_id",
-      "label": "13. Network ID and Host ID.md",
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_1_mean_squared_error_mse",
+      "label": "1\ufe0f\u20e3 Mean Squared Error (MSE)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 mean squared error (mse)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L51"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_2_root_mean_squared_error_rmse",
+      "label": "2\ufe0f\u20e3 Root Mean Squared Error (RMSE)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 root mean squared error (rmse)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L69"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_3_mean_absolute_error_mae",
+      "label": "3\ufe0f\u20e3 Mean Absolute Error (MAE)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 mean absolute error (mae)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L88"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "label": "4\ufe0f\u20e3 $R^2$ Score (Coefficient of Determination)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 $r^2$ score (coefficient of determination)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
+      "label": "\ud83d\udcbb Complete Production Pattern: `fit_linreg_rmse`",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcbb complete production pattern: `fit_linreg_rmse`",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L137"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics",
+      "label": "Core Characteristics:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core characteristics:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L55"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_73",
+      "label": "Core Characteristics:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core characteristics:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_92",
+      "label": "Core Characteristics:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core characteristics:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_interpretation_scale",
+      "label": "Interpretation Scale:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "interpretation scale:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L113"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_next_steps",
+      "label": "Next Steps",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next steps",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L181"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L177"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L175"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "label": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcca regression evaluation metrics (mse, rmse, mae, $r^2$)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L16"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L185"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
+      "label": "\u2696\ufe0f Side-by-Side Comparison Matrix",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2696\ufe0f side-by-side comparison matrix",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_four_essential_regression_metrics",
+      "label": "\ud83c\udfaf The Four Essential Regression Metrics",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfaf the four essential regression metrics",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "computer_networking_06_osi_vs_tcp_ip_model",
+      "label": "06. OSI vs TCP-IP Model.md",
       "_origin": "ast",
       "community": 64,
       "community_name": "Computer Networking/README.md",
@@ -11122,8 +11374,25 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "13. network id and host id.md",
-      "source_file": "Computer Networking/13. Network ID and Host ID.md",
+      "norm_label": "06. osi vs tcp-ip model.md",
+      "source_file": "Computer Networking/06. OSI vs TCP-IP Model.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "computer_networking_07_network_protocols_and_standards",
+      "label": "07. Network Protocols and Standards.md",
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "Computer Networking/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "07. network protocols and standards.md",
+      "source_file": "Computer Networking/07. Network Protocols and Standards.md",
       "source_location": "L1"
     },
     {
@@ -14305,7 +14574,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L176",
+      "source_location": "L224",
       "weight": 1.0
     },
     {
@@ -14316,7 +14585,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L183",
+      "source_location": "L231",
       "weight": 1.0
     },
     {
@@ -14327,7 +14596,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L201",
+      "source_location": "L256",
       "weight": 1.0
     },
     {
@@ -14338,12 +14607,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L221",
+      "source_location": "L276",
       "weight": 1.0
     },
     {
       "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
-      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_5_residual_signatures",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14360,18 +14629,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L157",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L197",
+      "source_location": "L205",
       "weight": 1.0
     },
     {
@@ -14387,13 +14645,24 @@
     },
     {
       "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L252",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
       "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L226",
+      "source_location": "L281",
       "weight": 1.0
     },
     {
@@ -14404,7 +14673,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L250",
+      "source_location": "L305",
       "weight": 1.0
     },
     {
@@ -14415,7 +14684,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L273",
+      "source_location": "L328",
       "weight": 1.0
     },
     {
@@ -14426,7 +14695,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L286",
+      "source_location": "L341",
       "weight": 1.0
     },
     {
@@ -14437,7 +14706,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L297",
+      "source_location": "L352",
       "weight": 1.0
     },
     {
@@ -14470,7 +14739,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L288",
+      "source_location": "L343",
       "weight": 1.0
     },
     {
@@ -14481,7 +14750,238 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L293",
+      "source_location": "L348",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_curved_residual_pattern_non_linearity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L123",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_funnel_shaped_residuals_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L148",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_clustered_groupings_omitted_categorical_sub_population",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_trend_over_time_autocorrelation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L189",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_random_residuals_ideal_well_specified",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L99",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_1_mean_squared_error_mse",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_2_root_mean_squared_error_rmse",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_73",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_3_mean_absolute_error_mae",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_92",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_interpretation_scale",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L113",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L177",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L181",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L137",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L175",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L185",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_four_essential_regression_metrics",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_1_mean_squared_error_mse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_2_root_mean_squared_error_rmse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_3_mean_absolute_error_mae",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L88",
       "weight": 1.0
     },
     {
@@ -14514,7 +15014,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L58",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -14525,7 +15025,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L70",
+      "source_location": "L76",
       "weight": 1.0
     },
     {
@@ -14536,7 +15036,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L60",
+      "source_location": "L66",
       "weight": 1.0
     },
     {
@@ -14547,7 +15047,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L63",
+      "source_location": "L69",
       "weight": 1.0
     },
     {
@@ -21587,7 +22087,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L298",
+      "source_location": "L353",
       "weight": 1.0
     },
     {
@@ -21598,7 +22098,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L302",
+      "source_location": "L357",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics",
+      "target": "ai_ml_01_classical_ml_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L186",
       "weight": 1.0
     },
     {
@@ -21609,7 +22120,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L61",
+      "source_location": "L67",
       "weight": 1.0
     },
     {
@@ -21620,7 +22131,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L71",
+      "source_location": "L77",
       "weight": 1.0
     },
     {
@@ -21631,7 +22142,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L72",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
@@ -21895,7 +22406,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L103",
+      "source_location": "L104",
       "weight": 1.0
     },
     {
@@ -21906,7 +22417,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L104",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -21917,7 +22428,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L105",
+      "source_location": "L106",
       "weight": 1.0
     },
     {
@@ -21928,7 +22439,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L108",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
@@ -21939,7 +22450,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L109",
+      "source_location": "L110",
       "weight": 1.0
     },
     {
@@ -22005,7 +22516,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L87",
+      "source_location": "L88",
       "weight": 1.0
     },
     {
@@ -22016,7 +22527,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L88",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -22027,7 +22538,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L89",
+      "source_location": "L90",
       "weight": 1.0
     },
     {
@@ -22038,7 +22549,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L91",
+      "source_location": "L92",
       "weight": 1.0
     },
     {
@@ -22049,7 +22560,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L92",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -22060,7 +22571,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L95",
+      "source_location": "L96",
       "weight": 1.0
     },
     {
@@ -22989,5 +23500,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "a388e4c1e88f6d18d0aff9083c46324d8a7376c4"
+  "built_at_commit": "0bd7cae5aa749bacc512efbd90809d560c1dae67"
 }

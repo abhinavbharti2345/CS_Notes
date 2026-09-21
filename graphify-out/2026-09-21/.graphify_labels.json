@@ -36,7 +36,7 @@
   "34": "📦 Packets and Packet Switching",
   "35": "📐 Linear Regression Assumptions & Residual Analysis",
   "36": "🧠 Introduction to Machine Learning",
-  "37": "🧩 2. The Four Components of Nodal Delay",
+  "37": "🥇 Tier 1 (Worth doing)",
   "38": "🏗️ StringBuilder (Architecture, Methods & DSA Patterns)",
   "39": "Protocol Data Units: Segment, Packet, Frame & Bits",
   "40": "✂️ Train-Test Split and Generalization",
@@ -62,8 +62,7 @@
   "60": "🧹 Data Preprocessing & Feature Engineering",
   "61": "📊 Classical Machine Learning Foundations",
   "62": "📦 Encapsulation and Decapsulation",
-  "63": "⚖️ 3. Homoscedasticity vs. Heteroscedasticity",
+  "63": "📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
   "64": "Computer Networking/README.md",
-  "65": "🌐 Introduction to Computer Networks",
-  "66": "📦 2. Layer-by-Layer PDU Breakdown"
+  "65": "🌐 Introduction to Computer Networks"
 }

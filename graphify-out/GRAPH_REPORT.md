@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 80 files · ~64,140 words
+- 81 files · ~65,602 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 952 nodes · 1020 edges · 66 communities (61 shown, 3 thin omitted)
+- 974 nodes · 1042 edges · 66 communities (61 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `a388e4c1`
+- Built from commit: `0bd7cae5`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -77,7 +77,7 @@
 - 🧹 Data Preprocessing & Feature Engineering
 - 📊 Classical Machine Learning Foundations
 - 📦 Encapsulation and Decapsulation
-- 🔗 Prerequisites & Next Steps
+- 📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)
 - 🌐 Introduction to Computer Networks
 
 ## God Nodes (most connected - your core abstractions)
@@ -230,8 +230,8 @@ Cohesion: 0.12
 Nodes (16): 1. 🚦 Fair Sharing & Statistical Multiplexing, 🧩 1. The Core Concept: Data vs. Packet, 2. ⚡ Error Recovery & Retransmission Efficiency, ❓ 2. Why Break Data Into Packets?, 📦 3. Anatomy of a Packet: Header vs. Payload, 3. 💾 Router Buffer and Memory Feasibility, 4. 🔀 Dynamic Path Selection & Resilience (Multipath Routing), 🔄 4. How Packet Switching Works (+8 more)
 
 ### Community 35 - "📐 Linear Regression Assumptions & Residual Analysis"
-Cohesion: 0.13
-Nodes (15): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🛠️ 4. Remedies for Heteroscedasticity, 📜 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework), 🔍 Comprehensive Diagnostic Pattern Cheat Sheet (+7 more)
+Cohesion: 0.09
+Nodes (23): 1️⃣ Log Transformation (Primary Remedy), 🎲 1. Random Residuals (Ideal & Well-Specified), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 🌙 2. Curved Residual Pattern (Non-Linearity), 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), 📣 3. Funnel-Shaped Residuals (Heteroscedasticity), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity (+15 more)
 
 ### Community 36 - "🧠 Introduction to Machine Learning"
 Cohesion: 0.15
@@ -246,7 +246,7 @@ Cohesion: 0.18
 Nodes (11): 💡 1. What is `StringBuilder`?, ⚔️ 2. The Big Comparison: `String` vs `StringBuilder` vs `StringBuffer`, 🏛️ 3. Internal Architecture & Capacity, 🛠️ 4. Essential Methods & Time Complexities, 🎯 5. High-Frequency DSA Patterns, ⚠️ 6. Common Pitfalls & Traps, Pattern 1: Backtracking & DFS (Path Construction), Pattern 2: Right-to-Left Arithmetic & Reversal (+3 more)
 
 ### Community 39 - "Protocol Data Units: Segment, Packet, Frame & Bits"
-Cohesion: 0.17
+Cohesion: 0.15
 Nodes (12): 1️⃣ Application Layer $\to$ Data / Message, ❓ 1. Why Does Networking Have Different Names for "Data"?, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 📊 3. Comprehensive PDU Comparison Matrix, 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop! (+4 more)
 
 ### Community 40 - "✂️ Train-Test Split and Generalization"
@@ -278,7 +278,7 @@ Cohesion: 0.17
 Nodes (12): 1. Overview, 2. Truth Table, 3. Class Worked Examples, 4. Fundamental Algebraic Properties, AND Properties (`&`), Associative Property, Bitwise Operators, Commutative Property (+4 more)
 
 ### Community 47 - "🏛️ Layered Network Models: OSI vs. TCP/IP Architecture"
-Cohesion: 0.18
+Cohesion: 0.20
 Nodes (10): 🧱 1. Why Do Networks Use Layers?, 🌐 2. The 5-Layer Internet Protocol Stack, 🏛️ 3. The 7-Layer OSI Reference Model vs. 5-Layer TCP/IP Stack, 📦 4. The Protocol Data Unit (PDU) Hierarchy, 🔄 5. End-to-End Encapsulation and Decapsulation Flow, 🎯 6. Scenario Test Answers & Explanations, 🏛️ Layered Network Models: OSI vs. TCP/IP Architecture, 🔗 Related Notes & Next Concepts (+2 more)
 
 ### Community 48 - "🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)"
@@ -294,7 +294,7 @@ Cohesion: 0.22
 Nodes (9): 🧩 1. What is a Categorical Variable?, ⚖️ 2. The Two Types of Categorical Data: Nominal vs. Ordinal, 📈 3. Ordinal Encoding (Preserving Inherent Rank), 🚨 4. The Nominal Integer Encoding Trap (False Ordering), 🔲 5. One-Hot Encoding (OHE), 🧠 6. Encoding Decision Matrix, 🏷️ Categorical Encoding: Nominal vs. Ordinal, Properties of One-Hot Encoding: (+1 more)
 
 ### Community 51 - "Network Protocols and Standards"
-Cohesion: 0.22
+Cohesion: 0.25
 Nodes (8): ❓ 1. Why Do Networks Need Protocols?, 🏛️ 2. The Three Fundamental Pillars of Any Protocol, 🥞 3. The "Stack of Agreements", 📜 4. Open Standards & Standards Bodies, 🎯 5. Quick Check: Matching Protocols to Responsibilities, Core Protocols at a Glance:, Network Protocols and Standards, 🔗 Related Notes & Next Concepts
 
 ### Community 52 - "Ethernet and MAC Addressing"
@@ -306,7 +306,7 @@ Cohesion: 0.25
 Nodes (8): 🌐 Computer Networks MOC (Map of Content), 🔗 Cross-Domain CS Connections, 🗺️ Curriculum Roadmap, 📚 Roadmap Stages & Core Notes, 🌍 Stage 1 — What is a Network & Internet Architecture, 📦 Stage 2 — How Data Travels (Encapsulation & Data Link Layer), 🏠 Stage 3 — IP Addressing & Subnetting I, 🧮 Stage 4 — Subnetting II & Routing
 
 ### Community 54 - "Network ID and Host ID"
-Cohesion: 0.25
+Cohesion: 0.22
 Nodes (8): 🏘️ 1. The Street Name & House Number Analogy, 🚨 2. The Core Dilemma: Where Does the Split Occur?, 🥸 3. Enter the Subnet Mask, 🧮 4. 8-Bit Binary Place Value Breakdown, 🎯 5. IPv4 Bitwise & Numerical Principles, Network ID and Host ID, 🔗 Related Notes & Next Concepts, Resulting Split:
 
 ### Community 55 - "V8 Engine"
@@ -337,26 +337,26 @@ Nodes (6): 📊 Classical Machine Learning Foundations, 🔗 Connections, 📖 L
 Cohesion: 0.50
 Nodes (3): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation
 
-### Community 63 - "🔗 Prerequisites & Next Steps"
-Cohesion: 0.67
-Nodes (3): Next Steps, Prerequisites, 🔗 Prerequisites & Next Steps
+### Community 63 - "📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)"
+Cohesion: 0.12
+Nodes (16): 1️⃣ Mean Squared Error (MSE), 2️⃣ Root Mean Squared Error (RMSE), 3️⃣ Mean Absolute Error (MAE), 4️⃣ $R^2$ Score (Coefficient of Determination), 💻 Complete Production Pattern: `fit_linreg_rmse`, Core Characteristics:, Core Characteristics:, Core Characteristics: (+8 more)
 
 ## Knowledge Gaps
-- **651 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+646 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 661 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **665 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+660 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 675 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Bit Manipulation Problems` connect `1. Single Number` to `Dashboard.md`?**
-  _High betweenness centrality (0.067) - this node is a cross-community bridge._
+  _High betweenness centrality (0.066) - this node is a cross-community bridge._
 - **Why does `🧱 Linked List Fundamentals` connect `🧱 Linked List Fundamentals` to `Dashboard.md`?**
-  _High betweenness centrality (0.045) - this node is a cross-community bridge._
+  _High betweenness centrality (0.044) - this node is a cross-community bridge._
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
-  _High betweenness centrality (0.040) - this node is a cross-community bridge._
+  _High betweenness centrality (0.039) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _651 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _665 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**

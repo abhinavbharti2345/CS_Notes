@@ -102,9 +102,9 @@
     "semantic_hash": ""
   },
   "Dashboard.md": {
-    "mtime": 1789984159.9671423,
-    "seen": 1789984180.648746,
-    "ast_hash": "1102da51e39a5dbf3593e71d2c2bb2bc",
+    "mtime": 1789986562.1286466,
+    "seen": 1789986569.2683132,
+    "ast_hash": "ef3b300642b530e68ed9155ba7278edf",
     "semantic_hash": ""
   },
   "Ext_&_res/Extra_Courses.md": {
@@ -282,9 +282,9 @@
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/01. Introduction to Machine Learning.md": {
-    "mtime": 1789984030.747658,
-    "seen": 1789984077.0986762,
-    "ast_hash": "09148acf6ac61a227f0d6610d279534a",
+    "mtime": 1789984943.3714876,
+    "seen": 1789985261.3704057,
+    "ast_hash": "b1a415db4b5f4bc3b031c66f65dc3e6d",
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/02. Supervised vs Unsupervised Learning.md": {
@@ -294,15 +294,15 @@
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/03. Features, Targets, and Datasets.md": {
-    "mtime": 1789984030.7486608,
-    "seen": 1789984077.0986784,
-    "ast_hash": "db80d2f4ddbd4ef5fff8575dec40e092",
+    "mtime": 1789986216.9416142,
+    "seen": 1789986569.2682762,
+    "ast_hash": "8189643c42932a18b6c021b9d64a48ad",
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md": {
-    "mtime": 1789984804.0381284,
-    "seen": 1789984812.7062974,
-    "ast_hash": "c9350e5dd6351c85c09d09fbece86608",
+    "mtime": 1789985274.2070704,
+    "seen": 1789986569.2682781,
+    "ast_hash": "d92a9848963072858577a4f5c284e214",
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md": {
@@ -312,15 +312,15 @@
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md": {
-    "mtime": 1789984030.7493057,
-    "seen": 1789984077.0986803,
-    "ast_hash": "c3566adc2fe37bbac27fb1d1791874c7",
+    "mtime": 1789987303.305873,
+    "seen": 1789987311.3626747,
+    "ast_hash": "94b6d6374fc48d358f4e3bca7658fb9b",
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/README.md": {
-    "mtime": 1789984030.7503114,
-    "seen": 1789984077.0986807,
-    "ast_hash": "c1d971836fbff6615aee96835a0013a9",
+    "mtime": 1789987140.7222037,
+    "seen": 1789987311.3626773,
+    "ast_hash": "ada2b19247d1148346e602ac2762d8d7",
     "semantic_hash": ""
   },
   "AI & ML/02. Data Preprocessing/01. Data Leakage.md": {
@@ -348,9 +348,9 @@
     "semantic_hash": ""
   },
   "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md": {
-    "mtime": 1789984466.905191,
-    "seen": 1789984475.2859874,
-    "ast_hash": "f62c6001323e429d44d30e6f746962dd",
+    "mtime": 1789985250.9457414,
+    "seen": 1789985261.370416,
+    "ast_hash": "174ff0775eb4d2e0944b25006046717f",
     "semantic_hash": ""
   },
   "AI & ML/02. Data Preprocessing/README.md": {
@@ -408,9 +408,9 @@
     "semantic_hash": ""
   },
   "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md": {
-    "mtime": 1789984030.7563326,
-    "seen": 1789984077.0986917,
-    "ast_hash": "bb7a7ccedccadc35be9c50882e760b95",
+    "mtime": 1789985984.558915,
+    "seen": 1789986569.2682958,
+    "ast_hash": "ee295045899b7f513e79ed5ff0b7ed33",
     "semantic_hash": ""
   },
   "Computer Networking/10. Ethernet and MAC Addressing.md": {
@@ -477,6 +477,12 @@
     "mtime": 1789984030.763337,
     "seen": 1789984077.0987048,
     "ast_hash": "ce55c28f5e7d8f1cd6d74580c1daef1f",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md": {
+    "mtime": 1789986530.4177406,
+    "seen": 1789986569.268282,
+    "ast_hash": "a05cf4b90e133b6064b6989b3e2e216a",
     "semantic_hash": ""
   }
 }

@@ -53,6 +53,12 @@ date: 2026-09-05
    - Corrective transformations (Log transform $\ln y$, WLS)
    - The 6 Classical OLS Assumptions (Gauss-Markov)
 
+7. **[[07. Regression Evaluation Metrics]]**
+   - **MSE** vs **RMSE** vs **MAE** vs **$R^2$** score
+   - Why square root restores natural target units ($\sqrt{\text{MSE}}$)
+   - Outlier penalty characteristics & differentiability
+   - Canonical `fit_linreg_rmse` leak-free pipeline pattern
+
 ---
 
 ## 🔗 Connections

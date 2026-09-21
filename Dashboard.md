@@ -57,6 +57,7 @@ flowchart TD
 >     - [[AI & ML/01. Classical ML/04. Train-Test Split and Generalization|✂️ 04. Train-Test Split & Generalization]]
 >     - [[AI & ML/01. Classical ML/05. End-to-End ML Pipeline|🔁 05. End-to-End ML Pipeline]]
 >     - [[AI & ML/01. Classical ML/06. Linear Regression Assumptions|📐 06. Linear Regression Assumptions & Residuals]]
+>     - [[AI & ML/01. Classical ML/07. Regression Evaluation Metrics|📊 07. Regression Evaluation Metrics (MSE, RMSE, MAE, R²)]]
 >   - **02. Data Preprocessing & Feature Engineering**
 >     - [[AI & ML/02. Data Preprocessing/01. Data Leakage|🛡️ 01. Data Leakage & Safe Transformation (3 Types)]]
 >     - [[AI & ML/02. Data Preprocessing/02. Categorical Encoding|🏷️ 02. Categorical Encoding (Nominal vs Ordinal)]]

@@ -4504,6 +4504,23 @@
       "source_location": "L120"
     },
     {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput",
+      "label": "04. Network Performance - Delay, Latency, Throughput.md",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "04. network performance - delay, latency, throughput.md",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L1"
+    },
+    {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_1_latency_delay_ping_rtt",
       "label": "\u23f1\ufe0f 1. Latency, Delay & Ping (RTT)",
       "_origin": "ast",
@@ -4516,6 +4533,30 @@
       "source_location": "L21"
     },
     {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_1_processing_delay_d_text_proc",
+      "label": "1\ufe0f\u20e3 Processing Delay ($d_{\\text{proc}}$)",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 processing delay ($d_{\\text{proc}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L78"
+    },
+    {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_queuing_delay_d_text_queue",
+      "label": "2\ufe0f\u20e3 Queuing Delay ($d_{\\text{queue}}$)",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 queuing delay ($d_{\\text{queue}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L93"
+    },
+    {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_2_the_bottleneck_link_principle",
       "label": "2. The Bottleneck Link Principle",
       "_origin": "ast",
@@ -4526,6 +4567,30 @@
       "norm_label": "2. the bottleneck link principle",
       "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L178"
+    },
+    {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_the_four_components_of_nodal_delay",
+      "label": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde9 2. the four components of nodal delay",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_3_transmission_delay_d_text_trans",
+      "label": "3\ufe0f\u20e3 Transmission Delay ($d_{\\text{trans}}$)",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 transmission delay ($d_{\\text{trans}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L101"
     },
     {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_3_transmission_vs_propagation_the_golden_distinction",
@@ -4550,6 +4615,18 @@
       "norm_label": "3. why a 1 gbps isp plan $\\neq$ 1 gbps download speed",
       "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L204"
+    },
+    {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_4_propagation_delay_d_text_prop",
+      "label": "4\ufe0f\u20e3 Propagation Delay ($d_{\\text{prop}}$)",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 propagation delay ($d_{\\text{prop}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L118"
     },
     {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_4_total_end_to_end_delay_across_multiple_hops",
@@ -4586,6 +4663,30 @@
       "norm_label": "\ud83d\ude80 6. bandwidth, throughput & bottlenecks",
       "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L168"
+    },
+    {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation",
+      "label": "\ud83d\udd22 Example Calculation:",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd22 example calculation:",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L111"
+    },
+    {
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation_128",
+      "label": "\ud83d\udd22 Example Calculation:",
+      "_origin": "ast",
+      "community": 28,
+      "community_name": "Network Performance: Delay, Latency & Throughput",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd22 example calculation:",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L128"
     },
     {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_network_performance_delay_latency_throughput",
@@ -5452,23 +5553,6 @@
       "source_location": "L72"
     },
     {
-      "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation",
-      "label": "03. Missing Value Imputation.md",
-      "_origin": "ast",
-      "community": 32,
-      "community_name": "\ud83e\ude79 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Machine Learning Preprocessing",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "03. missing value imputation.md",
-      "source_file": "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md",
-      "source_location": "L1"
-    },
-    {
       "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation_1_mcar_missing_completely_at_random",
       "label": "1\ufe0f\u20e3 MCAR \u2014 Missing Completely At Random",
       "_origin": "ast",
@@ -6124,7 +6208,19 @@
       "node_kind": "heading",
       "norm_label": "1\ufe0f\u20e3 log transformation (primary remedy)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L201"
+      "source_location": "L249"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_random_residuals_ideal_well_specified",
+      "label": "\ud83c\udfb2 1. Random Residuals (Ideal & Well-Specified)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfb2 1. random residuals (ideal & well-specified)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L99"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_what_is_an_assumption_why_do_residuals_matter",
@@ -6137,6 +6233,18 @@
       "norm_label": "\ud83e\udde9 1. what is an assumption & why do residuals matter?",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
       "source_location": "L22"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_curved_residual_pattern_non_linearity",
+      "label": "\ud83c\udf19 2. Curved Residual Pattern (Non-Linearity)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf19 2. curved residual pattern (non-linearity)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L123"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_residual_analysis_residual_plots",
@@ -6160,7 +6268,43 @@
       "node_kind": "heading",
       "norm_label": "2\ufe0f\u20e3 weighted least squares (wls)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L221"
+      "source_location": "L269"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_funnel_shaped_residuals_heteroscedasticity",
+      "label": "\ud83d\udce3 3. Funnel-Shaped Residuals (Heteroscedasticity)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce3 3. funnel-shaped residuals (heteroscedasticity)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L148"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "label": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L205"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_clustered_groupings_omitted_categorical_sub_population",
+      "label": "\ud83e\udde9 4. Clustered Groupings (Omitted Categorical Sub-Population)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde9 4. clustered groupings (omitted categorical sub-population)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L173"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
@@ -6172,7 +6316,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udee0\ufe0f 4. remedies for heteroscedasticity",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L197"
+      "source_location": "L245"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
@@ -6184,7 +6328,19 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcdc 5. the classical 6 linear regression assumptions (gauss-markov framework)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L226"
+      "source_location": "L274"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_trend_over_time_autocorrelation",
+      "label": "\ud83d\udcc8 5. Trend Over Time (Autocorrelation)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcc8 5. trend over time (autocorrelation)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L189"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
@@ -6199,6 +6355,30 @@
       "source_location": "L81"
     },
     {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_heteroscedasticity_non_constant_variance",
+      "label": "\ud83d\udd34 Heteroscedasticity (*Non-Constant Variance*)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L231"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_homoscedasticity_constant_variance",
+      "label": "\ud83d\udfe2 Homoscedasticity (*Constant Variance*)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L224"
+    },
+    {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_key_summary_takeaways",
       "label": "\ud83d\udd11 Key Summary Takeaways",
       "_origin": "ast",
@@ -6208,7 +6388,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L273"
+      "source_location": "L321"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
@@ -6232,7 +6412,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L293"
+      "source_location": "L341"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites",
@@ -6244,7 +6424,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L288"
+      "source_location": "L336"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites_next_steps",
@@ -6256,7 +6436,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L286"
+      "source_location": "L334"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_python_diagnostic_implementation",
@@ -6268,7 +6448,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python diagnostic implementation",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L250"
+      "source_location": "L298"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_related_notes",
@@ -6280,17 +6460,17 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L297"
+      "source_location": "L345"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_5_residual_signatures",
-      "label": "\ud83d\udcca Visualizing the 5 Residual Signatures",
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "label": "\ud83d\udcca Visualizing the Diagnostic Patterns with Session 4 Data",
       "_origin": "ast",
       "community": 35,
       "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcca visualizing the 5 residual signatures",
+      "norm_label": "\ud83d\udcca visualizing the diagnostic patterns with session 4 data",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
       "source_location": "L93"
     },
@@ -6456,88 +6636,100 @@
       "source_location": "L80"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_1_processing_delay_d_text_proc",
-      "label": "1\ufe0f\u20e3 Processing Delay ($d_{\\text{proc}}$)",
+      "id": "ext_res_extra_courses",
+      "label": "Extra_Courses.md",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1\ufe0f\u20e3 processing delay ($d_{\\text{proc}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L78"
+      "node_kind": "page",
+      "norm_label": "extra_courses.md",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L1"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_queuing_delay_d_text_queue",
-      "label": "2\ufe0f\u20e3 Queuing Delay ($d_{\\text{queue}}$)",
+      "id": "ext_res_extra_courses_1_stanford_university_machine_learning_specialization",
+      "label": "1. Stanford University \u2013 Machine Learning Specialization",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "2\ufe0f\u20e3 queuing delay ($d_{\\text{queue}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L93"
+      "norm_label": "1. stanford university \u2013 machine learning specialization",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L3"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_the_four_components_of_nodal_delay",
-      "label": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "id": "ext_res_extra_courses_2_deeplearning_ai_deep_learning_specialization",
+      "label": "2. DeepLearning.AI \u2013 Deep Learning Specialization",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udde9 2. the four components of nodal delay",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L53"
+      "norm_label": "2. deeplearning.ai \u2013 deep learning specialization",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L9"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_3_transmission_delay_d_text_trans",
-      "label": "3\ufe0f\u20e3 Transmission Delay ($d_{\\text{trans}}$)",
+      "id": "ext_res_extra_courses_3_google",
+      "label": "3. Google",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "3\ufe0f\u20e3 transmission delay ($d_{\\text{trans}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L101"
+      "norm_label": "3. google",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L15"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_4_propagation_delay_d_text_prop",
-      "label": "4\ufe0f\u20e3 Propagation Delay ($d_{\\text{prop}}$)",
+      "id": "ext_res_extra_courses_4_ibm",
+      "label": "4. IBM",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "4\ufe0f\u20e3 propagation delay ($d_{\\text{prop}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L118"
+      "norm_label": "4. ibm",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L25"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation",
-      "label": "\ud83d\udd22 Example Calculation:",
+      "id": "ext_res_extra_courses_tier_1_worth_doing",
+      "label": "\ud83e\udd47 Tier 1 (Worth doing)",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd22 example calculation:",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L111"
+      "norm_label": "\ud83e\udd47 tier 1 (worth doing)",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L1"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation_128",
-      "label": "\ud83d\udd22 Example Calculation:",
+      "id": "ext_res_extra_courses_tier_2_very_useful_for_software_engineers",
+      "label": "\ud83e\udd48 Tier 2 (Very useful for software engineers)",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd22 example calculation:",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L128"
+      "norm_label": "\ud83e\udd48 tier 2 (very useful for software engineers)",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "ext_res_extra_courses_tier_3_good_additions",
+      "label": "\ud83e\udd49 Tier 3 (Good additions)",
+      "_origin": "ast",
+      "community": 37,
+      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd49 tier 3 (good additions)",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L48"
     },
     {
       "id": "dsa_01_strings_stringbuilder_1_what_is_stringbuilder",
@@ -6689,6 +6881,18 @@
       "source_location": "L1"
     },
     {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
+      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L99"
+    },
+    {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_why_does_networking_have_different_names_for_data",
       "label": "\u2753 1. Why Does Networking Have Different Names for \"Data\"?",
       "_origin": "ast",
@@ -6701,6 +6905,30 @@
       "source_location": "L28"
     },
     {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
+      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
+      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L105"
+    },
+    {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_3_comprehensive_pdu_comparison_matrix",
       "label": "\ud83d\udcca 3. Comprehensive PDU Comparison Matrix",
       "_origin": "ast",
@@ -6711,6 +6939,30 @@
       "norm_label": "\ud83d\udcca 3. comprehensive pdu comparison matrix",
       "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L152"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
+      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
+      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L136"
     },
     {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_4_packets_are_end_to_end_frames_are_hop_by_hop",
@@ -6735,6 +6987,18 @@
       "norm_label": "\ud83c\udfaf 5. architectural verification & summary",
       "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L185"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
+      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
+      "_origin": "ast",
+      "community": 39,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L147"
     },
     {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_protocol_data_units_segment_packet_frame_bits",
@@ -7307,102 +7571,6 @@
       "source_location": "L84"
     },
     {
-      "id": "ext_res_extra_courses",
-      "label": "Extra_Courses.md",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "extra_courses.md",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ext_res_extra_courses_1_stanford_university_machine_learning_specialization",
-      "label": "1. Stanford University \u2013 Machine Learning Specialization",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1. stanford university \u2013 machine learning specialization",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L3"
-    },
-    {
-      "id": "ext_res_extra_courses_2_deeplearning_ai_deep_learning_specialization",
-      "label": "2. DeepLearning.AI \u2013 Deep Learning Specialization",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2. deeplearning.ai \u2013 deep learning specialization",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L9"
-    },
-    {
-      "id": "ext_res_extra_courses_3_google",
-      "label": "3. Google",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3. google",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L15"
-    },
-    {
-      "id": "ext_res_extra_courses_4_ibm",
-      "label": "4. IBM",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "4. ibm",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L25"
-    },
-    {
-      "id": "ext_res_extra_courses_tier_1_worth_doing",
-      "label": "\ud83e\udd47 Tier 1 (Worth doing)",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udd47 tier 1 (worth doing)",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ext_res_extra_courses_tier_2_very_useful_for_software_engineers",
-      "label": "\ud83e\udd48 Tier 2 (Very useful for software engineers)",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udd48 tier 2 (very useful for software engineers)",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L35"
-    },
-    {
-      "id": "ext_res_extra_courses_tier_3_good_additions",
-      "label": "\ud83e\udd49 Tier 3 (Good additions)",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udd49 tier 3 (good additions)",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L48"
-    },
-    {
       "id": "java_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
@@ -7549,6 +7717,18 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 6. the complete leakage-free workflow",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L183"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_how_python_knows_which_variable_receives_which_partition",
+      "label": "\u2753 How Python Knows Which Variable Receives Which Partition",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2753 how python knows which variable receives which partition",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
       "source_location": "L169"
     },
     {
@@ -7561,7 +7741,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L210"
+      "source_location": "L224"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
@@ -7573,7 +7753,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L206"
+      "source_location": "L220"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
@@ -7585,7 +7765,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L204"
+      "source_location": "L218"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
@@ -7597,7 +7777,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L213"
+      "source_location": "L227"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_standard_split_proportions",
@@ -8282,6 +8462,23 @@
       "source_location": "L128"
     },
     {
+      "id": "computer_networking_11_mtu_and_fragmentation",
+      "label": "11. MTU and Fragmentation.md",
+      "_origin": "ast",
+      "community": 45,
+      "community_name": "MTU and IP Fragmentation",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "11. mtu and fragmentation.md",
+      "source_file": "Computer Networking/11. MTU and Fragmentation.md",
+      "source_location": "L1"
+    },
+    {
       "id": "computer_networking_11_mtu_and_fragmentation_1_what_is_mtu",
       "label": "\ud83d\udccf 1. What is MTU?",
       "_origin": "ast",
@@ -8556,23 +8753,6 @@
       "norm_label": "xor properties (`^`)",
       "source_file": "DSA/04. Bit Manipulation/01. Bitwise Operators.md",
       "source_location": "L96"
-    },
-    {
-      "id": "computer_networking_06_osi_vs_tcp_ip_model",
-      "label": "06. OSI vs TCP-IP Model.md",
-      "_origin": "ast",
-      "community": 47,
-      "community_name": "\ud83c\udfdb\ufe0f Layered Network Models: OSI vs. TCP/IP Architecture",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "06. osi vs tcp-ip model.md",
-      "source_file": "Computer Networking/06. OSI vs TCP-IP Model.md",
-      "source_location": "L1"
     },
     {
       "id": "computer_networking_06_osi_vs_tcp_ip_model_1_why_do_networks_use_layers",
@@ -9461,23 +9641,6 @@
       "source_location": "L115"
     },
     {
-      "id": "ai_ml_02_data_preprocessing_02_categorical_encoding",
-      "label": "02. Categorical Encoding.md",
-      "_origin": "ast",
-      "community": 50,
-      "community_name": "\ud83c\udff7\ufe0f Categorical Encoding: Nominal vs. Ordinal",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "AI &amp; ML",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "02. categorical encoding.md",
-      "source_file": "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
-      "source_location": "L1"
-    },
-    {
       "id": "ai_ml_02_data_preprocessing_02_categorical_encoding_1_what_is_a_categorical_variable",
       "label": "\ud83e\udde9 1. What is a Categorical Variable?",
       "_origin": "ast",
@@ -9586,23 +9749,6 @@
       "source_location": "L174"
     },
     {
-      "id": "computer_networking_07_network_protocols_and_standards",
-      "label": "07. Network Protocols and Standards.md",
-      "_origin": "ast",
-      "community": 51,
-      "community_name": "Network Protocols and Standards",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "07. network protocols and standards.md",
-      "source_file": "Computer Networking/07. Network Protocols and Standards.md",
-      "source_location": "L1"
-    },
-    {
       "id": "computer_networking_07_network_protocols_and_standards_1_why_do_networks_need_protocols",
       "label": "\u2753 1. Why Do Networks Need Protocols?",
       "_origin": "ast",
@@ -9697,6 +9843,23 @@
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/07. Network Protocols and Standards.md",
       "source_location": "L130"
+    },
+    {
+      "id": "computer_networking_10_ethernet_and_mac_addressing",
+      "label": "10. Ethernet and MAC Addressing.md",
+      "_origin": "ast",
+      "community": 52,
+      "community_name": "Ethernet and MAC Addressing",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "10. ethernet and mac addressing.md",
+      "source_file": "Computer Networking/10. Ethernet and MAC Addressing.md",
+      "source_location": "L1"
     },
     {
       "id": "computer_networking_10_ethernet_and_mac_addressing_1_anatomy_of_a_mac_address",
@@ -10475,6 +10638,23 @@
       "source_location": "L1"
     },
     {
+      "id": "ai_ml_02_data_preprocessing_02_categorical_encoding",
+      "label": "02. Categorical Encoding.md",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "AI &amp; ML",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "02. categorical encoding.md",
+      "source_file": "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
+      "source_location": "L1"
+    },
+    {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions",
       "label": "06. Linear Regression Assumptions.md",
       "_origin": "ast",
@@ -10523,6 +10703,23 @@
       "node_kind": "page",
       "norm_label": "01. data leakage.md",
       "source_file": "AI & ML/02. Data Preprocessing/01. Data Leakage.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation",
+      "label": "03. Missing Value Imputation.md",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Machine Learning Preprocessing",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "03. missing value imputation.md",
+      "source_file": "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md",
       "source_location": "L1"
     },
     {
@@ -10852,7 +11049,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 connections",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L58"
+      "source_location": "L64"
     },
     {
       "id": "ai_ml_01_classical_ml_readme_learning_path",
@@ -10876,7 +11073,7 @@
       "node_kind": "heading",
       "norm_label": "next topics",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L63"
+      "source_location": "L69"
     },
     {
       "id": "ai_ml_01_classical_ml_readme_prerequisites",
@@ -10888,7 +11085,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L60"
+      "source_location": "L66"
     },
     {
       "id": "ai_ml_01_classical_ml_readme_related_notes",
@@ -10900,7 +11097,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L70"
+      "source_location": "L76"
     },
     {
       "id": "computer_networking_08_encapsulation_and_decapsulation",
@@ -10956,61 +11153,217 @@
       "source_location": "L15"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
-      "label": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics",
+      "label": "07. Regression Evaluation Metrics.md",
       "_origin": "ast",
       "community": 63,
-      "community_name": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L157"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_heteroscedasticity_non_constant_variance",
-      "label": "\ud83d\udd34 Heteroscedasticity (*Non-Constant Variance*)",
-      "_origin": "ast",
-      "community": 63,
-      "community_name": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L183"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_homoscedasticity_constant_variance",
-      "label": "\ud83d\udfe2 Homoscedasticity (*Constant Variance*)",
-      "_origin": "ast",
-      "community": 63,
-      "community_name": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L176"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput",
-      "label": "04. Network Performance - Delay, Latency, Throughput.md",
-      "_origin": "ast",
-      "community": 64,
-      "community_name": "Computer Networking/README.md",
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
       "file_type": "document",
       "frontmatter": {
-        "topic": "Computer Networks",
+        "topic": "Classical Machine Learning",
         "type": "concept",
-        "date": "2026-09-18"
+        "date": "2026-09-21"
       },
       "node_kind": "page",
-      "norm_label": "04. network performance - delay, latency, throughput.md",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "norm_label": "07. regression evaluation metrics.md",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
       "source_location": "L1"
     },
     {
-      "id": "computer_networking_10_ethernet_and_mac_addressing",
-      "label": "10. Ethernet and MAC Addressing.md",
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_1_mean_squared_error_mse",
+      "label": "1\ufe0f\u20e3 Mean Squared Error (MSE)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 mean squared error (mse)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L51"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_2_root_mean_squared_error_rmse",
+      "label": "2\ufe0f\u20e3 Root Mean Squared Error (RMSE)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 root mean squared error (rmse)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L69"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_3_mean_absolute_error_mae",
+      "label": "3\ufe0f\u20e3 Mean Absolute Error (MAE)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 mean absolute error (mae)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L88"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "label": "4\ufe0f\u20e3 $R^2$ Score (Coefficient of Determination)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 $r^2$ score (coefficient of determination)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
+      "label": "\ud83d\udcbb Complete Production Pattern: `fit_linreg_rmse`",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcbb complete production pattern: `fit_linreg_rmse`",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L137"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics",
+      "label": "Core Characteristics:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core characteristics:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L55"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_73",
+      "label": "Core Characteristics:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core characteristics:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_92",
+      "label": "Core Characteristics:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core characteristics:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_interpretation_scale",
+      "label": "Interpretation Scale:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "interpretation scale:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L113"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_next_steps",
+      "label": "Next Steps",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next steps",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L181"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L177"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L175"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "label": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcca regression evaluation metrics (mse, rmse, mae, $r^2$)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L16"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L185"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
+      "label": "\u2696\ufe0f Side-by-Side Comparison Matrix",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2696\ufe0f side-by-side comparison matrix",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_four_essential_regression_metrics",
+      "label": "\ud83c\udfaf The Four Essential Regression Metrics",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfaf the four essential regression metrics",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "computer_networking_06_osi_vs_tcp_ip_model",
+      "label": "06. OSI vs TCP-IP Model.md",
       "_origin": "ast",
       "community": 64,
       "community_name": "Computer Networking/README.md",
@@ -11021,13 +11374,13 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "10. ethernet and mac addressing.md",
-      "source_file": "Computer Networking/10. Ethernet and MAC Addressing.md",
+      "norm_label": "06. osi vs tcp-ip model.md",
+      "source_file": "Computer Networking/06. OSI vs TCP-IP Model.md",
       "source_location": "L1"
     },
     {
-      "id": "computer_networking_11_mtu_and_fragmentation",
-      "label": "11. MTU and Fragmentation.md",
+      "id": "computer_networking_07_network_protocols_and_standards",
+      "label": "07. Network Protocols and Standards.md",
       "_origin": "ast",
       "community": 64,
       "community_name": "Computer Networking/README.md",
@@ -11038,8 +11391,8 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "11. mtu and fragmentation.md",
-      "source_file": "Computer Networking/11. MTU and Fragmentation.md",
+      "norm_label": "07. network protocols and standards.md",
+      "source_file": "Computer Networking/07. Network Protocols and Standards.md",
       "source_location": "L1"
     },
     {
@@ -11116,78 +11469,6 @@
       "norm_label": "\ud83c\udf10 introduction to computer networks",
       "source_file": "Computer Networking/01. Introduction to Computer Networks.md",
       "source_location": "L12"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
-      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L99"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
-      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L60"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
-      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L105"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
-      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L126"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
-      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L136"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
-      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
-      "_origin": "ast",
-      "community": 66,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L147"
     },
     {
       "id": "ai_ml_readme_1_01_classical_ml_readme_01_classical_ml_foundations",
@@ -14066,6 +14347,17 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_how_python_knows_which_variable_receives_which_partition",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
       "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
       "relation": "contains",
@@ -14073,7 +14365,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L206",
+      "source_location": "L220",
       "weight": 1.0
     },
     {
@@ -14084,7 +14376,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L210",
+      "source_location": "L224",
       "weight": 1.0
     },
     {
@@ -14106,7 +14398,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L169",
+      "source_location": "L183",
       "weight": 1.0
     },
     {
@@ -14128,7 +14420,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L204",
+      "source_location": "L218",
       "weight": 1.0
     },
     {
@@ -14139,7 +14431,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L213",
+      "source_location": "L227",
       "weight": 1.0
     },
     {
@@ -14282,7 +14574,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L176",
+      "source_location": "L224",
       "weight": 1.0
     },
     {
@@ -14293,7 +14585,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L183",
+      "source_location": "L231",
       "weight": 1.0
     },
     {
@@ -14304,7 +14596,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L201",
+      "source_location": "L249",
       "weight": 1.0
     },
     {
@@ -14315,12 +14607,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L221",
+      "source_location": "L269",
       "weight": 1.0
     },
     {
       "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
-      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_5_residual_signatures",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14337,18 +14629,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L157",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L197",
+      "source_location": "L205",
       "weight": 1.0
     },
     {
@@ -14364,13 +14645,24 @@
     },
     {
       "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L245",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
       "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L226",
+      "source_location": "L274",
       "weight": 1.0
     },
     {
@@ -14381,7 +14673,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L250",
+      "source_location": "L298",
       "weight": 1.0
     },
     {
@@ -14392,7 +14684,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L273",
+      "source_location": "L321",
       "weight": 1.0
     },
     {
@@ -14403,7 +14695,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L286",
+      "source_location": "L334",
       "weight": 1.0
     },
     {
@@ -14414,7 +14706,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L297",
+      "source_location": "L345",
       "weight": 1.0
     },
     {
@@ -14447,7 +14739,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L288",
+      "source_location": "L336",
       "weight": 1.0
     },
     {
@@ -14458,7 +14750,238 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L293",
+      "source_location": "L341",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_curved_residual_pattern_non_linearity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L123",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_funnel_shaped_residuals_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L148",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_clustered_groupings_omitted_categorical_sub_population",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_trend_over_time_autocorrelation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L189",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
+      "target": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_random_residuals_ideal_well_specified",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L99",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_1_mean_squared_error_mse",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_2_root_mean_squared_error_rmse",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_73",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_3_mean_absolute_error_mae",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics_92",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_interpretation_scale",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L113",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L177",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L181",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L137",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L175",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L185",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_four_essential_regression_metrics",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_1_mean_squared_error_mse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_2_root_mean_squared_error_rmse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_3_mean_absolute_error_mae",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L88",
       "weight": 1.0
     },
     {
@@ -14491,7 +15014,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L58",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -14502,7 +15025,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L70",
+      "source_location": "L76",
       "weight": 1.0
     },
     {
@@ -14513,7 +15036,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L60",
+      "source_location": "L66",
       "weight": 1.0
     },
     {
@@ -14524,7 +15047,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L63",
+      "source_location": "L69",
       "weight": 1.0
     },
     {
@@ -21520,7 +22043,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L214",
+      "source_location": "L228",
       "weight": 1.0
     },
     {
@@ -21564,7 +22087,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L298",
+      "source_location": "L346",
       "weight": 1.0
     },
     {
@@ -21575,7 +22098,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L302",
+      "source_location": "L350",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics",
+      "target": "ai_ml_01_classical_ml_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L186",
       "weight": 1.0
     },
     {
@@ -21586,7 +22120,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L61",
+      "source_location": "L67",
       "weight": 1.0
     },
     {
@@ -21597,7 +22131,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L71",
+      "source_location": "L77",
       "weight": 1.0
     },
     {
@@ -21608,7 +22142,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L72",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
@@ -21872,7 +22406,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L103",
+      "source_location": "L104",
       "weight": 1.0
     },
     {
@@ -21883,7 +22417,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L104",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -21894,7 +22428,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L105",
+      "source_location": "L106",
       "weight": 1.0
     },
     {
@@ -21905,7 +22439,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L108",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
@@ -21916,7 +22450,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L109",
+      "source_location": "L110",
       "weight": 1.0
     },
     {
@@ -21982,7 +22516,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L87",
+      "source_location": "L88",
       "weight": 1.0
     },
     {
@@ -21993,7 +22527,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L88",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -22004,7 +22538,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L89",
+      "source_location": "L90",
       "weight": 1.0
     },
     {
@@ -22015,7 +22549,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L91",
+      "source_location": "L92",
       "weight": 1.0
     },
     {
@@ -22026,7 +22560,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L92",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -22037,7 +22571,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L95",
+      "source_location": "L96",
       "weight": 1.0
     },
     {
@@ -22966,5 +23500,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "a388e4c1e88f6d18d0aff9083c46324d8a7376c4"
+  "built_at_commit": "0bd7cae5aa749bacc512efbd90809d560c1dae67"
 }
