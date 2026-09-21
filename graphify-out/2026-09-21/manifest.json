@@ -120,9 +120,9 @@
     "semantic_hash": ""
   },
   "Dashboard.md": {
-    "mtime": 1789974384.8079882,
-    "seen": 1789974610.5152104,
-    "ast_hash": "ca298fb0e9989ad086c98a528d19a9e0",
+    "mtime": 1789975510.1889138,
+    "seen": 1789975517.3780034,
+    "ast_hash": "b625529ba58d40a9b7448f0bb284c211",
     "semantic_hash": ""
   },
   "Ext_&_res/Extra_Courses.md": {
@@ -222,15 +222,15 @@
     "semantic_hash": ""
   },
   "AI & ML/Classical ML/End-to-End ML Pipeline.md": {
-    "mtime": 1789970961.7976649,
-    "seen": 1789970971.2708068,
-    "ast_hash": "b22459081edd3af491316181504fd540",
+    "mtime": 1789974808.9921284,
+    "seen": 1789974829.304566,
+    "ast_hash": "fa322be341f0219075f26a73d23bead4",
     "semantic_hash": ""
   },
   "AI & ML/Classical ML/Features, Targets, and Datasets.md": {
-    "mtime": 1788582934.4052918,
-    "seen": 1788582966.8854768,
-    "ast_hash": "6a60063503c2dec8bffd6d3b61f2ce3c",
+    "mtime": 1789974798.0896215,
+    "seen": 1789974829.304568,
+    "ast_hash": "e082a35d10f3a6158c7dfe9fe43e6a62",
     "semantic_hash": ""
   },
   "AI & ML/Classical ML/Introduction to Machine Learning.md": {
@@ -240,9 +240,9 @@
     "semantic_hash": ""
   },
   "AI & ML/Classical ML/README.md": {
-    "mtime": 1789969225.1600475,
-    "seen": 1789969236.0640771,
-    "ast_hash": "fd96cb7b0de2946eaf50a518a49aadbc",
+    "mtime": 1789975485.0102324,
+    "seen": 1789975517.3779533,
+    "ast_hash": "13549b5cf51d3c2c8a0842f954612884",
     "semantic_hash": ""
   },
   "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md": {
@@ -252,15 +252,15 @@
     "semantic_hash": ""
   },
   "AI & ML/Classical ML/Train-Test Split and Generalization.md": {
-    "mtime": 1788582942.4807715,
-    "seen": 1788582966.8854797,
-    "ast_hash": "94a2e459224b31b6ba0cc555694618a0",
+    "mtime": 1789974787.113769,
+    "seen": 1789974829.3045728,
+    "ast_hash": "31453c3be05d78ac5a576ff6f20012a5",
     "semantic_hash": ""
   },
   "AI & ML/README.md": {
-    "mtime": 1789974560.4508708,
-    "seen": 1789974610.5151772,
-    "ast_hash": "22c4ecce9a8046330a28b76ebe7f2633",
+    "mtime": 1789975500.7005181,
+    "seen": 1789975517.377963,
+    "ast_hash": "7671e710243d91cacc23a7844b8c74eb",
     "semantic_hash": ""
   },
   "DSA/04. Bit Manipulation/Bit Manipulation Problems.md": {
@@ -432,9 +432,9 @@
     "semantic_hash": ""
   },
   "AI & ML/Data Preprocessing/Feature Scaling.md": {
-    "mtime": 1789974287.76783,
-    "seen": 1789974610.5151742,
-    "ast_hash": "6f36edc5fe9e74355334978f8fa46a7b",
+    "mtime": 1789974814.872898,
+    "seen": 1789974829.3045764,
+    "ast_hash": "88a5e99694916e0f6dbd0b6aff18228f",
     "semantic_hash": ""
   },
   "AI & ML/Data Preprocessing/README.md": {
@@ -465,6 +465,12 @@
     "mtime": 1789973793.8509705,
     "seen": 1789973941.4518323,
     "ast_hash": "4c3b350291853bd2c00f454f0c32346a",
+    "semantic_hash": ""
+  },
+  "AI & ML/Classical ML/Linear Regression Assumptions.md": {
+    "mtime": 1789975475.9654722,
+    "seen": 1789975517.377951,
+    "ast_hash": "9cb67bf886db3c3961544502731f099e",
     "semantic_hash": ""
   }
 }

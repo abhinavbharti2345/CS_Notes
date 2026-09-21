@@ -53,6 +53,7 @@ flowchart TD
 >   - [[AI & ML/Classical ML/README|📊 01. Classical Machine Learning Foundations]]
 >     - [[AI & ML/Classical ML/Introduction to Machine Learning|🧠 Introduction to Machine Learning]]
 >     - [[AI & ML/Classical ML/Supervised vs Unsupervised Learning|⚖️ Supervised vs Unsupervised Learning]]
+>     - [[AI & ML/Classical ML/Linear Regression Assumptions|📐 Linear Regression Assumptions & Residuals]]
 >   - [[AI & ML/Data Preprocessing/README|🧹 02. Data Preprocessing & Feature Engineering]]
 >     - [[AI & ML/Data Preprocessing/Data Leakage|🛡️ Data Leakage & Safe Transformation]]
 >     - [[AI & ML/Data Preprocessing/Categorical Encoding|🏷️ Categorical Encoding (Nominal vs Ordinal)]]

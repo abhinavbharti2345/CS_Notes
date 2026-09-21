@@ -18,10 +18,12 @@ date: 2026-09-21
 ## 📖 Module Topics
 
 1. **[[Data Leakage]]**
-   - Definition: Unintended information transfer from outside the training partition
-   - False confidence in development vs catastrophic real-world failure
-   - Preprocessing leakage & why fitting before splitting fails
-   - The Golden Workflow: `Split` $\to$ `fit() on train` $\to$ `transform() on train & test`
+   - Master definition: Information reaching the model that wouldn't be available at prediction time
+   - **The 3 Leakage Patterns:**
+     - 1️⃣ *Preprocessing Leakage*: Computing statistics over full dataset before splitting ($\text{Test} \to \text{Train}$)
+     - 2️⃣ *Target Leakage*: Using features only known after the target event ($\text{After} \to \text{Before}$)
+     - 3️⃣ *Temporal Leakage*: Future data leaking into past predictions via random splits ($\text{Future} \to \text{Past}$)
+   - Safe workflows: `train_test_split`, `TimeSeriesSplit`, and Scikit-Learn `Pipeline`
 
 2. **[[Categorical Encoding]]**
    - Nominal vs. Ordinal categorical variables

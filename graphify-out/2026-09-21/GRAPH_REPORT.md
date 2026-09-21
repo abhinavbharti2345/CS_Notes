@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 78 files · ~58,088 words
+- 79 files · ~59,860 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 910 nodes · 1092 edges · 58 communities (56 shown, 2 thin omitted)
+- 926 nodes · 1114 edges · 63 communities (61 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `3c8821fd`
+- Built from commit: `1b181da4`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -47,10 +47,10 @@
 - ⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference
 - 🧱 Linked List Fundamentals
 - 📚 Active Modules
-- Features, Targets, and Datasets
+- 📊 Features, Targets, and Datasets
 - 🧠 Linked List Core Patterns
 - Network Performance: Delay, Latency & Throughput
-- Train-Test Split and Generalization
+- ✂️ Train-Test Split and Generalization
 - XOR Patterns
 - 🥇 Tier 1 (Worth doing)
 - 🏗️ StringBuilder (Architecture, Methods & DSA Patterns)
@@ -58,6 +58,7 @@
 - 📦 Packets and Packet Switching
 - 🔍 Binary Search
 - Protocol Data Units: Segment, Packet, Frame & Bits
+- 🔁 End-to-End ML Pipeline
 - 🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)
 - Switching Techniques: Packet vs. Circuit Switching
 - 🧠 Introduction to Machine Learning
@@ -69,10 +70,14 @@
 - Network Protocols and Standards
 - 📚 Roadmap Stages & Core Notes
 - Subnet Masks and CIDR Notation
+- 🔤 Strings & String Manipulation
 - 🧭 Computer Science Knowledge Vault: Command Center
-- 🔗 Linked Lists Module
+- ☕ Java Knowledge Base & Roadmap
+- 📐 Linear Regression Assumptions & Residual Analysis
 - 🩹 Missing Value Imputation
 - Data Leakage
+- 🔗 Linked Lists Module
+- Quick Look / Take a Look Cheatsheet Rule
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
@@ -81,15 +86,15 @@
 4. `Functions Reference` - 13 edges
 5. `🧱 Linked List Fundamentals` - 13 edges
 6. `JSON Canvas Skill` - 11 edges
-7. `Introduction to Node.js` - 11 edges
-8. `🧭 Supervised vs Unsupervised Learning` - 10 edges
-9. `📏 Feature Scaling & StandardScaler` - 10 edges
-10. `⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference` - 10 edges
+7. `📐 Linear Regression Assumptions & Residual Analysis` - 11 edges
+8. `Introduction to Node.js` - 11 edges
+9. `🧭 Supervised vs Unsupervised Learning` - 10 edges
+10. `📏 Feature Scaling & StandardScaler` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (58 total, 2 thin omitted)
+## Communities (63 total, 2 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -108,8 +113,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.12
-Nodes (18): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist? (+10 more)
+Cohesion: 0.19
+Nodes (5): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist?, 🌐 Introduction to Computer Networks
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.05
@@ -120,8 +125,8 @@ Cohesion: 0.12
 Nodes (17): 1. Eliminates the Reversal Pass (`O(N)` savings), 2. Zero Array Resizing & Reallocations, 3. Avoids Object Overhead & Method Dispatch, 4. Zero-Copy Leading Carry Handling, Code, Code, 📊 Complexity & Performance Comparison, Constraints (+9 more)
 
 ### Community 7 - "AI & ML/README.md"
-Cohesion: 0.10
-Nodes (27): 🏡 Concrete Pipeline Walkthrough: House Price Prediction, End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🗺️ The 10-Stage Machine Learning Lifecycle, 📊 Classical Machine Learning Foundations (+19 more)
+Cohesion: 0.14
+Nodes (20): 📊 Classical Machine Learning Foundations, 🔗 Connections, 📖 Learning Path, Next Topics, Prerequisites, 🔗 Related Notes, 🧹 Data Preprocessing & Feature Engineering, 📖 Module Topics (+12 more)
 
 ### Community 8 - "➕ String Arithmetic & Add Binary Pattern"
 Cohesion: 0.17
@@ -211,9 +216,9 @@ Nodes (28): 10. The 3-Pointer Mental Model, 1. What Problem Does a Linked List S
 Cohesion: 0.25
 Nodes (8): 📚 Active Modules, 🔍 [[Binary Search|02. Binary Search]], ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[DSA/01. Strings/README|01. Strings]], 🔗 [[DSA/03. Linked Lists/README|03. Linked Lists]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
 
-### Community 32 - "Features, Targets, and Datasets"
-Cohesion: 0.17
-Nodes (12): 1. The Key Components of a Dataset, 2. Definitions & Mathematical Notation, 3. The Core Machine Learning Equation, A. Features ($X$), B. Target / Label ($y$), C. Samples (Rows), 📖 Core Machine Learning Vocabulary, Features, Targets, and Datasets (+4 more)
+### Community 32 - "📊 Features, Targets, and Datasets"
+Cohesion: 0.22
+Nodes (9): 📖 1. The Core Machine Learning Vocabulary, 🗂️ 2. Visual Structure of a Dataset, 📐 3. The Governing Machine Learning Equation, 📊 Features, Targets, and Datasets, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 💻 Python Representation (Pandas & Scikit-Learn) (+1 more)
 
 ### Community 33 - "🧠 Linked List Core Patterns"
 Cohesion: 0.09
@@ -223,9 +228,9 @@ Nodes (22): 1. Pattern 1: Basic Traversal & Linear Aggregation, 2. Pattern 2: Fa
 Cohesion: 0.11
 Nodes (19): ⏱️ 1. Latency, Delay & Ping (RTT), 1️⃣ Processing Delay ($d_{\text{proc}}$), 2️⃣ Queuing Delay ($d_{\text{queue}}$), 2. The Bottleneck Link Principle, 🧩 2. The Four Components of Nodal Delay, 3️⃣ Transmission Delay ($d_{\text{trans}}$), 🌊 3. Transmission vs. Propagation (The Golden Distinction), 3. Why a 1 Gbps ISP Plan $\neq$ 1 Gbps Download Speed (+11 more)
 
-### Community 35 - "Train-Test Split and Generalization"
+### Community 35 - "✂️ Train-Test Split and Generalization"
 Cohesion: 0.18
-Nodes (11): 🎯 Generalization: The Core Goal of Machine Learning, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, Standard Split Proportions:, ✂️ The Train-Test Split, The Warning Sign of Overfitting: (+3 more)
+Nodes (11): 🚫 1. Why We Cannot Train on 100% of Data, ✂️ 2. The Train-Test Split Workflow, 🎯 3. Generalization: The Core Goal of Machine Learning, 🚨 4. What is Overfitting?, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 💻 Python Implementation (+3 more)
 
 ### Community 36 - "XOR Patterns"
 Cohesion: 0.25
@@ -248,12 +253,16 @@ Cohesion: 0.12
 Nodes (16): 1. 🚦 Fair Sharing & Statistical Multiplexing, 🧩 1. The Core Concept: Data vs. Packet, 2. ⚡ Error Recovery & Retransmission Efficiency, ❓ 2. Why Break Data Into Packets?, 📦 3. Anatomy of a Packet: Header vs. Payload, 3. 💾 Router Buffer and Memory Feasibility, 4. 🔀 Dynamic Path Selection & Resilience (Multipath Routing), 🔄 4. How Packet Switching Works (+8 more)
 
 ### Community 41 - "🔍 Binary Search"
-Cohesion: 0.13
+Cohesion: 0.14
 Nodes (14): 💡 1. Core Idea, 📋 2. Basic Template, 🎯 3. Walkthrough Example, ❓ 4. Key Questions & Nuances, 🧠 5. Mental Model, 🔍 Binary Search, Step 1: Initial State, Step 2: Second Iteration (+6 more)
 
 ### Community 42 - "Protocol Data Units: Segment, Packet, Frame & Bits"
 Cohesion: 0.17
 Nodes (12): 1️⃣ Application Layer $\to$ Data / Message, ❓ 1. Why Does Networking Have Different Names for "Data"?, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 📊 3. Comprehensive PDU Comparison Matrix, 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop! (+4 more)
+
+### Community 43 - "🔁 End-to-End ML Pipeline"
+Cohesion: 0.25
+Nodes (8): 🗺️ 1. The 10-Stage Machine Learning Lifecycle, 🏡 2. Concrete Pipeline Walkthrough: House Price Prediction, 🛡️ 3. Encapsulation with Scikit-Learn `Pipeline`, 🔁 End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes
 
 ### Community 44 - "🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)"
 Cohesion: 0.20
@@ -299,13 +308,21 @@ Nodes (8): 🌐 Computer Networks MOC (Map of Content), 🔗 Cross-Domain CS Con
 Cohesion: 0.25
 Nodes (8): 🥸 1. What Does a Subnet Mask Actually Do?, ⚡ 2. Understanding CIDR Slash Notation (`/n`), 🏛️ 3. Standard Octet Boundaries (`/8`, `/16`, `/24`), 🧮 4. The Master CIDR Subnet Mask Reference Table, 🔍 5. How Routers Find the Network Address: Bitwise AND, 🎯 6. Quick Test Answers & Explanations, 🔗 Related Notes & Next Concepts, 🎭 Subnet Masks and CIDR Notation
 
+### Community 55 - "🔤 Strings & String Manipulation"
+Cohesion: 0.40
+Nodes (5): ⚡ Essential String Idioms (Java), 🗺️ Module Learning Path, 💡 Practice Problems, 🔗 Related Notes, 🔤 Strings & String Manipulation
+
 ### Community 56 - "🧭 Computer Science Knowledge Vault: Command Center"
 Cohesion: 0.50
 Nodes (4): 🧭 Computer Science Knowledge Vault: Command Center, 🧠 Core Domain Master MOCs, ⚡ Quick Actions & Reference Utilities, 🗺️ Vault Architecture & Domain Map
 
-### Community 57 - "🔗 Linked Lists Module"
-Cohesion: 0.40
-Nodes (5): 🔗 Linked Lists Module, 🧭 Module Learning Path, 📚 Module Notes, ⚡ Quick Comparison: Array vs. Linked List, 🔗 Related Notes & Navigation
+### Community 57 - "☕ Java Knowledge Base & Roadmap"
+Cohesion: 0.50
+Nodes (4): 🔗 Connections, 🗺️ Core Topics, ☕ Java Knowledge Base & Roadmap, ⚡ Quick Reference & Syntax
+
+### Community 58 - "📐 Linear Regression Assumptions & Residual Analysis"
+Cohesion: 0.12
+Nodes (17): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🛠️ 4. Remedies for Heteroscedasticity, 📜 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework), 🔍 Comprehensive Diagnostic Pattern Cheat Sheet (+9 more)
 
 ### Community 59 - "🩹 Missing Value Imputation"
 Cohesion: 0.13
@@ -315,22 +332,30 @@ Nodes (15): 1. 🧮 Mean Imputation, 2. 🛡️ Median Imputation (Outlier-Robus
 Cohesion: 0.13
 Nodes (15): ✅ Approved Safe Pattern, 🚨 Data Leakage, Next Steps, 🔄 Preprocessing Leakage: The Most Common Form, Prerequisites, 🔗 Prerequisites & Next Steps, 🚫 Prohibited Code Patterns, 🔗 Related Notes (+7 more)
 
+### Community 61 - "🔗 Linked Lists Module"
+Cohesion: 0.40
+Nodes (5): 🔗 Linked Lists Module, 🧭 Module Learning Path, 📚 Module Notes, ⚡ Quick Comparison: Array vs. Linked List, 🔗 Related Notes & Navigation
+
+### Community 62 - "Quick Look / Take a Look Cheatsheet Rule"
+Cohesion: 0.50
+Nodes (4): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions
+
 ## Knowledge Gaps
-- **619 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+614 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 627 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **632 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+627 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 640 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Bit Manipulation Problems` connect `1. Single Number` to `Dashboard.md`?**
-  _High betweenness centrality (0.070) - this node is a cross-community bridge._
+  _High betweenness centrality (0.069) - this node is a cross-community bridge._
 - **Why does `🧱 Linked List Fundamentals` connect `🧱 Linked List Fundamentals` to `Dashboard.md`?**
-  _High betweenness centrality (0.047) - this node is a cross-community bridge._
+  _High betweenness centrality (0.046) - this node is a cross-community bridge._
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
-  _High betweenness centrality (0.042) - this node is a cross-community bridge._
+  _High betweenness centrality (0.041) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _619 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _632 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**

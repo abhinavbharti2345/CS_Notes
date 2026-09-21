@@ -48,6 +48,7 @@ The fundamental paradigm, mental models, and vocabulary of machine learning:
 - [[Features, Targets, and Datasets]] — Features ($X$), Targets ($y$), Samples, and matrix representation
 - [[Train-Test Split and Generalization]] — Unseen data evaluation & introduction to Overfitting
 - [[End-to-End ML Pipeline]] — The complete 10-step lifecycle from raw data to model iteration
+- [[Linear Regression Assumptions]] — Residual analysis ($e = y - \hat{y}$), homoscedasticity vs heteroscedasticity, and log transformations
 
 ### 2. [[Data Preprocessing/README|02. Data Preprocessing & Feature Engineering]]
 Preparing and transforming raw numerical & categorical features for optimal algorithmic performance:

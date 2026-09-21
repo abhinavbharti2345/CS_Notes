@@ -46,6 +46,13 @@ date: 2026-09-05
    - The complete 10-stage machine learning workflow:
      `Raw Data` $\rightarrow$ `Understand` $\rightarrow$ `Clean` $\rightarrow$ `Split` $\rightarrow$ `Preprocess` $\rightarrow$ `Model` $\rightarrow$ `Train` $\rightarrow$ `Predict` $\rightarrow$ `Evaluate` $\rightarrow$ `Improve`
 
+6. **[[Linear Regression Assumptions]]**
+   - Why assumptions matter & residual formulation ($e = y - \hat{y}$)
+   - Diagnostic residual plot patterns (random vs U-shape vs funnel)
+   - **Homoscedasticity** (constant error variance) vs **Heteroscedasticity**
+   - Corrective transformations (Log transform $\ln y$, WLS)
+   - The 6 Classical OLS Assumptions (Gauss-Markov)
+
 ---
 
 ## 🔗 Connections

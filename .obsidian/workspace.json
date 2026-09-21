@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+                "file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End-to-End ML Pipeline"
+              "title": "Linear Regression Assumptions"
             }
           }
         ]
@@ -228,30 +228,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "graphify-out/cache/ast/v0.9.53-s2/e983b94c1e1afeb4ff09ac484f06a5a63259ee84a564126efaf2bb46956613a0.json",
+    "graphify-out/cache/ast/v0.9.53-s2/567d5c4e273bb10dc4860a79e794654a846ee3d4f29bd1e7af2eb6f24e38485b.json",
+    "AI & ML/Classical ML/Introduction to Machine Learning.md",
+    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
+    "AI & ML/README.md",
+    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+    "AI & ML/Classical ML/Linear Regression Assumptions.md",
+    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
+    "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+    "AI & ML/Data Preprocessing/Feature Scaling.md",
+    "AI & ML/Data Preprocessing/Categorical Encoding.md",
+    "AI & ML/Data Preprocessing/Data Leakage.md",
+    "graphify-out/cache/ast/v0.9.53-s2/e19979ce76c19056203fa0d5131e9b06ddd6c981c1886d8b0df4802a1e0289f0.json",
+    "graphify-out/cache/ast/v0.9.53-s2/9fa65aa1dc5ef7011c7a3a7f53c09600d6382c9d2b12d286befda715b40ad4d7.json",
+    "graphify-out/cache/ast/v0.9.53-s2/042776420bb77ac6763ecd467514f7c1d332cda033854aeb46417eded7252e36.json",
+    "graphify-out/cache/ast/v0.9.53-s2/41f061bcd823cf1347d1cb255e348cc034b52b0d271039a275a977e3ce015b42.json",
+    "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
     "graphify-out/cache/ast/v0.9.53-s2/8a15fd33368810281f37a343bf28139b4496520b06335f0f3cccee8b731aa76e.json",
     "graphify-out/cache/ast/v0.9.53-s2/e092879ef6608104a8913ff5b75970eafa3b93e0a5026b0d4bf285c7571ca492.json",
     "graphify-out/cache/ast/v0.9.53-s2/e3288ee186e2714494e703eb3a4d3b00f937525dc03fce1683cbcb7276564254.json",
     "graphify-out/cache/ast/v0.9.53-s2/314e36e79b3c71cb3e9541cad27f86a2dbc7bfbf71e3c1b8497e7cac426889ae.json",
-    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
-    "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-    "AI & ML/Classical ML/Introduction to Machine Learning.md",
-    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
     "Computer Networking/Packets and Packet Switching.md",
     "graphify-out/cache/ast/v0.9.53-s2/a8d704f305efa581c12e981d73ec50327b0aa5027f9d6b863389fa388bbf0c8e.json",
-    "graphify-out/cache/ast/v0.9.53-s2/fcde4b91e5fe5ff0fae6899551f1aa8a47df6dd2da6dbaba5f8edac875b98e09.json",
-    "graphify-out/cache/ast/v0.9.53-s2/f9c1189ee066fe9d84a179c150af6f169802ff94621e571b5d3614a087f36f9f.json",
-    "graphify-out/cache/ast/v0.9.53-s2/c04e2380b336214266ba718b373461429459bed7b6d134280789fd388855566f.json",
-    "graphify-out/cache/ast/v0.9.53-s2/1876790cf1317053af3010120b4443c21617ae60b6ae21bd83967b9990070851.json",
-    "graphify-out/cache/ast/v0.9.53-s2/8af9dedbbccc41fd39c235d3c6262408869b1d4242c4ab47dbc948bf2a8a666e.json",
-    "graphify-out/cache/ast/v0.9.53-s2/f3d5a55152730bc96b66330f670604dc87c93496fc393cc336a18647c3ea2f9d.json",
     "Computer Networking/OSI vs TCP-IP Model.md",
-    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
-    "AI & ML/Data Preprocessing/Categorical Encoding.md",
     "Computer Networking/Encapsulation and Decapsulation.md",
-    "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-    "AI & ML/Data Preprocessing/Data Leakage.md",
     "AI & ML/Data Preprocessing/README.md",
-    "AI & ML/Data Preprocessing/Feature Scaling.md",
     "AI & ML/Classical ML/README.md",
     "graphify-out/2026-09-21/GRAPH_REPORT.md",
     "Dashboard.md",
@@ -261,8 +263,6 @@
     "Computer Networking/IP Addressing Fundamentals.md",
     "Computer Networking/MTU and Fragmentation.md",
     "Computer Networking/Ethernet and MAC Addressing.md",
-    "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-    "Computer Networking/Network Protocols and Standards.md",
-    "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md"
+    "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md"
   ]
 }

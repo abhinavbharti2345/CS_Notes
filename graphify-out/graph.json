@@ -6683,24 +6683,6 @@
       "source_location": "L1"
     },
     {
-      "id": "dsa_02_binary_search_binary_search",
-      "label": "Binary Search.md",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Data Structures &amp; Algorithms",
-        "subtopic": "Searching",
-        "type": "concept",
-        "date": "2026-09-10"
-      },
-      "node_kind": "page",
-      "norm_label": "binary search.md",
-      "source_file": "DSA/02. Binary Search/Binary Search.md",
-      "source_location": "L1"
-    },
-    {
       "id": "dsa_03_linked_lists_linked_list_fundamentals",
       "label": "Linked List Fundamentals.md",
       "_origin": "ast",
@@ -7160,64 +7142,52 @@
       "source_location": "L1"
     },
     {
-      "id": "dsa_03_linked_lists_readme_linked_lists_module",
-      "label": "\ud83d\udd17 Linked Lists Module",
+      "id": "dashboard_computer_science_knowledge_vault_command_center",
+      "label": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 linked lists module",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L14"
+      "norm_label": "\ud83e\udded computer science knowledge vault: command center",
+      "source_file": "Dashboard.md",
+      "source_location": "L1"
     },
     {
-      "id": "dsa_03_linked_lists_readme_module_learning_path",
-      "label": "\ud83e\udded Module Learning Path",
+      "id": "dashboard_core_domain_master_mocs",
+      "label": "\ud83e\udde0 Core Domain Master MOCs",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udded module learning path",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L20"
+      "norm_label": "\ud83e\udde0 core domain master mocs",
+      "source_file": "Dashboard.md",
+      "source_location": "L49"
     },
     {
-      "id": "dsa_03_linked_lists_readme_module_notes",
-      "label": "\ud83d\udcda Module Notes",
+      "id": "dashboard_quick_actions_reference_utilities",
+      "label": "\u26a1 Quick Actions & Reference Utilities",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcda module notes",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L52"
+      "norm_label": "\u26a1 quick actions & reference utilities",
+      "source_file": "Dashboard.md",
+      "source_location": "L37"
     },
     {
-      "id": "dsa_03_linked_lists_readme_quick_comparison_array_vs_linked_list",
-      "label": "\u26a1 Quick Comparison: Array vs. Linked List",
+      "id": "dashboard_vault_architecture_domain_map",
+      "label": "\ud83d\uddfa\ufe0f Vault Architecture & Domain Map",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u26a1 quick comparison: array vs. linked list",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L71"
-    },
-    {
-      "id": "dsa_03_linked_lists_readme_related_notes_navigation",
-      "label": "\ud83d\udd17 Related Notes & Navigation",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes & navigation",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L84"
+      "norm_label": "\ud83d\uddfa\ufe0f vault architecture & domain map",
+      "source_file": "Dashboard.md",
+      "source_location": "L8"
     },
     {
       "id": "python",
@@ -7422,6 +7392,24 @@
       "norm_label": "\ud83d\ude9a the postal / delivery truck analogy",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
       "source_location": "L140"
+    },
+    {
+      "id": "dsa_02_binary_search_binary_search",
+      "label": "Binary Search.md",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "\ud83d\udd0d Binary Search",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Searching",
+        "type": "concept",
+        "date": "2026-09-10"
+      },
+      "node_kind": "page",
+      "norm_label": "binary search.md",
+      "source_file": "DSA/02. Binary Search/Binary Search.md",
+      "source_location": "L1"
     },
     {
       "id": "dsa_02_binary_search_binary_search_1_core_idea",
@@ -7736,100 +7724,88 @@
       "source_location": "L200"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_1_the_10_stage_machine_learning_lifecycle",
-      "label": "\ud83d\uddfa\ufe0f 1. The 10-Stage Machine Learning Lifecycle",
+      "id": "ai_ml_data_preprocessing_readme_data_preprocessing_feature_engineering",
+      "label": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f 1. the 10-stage machine learning lifecycle",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L19"
+      "norm_label": "\ud83e\uddf9 data preprocessing & feature engineering",
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L11"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_2_concrete_pipeline_walkthrough_house_price_prediction",
-      "label": "\ud83c\udfe1 2. Concrete Pipeline Walkthrough: House Price Prediction",
+      "id": "ai_ml_data_preprocessing_readme_module_topics",
+      "label": "\ud83d\udcd6 Module Topics",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83c\udfe1 2. concrete pipeline walkthrough: house price prediction",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L46"
+      "norm_label": "\ud83d\udcd6 module topics",
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L18"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_3_encapsulation_with_scikit_learn_pipeline",
-      "label": "\ud83d\udee1\ufe0f 3. Encapsulation with Scikit-Learn `Pipeline`",
+      "id": "ai_ml_data_preprocessing_readme_module_workflow_graph",
+      "label": "\ud83d\udd04 Module Workflow Graph",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udee1\ufe0f 3. encapsulation with scikit-learn `pipeline`",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L65"
+      "norm_label": "\ud83d\udd04 module workflow graph",
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L48"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_end_to_end_ml_pipeline",
-      "label": "\ud83d\udd01 End-to-End ML Pipeline",
+      "id": "ai_ml_data_preprocessing_readme_next_steps",
+      "label": "Next Steps",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd01 end-to-end ml pipeline",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L12"
+      "norm_label": "next steps",
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L86"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_next_step",
-      "label": "Next Step",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L98"
-    },
-    {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_prerequisites",
+      "id": "ai_ml_data_preprocessing_readme_prerequisites",
       "label": "Prerequisites",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "prerequisites",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L92"
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L81"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_prerequisites_next_steps",
+      "id": "ai_ml_data_preprocessing_readme_prerequisites_next_steps",
       "label": "\ud83d\udd17 Prerequisites & Next Steps",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L90"
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L79"
     },
     {
-      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_related_notes",
+      "id": "ai_ml_data_preprocessing_readme_related_notes",
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 43,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
+      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-      "source_location": "L101"
+      "source_file": "AI & ML/Data Preprocessing/README.md",
+      "source_location": "L94"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_1_why_do_we_need_ip_addresses_if_we_already_have_mac_addresses",
@@ -9680,59 +9656,11 @@
       "source_location": "L13"
     },
     {
-      "id": "dashboard_computer_science_knowledge_vault_command_center",
-      "label": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udded computer science knowledge vault: command center",
-      "source_file": "Dashboard.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "dashboard_core_domain_master_mocs",
-      "label": "\ud83e\udde0 Core Domain Master MOCs",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udde0 core domain master mocs",
-      "source_file": "Dashboard.md",
-      "source_location": "L49"
-    },
-    {
-      "id": "dashboard_quick_actions_reference_utilities",
-      "label": "\u26a1 Quick Actions & Reference Utilities",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u26a1 quick actions & reference utilities",
-      "source_file": "Dashboard.md",
-      "source_location": "L37"
-    },
-    {
-      "id": "dashboard_vault_architecture_domain_map",
-      "label": "\ud83d\uddfa\ufe0f Vault Architecture & Domain Map",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f vault architecture & domain map",
-      "source_file": "Dashboard.md",
-      "source_location": "L8"
-    },
-    {
       "id": "java_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
-      "community": 57,
-      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "community": 55,
+      "community_name": "\ud83d\udd24 Strings & String Manipulation",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 connections",
@@ -9743,8 +9671,8 @@
       "id": "java_readme_core_topics",
       "label": "\ud83d\uddfa\ufe0f Core Topics",
       "_origin": "ast",
-      "community": 57,
-      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "community": 55,
+      "community_name": "\ud83d\udd24 Strings & String Manipulation",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\uddfa\ufe0f core topics",
@@ -9755,8 +9683,8 @@
       "id": "java_readme_java_knowledge_base_roadmap",
       "label": "\u2615 Java Knowledge Base & Roadmap",
       "_origin": "ast",
-      "community": 57,
-      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "community": 55,
+      "community_name": "\ud83d\udd24 Strings & String Manipulation",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u2615 java knowledge base & roadmap",
@@ -9767,13 +9695,217 @@
       "id": "java_readme_quick_reference_syntax",
       "label": "\u26a1 Quick Reference & Syntax",
       "_origin": "ast",
-      "community": 57,
-      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "community": 55,
+      "community_name": "\ud83d\udd24 Strings & String Manipulation",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u26a1 quick reference & syntax",
       "source_file": "JAVA/README.md",
       "source_location": "L17"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_1_log_transformation_primary_remedy",
+      "label": "1\ufe0f\u20e3 Log Transformation (Primary Remedy)",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 log transformation (primary remedy)",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L137"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_1_what_is_an_assumption_why_do_residuals_matter",
+      "label": "\ud83e\udde9 1. What is an Assumption & Why Do Residuals Matter?",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde9 1. what is an assumption & why do residuals matter?",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L22"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_2_residual_analysis_residual_plots",
+      "label": "\ud83d\udcca 2. Residual Analysis & Residual Plots",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcca 2. residual analysis & residual plots",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L40"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_2_weighted_least_squares_wls",
+      "label": "2\ufe0f\u20e3 Weighted Least Squares (WLS)",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 weighted least squares (wls)",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L157"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "label": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L93"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "label": "\ud83d\udee0\ufe0f 4. Remedies for Heteroscedasticity",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udee0\ufe0f 4. remedies for heteroscedasticity",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L133"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
+      "label": "\ud83d\udcdc 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework)",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcdc 5. the classical 6 linear regression assumptions (gauss-markov framework)",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L162"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
+      "label": "\ud83d\udd0d Comprehensive Diagnostic Pattern Cheat Sheet",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd0d comprehensive diagnostic pattern cheat sheet",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L81"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_heteroscedasticity_non_constant_variance",
+      "label": "\ud83d\udd34 Heteroscedasticity (*Non-Constant Variance*)",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L119"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_homoscedasticity_constant_variance",
+      "label": "\ud83d\udfe2 Homoscedasticity (*Constant Variance*)",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L112"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_key_summary_takeaways",
+      "label": "\ud83d\udd11 Key Summary Takeaways",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd11 key summary takeaways",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L209"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "label": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcd0 linear regression assumptions & residual analysis",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_next_steps",
+      "label": "Next Steps",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next steps",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L229"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L224"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L222"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_python_diagnostic_implementation",
+      "label": "\ud83d\udcbb Python Diagnostic Implementation",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcbb python diagnostic implementation",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L186"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L233"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_1_mean_imputation",
@@ -10160,184 +10292,292 @@
       "source_location": "L95"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_approved_safe_pattern",
-      "label": "\u2705 Approved Safe Pattern",
+      "id": "ai_ml_data_preprocessing_data_leakage_1_preprocessing_leakage_test_to_train",
+      "label": "1\ufe0f\u20e3 Preprocessing Leakage (Test $\\to$ Train)",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u2705 approved safe pattern",
+      "norm_label": "1\ufe0f\u20e3 preprocessing leakage (test $\\to$ train)",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L136"
+      "source_location": "L74"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "label": "\ud83d\udea8 Data Leakage",
+      "id": "ai_ml_data_preprocessing_data_leakage_2_target_leakage_post_event_to_pre_event",
+      "label": "2\ufe0f\u20e3 Target Leakage (Post-Event $\\to$ Pre-Event)",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udea8 data leakage",
+      "norm_label": "2\ufe0f\u20e3 target leakage (post-event $\\to$ pre-event)",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L13"
+      "source_location": "L135"
+    },
+    {
+      "id": "ai_ml_data_preprocessing_data_leakage_3_temporal_leakage_future_to_past",
+      "label": "3\ufe0f\u20e3 Temporal Leakage (Future $\\to$ Past)",
+      "_origin": "ast",
+      "community": 60,
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 temporal leakage (future $\\to$ past)",
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L173"
+    },
+    {
+      "id": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "label": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
+      "_origin": "ast",
+      "community": 60,
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udea8 data leakage: the 3 critical leakage patterns",
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "ai_ml_data_preprocessing_data_leakage_master_comparison_the_3_leakage_types",
+      "label": "\ud83e\udde0 Master Comparison: The 3 Leakage Types",
+      "_origin": "ast",
+      "community": 60,
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde0 master comparison: the 3 leakage types",
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L217"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_next_steps",
       "label": "Next Steps",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L180"
+      "source_location": "L275"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_preprocessing_leakage_the_most_common_form",
-      "label": "\ud83d\udd04 Preprocessing Leakage: The Most Common Form",
+      "id": "ai_ml_data_preprocessing_data_leakage_other_target_leakage_examples",
+      "label": "Other Target Leakage Examples:",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 preprocessing leakage: the most common form",
+      "norm_label": "other target leakage examples:",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L53"
+      "source_location": "L161"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_prerequisites",
       "label": "Prerequisites",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L176"
+      "source_location": "L271"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_prerequisites_next_steps",
       "label": "\ud83d\udd17 Prerequisites & Next Steps",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L174"
+      "source_location": "L269"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_prohibited_code_patterns",
-      "label": "\ud83d\udeab Prohibited Code Patterns",
+      "id": "ai_ml_data_preprocessing_data_leakage_python_scikit_learn_leakage_prevention_pipeline",
+      "label": "\ud83d\udcbb Python / Scikit-Learn Leakage Prevention Pipeline",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udeab prohibited code patterns",
+      "norm_label": "\ud83d\udcbb python / scikit-learn leakage prevention pipeline",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L122"
+      "source_location": "L241"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_related_notes",
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L187"
+      "source_location": "L280"
+    },
+    {
+      "id": "ai_ml_data_preprocessing_data_leakage_the_3_structural_boundaries_of_leakage",
+      "label": "\ud83d\uddfa\ufe0f The 3 Structural Boundaries of Leakage",
+      "_origin": "ast",
+      "community": 60,
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f the 3 structural boundaries of leakage",
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L24"
+    },
+    {
+      "id": "ai_ml_data_preprocessing_data_leakage_the_classic_loan_default_trap",
+      "label": "\ud83d\udea8 The Classic Loan Default Trap:",
+      "_origin": "ast",
+      "community": 60,
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udea8 the classic loan default trap:",
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L155"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_the_correct_order_leakage_free_protocol",
       "label": "\u2705 The Correct Order (Leakage-Free Protocol)",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u2705 the correct order (leakage-free protocol)",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L76"
+      "source_location": "L96"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_the_fit_vs_transform_paradigm",
-      "label": "\u2699\ufe0f The `fit()` vs. `transform()` Paradigm",
+      "id": "ai_ml_data_preprocessing_data_leakage_the_rapid_mcq_memory_formula",
+      "label": "\u26a1 The Rapid MCQ Memory Formula",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u2699\ufe0f the `fit()` vs. `transform()` paradigm",
+      "norm_label": "\u26a1 the rapid mcq memory formula",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L112"
+      "source_location": "L227"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_the_golden_rule_of_preprocessing",
-      "label": "\ud83e\udde0 The Golden Rule of Preprocessing",
+      "id": "ai_ml_data_preprocessing_data_leakage_the_remedy_chronological_time_based_splitting",
+      "label": "\u2705 The Remedy: Chronological / Time-Based Splitting",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udde0 the golden rule of preprocessing",
+      "norm_label": "\u2705 the remedy: chronological / time-based splitting",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L157"
+      "source_location": "L201"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_the_wrong_order_causes_leakage",
       "label": "\u274c The Wrong Order (Causes Leakage)",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u274c the wrong order (causes leakage)",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L57"
+      "source_location": "L78"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_what_is_data_leakage",
-      "label": "\ud83d\udd0d What is Data Leakage?",
+      "id": "ai_ml_data_preprocessing_data_leakage_why_is_data_leakage_so_dangerous",
+      "label": "\ud83d\uded1 Why is Data Leakage So Dangerous?",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd0d what is data leakage?",
+      "norm_label": "\ud83d\uded1 why is data leakage so dangerous?",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L15"
+      "source_location": "L47"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_why_is_data_leakage_dangerous",
-      "label": "\ud83d\uded1 Why is Data Leakage Dangerous?",
+      "id": "ai_ml_data_preprocessing_data_leakage_why_random_split_fails_for_time_ordered_data",
+      "label": "Why Random Split Fails for Time-Ordered Data:",
       "_origin": "ast",
       "community": 60,
-      "community_name": "Data Leakage",
+      "community_name": "\ud83d\udea8 Data Leakage: The 3 Critical Leakage Patterns",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uded1 why is data leakage dangerous?",
+      "norm_label": "why random split fails for time-ordered data:",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L44"
+      "source_location": "L198"
     },
     {
-      "id": "ai_ml_data_preprocessing_data_leakage_why_must_transformers_be_fitted_on_training_data_only",
-      "label": "\u2753 Why must transformers be fitted on training data only?",
+      "id": "dsa_03_linked_lists_readme_linked_lists_module",
+      "label": "\ud83d\udd17 Linked Lists Module",
       "_origin": "ast",
-      "community": 60,
-      "community_name": "Data Leakage",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u2753 why must transformers be fitted on training data only?",
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L162"
+      "norm_label": "\ud83d\udd17 linked lists module",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_module_learning_path",
+      "label": "\ud83e\udded Module Learning Path",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udded module learning path",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_module_notes",
+      "label": "\ud83d\udcda Module Notes",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcda module notes",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L52"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_quick_comparison_array_vs_linked_list",
+      "label": "\u26a1 Quick Comparison: Array vs. Linked List",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a1 quick comparison: array vs. linked list",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L71"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_related_notes_navigation",
+      "label": "\ud83d\udd17 Related Notes & Navigation",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes & navigation",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L84"
     },
     {
       "id": "ai_ml_readme",
@@ -10476,6 +10716,23 @@
       "source_location": "L1"
     },
     {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions",
+      "label": "Linear Regression Assumptions.md",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Classical Machine Learning",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "linear regression assumptions.md",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L1"
+    },
+    {
       "id": "ai_ml_data_preprocessing_readme",
       "label": "Data Preprocessing/README.md",
       "_origin": "ast",
@@ -10544,6 +10801,102 @@
       "source_location": "L1"
     },
     {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_1_the_10_stage_machine_learning_lifecycle",
+      "label": "\ud83d\uddfa\ufe0f 1. The 10-Stage Machine Learning Lifecycle",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f 1. the 10-stage machine learning lifecycle",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_2_concrete_pipeline_walkthrough_house_price_prediction",
+      "label": "\ud83c\udfe1 2. Concrete Pipeline Walkthrough: House Price Prediction",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfe1 2. concrete pipeline walkthrough: house price prediction",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L46"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_3_encapsulation_with_scikit_learn_pipeline",
+      "label": "\ud83d\udee1\ufe0f 3. Encapsulation with Scikit-Learn `Pipeline`",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udee1\ufe0f 3. encapsulation with scikit-learn `pipeline`",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L65"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_end_to_end_ml_pipeline",
+      "label": "\ud83d\udd01 End-to-End ML Pipeline",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd01 end-to-end ml pipeline",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L98"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 7,
+      "community_name": "AI & ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+      "source_location": "L101"
+    },
+    {
       "id": "ai_ml_classical_ml_readme_classical_machine_learning_foundations",
       "label": "\ud83d\udcca Classical Machine Learning Foundations",
       "_origin": "ast",
@@ -10565,7 +10918,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 connections",
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L51"
+      "source_location": "L58"
     },
     {
       "id": "ai_ml_classical_ml_readme_learning_path",
@@ -10589,7 +10942,7 @@
       "node_kind": "heading",
       "norm_label": "next topics",
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L56"
+      "source_location": "L63"
     },
     {
       "id": "ai_ml_classical_ml_readme_prerequisites",
@@ -10601,7 +10954,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L53"
+      "source_location": "L60"
     },
     {
       "id": "ai_ml_classical_ml_readme_related_notes",
@@ -10613,91 +10966,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L63"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_data_preprocessing_feature_engineering",
-      "label": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\uddf9 data preprocessing & feature engineering",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L11"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_module_topics",
-      "label": "\ud83d\udcd6 Module Topics",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcd6 module topics",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L18"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_module_workflow_graph",
-      "label": "\ud83d\udd04 Module Workflow Graph",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 module workflow graph",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L46"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_next_steps",
-      "label": "Next Steps",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next steps",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L84"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L79"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L77"
-    },
-    {
-      "id": "ai_ml_data_preprocessing_readme_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 7,
-      "community_name": "AI & ML/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L92"
+      "source_location": "L70"
     },
     {
       "id": "ai_ml_readme_1_classical_ml_readme_01_classical_ml_foundations",
@@ -10721,7 +10990,7 @@
       "node_kind": "heading",
       "norm_label": "2. [[data preprocessing/readme|02. data preprocessing & feature engineering]]",
       "source_file": "AI & ML/README.md",
-      "source_location": "L52"
+      "source_location": "L53"
     },
     {
       "id": "ai_ml_readme_artificial_intelligence_machine_learning_knowledge_base",
@@ -10757,7 +11026,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 knowledge flow graph",
       "source_file": "AI & ML/README.md",
-      "source_location": "L61"
+      "source_location": "L62"
     },
     {
       "id": "ai_ml_readme_machine_learning_learning_path",
@@ -10781,7 +11050,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 quick links",
       "source_file": "AI & ML/README.md",
-      "source_location": "L86"
+      "source_location": "L87"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_complexity",
@@ -13408,6 +13677,193 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_homoscedasticity_constant_variance",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L112",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_heteroscedasticity_non_constant_variance",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_1_log_transformation_primary_remedy",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L137",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_2_weighted_least_squares_wls",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L157",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L162",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_python_diagnostic_implementation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L186",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_key_summary_takeaways",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L209",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_1_what_is_an_assumption_why_do_residuals_matter",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L222",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L233",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_2_residual_analysis_residual_plots",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L81",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L93",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L224",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L229",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_classical_ml_readme",
       "target": "ai_ml_classical_ml_readme_classical_machine_learning_foundations",
       "relation": "contains",
@@ -13437,7 +13893,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L51",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -13448,7 +13904,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L63",
+      "source_location": "L70",
       "weight": 1.0
     },
     {
@@ -13459,7 +13915,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L53",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -13470,7 +13926,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L56",
+      "source_location": "L63",
       "weight": 1.0
     },
     {
@@ -13882,29 +14338,7 @@
     },
     {
       "source": "ai_ml_data_preprocessing_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L13",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_the_fit_vs_transform_paradigm",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L112",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_what_is_data_leakage",
+      "target": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -13914,80 +14348,179 @@
       "weight": 1.0
     },
     {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_the_golden_rule_of_preprocessing",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L157",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_prerequisites_next_steps",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L174",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_related_notes",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L187",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_why_is_data_leakage_dangerous",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L44",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage",
-      "target": "ai_ml_data_preprocessing_data_leakage_preprocessing_leakage_the_most_common_form",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L53",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_preprocessing_leakage_the_most_common_form",
+      "source": "ai_ml_data_preprocessing_data_leakage_1_preprocessing_leakage_test_to_train",
       "target": "ai_ml_data_preprocessing_data_leakage_the_wrong_order_causes_leakage",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L57",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
-      "source": "ai_ml_data_preprocessing_data_leakage_preprocessing_leakage_the_most_common_form",
+      "source": "ai_ml_data_preprocessing_data_leakage_1_preprocessing_leakage_test_to_train",
       "target": "ai_ml_data_preprocessing_data_leakage_the_correct_order_leakage_free_protocol",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L76",
+      "source_location": "L96",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_2_target_leakage_post_event_to_pre_event",
+      "target": "ai_ml_data_preprocessing_data_leakage_the_classic_loan_default_trap",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L155",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_2_target_leakage_post_event_to_pre_event",
+      "target": "ai_ml_data_preprocessing_data_leakage_other_target_leakage_examples",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L161",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_3_temporal_leakage_future_to_past",
+      "target": "ai_ml_data_preprocessing_data_leakage_why_random_split_fails_for_time_ordered_data",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L198",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_3_temporal_leakage_future_to_past",
+      "target": "ai_ml_data_preprocessing_data_leakage_the_remedy_chronological_time_based_splitting",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L201",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_2_target_leakage_post_event_to_pre_event",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_3_temporal_leakage_future_to_past",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_master_comparison_the_3_leakage_types",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L217",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_the_rapid_mcq_memory_formula",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L227",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_the_3_structural_boundaries_of_leakage",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_python_scikit_learn_leakage_prevention_pipeline",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L241",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L269",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L280",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_why_is_data_leakage_so_dangerous",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L47",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage_data_leakage_the_3_critical_leakage_patterns",
+      "target": "ai_ml_data_preprocessing_data_leakage_1_preprocessing_leakage_test_to_train",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L74",
       "weight": 1.0
     },
     {
@@ -13998,7 +14531,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L176",
+      "source_location": "L271",
       "weight": 1.0
     },
     {
@@ -14009,40 +14542,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L180",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_the_fit_vs_transform_paradigm",
-      "target": "ai_ml_data_preprocessing_data_leakage_prohibited_code_patterns",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L122",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_the_fit_vs_transform_paradigm",
-      "target": "ai_ml_data_preprocessing_data_leakage_approved_safe_pattern",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L136",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage_the_golden_rule_of_preprocessing",
-      "target": "ai_ml_data_preprocessing_data_leakage_why_must_transformers_be_fitted_on_training_data_only",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L162",
+      "source_location": "L275",
       "weight": 1.0
     },
     {
@@ -14449,7 +14949,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L46",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -14460,7 +14960,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L77",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -14471,7 +14971,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L92",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -14482,7 +14982,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L79",
+      "source_location": "L81",
       "weight": 1.0
     },
     {
@@ -14493,7 +14993,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L84",
+      "source_location": "L86",
       "weight": 1.0
     },
     {
@@ -14537,7 +15037,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L61",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -14548,7 +15048,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L86",
+      "source_location": "L87",
       "weight": 1.0
     },
     {
@@ -14570,7 +15070,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L52",
+      "source_location": "L53",
       "weight": 1.0
     },
     {
@@ -20668,6 +21168,72 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_classical_ml_features_targets_and_datasets",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L225",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_classical_ml_end_to_end_ml_pipeline",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L226",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_data_preprocessing_feature_scaling",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L227",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_classical_ml_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L234",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_classical_ml_train_test_split_and_generalization",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L236",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions",
+      "target": "ai_ml_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L238",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_classical_ml_readme",
       "target": "ai_ml_classical_ml_supervised_vs_unsupervised_learning",
       "relation": "references",
@@ -20697,7 +21263,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L54",
+      "source_location": "L61",
       "weight": 1.0
     },
     {
@@ -20708,7 +21274,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L64",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -20719,7 +21285,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/README.md",
-      "source_location": "L65",
+      "source_location": "L72",
       "weight": 1.0
     },
     {
@@ -20779,35 +21345,13 @@
     },
     {
       "source": "ai_ml_data_preprocessing_data_leakage",
-      "target": "ai_ml_data_preprocessing_feature_scaling",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L167",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage",
-      "target": "ai_ml_data_preprocessing_missing_value_imputation",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L168",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_data_leakage",
       "target": "ai_ml_classical_ml_train_test_split_and_generalization",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L177",
+      "source_location": "L272",
       "weight": 1.0
     },
     {
@@ -20818,7 +21362,29 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L178",
+      "source_location": "L273",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage",
+      "target": "ai_ml_data_preprocessing_missing_value_imputation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L277",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage",
+      "target": "ai_ml_data_preprocessing_feature_scaling",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L278",
       "weight": 1.0
     },
     {
@@ -20829,7 +21395,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L188",
+      "source_location": "L281",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_data_leakage",
+      "target": "ai_ml_classical_ml_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
+      "source_location": "L282",
       "weight": 1.0
     },
     {
@@ -20840,7 +21417,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L193",
+      "source_location": "L287",
       "weight": 1.0
     },
     {
@@ -20939,7 +21516,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L38",
+      "source_location": "L40",
       "weight": 1.0
     },
     {
@@ -20950,7 +21527,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L80",
+      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -20961,7 +21538,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L81",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -20972,7 +21549,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L82",
+      "source_location": "L84",
       "weight": 1.0
     },
     {
@@ -20983,7 +21560,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L93",
+      "source_location": "L95",
       "weight": 1.0
     },
     {
@@ -20994,7 +21571,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/README.md",
-      "source_location": "L95",
+      "source_location": "L97",
       "weight": 1.0
     },
     {
@@ -21049,7 +21626,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L54",
+      "source_location": "L55",
       "weight": 1.0
     },
     {
@@ -21060,7 +21637,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L55",
+      "source_location": "L56",
       "weight": 1.0
     },
     {
@@ -21071,7 +21648,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L56",
+      "source_location": "L57",
       "weight": 1.0
     },
     {
@@ -21082,7 +21659,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L57",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -21093,7 +21670,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/README.md",
-      "source_location": "L87",
+      "source_location": "L88",
       "weight": 1.0
     },
     {
@@ -21747,7 +22324,7 @@
     },
     {
       "source": "dashboard",
-      "target": "webdev_backend_shopkart_auth_project",
+      "target": "webdev_backend_node_js_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21758,13 +22335,24 @@
     },
     {
       "source": "dashboard",
+      "target": "webdev_backend_shopkart_auth_project",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dashboard.md",
+      "source_location": "L101",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard",
       "target": "java_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L103",
+      "source_location": "L104",
       "weight": 1.0
     },
     {
@@ -21775,7 +22363,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L104",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -21857,18 +22445,18 @@
     },
     {
       "source": "dashboard",
-      "target": "ai_ml_data_preprocessing_data_leakage",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L57",
+      "source_location": "L56",
       "weight": 1.0
     },
     {
       "source": "dashboard",
-      "target": "ai_ml_data_preprocessing_categorical_encoding",
+      "target": "ai_ml_data_preprocessing_data_leakage",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21879,7 +22467,7 @@
     },
     {
       "source": "dashboard",
-      "target": "ai_ml_data_preprocessing_missing_value_imputation",
+      "target": "ai_ml_data_preprocessing_categorical_encoding",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21890,7 +22478,7 @@
     },
     {
       "source": "dashboard",
-      "target": "ai_ml_data_preprocessing_feature_scaling",
+      "target": "ai_ml_data_preprocessing_missing_value_imputation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21901,18 +22489,18 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_introduction_to_computer_networks",
+      "target": "ai_ml_data_preprocessing_feature_scaling",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L64",
+      "source_location": "L61",
       "weight": 1.0
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_packets_and_packet_switching",
+      "target": "computer_networking_introduction_to_computer_networks",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21923,7 +22511,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_switching_techniques_packet_vs_circuit",
+      "target": "computer_networking_packets_and_packet_switching",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21934,7 +22522,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_network_performance_delay_latency_throughput",
+      "target": "computer_networking_switching_techniques_packet_vs_circuit",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21945,7 +22533,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_network_hardware_hub_switch_router_modem",
+      "target": "computer_networking_network_performance_delay_latency_throughput",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21956,7 +22544,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_osi_vs_tcp_ip_model",
+      "target": "computer_networking_network_hardware_hub_switch_router_modem",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21967,7 +22555,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_network_protocols_and_standards",
+      "target": "computer_networking_osi_vs_tcp_ip_model",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21978,7 +22566,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_encapsulation_and_decapsulation",
+      "target": "computer_networking_network_protocols_and_standards",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21989,7 +22577,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_data_units_segment_packet_frame_bits",
+      "target": "computer_networking_encapsulation_and_decapsulation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22000,7 +22588,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_ethernet_and_mac_addressing",
+      "target": "computer_networking_data_units_segment_packet_frame_bits",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22011,7 +22599,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_mtu_and_fragmentation",
+      "target": "computer_networking_ethernet_and_mac_addressing",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22022,7 +22610,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_ip_addressing_fundamentals",
+      "target": "computer_networking_mtu_and_fragmentation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22033,7 +22621,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_network_id_and_host_id",
+      "target": "computer_networking_ip_addressing_fundamentals",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22044,7 +22632,7 @@
     },
     {
       "source": "dashboard",
-      "target": "computer_networking_subnet_masks_and_cidr_notation",
+      "target": "computer_networking_network_id_and_host_id",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22055,18 +22643,18 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_01_strings_readme",
+      "target": "computer_networking_subnet_masks_and_cidr_notation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L82",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
       "source": "dashboard",
-      "target": "dsa_01_strings_stringbuilder",
+      "target": "dsa_01_strings_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22077,7 +22665,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_01_strings_add_binary_string_arithmetic",
+      "target": "dsa_01_strings_stringbuilder",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22088,18 +22676,18 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_02_binary_search_binary_search",
+      "target": "dsa_01_strings_add_binary_string_arithmetic",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L86",
+      "source_location": "L85",
       "weight": 1.0
     },
     {
       "source": "dashboard",
-      "target": "dsa_03_linked_lists_readme",
+      "target": "dsa_02_binary_search_binary_search",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22110,7 +22698,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_03_linked_lists_linked_list_fundamentals",
+      "target": "dsa_03_linked_lists_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22121,7 +22709,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_03_linked_lists_linked_list_patterns",
+      "target": "dsa_03_linked_lists_linked_list_fundamentals",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22132,7 +22720,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bit_manipulation",
+      "target": "dsa_03_linked_lists_linked_list_patterns",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22143,7 +22731,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bitwise_operators",
+      "target": "dsa_04_bit_manipulation_bit_manipulation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22154,7 +22742,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bit_tricks",
+      "target": "dsa_04_bit_manipulation_bitwise_operators",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22165,7 +22753,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_xor_patterns",
+      "target": "dsa_04_bit_manipulation_bit_tricks",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22176,7 +22764,7 @@
     },
     {
       "source": "dashboard",
-      "target": "dsa_04_bit_manipulation_bit_manipulation_problems",
+      "target": "dsa_04_bit_manipulation_xor_patterns",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -22187,18 +22775,18 @@
     },
     {
       "source": "dashboard",
-      "target": "webdev_backend_javascript_readme",
+      "target": "dsa_04_bit_manipulation_bit_manipulation_problems",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L98",
+      "source_location": "L95",
       "weight": 1.0
     },
     {
       "source": "dashboard",
-      "target": "webdev_backend_node_js_readme",
+      "target": "webdev_backend_javascript_readme",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
