@@ -87,6 +87,70 @@ flowchart TD
 | 📢 **Funnel / Cone** | Narrow on left, wide on right | ❌ **Heteroscedasticity** | Uncertainty/error grows as the predicted quantity grows. | Apply **Log Transformation** ($\ln y$) or Weighted Least Squares (WLS). |
 | 🫧 **Clusters / Groups** | Isolated clusters of dots | ❌ **Omitted Variable** | The dataset contains unmodeled sub-populations. | Add missing categorical features (e.g., location, department). |
 | 📈 **Trend over Time** | Wave or systematic drift | ❌ **Autocorrelation** | Residuals depend on prior time steps ($e_t \sim e_{t-1}$). | Use Time-Series modeling (ARIMA, lag features). |
+	
+---
+
+### 📊 Visualizing the 5 Residual Signatures
+
+> [!tip]+ 🎲 1. Random Scatter — Ideal & Well-Specified Model
+> ```text
+> Residual (e)
+>    + │    ·    ·   ·    ·   ·    ·
+>      │  ·   ·    ·   ·    ·   ·    ·
+>    0 ├───·───·───·───·───·───·───·───► Predicted (ŷ)
+>      │    ·    ·   ·    ·   ·    ·
+>    - │  ·   ·    ·   ·    ·   ·    ·
+> ```
+> * **Diagnosis:** Residuals form a uniform, constant-width cloud around $e=0$.
+> * **Conclusion:** Linear relationship holds; error variance is homoscedastic.
+
+> [!warning]+ 🔄 2. U-Shape / Parabolic Curve — Non-Linearity
+> ```text
+> Residual (e)
+>    + │  ·                            ·
+>      │     ·                      ·
+>    0 ├────────·────────────────·──────► Predicted (ŷ)
+>      │           ·          ·
+>    - │              · · ·
+> ```
+> * **Diagnosis:** Errors systematically dip below and rise above zero in a curve.
+> * **Conclusion:** Missed quadratic/polynomial trend $\to$ Add $X^2$, $\sqrt{X}$, or interaction terms.
+
+> [!danger]+ 📢 3. Funnel / Cone Shape — Heteroscedasticity
+> ```text
+> Residual (e)
+>    + │                          ·    ·
+>      │                    ·  ·    ·
+>    0 ├───·──·──·───·───·───·───·───·──► Predicted (ŷ)
+>      │                    ·  ·    ·
+>    - │                          ·    ·
+> ```
+> * **Diagnosis:** Residual dispersion expands (or contracts) as predicted magnitude increases.
+> * **Conclusion:** Non-constant error variance $\to$ Apply **Log Transformation** ($\ln y$) or WLS.
+
+> [!note]+ 🫧 4. Clustered Groupings — Omitted Sub-Population
+> ```text
+> Residual (e)
+>    + │     ····                ····
+>      │     ····                ····
+>    0 ├──────────────·─────────────────► Predicted (ŷ)
+>      │                 ····
+>    - │                 ····
+> ```
+> * **Diagnosis:** Isolated clusters of residuals separated by empty space.
+> * **Conclusion:** Missing key categorical feature (e.g. `City`, `Gender`, `Department`).
+
+> [!quote]+ 📈 5. Drift / Sine Wave — Autocorrelation (Time-Series)
+> ```text
+> Residual (e)
+>    + │     · ·                · ·
+>      │   ·     ·            ·     ·
+>    0 ├──·───────·──────────·───────·──► Time Index (t)
+>      │             ·     ·
+>    - │               · ·
+> ```
+> * **Diagnosis:** Positive or negative cyclical trend over chronological order ($e_t \approx \rho e_{t-1}$).
+> * **Conclusion:** Errors violate independence assumption $\to$ Add lag features or use ARIMA.
 
 ---
 

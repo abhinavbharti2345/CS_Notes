@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 79 files · ~61,394 words
+- 79 files · ~62,435 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 933 nodes · 1123 edges · 63 communities (61 shown, 2 thin omitted)
+- 934 nodes · 1124 edges · 61 communities (59 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `948cd120`
+- Built from commit: `63054233`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -40,7 +40,7 @@
 - Backend/README.md
 - Async JavaScript and JSON
 - Event Loop and Non-Blocking I/O
-- V8 Engine
+- Core Modules
 - 🔁 End-to-End ML Pipeline
 - Introduction to Node.js
 - 📏 Feature Scaling & StandardScaler
@@ -70,8 +70,6 @@
 - Network Protocols and Standards
 - 📚 Roadmap Stages & Core Notes
 - Subnet Masks and CIDR Notation
-- 🔤 Strings & String Manipulation
-- Quick Look / Take a Look Cheatsheet Rule
 - 🧭 Computer Science Knowledge Vault: Command Center
 - 📐 Linear Regression Assumptions & Residual Analysis
 - 🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)
@@ -94,7 +92,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (63 total, 2 thin omitted)
+## Communities (61 total, 2 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -113,8 +111,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.19
-Nodes (5): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist?, 🌐 Introduction to Computer Networks
+Cohesion: 0.13
+Nodes (14): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist? (+6 more)
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.05
@@ -178,7 +176,7 @@ Nodes (5): Critical instruction, Obsidian, Obsidian Vault Agent Instructions, Re
 
 ### Community 22 - "Backend/README.md"
 Cohesion: 0.09
-Nodes (27): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers) (+19 more)
+Nodes (28): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🔗 Connections, 📖 Learning Path (+20 more)
 
 ### Community 23 - "Async JavaScript and JSON"
 Cohesion: 0.18
@@ -188,9 +186,9 @@ Nodes (11): ⚡ `async` and `await`, Async JavaScript and JSON, Example Comparis
 Cohesion: 0.18
 Nodes (11): Console Output:, Event Loop and Non-Blocking I/O, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🧵 Single-Threaded Concurrency, 🔄 The Event Loop Mental Model (+3 more)
 
-### Community 25 - "V8 Engine"
-Cohesion: 0.20
-Nodes (10): Execution Flow:, 🤔 How Does Node.js Use V8?, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, V8 Engine, 🧠 What is a JavaScript Engine? (+2 more)
+### Community 25 - "Core Modules"
+Cohesion: 0.22
+Nodes (9): 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers), Asynchronous File Reading (Error-First Callback Pattern), Core Modules, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+1 more)
 
 ### Community 26 - "🔁 End-to-End ML Pipeline"
 Cohesion: 0.25
@@ -308,21 +306,13 @@ Nodes (8): 🌐 Computer Networks MOC (Map of Content), 🔗 Cross-Domain CS Con
 Cohesion: 0.25
 Nodes (8): 🥸 1. What Does a Subnet Mask Actually Do?, ⚡ 2. Understanding CIDR Slash Notation (`/n`), 🏛️ 3. Standard Octet Boundaries (`/8`, `/16`, `/24`), 🧮 4. The Master CIDR Subnet Mask Reference Table, 🔍 5. How Routers Find the Network Address: Bitwise AND, 🎯 6. Quick Test Answers & Explanations, 🔗 Related Notes & Next Concepts, 🎭 Subnet Masks and CIDR Notation
 
-### Community 55 - "🔤 Strings & String Manipulation"
-Cohesion: 0.40
-Nodes (5): ⚡ Essential String Idioms (Java), 🗺️ Module Learning Path, 💡 Practice Problems, 🔗 Related Notes, 🔤 Strings & String Manipulation
-
-### Community 56 - "Quick Look / Take a Look Cheatsheet Rule"
-Cohesion: 0.50
-Nodes (4): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions
-
 ### Community 57 - "🧭 Computer Science Knowledge Vault: Command Center"
 Cohesion: 0.50
 Nodes (4): 🧭 Computer Science Knowledge Vault: Command Center, 🧠 Core Domain Master MOCs, ⚡ Quick Actions & Reference Utilities, 🗺️ Vault Architecture & Domain Map
 
 ### Community 58 - "📐 Linear Regression Assumptions & Residual Analysis"
-Cohesion: 0.12
-Nodes (17): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🛠️ 4. Remedies for Heteroscedasticity, 📜 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework), 🔍 Comprehensive Diagnostic Pattern Cheat Sheet (+9 more)
+Cohesion: 0.11
+Nodes (18): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🛠️ 4. Remedies for Heteroscedasticity, 📜 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework), 🔍 Comprehensive Diagnostic Pattern Cheat Sheet (+10 more)
 
 ### Community 59 - "🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)"
 Cohesion: 0.11

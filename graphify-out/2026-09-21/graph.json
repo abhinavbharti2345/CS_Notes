@@ -3179,114 +3179,6 @@
       "source_location": "L52"
     },
     {
-      "id": "webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
-      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L29"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
-      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L54"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
-      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "asynchronous file reading (error-first callback pattern)",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_core_modules",
-      "label": "Core Modules",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "core modules",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L12"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_next_step",
-      "label": "Next Step",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L86"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L82"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L80"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L90"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_what_are_core_modules",
-      "label": "\ud83d\udce6 What Are Core Modules?",
-      "_origin": "ast",
-      "community": 22,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 what are core modules?",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L14"
-    },
-    {
       "id": "webdev_backend_node_js_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
@@ -3357,6 +3249,126 @@
       "norm_label": "what this prepares you for",
       "source_file": "WebDev/Backend/Node.js/README.md",
       "source_location": "L47"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_execution_flow",
+      "label": "Execution Flow:",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "execution flow:",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L98"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_how_does_node_js_use_v8",
+      "label": "\ud83e\udd14 How Does Node.js Use V8?",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd14 how does node.js use v8?",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L123"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L120"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L118"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_v8_engine",
+      "label": "V8 Engine",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v8 engine",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_what_is_a_javascript_engine",
+      "label": "\ud83e\udde0 What is a JavaScript Engine?",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde0 what is a javascript engine?",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_what_is_v8",
+      "label": "\ud83d\ude80 What is V8?",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\ude80 what is v8?",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L41"
+    },
+    {
+      "id": "webdev_backend_node_js_v8_engine_why_node_gives_javascript_hands",
+      "label": "\ud83d\udc50 Why Node Gives JavaScript \"Hands\"",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udc50 why node gives javascript \"hands\"",
+      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L75"
     },
     {
       "id": "webdev_backend_shopkart_auth_project_complete_registration_controller_example",
@@ -3695,124 +3707,112 @@
       "source_location": "L69"
     },
     {
-      "id": "webdev_backend_node_js_v8_engine_execution_flow",
-      "label": "Execution Flow:",
+      "id": "webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
+      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
       "_origin": "ast",
       "community": 25,
-      "community_name": "V8 Engine",
+      "community_name": "Core Modules",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "execution flow:",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L98"
+      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L29"
     },
     {
-      "id": "webdev_backend_node_js_v8_engine_how_does_node_js_use_v8",
-      "label": "\ud83e\udd14 How Does Node.js Use V8?",
+      "id": "webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
+      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
       "_origin": "ast",
       "community": 25,
-      "community_name": "V8 Engine",
+      "community_name": "Core Modules",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udd14 how does node.js use v8?",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L53"
+      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L54"
     },
     {
-      "id": "webdev_backend_node_js_v8_engine_next_step",
-      "label": "Next Step",
+      "id": "webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
+      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
       "_origin": "ast",
       "community": 25,
-      "community_name": "V8 Engine",
+      "community_name": "Core Modules",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L123"
+      "norm_label": "asynchronous file reading (error-first callback pattern)",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L33"
     },
     {
-      "id": "webdev_backend_node_js_v8_engine_prerequisites",
-      "label": "Prerequisites",
+      "id": "webdev_backend_node_js_core_modules_core_modules",
+      "label": "Core Modules",
       "_origin": "ast",
       "community": 25,
-      "community_name": "V8 Engine",
+      "community_name": "Core Modules",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L120"
-    },
-    {
-      "id": "webdev_backend_node_js_v8_engine_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "V8 Engine",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L118"
-    },
-    {
-      "id": "webdev_backend_node_js_v8_engine_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "V8 Engine",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L126"
-    },
-    {
-      "id": "webdev_backend_node_js_v8_engine_v8_engine",
-      "label": "V8 Engine",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "V8 Engine",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "v8 engine",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "norm_label": "core modules",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
       "source_location": "L12"
     },
     {
-      "id": "webdev_backend_node_js_v8_engine_what_is_a_javascript_engine",
-      "label": "\ud83e\udde0 What is a JavaScript Engine?",
+      "id": "webdev_backend_node_js_core_modules_next_step",
+      "label": "Next Step",
       "_origin": "ast",
       "community": 25,
-      "community_name": "V8 Engine",
+      "community_name": "Core Modules",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udde0 what is a javascript engine?",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
+      "norm_label": "next step",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L86"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L82"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_what_are_core_modules",
+      "label": "\ud83d\udce6 What Are Core Modules?",
+      "_origin": "ast",
+      "community": 25,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 what are core modules?",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
       "source_location": "L14"
-    },
-    {
-      "id": "webdev_backend_node_js_v8_engine_what_is_v8",
-      "label": "\ud83d\ude80 What is V8?",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "V8 Engine",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\ude80 what is v8?",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L41"
-    },
-    {
-      "id": "webdev_backend_node_js_v8_engine_why_node_gives_javascript_hands",
-      "label": "\ud83d\udc50 Why Node Gives JavaScript \"Hands\"",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "V8 Engine",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udc50 why node gives javascript \"hands\"",
-      "source_file": "WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L75"
     },
     {
       "id": "ai_ml_classical_ml_end_to_end_ml_pipeline_1_the_10_stage_machine_learning_lifecycle",
@@ -7040,6 +7040,54 @@
       "source_location": "L1"
     },
     {
+      "id": "agents_rules_quick_look_actions_to_take",
+      "label": "Actions to Take",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "actions to take",
+      "source_file": ".agents/rules/quick-look.md",
+      "source_location": "L16"
+    },
+    {
+      "id": "agents_rules_quick_look_purpose",
+      "label": "Purpose",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "purpose",
+      "source_file": ".agents/rules/quick-look.md",
+      "source_location": "L7"
+    },
+    {
+      "id": "agents_rules_quick_look_quick_look_take_a_look_cheatsheet_rule",
+      "label": "Quick Look / Take a Look Cheatsheet Rule",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "quick look / take a look cheatsheet rule",
+      "source_file": ".agents/rules/quick-look.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "agents_rules_quick_look_trigger_conditions",
+      "label": "Trigger Conditions",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "trigger conditions",
+      "source_file": ".agents/rules/quick-look.md",
+      "source_location": "L10"
+    },
+    {
       "id": "computer_networking_encapsulation_and_decapsulation_1_the_nested_envelopes_analogy",
       "label": "\u2709\ufe0f 1. The Nested Envelopes Analogy",
       "_origin": "ast",
@@ -7112,112 +7160,64 @@
       "source_location": "L1"
     },
     {
-      "id": "dsa_03_linked_lists_readme_linked_lists_module",
-      "label": "\ud83d\udd17 Linked Lists Module",
+      "id": "dsa_01_strings_readme_essential_string_idioms_java",
+      "label": "\u26a1 Essential String Idioms (Java)",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 linked lists module",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L14"
+      "norm_label": "\u26a1 essential string idioms (java)",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L39"
     },
     {
-      "id": "dsa_03_linked_lists_readme_module_learning_path",
-      "label": "\ud83e\udded Module Learning Path",
+      "id": "dsa_01_strings_readme_module_learning_path",
+      "label": "\ud83d\uddfa\ufe0f Module Learning Path",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udded module learning path",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L20"
+      "norm_label": "\ud83d\uddfa\ufe0f module learning path",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L19"
     },
     {
-      "id": "dsa_03_linked_lists_readme_module_notes",
-      "label": "\ud83d\udcda Module Notes",
+      "id": "dsa_01_strings_readme_practice_problems",
+      "label": "\ud83d\udca1 Practice Problems",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcda module notes",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L52"
+      "norm_label": "\ud83d\udca1 practice problems",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L33"
     },
     {
-      "id": "dsa_03_linked_lists_readme_quick_comparison_array_vs_linked_list",
-      "label": "\u26a1 Quick Comparison: Array vs. Linked List",
+      "id": "dsa_01_strings_readme_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u26a1 quick comparison: array vs. linked list",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L71"
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L59"
     },
     {
-      "id": "dsa_03_linked_lists_readme_related_notes_navigation",
-      "label": "\ud83d\udd17 Related Notes & Navigation",
+      "id": "dsa_01_strings_readme_strings_string_manipulation",
+      "label": "\ud83d\udd24 Strings & String Manipulation",
       "_origin": "ast",
       "community": 4,
       "community_name": "Dashboard.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes & navigation",
-      "source_file": "DSA/03. Linked Lists/README.md",
-      "source_location": "L84"
-    },
-    {
-      "id": "java_readme_connections",
-      "label": "\ud83d\udd17 Connections",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 connections",
-      "source_file": "JAVA/README.md",
-      "source_location": "L32"
-    },
-    {
-      "id": "java_readme_core_topics",
-      "label": "\ud83d\uddfa\ufe0f Core Topics",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f core topics",
-      "source_file": "JAVA/README.md",
-      "source_location": "L22"
-    },
-    {
-      "id": "java_readme_java_knowledge_base_roadmap",
-      "label": "\u2615 Java Knowledge Base & Roadmap",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u2615 java knowledge base & roadmap",
-      "source_file": "JAVA/README.md",
-      "source_location": "L11"
-    },
-    {
-      "id": "java_readme_quick_reference_syntax",
-      "label": "\u26a1 Quick Reference & Syntax",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u26a1 quick reference & syntax",
-      "source_file": "JAVA/README.md",
-      "source_location": "L17"
+      "norm_label": "\ud83d\udd24 strings & string manipulation",
+      "source_file": "DSA/01. Strings/README.md",
+      "source_location": "L13"
     },
     {
       "id": "python",
@@ -9620,114 +9620,6 @@
       "source_location": "L14"
     },
     {
-      "id": "dsa_01_strings_readme_essential_string_idioms_java",
-      "label": "\u26a1 Essential String Idioms (Java)",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udd24 Strings & String Manipulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u26a1 essential string idioms (java)",
-      "source_file": "DSA/01. Strings/README.md",
-      "source_location": "L39"
-    },
-    {
-      "id": "dsa_01_strings_readme_module_learning_path",
-      "label": "\ud83d\uddfa\ufe0f Module Learning Path",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udd24 Strings & String Manipulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f module learning path",
-      "source_file": "DSA/01. Strings/README.md",
-      "source_location": "L19"
-    },
-    {
-      "id": "dsa_01_strings_readme_practice_problems",
-      "label": "\ud83d\udca1 Practice Problems",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udd24 Strings & String Manipulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udca1 practice problems",
-      "source_file": "DSA/01. Strings/README.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "dsa_01_strings_readme_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udd24 Strings & String Manipulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "DSA/01. Strings/README.md",
-      "source_location": "L59"
-    },
-    {
-      "id": "dsa_01_strings_readme_strings_string_manipulation",
-      "label": "\ud83d\udd24 Strings & String Manipulation",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udd24 Strings & String Manipulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd24 strings & string manipulation",
-      "source_file": "DSA/01. Strings/README.md",
-      "source_location": "L13"
-    },
-    {
-      "id": "agents_rules_quick_look_actions_to_take",
-      "label": "Actions to Take",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "Quick Look / Take a Look Cheatsheet Rule",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "actions to take",
-      "source_file": ".agents/rules/quick-look.md",
-      "source_location": "L16"
-    },
-    {
-      "id": "agents_rules_quick_look_purpose",
-      "label": "Purpose",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "Quick Look / Take a Look Cheatsheet Rule",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "purpose",
-      "source_file": ".agents/rules/quick-look.md",
-      "source_location": "L7"
-    },
-    {
-      "id": "agents_rules_quick_look_quick_look_take_a_look_cheatsheet_rule",
-      "label": "Quick Look / Take a Look Cheatsheet Rule",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "Quick Look / Take a Look Cheatsheet Rule",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "quick look / take a look cheatsheet rule",
-      "source_file": ".agents/rules/quick-look.md",
-      "source_location": "L5"
-    },
-    {
-      "id": "agents_rules_quick_look_trigger_conditions",
-      "label": "Trigger Conditions",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "Quick Look / Take a Look Cheatsheet Rule",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "trigger conditions",
-      "source_file": ".agents/rules/quick-look.md",
-      "source_location": "L10"
-    },
-    {
       "id": "dashboard_computer_science_knowledge_vault_command_center",
       "label": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
       "_origin": "ast",
@@ -9785,7 +9677,7 @@
       "node_kind": "heading",
       "norm_label": "1\ufe0f\u20e3 log transformation (primary remedy)",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L137"
+      "source_location": "L280"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_1_what_is_an_assumption_why_do_residuals_matter",
@@ -9821,7 +9713,7 @@
       "node_kind": "heading",
       "norm_label": "2\ufe0f\u20e3 weighted least squares (wls)",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L157"
+      "source_location": "L300"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
@@ -9833,7 +9725,7 @@
       "node_kind": "heading",
       "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L93"
+      "source_location": "L236"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
@@ -9845,7 +9737,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udee0\ufe0f 4. remedies for heteroscedasticity",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L133"
+      "source_location": "L276"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
@@ -9857,7 +9749,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcdc 5. the classical 6 linear regression assumptions (gauss-markov framework)",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L162"
+      "source_location": "L305"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
@@ -9881,7 +9773,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L119"
+      "source_location": "L262"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_homoscedasticity_constant_variance",
@@ -9893,7 +9785,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L112"
+      "source_location": "L255"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_key_summary_takeaways",
@@ -9905,7 +9797,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L209"
+      "source_location": "L352"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
@@ -9929,7 +9821,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L229"
+      "source_location": "L372"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites",
@@ -9941,7 +9833,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L224"
+      "source_location": "L367"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
@@ -9953,7 +9845,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L222"
+      "source_location": "L365"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_python_diagnostic_implementation",
@@ -9965,7 +9857,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python diagnostic implementation",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L186"
+      "source_location": "L329"
     },
     {
       "id": "ai_ml_classical_ml_linear_regression_assumptions_related_notes",
@@ -9977,7 +9869,19 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L233"
+      "source_location": "L376"
+    },
+    {
+      "id": "ai_ml_classical_ml_linear_regression_assumptions_visualizing_the_5_residual_signatures",
+      "label": "\ud83d\udcca Visualizing the 5 Residual Signatures",
+      "_origin": "ast",
+      "community": 58,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcca visualizing the 5 residual signatures",
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L93"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_1_mcar_missing_completely_at_random",
@@ -10061,7 +9965,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udff7\ufe0f 4. the missing indicator feature (`was_missing`)",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L148"
+      "source_location": "L162"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_5_the_hidden_statistical_pitfalls_of_mean_imputation",
@@ -10073,7 +9977,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a0\ufe0f 5. the hidden statistical pitfalls of mean imputation",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L194"
+      "source_location": "L208"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_6_preventing_imputation_leakage_the_protocol",
@@ -10085,7 +9989,19 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udee1\ufe0f 6. preventing imputation leakage (the protocol)",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L220"
+      "source_location": "L234"
+    },
+    {
+      "id": "ai_ml_data_preprocessing_missing_value_imputation_categorical_imputation_mode_vs_unknown",
+      "label": "\ud83c\udff7\ufe0f Categorical Imputation: Mode vs. `\"Unknown\"`",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "\ud83e\ude79 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udff7\ufe0f categorical imputation: mode vs. `\"unknown\"`",
+      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+      "source_location": "L148"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_key_summary_takeaways",
@@ -10097,7 +10013,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L245"
+      "source_location": "L259"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_master_mechanism_comparison_matrix",
@@ -10145,7 +10061,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L265"
+      "source_location": "L279"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_prerequisites",
@@ -10157,7 +10073,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L261"
+      "source_location": "L275"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_prerequisites_next_steps",
@@ -10169,7 +10085,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L259"
+      "source_location": "L273"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_related_notes",
@@ -10181,7 +10097,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L269"
+      "source_location": "L283"
     },
     {
       "id": "dsa_dsa_problems_67_add_binary_1_eliminates_the_reversal_pass_o_n_savings",
@@ -10614,6 +10530,114 @@
       "norm_label": "why random split fails for time-ordered data:",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
       "source_location": "L198"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_linked_lists_module",
+      "label": "\ud83d\udd17 Linked Lists Module",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 linked lists module",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_module_learning_path",
+      "label": "\ud83e\udded Module Learning Path",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udded module learning path",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_module_notes",
+      "label": "\ud83d\udcda Module Notes",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcda module notes",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L52"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_quick_comparison_array_vs_linked_list",
+      "label": "\u26a1 Quick Comparison: Array vs. Linked List",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a1 quick comparison: array vs. linked list",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L71"
+    },
+    {
+      "id": "dsa_03_linked_lists_readme_related_notes_navigation",
+      "label": "\ud83d\udd17 Related Notes & Navigation",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "\ud83d\udd17 Linked Lists Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes & navigation",
+      "source_file": "DSA/03. Linked Lists/README.md",
+      "source_location": "L84"
+    },
+    {
+      "id": "java_readme_connections",
+      "label": "\ud83d\udd17 Connections",
+      "_origin": "ast",
+      "community": 62,
+      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 connections",
+      "source_file": "JAVA/README.md",
+      "source_location": "L32"
+    },
+    {
+      "id": "java_readme_core_topics",
+      "label": "\ud83d\uddfa\ufe0f Core Topics",
+      "_origin": "ast",
+      "community": 62,
+      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f core topics",
+      "source_file": "JAVA/README.md",
+      "source_location": "L22"
+    },
+    {
+      "id": "java_readme_java_knowledge_base_roadmap",
+      "label": "\u2615 Java Knowledge Base & Roadmap",
+      "_origin": "ast",
+      "community": 62,
+      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2615 java knowledge base & roadmap",
+      "source_file": "JAVA/README.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "java_readme_quick_reference_syntax",
+      "label": "\u26a1 Quick Reference & Syntax",
+      "_origin": "ast",
+      "community": 62,
+      "community_name": "\u2615 Java Knowledge Base & Roadmap",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a1 quick reference & syntax",
+      "source_file": "JAVA/README.md",
+      "source_location": "L17"
     },
     {
       "id": "ai_ml_readme",
@@ -13719,7 +13743,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L112",
+      "source_location": "L255",
       "weight": 1.0
     },
     {
@@ -13730,7 +13754,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L119",
+      "source_location": "L262",
       "weight": 1.0
     },
     {
@@ -13741,7 +13765,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L137",
+      "source_location": "L280",
       "weight": 1.0
     },
     {
@@ -13752,51 +13776,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L157",
+      "source_location": "L300",
       "weight": 1.0
     },
     {
-      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_visualizing_the_5_residual_signatures",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L133",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_classical_ml_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L162",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_classical_ml_linear_regression_assumptions_python_diagnostic_implementation",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L186",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_classical_ml_linear_regression_assumptions_key_summary_takeaways",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L209",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -13812,13 +13803,68 @@
     },
     {
       "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L236",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L276",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L305",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_python_diagnostic_implementation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L329",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
+      "target": "ai_ml_classical_ml_linear_regression_assumptions_key_summary_takeaways",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+      "source_location": "L352",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
       "target": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L222",
+      "source_location": "L365",
       "weight": 1.0
     },
     {
@@ -13829,7 +13875,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L233",
+      "source_location": "L376",
       "weight": 1.0
     },
     {
@@ -13855,17 +13901,6 @@
       "weight": 1.0
     },
     {
-      "source": "ai_ml_classical_ml_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
-      "target": "ai_ml_classical_ml_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L93",
-      "weight": 1.0
-    },
-    {
       "source": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites_next_steps",
       "target": "ai_ml_classical_ml_linear_regression_assumptions_prerequisites",
       "relation": "contains",
@@ -13873,7 +13908,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L224",
+      "source_location": "L367",
       "weight": 1.0
     },
     {
@@ -13884,7 +13919,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L229",
+      "source_location": "L372",
       "weight": 1.0
     },
     {
@@ -14845,6 +14880,17 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_data_preprocessing_missing_value_imputation_3_imputation_strategies_numerical_vs_categorical",
+      "target": "ai_ml_data_preprocessing_missing_value_imputation_categorical_imputation_mode_vs_unknown",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+      "source_location": "L148",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation_missingness_mechanisms_mcar_mar_mnar",
       "target": "ai_ml_data_preprocessing_missing_value_imputation_3_imputation_strategies_numerical_vs_categorical",
       "relation": "contains",
@@ -14863,7 +14909,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L148",
+      "source_location": "L162",
       "weight": 1.0
     },
     {
@@ -14874,7 +14920,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L194",
+      "source_location": "L208",
       "weight": 1.0
     },
     {
@@ -14885,23 +14931,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L220",
+      "source_location": "L234",
       "weight": 1.0
     },
     {
       "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation_missingness_mechanisms_mcar_mar_mnar",
       "target": "ai_ml_data_preprocessing_missing_value_imputation_key_summary_takeaways",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L245",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation_missingness_mechanisms_mcar_mar_mnar",
-      "target": "ai_ml_data_preprocessing_missing_value_imputation_prerequisites_next_steps",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14923,13 +14958,24 @@
     },
     {
       "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation_missingness_mechanisms_mcar_mar_mnar",
+      "target": "ai_ml_data_preprocessing_missing_value_imputation_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+      "source_location": "L273",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation_missingness_mechanisms_mcar_mar_mnar",
       "target": "ai_ml_data_preprocessing_missing_value_imputation_related_notes",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L269",
+      "source_location": "L283",
       "weight": 1.0
     },
     {
@@ -14951,7 +14997,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L261",
+      "source_location": "L275",
       "weight": 1.0
     },
     {
@@ -14962,7 +15008,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L265",
+      "source_location": "L279",
       "weight": 1.0
     },
     {
@@ -21221,7 +21267,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L225",
+      "source_location": "L368",
       "weight": 1.0
     },
     {
@@ -21232,7 +21278,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L226",
+      "source_location": "L369",
       "weight": 1.0
     },
     {
@@ -21243,7 +21289,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L227",
+      "source_location": "L370",
       "weight": 1.0
     },
     {
@@ -21254,7 +21300,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L234",
+      "source_location": "L377",
       "weight": 1.0
     },
     {
@@ -21265,7 +21311,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L236",
+      "source_location": "L379",
       "weight": 1.0
     },
     {
@@ -21276,7 +21322,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
-      "source_location": "L238",
+      "source_location": "L381",
       "weight": 1.0
     },
     {
@@ -21501,24 +21547,24 @@
     },
     {
       "source": "ai_ml_data_preprocessing_missing_value_imputation",
-      "target": "ai_ml_classical_ml_features_targets_and_datasets",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L263",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_missing_value_imputation",
       "target": "ai_ml_data_preprocessing_categorical_encoding",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L266",
+      "source_location": "L155",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_missing_value_imputation",
+      "target": "ai_ml_classical_ml_features_targets_and_datasets",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+      "source_location": "L277",
       "weight": 1.0
     },
     {
@@ -21529,7 +21575,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L267",
+      "source_location": "L281",
       "weight": 1.0
     },
     {
@@ -21540,7 +21586,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L270",
+      "source_location": "L284",
       "weight": 1.0
     },
     {
@@ -21551,7 +21597,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L274",
+      "source_location": "L288",
       "weight": 1.0
     },
     {
@@ -21562,7 +21608,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L275",
+      "source_location": "L289",
       "weight": 1.0
     },
     {
@@ -23866,5 +23912,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "948cd120a1fdb1bba8dbb3c88b17662cb89667ec"
+  "built_at_commit": "63054233b4c891c931916ed52cb0a2f05f2e0d61"
 }

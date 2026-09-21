@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & ML/Data Preprocessing/README.md",
+                "file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Linear Regression Assumptions"
             }
           }
         ]
@@ -228,32 +228,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "graphify-out/cache/ast/v0.9.53-s2/d84b1a624db53b0b172b2326f722c16071ba485c5c9628eea889db8d7da9b1bb.json",
+    "graphify-out/cache/ast/v0.9.53-s2/a2709d3e4ce46ba6ce4572ceb4a0c0c81c5384c31575733cd366623062c09bc0.json",
+    "graphify-out/cache/ast/v0.9.53-s2/a45fd0dcfaa78d124eaf923ef2e988806b9781f777baab20b8387bac7700a65f.json",
+    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
+    "AI & ML/README.md",
+    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
+    "AI & ML/Classical ML/Linear Regression Assumptions.md",
+    "AI & ML/Classical ML/Introduction to Machine Learning.md",
+    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
+    "AI & ML/Data Preprocessing/README.md",
     "graphify-out/cache/ast/v0.9.53-s2/3c33ee7450552972856f42b0babfffd44f9cdf9d09145aa2f155d9b769385b71.json",
     "graphify-out/cache/ast/v0.9.53-s2/31e56547a42208f9c2490caac9788f8c5f7e08426334759e4e1e5ae8f30f0899.json",
     "AI & ML/Data Preprocessing/Data Leakage.md",
-    "AI & ML/Classical ML/Linear Regression Assumptions.md",
     "graphify-out/cache/ast/v0.9.53-s2/a88c9f04e49113a33c4d61ecf58c25669822da1479849826f889da02b73e162b.json",
     "graphify-out/cache/ast/v0.9.53-s2/99c0a950157e1b7a9de4e02e88f097bc126cbffaf7c98f6917192a2c7a5a80e5.json",
     "graphify-out/cache/ast/v0.9.53-s2/e983b94c1e1afeb4ff09ac484f06a5a63259ee84a564126efaf2bb46956613a0.json",
     "graphify-out/cache/ast/v0.9.53-s2/567d5c4e273bb10dc4860a79e794654a846ee3d4f29bd1e7af2eb6f24e38485b.json",
-    "AI & ML/Classical ML/Introduction to Machine Learning.md",
-    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
-    "AI & ML/README.md",
-    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
     "AI & ML/Data Preprocessing/Missing Value Imputation.md",
     "AI & ML/Data Preprocessing/Feature Scaling.md",
     "AI & ML/Data Preprocessing/Categorical Encoding.md",
     "graphify-out/cache/ast/v0.9.53-s2/e19979ce76c19056203fa0d5131e9b06ddd6c981c1886d8b0df4802a1e0289f0.json",
     "graphify-out/cache/ast/v0.9.53-s2/9fa65aa1dc5ef7011c7a3a7f53c09600d6382c9d2b12d286befda715b40ad4d7.json",
-    "graphify-out/cache/ast/v0.9.53-s2/042776420bb77ac6763ecd467514f7c1d332cda033854aeb46417eded7252e36.json",
-    "graphify-out/cache/ast/v0.9.53-s2/41f061bcd823cf1347d1cb255e348cc034b52b0d271039a275a977e3ce015b42.json",
     "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-    "graphify-out/cache/ast/v0.9.53-s2/8a15fd33368810281f37a343bf28139b4496520b06335f0f3cccee8b731aa76e.json",
     "Computer Networking/Packets and Packet Switching.md",
     "Computer Networking/OSI vs TCP-IP Model.md",
     "Computer Networking/Encapsulation and Decapsulation.md",
-    "AI & ML/Data Preprocessing/README.md",
     "AI & ML/Classical ML/README.md",
     "graphify-out/2026-09-21/GRAPH_REPORT.md",
     "Dashboard.md",
