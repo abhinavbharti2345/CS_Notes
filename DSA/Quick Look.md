@@ -22,7 +22,7 @@ date: 2026-09-08
 ## 🧭 Navigation & Connections
 - 🏠 **Parent Hub:** [[DSA/README|DSA Master Roadmap]]
 - 🧭 **Command Center:** [[Dashboard]]
-- ⚡ **Related Topics:** [[Bit Manipulation]] | [[Bit Tricks]] | [[Bitwise Operators]]
+- ⚡ **Related Topics:** [[Bit Manipulation]] | [[02. Bit Tricks]] | [[01. Bitwise Operators]]
 
 ---
 
@@ -251,7 +251,7 @@ int out = queue.poll(); // remove from front
 ---
 
 ## ⚡ 5. Bit Manipulation High-Yield Tricks
-*(Full deep dive: [[Bit Manipulation]], [[Bit Tricks]], [[Bitwise Operators]])*
+*(Full deep dive: [[Bit Manipulation]], [[02. Bit Tricks]], [[01. Bitwise Operators]])*
 
 ```java
 // Check if odd / even
@@ -291,7 +291,7 @@ long maskRangeLtoR     = (-1L << L) & ~(-1L << (R + 1)); // 1s from bit L to R
 ---
 
 ## 🔗 6. Linked List High-Yield Boilerplates
-*(Full deep dive: [[Linked List Fundamentals]], [[Linked List Patterns]], [[DSA/03. Linked Lists/README|Linked Lists Master Note]])*
+*(Full deep dive: [[01. Linked List Fundamentals]], [[02. Linked List Patterns]], [[DSA/03. Linked Lists/README|Linked Lists Master Note]])*
 
 ```java
 // 1. Definition

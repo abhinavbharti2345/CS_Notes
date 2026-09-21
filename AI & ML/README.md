@@ -41,21 +41,22 @@ flowchart TD
 
 ## 📚 Core Modules
 
-### 1. [[Classical ML/README|01. Classical ML Foundations]]
+### 1. [[01. Classical ML/README|01. Classical ML Foundations]]
 The fundamental paradigm, mental models, and vocabulary of machine learning:
-- [[Introduction to Machine Learning]] — Traditional Programming vs ML paradigm & what is a "Model"
-- [[Supervised vs Unsupervised Learning]] — Supervised (Regression vs Classification) & Unsupervised (Clustering, PCA)
-- [[Features, Targets, and Datasets]] — Features ($X$), Targets ($y$), Samples, and matrix representation
-- [[Train-Test Split and Generalization]] — Unseen data evaluation & introduction to Overfitting
-- [[End-to-End ML Pipeline]] — The complete 10-step lifecycle from raw data to model iteration
-- [[Linear Regression Assumptions]] — Residual analysis ($e = y - \hat{y}$), homoscedasticity vs heteroscedasticity, and log transformations
+- **01.** [[01. Introduction to Machine Learning]] — Traditional Programming vs ML paradigm & what is a "Model"
+- **02.** [[02. Supervised vs Unsupervised Learning]] — Supervised (Regression vs Classification) & Unsupervised (Clustering, PCA)
+- **03.** [[03. Features, Targets, and Datasets]] — Features ($X$), Targets ($y$), Samples, and matrix representation
+- **04.** [[04. Train-Test Split and Generalization]] — Unseen data evaluation & introduction to Overfitting
+- **05.** [[05. End-to-End ML Pipeline]] — The complete 10-step lifecycle from raw data to model iteration
+- **06.** [[06. Linear Regression Assumptions]] — Residual analysis ($e = y - \hat{y}$), homoscedasticity vs heteroscedasticity, and log transformations
 
-### 2. [[Data Preprocessing/README|02. Data Preprocessing & Feature Engineering]]
+### 2. [[02. Data Preprocessing/README|02. Data Preprocessing & Feature Engineering]]
 Preparing and transforming raw numerical & categorical features for optimal algorithmic performance:
-- [[Data Leakage]] — Test contamination, development vs production performance, and the golden workflow protocol
-- [[Categorical Encoding]] — Nominal vs. Ordinal features, Ordinal Encoding, the False Ordering Hazard, and One-Hot Encoding
-- [[Missing Value Imputation]] — Handling missing values via mean, median (outlier-robust), and preventing imputation leakage
-- [[Feature Scaling]] — Scale disparity, StandardScaler ($z = \frac{x-\mu}{\sigma}$), loss surface geometry, and the `fit()` vs `transform()` paradigm
+- **01.** [[01. Data Leakage]] — Test contamination, development vs production performance, and the golden workflow protocol
+- **02.** [[02. Categorical Encoding]] — Nominal vs. Ordinal features, Ordinal Encoding, the False Ordering Hazard, and One-Hot Encoding
+- **03.** [[03. Missing Value Imputation]] — Handling missing values via mean, median (outlier-robust), and preventing imputation leakage
+- **04.** [[04. Feature Scaling]] — Scale disparity, StandardScaler ($z = \frac{x-\mu}{\sigma}$), loss surface geometry, and the `fit()` vs `transform()` paradigm
+- **05.** [[05. Scikit-Learn Pipeline]] — Leak-proof sequential workflows, `fit()` vs `predict()`, and `ColumnTransformer`
 
 ---
 
@@ -86,12 +87,12 @@ flowchart TD
 
 ## 🔗 Quick Links
 - [[Dashboard|🧭 Main Command Center]]
-- [[Classical ML/README|📁 Classical ML Foundations MOC]]
-- [[Data Preprocessing/README|🧹 Data Preprocessing MOC]]
-- [[Categorical Encoding|🏷️ Categorical Encoding Note]]
-- [[Data Leakage|🚨 Data Leakage Note]]
-- [[Missing Value Imputation|🩹 Missing Value Imputation]]
-- [[Feature Scaling|📏 Feature Scaling & StandardScaler]]
-- [[Introduction to Machine Learning|🧠 Introduction to ML Note]]
-- [[End-to-End ML Pipeline|⚙️ End-to-End ML Pipeline]]
+- [[01. Classical ML/README|📁 Classical ML Foundations MOC]]
+- [[02. Data Preprocessing/README|🧹 Data Preprocessing MOC]]
+- [[02. Categorical Encoding|🏷️ Categorical Encoding Note]]
+- [[01. Data Leakage|🚨 Data Leakage Note]]
+- [[03. Missing Value Imputation|🩹 Missing Value Imputation]]
+- [[04. Feature Scaling|📏 Feature Scaling & StandardScaler]]
+- [[01. Introduction to Machine Learning|🧠 Introduction to ML Note]]
+- [[05. End-to-End ML Pipeline|⚙️ End-to-End ML Pipeline]]
 

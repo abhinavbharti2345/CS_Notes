@@ -96,33 +96,15 @@
     "semantic_hash": ""
   },
   "DSA/04. Bit Manipulation/Bit Manipulation.md": {
-    "mtime": 1788831028.822304,
-    "seen": 1788831035.9701233,
-    "ast_hash": "bfcaba0b20399ed70fa7f337d98cbed6",
-    "semantic_hash": ""
-  },
-  "DSA/04. Bit Manipulation/Bit Tricks.md": {
-    "mtime": 1788831016.431216,
-    "seen": 1788831035.9701245,
-    "ast_hash": "d49a2374e465a15f0657714ec22101ab",
-    "semantic_hash": ""
-  },
-  "DSA/04. Bit Manipulation/Bitwise Operators.md": {
-    "mtime": 1788823564.4657285,
-    "seen": 1788823574.9565513,
-    "ast_hash": "811a26a3c67588aaa8b4f9a4162bc5cc",
-    "semantic_hash": ""
-  },
-  "DSA/04. Bit Manipulation/XOR Patterns.md": {
-    "mtime": 1788626663.9446113,
-    "seen": 1788626684.145859,
-    "ast_hash": "a27d459a98ea0064bfbde8e0587a05f5",
+    "mtime": 1789984030.7643323,
+    "seen": 1789984077.0987053,
+    "ast_hash": "d2b6d8534c02191d3090e73a6d0319e7",
     "semantic_hash": ""
   },
   "Dashboard.md": {
-    "mtime": 1789975510.1889138,
-    "seen": 1789975517.3780034,
-    "ast_hash": "b625529ba58d40a9b7448f0bb284c211",
+    "mtime": 1789984159.9671423,
+    "seen": 1789984180.648746,
+    "ast_hash": "1102da51e39a5dbf3593e71d2c2bb2bc",
     "semantic_hash": ""
   },
   "Ext_&_res/Extra_Courses.md": {
@@ -221,58 +203,16 @@
     "ast_hash": "ebf6fa40435491f709ccc61a3cec96e9",
     "semantic_hash": ""
   },
-  "AI & ML/Classical ML/End-to-End ML Pipeline.md": {
-    "mtime": 1789974808.9921284,
-    "seen": 1789974829.304566,
-    "ast_hash": "fa322be341f0219075f26a73d23bead4",
-    "semantic_hash": ""
-  },
-  "AI & ML/Classical ML/Features, Targets, and Datasets.md": {
-    "mtime": 1789974798.0896215,
-    "seen": 1789974829.304568,
-    "ast_hash": "e082a35d10f3a6158c7dfe9fe43e6a62",
-    "semantic_hash": ""
-  },
-  "AI & ML/Classical ML/Introduction to Machine Learning.md": {
-    "mtime": 1789974226.3193116,
-    "seen": 1789974610.5151658,
-    "ast_hash": "c92634f13f486942dc02292af4926d35",
-    "semantic_hash": ""
-  },
-  "AI & ML/Classical ML/README.md": {
-    "mtime": 1789975485.0102324,
-    "seen": 1789975517.3779533,
-    "ast_hash": "13549b5cf51d3c2c8a0842f954612884",
-    "semantic_hash": ""
-  },
-  "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md": {
-    "mtime": 1789974249.184954,
-    "seen": 1789974610.5151687,
-    "ast_hash": "54d78b6dcc063b6dbdf6ac7a32766491",
-    "semantic_hash": ""
-  },
-  "AI & ML/Classical ML/Train-Test Split and Generalization.md": {
-    "mtime": 1789974787.113769,
-    "seen": 1789974829.3045728,
-    "ast_hash": "31453c3be05d78ac5a576ff6f20012a5",
-    "semantic_hash": ""
-  },
   "AI & ML/README.md": {
-    "mtime": 1789975500.7005181,
-    "seen": 1789975517.377963,
-    "ast_hash": "7671e710243d91cacc23a7844b8c74eb",
-    "semantic_hash": ""
-  },
-  "DSA/04. Bit Manipulation/Bit Manipulation Problems.md": {
-    "mtime": 1788626633.1237068,
-    "seen": 1788626684.145855,
-    "ast_hash": "d3b08ee2afe673c26518b363eb656cad",
+    "mtime": 1789984030.7466564,
+    "seen": 1789984077.0986855,
+    "ast_hash": "f515fffcf75d530f7dbb830433ea3a64",
     "semantic_hash": ""
   },
   "DSA/README.md": {
-    "mtime": 1789974397.7807918,
-    "seen": 1789974610.5152094,
-    "ast_hash": "fefc415f2c7670d8a14d411c94412d3c",
+    "mtime": 1789984171.7493348,
+    "seen": 1789984180.6487443,
+    "ast_hash": "fd1452a1f46cfd23f432239e3d09d963",
     "semantic_hash": ""
   },
   ".agents/rules/quick-look.md": {
@@ -282,9 +222,9 @@
     "semantic_hash": ""
   },
   "DSA/Quick Look.md": {
-    "mtime": 1789643729.1080265,
-    "seen": 1789643741.3516314,
-    "ast_hash": "f77ba473eae1f6a3ac28db3f910056e0",
+    "mtime": 1789984030.758332,
+    "seen": 1789984077.0987072,
+    "ast_hash": "9b892b6905070fc26bfa6b6bd321bc31",
     "semantic_hash": ""
   },
   "JAVA/README.md": {
@@ -323,136 +263,16 @@
     "ast_hash": "fd75dd32c1d0b8cf1e1fa247ad9643c9",
     "semantic_hash": ""
   },
-  "DSA/03. Linked Lists/Linked List Fundamentals.md": {
-    "mtime": 1789643696.8073173,
-    "seen": 1789643741.351624,
-    "ast_hash": "9d7e6d09a6d5dcfc8e99a6297d2dce7b",
-    "semantic_hash": ""
-  },
-  "DSA/03. Linked Lists/Linked List Patterns.md": {
-    "mtime": 1789643707.1043823,
-    "seen": 1789643741.3516252,
-    "ast_hash": "709e0c76737f3441daa8af1e1cf6c18b",
-    "semantic_hash": ""
-  },
   "DSA/03. Linked Lists/README.md": {
-    "mtime": 1789643683.5449994,
-    "seen": 1789643741.351626,
-    "ast_hash": "880f82b320590ba0a5ff2b1c49dc4ba4",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md": {
-    "mtime": 1789974545.0151832,
-    "seen": 1789974610.5151784,
-    "ast_hash": "32e84675ce2445566064a6bec34a804f",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Encapsulation and Decapsulation.md": {
-    "mtime": 1789973773.8356075,
-    "seen": 1789973941.4518409,
-    "ast_hash": "860ba582855880e2885f42b71617a0be",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Ethernet and MAC Addressing.md": {
-    "mtime": 1789973909.8805077,
-    "seen": 1789973941.4518418,
-    "ast_hash": "9e76c37e3649b9c0cc754d19b508c639",
-    "semantic_hash": ""
-  },
-  "Computer Networking/IP Addressing Fundamentals.md": {
-    "mtime": 1789974336.7540414,
-    "seen": 1789974610.5151825,
-    "ast_hash": "0a96dd0659e0560939d9ede106708be0",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Introduction to Computer Networks.md": {
-    "mtime": 1789973893.7706122,
-    "seen": 1789973941.451844,
-    "ast_hash": "9524d4e528efe5dc7365212f805299e3",
-    "semantic_hash": ""
-  },
-  "Computer Networking/MTU and Fragmentation.md": {
-    "mtime": 1789973850.7069004,
-    "seen": 1789973941.451845,
-    "ast_hash": "22f7e2ec2f91c01aea21cb5894f494ac",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md": {
-    "mtime": 1789973933.3580503,
-    "seen": 1789973941.4518464,
-    "ast_hash": "d5e0b1ea1109af429f1aa8ff65cf0cf3",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Network ID and Host ID.md": {
-    "mtime": 1789974505.1043212,
-    "seen": 1789974610.5151868,
-    "ast_hash": "b261808f678ed6a053690b368e7cddf5",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Network Performance - Delay, Latency, Throughput.md": {
-    "mtime": 1789974476.4887197,
-    "seen": 1789974610.5151875,
-    "ast_hash": "a849b97fc927bfa6689cf8f73d4ec906",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Network Protocols and Standards.md": {
-    "mtime": 1789974489.395164,
-    "seen": 1789974610.5151885,
-    "ast_hash": "e146f5f6b34ca9950c08b1140aa20d0e",
-    "semantic_hash": ""
-  },
-  "Computer Networking/OSI vs TCP-IP Model.md": {
-    "mtime": 1789973745.6458535,
-    "seen": 1789973941.4518504,
-    "ast_hash": "c65d18b41b8ab55d5be133448ba00414",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Packets and Packet Switching.md": {
-    "mtime": 1789974321.0351796,
-    "seen": 1789974610.5151901,
-    "ast_hash": "7341e9e2d942442edf8e326a438dca97",
+    "mtime": 1789984030.761334,
+    "seen": 1789984077.0987022,
+    "ast_hash": "645df840102b35394e2fd5c49ee02f85",
     "semantic_hash": ""
   },
   "Computer Networking/README.md": {
-    "mtime": 1789974375.0202737,
-    "seen": 1789974610.5151908,
-    "ast_hash": "6cb734f1fef480ac58519e83a943729e",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Subnet Masks and CIDR Notation.md": {
-    "mtime": 1789974302.0112743,
-    "seen": 1789974610.5151916,
-    "ast_hash": "e9bac5d93f31799e78e295d43501322d",
-    "semantic_hash": ""
-  },
-  "Computer Networking/Switching Techniques - Packet vs Circuit.md": {
-    "mtime": 1789974361.6331308,
-    "seen": 1789974610.5151923,
-    "ast_hash": "5c173b40fde6fb59c1f7d5cfb75aa2de",
-    "semantic_hash": ""
-  },
-  "AI & ML/Data Preprocessing/Feature Scaling.md": {
-    "mtime": 1789974814.872898,
-    "seen": 1789974829.3045764,
-    "ast_hash": "88a5e99694916e0f6dbd0b6aff18228f",
-    "semantic_hash": ""
-  },
-  "AI & ML/Data Preprocessing/README.md": {
-    "mtime": 1789976692.4822106,
-    "seen": 1789976700.5662284,
-    "ast_hash": "74b2758e48bcab102c6f1b1b09a02436",
-    "semantic_hash": ""
-  },
-  "AI & ML/Data Preprocessing/Data Leakage.md": {
-    "mtime": 1789976068.0732741,
-    "seen": 1789976087.4253142,
-    "ast_hash": "6ef5121b3617fda78d4ffac28db7f961",
-    "semantic_hash": ""
-  },
-  "AI & ML/Data Preprocessing/Missing Value Imputation.md": {
-    "mtime": 1789977081.4792688,
-    "seen": 1789977088.492416,
-    "ast_hash": "1e5ca0f39e5d6699a4e1572c12129f6e",
+    "mtime": 1789984030.758332,
+    "seen": 1789984077.0986955,
+    "ast_hash": "e7cc020d8a91a34414eb893c64dcb14c",
     "semantic_hash": ""
   },
   ".agents/rules/Agent.md": {
@@ -461,16 +281,202 @@
     "ast_hash": "d25e4ea5f3a604e079bec593a2ee9878",
     "semantic_hash": ""
   },
-  "AI & ML/Data Preprocessing/Categorical Encoding.md": {
-    "mtime": 1789973793.8509705,
-    "seen": 1789973941.4518323,
-    "ast_hash": "4c3b350291853bd2c00f454f0c32346a",
+  "AI & ML/01. Classical ML/01. Introduction to Machine Learning.md": {
+    "mtime": 1789984030.747658,
+    "seen": 1789984077.0986762,
+    "ast_hash": "09148acf6ac61a227f0d6610d279534a",
     "semantic_hash": ""
   },
-  "AI & ML/Classical ML/Linear Regression Assumptions.md": {
-    "mtime": 1789981995.3755734,
-    "seen": 1789982002.8466997,
-    "ast_hash": "025ed43f3a3579cae76b1dd626fd6395",
+  "AI & ML/01. Classical ML/02. Supervised vs Unsupervised Learning.md": {
+    "mtime": 1789984200.9583476,
+    "seen": 1789984282.9863017,
+    "ast_hash": "fc542dbb889ad0c89b08c02683c5ddfd",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/03. Features, Targets, and Datasets.md": {
+    "mtime": 1789984030.7486608,
+    "seen": 1789984077.0986784,
+    "ast_hash": "db80d2f4ddbd4ef5fff8575dec40e092",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md": {
+    "mtime": 1789984030.7486608,
+    "seen": 1789984077.0986788,
+    "ast_hash": "82ff30392430670ee5b8c0ed4ab65fdd",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md": {
+    "mtime": 1789984030.7493057,
+    "seen": 1789984077.0986798,
+    "ast_hash": "23796e47aac1c4581216e436e1739279",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md": {
+    "mtime": 1789984030.7493057,
+    "seen": 1789984077.0986803,
+    "ast_hash": "c3566adc2fe37bbac27fb1d1791874c7",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/README.md": {
+    "mtime": 1789984030.7503114,
+    "seen": 1789984077.0986807,
+    "ast_hash": "c1d971836fbff6615aee96835a0013a9",
+    "semantic_hash": ""
+  },
+  "AI & ML/02. Data Preprocessing/01. Data Leakage.md": {
+    "mtime": 1789984030.7503114,
+    "seen": 1789984077.0986817,
+    "ast_hash": "50265806dc4f64ea9cc77fda1c0e3751",
+    "semantic_hash": ""
+  },
+  "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md": {
+    "mtime": 1789984030.7503114,
+    "seen": 1789984077.0986822,
+    "ast_hash": "87480ebedfe726d1a05f25f12a28308e",
+    "semantic_hash": ""
+  },
+  "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md": {
+    "mtime": 1789984030.7513113,
+    "seen": 1789984077.0986826,
+    "ast_hash": "4d448cb2b03ab9f7296ac62775e1a942",
+    "semantic_hash": ""
+  },
+  "AI & ML/02. Data Preprocessing/04. Feature Scaling.md": {
+    "mtime": 1789984030.7513113,
+    "seen": 1789984077.098683,
+    "ast_hash": "833976e0fd59c173f74d1cfb2718cdd3",
+    "semantic_hash": ""
+  },
+  "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md": {
+    "mtime": 1789984274.394427,
+    "seen": 1789984282.9863117,
+    "ast_hash": "19c0ac4550639e4137b924b1035ccf8c",
+    "semantic_hash": ""
+  },
+  "AI & ML/02. Data Preprocessing/README.md": {
+    "mtime": 1789984030.752312,
+    "seen": 1789984077.0986843,
+    "ast_hash": "56092c83af879188a50dd3a74cc0330d",
+    "semantic_hash": ""
+  },
+  "Computer Networking/01. Introduction to Computer Networks.md": {
+    "mtime": 1789984030.7533114,
+    "seen": 1789984077.0986865,
+    "ast_hash": "b92e870044e9e42affa9b2be5540e1cf",
+    "semantic_hash": ""
+  },
+  "Computer Networking/02. Packets and Packet Switching.md": {
+    "mtime": 1789984030.7533114,
+    "seen": 1789984077.0986872,
+    "ast_hash": "6fc1522ae48f23e8163827014bd23a69",
+    "semantic_hash": ""
+  },
+  "Computer Networking/03. Switching Techniques - Packet vs Circuit.md": {
+    "mtime": 1789984030.7533114,
+    "seen": 1789984077.098688,
+    "ast_hash": "4d28c0f2085d4fff8a56d57d7ebd7d11",
+    "semantic_hash": ""
+  },
+  "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md": {
+    "mtime": 1789984030.7543116,
+    "seen": 1789984077.0986886,
+    "ast_hash": "8d3419845a8d4f32e44f215288c6a737",
+    "semantic_hash": ""
+  },
+  "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md": {
+    "mtime": 1789984030.7543116,
+    "seen": 1789984077.0986893,
+    "ast_hash": "6053f0fa5bec8a7f80fb190d0efe69de",
+    "semantic_hash": ""
+  },
+  "Computer Networking/06. OSI vs TCP-IP Model.md": {
+    "mtime": 1789984030.755332,
+    "seen": 1789984077.0986898,
+    "ast_hash": "ff43e963911f66e4fa5cc02d54f7c193",
+    "semantic_hash": ""
+  },
+  "Computer Networking/07. Network Protocols and Standards.md": {
+    "mtime": 1789984030.755332,
+    "seen": 1789984077.0986903,
+    "ast_hash": "ac60328a7b051f07446020120f2353df",
+    "semantic_hash": ""
+  },
+  "Computer Networking/08. Encapsulation and Decapsulation.md": {
+    "mtime": 1789984030.755332,
+    "seen": 1789984077.098691,
+    "ast_hash": "4ae61eb497391ac1f78ec3e82491f379",
+    "semantic_hash": ""
+  },
+  "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md": {
+    "mtime": 1789984030.7563326,
+    "seen": 1789984077.0986917,
+    "ast_hash": "bb7a7ccedccadc35be9c50882e760b95",
+    "semantic_hash": ""
+  },
+  "Computer Networking/10. Ethernet and MAC Addressing.md": {
+    "mtime": 1789984030.7563326,
+    "seen": 1789984077.0986922,
+    "ast_hash": "cfac9188759b8c56d5f0ef8ed6f34a5a",
+    "semantic_hash": ""
+  },
+  "Computer Networking/11. MTU and Fragmentation.md": {
+    "mtime": 1789984030.7563326,
+    "seen": 1789984077.0986927,
+    "ast_hash": "66fc13ddbff9750673cb412a05d7a209",
+    "semantic_hash": ""
+  },
+  "Computer Networking/12. IP Addressing Fundamentals.md": {
+    "mtime": 1789984030.7573326,
+    "seen": 1789984077.0986931,
+    "ast_hash": "9194293c348b88fef0aede9d6e79651c",
+    "semantic_hash": ""
+  },
+  "Computer Networking/13. Network ID and Host ID.md": {
+    "mtime": 1789984030.7573326,
+    "seen": 1789984077.0986936,
+    "ast_hash": "ad4268e48900ed4c854f5c0c3f4d6a9f",
+    "semantic_hash": ""
+  },
+  "Computer Networking/14. Subnet Masks and CIDR Notation.md": {
+    "mtime": 1789984030.7573326,
+    "seen": 1789984077.0986943,
+    "ast_hash": "288f8c6f38d6d34530478fd289e63f8d",
+    "semantic_hash": ""
+  },
+  "DSA/03. Linked Lists/01. Linked List Fundamentals.md": {
+    "mtime": 1789984030.760332,
+    "seen": 1789984077.0987003,
+    "ast_hash": "2ab292e64b57e5e29718a53694da4845",
+    "semantic_hash": ""
+  },
+  "DSA/03. Linked Lists/02. Linked List Patterns.md": {
+    "mtime": 1789984030.761334,
+    "seen": 1789984077.0987012,
+    "ast_hash": "5c7ba42682c155db6406876c7661660c",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/01. Bitwise Operators.md": {
+    "mtime": 1789984030.7623367,
+    "seen": 1789984077.098703,
+    "ast_hash": "10b7530340845f5d5dc48edcc5e62613",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/02. Bit Tricks.md": {
+    "mtime": 1789984030.7623367,
+    "seen": 1789984077.0987036,
+    "ast_hash": "4941de410258d2a039aec8ff1f8b0209",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/03. XOR Patterns.md": {
+    "mtime": 1789984030.763337,
+    "seen": 1789984077.098704,
+    "ast_hash": "fabea3dbacf4ac898fbdceb673c27f16",
+    "semantic_hash": ""
+  },
+  "DSA/04. Bit Manipulation/04. Bit Manipulation Problems.md": {
+    "mtime": 1789984030.763337,
+    "seen": 1789984077.0987048,
+    "ast_hash": "ce55c28f5e7d8f1cd6d74580c1daef1f",
     "semantic_hash": ""
   }
 }

@@ -51,7 +51,7 @@ Middle Cycle Palindrome
 
 ## 📚 Module Notes
 
-1. **[[Linked List Fundamentals|🧱 Linked List Fundamentals]]**
+1. **[[01. Linked List Fundamentals|🧱 Linked List Fundamentals]]**
    - **The Problem:** Array memory contiguity & $O(N)$ shift penalties vs. scattered node allocation.
    - **The Node Architecture:** `data` and `next` reference in Java.
    - **The Head Pointer:** Why `head` is a reference, not a value.
@@ -59,7 +59,7 @@ Middle Cycle Palindrome
    - **Array vs. Linked List Complexity:** Trade-off comparison table.
    - **Self-Check Test:** 5 foundational conceptual questions & answers.
 
-2. **[[Linked List Patterns|🧠 Linked List Core Patterns]]**
+2. **[[02. Linked List Patterns|🧠 Linked List Core Patterns]]**
    - **Pattern 1:** Standard Traversal & Aggregation (`current = current.next`).
    - **Pattern 2:** Fast & Slow Pointers (Floyd's Tortoise and Hare for Middle, Cycle Detection, Palindromes).
    - **Pattern 3:** In-Place Reversal (`prev`, `curr`, `next` iterative pointer rewiring).
@@ -84,6 +84,6 @@ Middle Cycle Palindrome
 ## 🔗 Related Notes & Navigation
 - [[DSA/README|🌳 DSA Master Roadmap]]
 - [[Quick Look|⚡ Quick Look & Cheatsheet]]
-- [[Linked List Fundamentals|🧱 Linked List Fundamentals]]
-- [[Linked List Patterns|🧠 Linked List Patterns]]
+- [[01. Linked List Fundamentals|🧱 Linked List Fundamentals]]
+- [[02. Linked List Patterns|🧠 Linked List Patterns]]
 - [[Dashboard|🧭 Main Command Center]]

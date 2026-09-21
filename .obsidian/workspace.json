@@ -10,18 +10,35 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & ML/Classical ML/Linear Regression Assumptions.md",
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "b79fc4c921ac244d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression Assumptions"
+              "title": "04. Feature Scaling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,43 +243,43 @@
       "ollama-assistant:Open Ollama Assistant": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b79fc4c921ac244d",
   "lastOpenFiles": [
-    "graphify-out/cache/ast/v0.9.53-s2/d84b1a624db53b0b172b2326f722c16071ba485c5c9628eea889db8d7da9b1bb.json",
-    "graphify-out/cache/ast/v0.9.53-s2/a2709d3e4ce46ba6ce4572ceb4a0c0c81c5384c31575733cd366623062c09bc0.json",
-    "graphify-out/cache/ast/v0.9.53-s2/a45fd0dcfaa78d124eaf923ef2e988806b9781f777baab20b8387bac7700a65f.json",
-    "AI & ML/Classical ML/Train-Test Split and Generalization.md",
-    "AI & ML/README.md",
-    "AI & ML/Classical ML/Features, Targets, and Datasets.md",
-    "AI & ML/Classical ML/Linear Regression Assumptions.md",
-    "AI & ML/Classical ML/Introduction to Machine Learning.md",
-    "AI & ML/Classical ML/End-to-End ML Pipeline.md",
-    "AI & ML/Data Preprocessing/README.md",
-    "graphify-out/cache/ast/v0.9.53-s2/3c33ee7450552972856f42b0babfffd44f9cdf9d09145aa2f155d9b769385b71.json",
-    "graphify-out/cache/ast/v0.9.53-s2/31e56547a42208f9c2490caac9788f8c5f7e08426334759e4e1e5ae8f30f0899.json",
-    "AI & ML/Data Preprocessing/Data Leakage.md",
-    "graphify-out/cache/ast/v0.9.53-s2/a88c9f04e49113a33c4d61ecf58c25669822da1479849826f889da02b73e162b.json",
-    "graphify-out/cache/ast/v0.9.53-s2/99c0a950157e1b7a9de4e02e88f097bc126cbffaf7c98f6917192a2c7a5a80e5.json",
-    "graphify-out/cache/ast/v0.9.53-s2/e983b94c1e1afeb4ff09ac484f06a5a63259ee84a564126efaf2bb46956613a0.json",
-    "graphify-out/cache/ast/v0.9.53-s2/567d5c4e273bb10dc4860a79e794654a846ee3d4f29bd1e7af2eb6f24e38485b.json",
-    "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-    "AI & ML/Data Preprocessing/Feature Scaling.md",
-    "AI & ML/Data Preprocessing/Categorical Encoding.md",
-    "graphify-out/cache/ast/v0.9.53-s2/e19979ce76c19056203fa0d5131e9b06ddd6c981c1886d8b0df4802a1e0289f0.json",
-    "graphify-out/cache/ast/v0.9.53-s2/9fa65aa1dc5ef7011c7a3a7f53c09600d6382c9d2b12d286befda715b40ad4d7.json",
-    "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-    "Computer Networking/Packets and Packet Switching.md",
-    "Computer Networking/OSI vs TCP-IP Model.md",
-    "Computer Networking/Encapsulation and Decapsulation.md",
-    "AI & ML/Classical ML/README.md",
-    "graphify-out/2026-09-21/GRAPH_REPORT.md",
+    "graphify-out/cache/ast/v0.9.53-s2/fdd56db44e41a9b74988af0d393c732fb6b30650a29d1adea1b78db87f2f25fb.json",
+    "graphify-out/cache/ast/v0.9.53-s2/7d05be2bb6accf4a0ae08f084c7f4b7160f7967c43f79eaa138a4c217f994da0.json",
     "Dashboard.md",
-    "Computer Networking/Subnet Masks and CIDR Notation.md",
-    "Computer Networking/README.md",
-    "Computer Networking/Network ID and Host ID.md",
-    "Computer Networking/IP Addressing Fundamentals.md",
-    "Computer Networking/MTU and Fragmentation.md",
-    "Computer Networking/Ethernet and MAC Addressing.md",
-    "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md"
+    "AI & ML/01. Classical ML/02. Supervised vs Unsupervised Learning.md",
+    "DSA/02. Binary Search/Binary Search.md",
+    "graphify-out/cache/ast/v0.9.53-s2/16f3677f332549aacbc44b4acd85c088d29d116765f247c1545a7b120115216f.json",
+    "graphify-out/cache/ast/v0.9.53-s2/b1ce7a79f387c787a5bd58bdc76614de9d3a69f7f0370bc707399b96a3537438.json",
+    "graphify-out/cache/ast/v0.9.53-s2/ae758bfe8695bf77eea6d0a2042ce739bf4253c299523d28b418570ccd2eefe1.json",
+    "graphify-out/cache/ast/v0.9.53-s2/51c162b0bfd4c9be25534db9bd1aa5561700ad0608807f65032bb79ecc716309.json",
+    "graphify-out/cache/ast/v0.9.53-s2/f1566db20beffad88212da7a96ab01d4f5d1c50c372f2330ed82a15f4e5a50e7.json",
+    "graphify-out/cache/ast/v0.9.53-s2/3b5a44c97c7bac65b22fc7a5c158d53a1f1f6f7a0409583b75acba20f60e4a33.json",
+    "graphify-out/cache/ast/v0.9.53-s2/08da96ca2ec1650a232dc7b9104d2dd60f4e288d6d0cfa71fe6b81d5bb91b46c.json",
+    "graphify-out/cache/ast/v0.9.53-s2/5f5181a7fd4418794b416228b5f720aaac5f205e00c457ab2078e0ed4060ec0e.json",
+    "graphify-out/cache/ast/v0.9.53-s2/aef55025cc5f75d6538bec63f53b6860d5dfbb2874469eb4a430d34e4500846e.json",
+    "Computer Networking/08. Encapsulation and Decapsulation.md",
+    "Computer Networking/07. Network Protocols and Standards.md",
+    "Computer Networking/03. Switching Techniques - Packet vs Circuit.md",
+    "Computer Networking/11. MTU and Fragmentation.md",
+    "Computer Networking/06. OSI vs TCP-IP Model.md",
+    "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
+    "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+    "Computer Networking/10. Ethernet and MAC Addressing.md",
+    "Computer Networking/02. Packets and Packet Switching.md",
+    "Computer Networking/01. Introduction to Computer Networks.md",
+    "Computer Networking/12. IP Addressing Fundamentals.md",
+    "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+    "DSA/04. Bit Manipulation/04. Bit Manipulation Problems.md",
+    "DSA/04. Bit Manipulation/03. XOR Patterns.md",
+    "DSA/04. Bit Manipulation/02. Bit Tricks.md",
+    "DSA/04. Bit Manipulation/01. Bitwise Operators.md",
+    "DSA/03. Linked Lists/02. Linked List Patterns.md",
+    "DSA/03. Linked Lists/01. Linked List Fundamentals.md",
+    "Computer Networking/14. Subnet Masks and CIDR Notation.md",
+    "Computer Networking/13. Network ID and Host ID.md",
+    "AI & ML/02. Data Preprocessing/README.md",
+    "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md"
   ]
 }

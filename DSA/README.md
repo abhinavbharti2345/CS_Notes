@@ -47,25 +47,25 @@ flowchart TD
 
 ### 🔤 [[DSA/01. Strings/README|01. Strings]]
 String operations, character manipulation, two-pointer simulation, and memory optimization:
-- [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder]] — Mutable character buffers, memory growth model, and DSA patterns.
-- [[DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]] — Column-by-column math simulation, `StringBuilder` vs `String`, and carry propagation.
-- [[DSA/DSA Problems/67. Add Binary|💡 67. Add Binary]] — Problem walkthrough, baseline vs. 100% `char[]` backward-fill optimization.
+- **01.** [[DSA/01. Strings/StringBuilder|🏗️ StringBuilder]] — Mutable character buffers, memory growth model, and DSA patterns.
+- **02.** [[DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]] — Column-by-column math simulation, `StringBuilder` vs `String`, and carry propagation.
+- **03.** [[DSA/DSA Problems/67. Add Binary|💡 67. Add Binary]] — Problem walkthrough, baseline vs. 100% `char[]` backward-fill optimization.
 
 ### 🔍 [[Binary Search|02. Binary Search]]
 Searching monotonic patterns and halving search spaces:
-- [[Binary Search]] — Monotonic property, $O(\log N)$ reduction, standard boundary template, example trace, and virtual reduction mental models.
+- **01.** [[Binary Search]] — Monotonic property, $O(\log N)$ reduction, standard boundary template, example trace, and virtual reduction mental models.
 
 ### 🔗 [[DSA/03. Linked Lists/README|03. Linked Lists]]
 Singly linked lists, non-contiguous node architecture, traversal, and core interview patterns:
-- [[Linked List Fundamentals]] — Node class, pointer references, $O(1)$ vs $O(N)$ memory model, insertion/deletion mechanics, and 3-pointer mental model.
-- [[Linked List Patterns]] — Fast & Slow pointers (Tortoise & Hare), in-place list reversal, and dummy head sentinel nodes.
+- **01.** [[01. Linked List Fundamentals]] — Node class, pointer references, $O(1)$ vs $O(N)$ memory model, insertion/deletion mechanics, and 3-pointer mental model.
+- **02.** [[02. Linked List Patterns]] — Fast & Slow pointers (Tortoise & Hare), in-place list reversal, and dummy head sentinel nodes.
 
 ### ⚡ [[Bit Manipulation|04. Bit Manipulation]]
 Bit-level integer representation, operators, low-level tricks, and algorithmic XOR patterns:
-- [[Bitwise Operators]] — AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), truth tables, and algebraic identities
-- [[Bit Tricks]] — Parity check (`N & 1`), Shift formulas (`<<`, `>>`), and bit masks (Check, Set, Flip, Unset)
-- [[XOR Patterns]] — Identities ($A \oplus 0 = A$, $A \oplus A = 0$), duplicate cancellation, and bit-count observations
-- [[Bit Manipulation Problems]] — Single Number, Two Missing Numbers (Partitioning), Minimum XOR Pair, and Sum of XOR of All Pairs (Bit Contribution)
+- **01.** [[01. Bitwise Operators]] — AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), truth tables, and algebraic identities
+- **02.** [[02. Bit Tricks]] — Parity check (`N & 1`), Shift formulas (`<<`, `>>`), and bit masks (Check, Set, Flip, Unset)
+- **03.** [[03. XOR Patterns]] — Identities ($A \oplus 0 = A$, $A \oplus A = 0$), duplicate cancellation, and bit-count observations
+- **04.** [[04. Bit Manipulation Problems]] — Single Number, Two Missing Numbers (Partitioning), Minimum XOR Pair, and Sum of XOR of All Pairs (Bit Contribution)
 
 ---
 
@@ -75,9 +75,9 @@ Bit-level integer representation, operators, low-level tricks, and algorithmic X
 - [[DSA/01. Strings/README|🔤 01. Strings Master Note]]
 - [[Binary Search|🔍 Binary Search]]
 - [[DSA/03. Linked Lists/README|🔗 03. Linked Lists Master Note]]
-- [[Linked List Fundamentals|🧱 Linked List Fundamentals]]
-- [[Linked List Patterns|🧠 Linked List Patterns]]
+- [[01. Linked List Fundamentals|🧱 Linked List Fundamentals]]
+- [[02. Linked List Patterns|🧠 Linked List Patterns]]
 - [[Bit Manipulation|📁 Bit Manipulation Master Note]]
-- [[Bit Manipulation Problems|💡 Bit Manipulation Problems]]
+- [[04. Bit Manipulation Problems|💡 Bit Manipulation Problems]]
 
 

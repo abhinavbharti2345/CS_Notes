@@ -19,22 +19,22 @@ date: 2026-09-05
 
 ## 📖 Module Learning Path
 
-1. **[[Bitwise Operators]]**
+1. **[[01. Bitwise Operators]]**
    - Fundamental operators: AND (`&`), OR (`|`), XOR (`^`), NOT (`~`)
    - Truth tables and operator algebraic properties (Commutative, Associative)
    - Decimal arithmetic examples (`20 & 45`, `20 | 45`, `20 ^ 45`)
 
-2. **[[Bit Tricks]]**
+2. **[[02. Bit Tricks]]**
    - Parity check (`N & 1` for Even/Odd)
    - Left Shift (`<<`) and Right Shift (`>>`) arithmetic formulas
    - Single-bit mask operations: Check Bit, Set Bit, Flip Bit, Unset Bit
 
-3. **[[XOR Patterns]]**
+3. **[[03. XOR Patterns]]**
    - Core XOR identities ($A \oplus 0 = A$, $A \oplus A = 0$)
    - Duplicate cancellation and associative rearrangement
    - Bit-count frequency observation across 32 bit positions
 
-4. **[[Bit Manipulation Problems]]**
+4. **[[04. Bit Manipulation Problems]]**
    - **Single Number:** $O(N)$ time, $O(1)$ space using XOR cancellation
    - **Two Missing Numbers:** Sorting vs Math vs XOR Partitioning
    - **Minimum XOR Pair:** Sorting and adjacent scanning
@@ -115,8 +115,8 @@ Count 1s:    N = N & (N - 1)     → Brian Kernighan algorithm O(set bits)
 ## 🔗 Related Notes
 - [[DSA/README|🌳 DSA Master MOC]]
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
-- [[Bitwise Operators]]
-- [[Bit Tricks]]
-- [[XOR Patterns]]
-- [[Bit Manipulation Problems]]
+- [[01. Bitwise Operators]]
+- [[02. Bit Tricks]]
+- [[03. XOR Patterns]]
+- [[04. Bit Manipulation Problems]]
 - [[Dashboard|🧭 Main Command Center]]
