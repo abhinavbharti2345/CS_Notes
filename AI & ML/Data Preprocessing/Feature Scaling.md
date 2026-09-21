@@ -82,7 +82,9 @@ Algorithms that compute geometric distances between sample points (e.g., **KNN, 
 
 ### Mathematical Formula
 
-$$z = \frac{x - \mu}{\sigma}$$
+$$
+\boxed{z = \frac{x - \mu}{\sigma}}
+$$
 
 Where:
 - $x$ = Original feature value
@@ -91,8 +93,8 @@ Where:
 - $z$ = Standardized score ($z$-score)
 
 ### Statistical Properties of Scaled Output
-- **Mean ($\mu_z$) $\approx 0$**
-- **Standard Deviation ($\sigma_z$) $\approx 1$**
+- 🟢 **Mean ($\mu_z$) $\approx 0$**
+- 🟢 **Standard Deviation ($\sigma_z$) $\approx 1$**
 
 ---
 
