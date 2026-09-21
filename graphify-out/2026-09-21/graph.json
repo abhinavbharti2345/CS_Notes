@@ -4504,23 +4504,6 @@
       "source_location": "L120"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput",
-      "label": "04. Network Performance - Delay, Latency, Throughput.md",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "04. network performance - delay, latency, throughput.md",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L1"
-    },
-    {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_1_latency_delay_ping_rtt",
       "label": "\u23f1\ufe0f 1. Latency, Delay & Ping (RTT)",
       "_origin": "ast",
@@ -4533,30 +4516,6 @@
       "source_location": "L21"
     },
     {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_1_processing_delay_d_text_proc",
-      "label": "1\ufe0f\u20e3 Processing Delay ($d_{\\text{proc}}$)",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1\ufe0f\u20e3 processing delay ($d_{\\text{proc}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L78"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_queuing_delay_d_text_queue",
-      "label": "2\ufe0f\u20e3 Queuing Delay ($d_{\\text{queue}}$)",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2\ufe0f\u20e3 queuing delay ($d_{\\text{queue}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L93"
-    },
-    {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_2_the_bottleneck_link_principle",
       "label": "2. The Bottleneck Link Principle",
       "_origin": "ast",
@@ -4567,30 +4526,6 @@
       "norm_label": "2. the bottleneck link principle",
       "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L178"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_the_four_components_of_nodal_delay",
-      "label": "\ud83e\udde9 2. The Four Components of Nodal Delay",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udde9 2. the four components of nodal delay",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L53"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_3_transmission_delay_d_text_trans",
-      "label": "3\ufe0f\u20e3 Transmission Delay ($d_{\\text{trans}}$)",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3\ufe0f\u20e3 transmission delay ($d_{\\text{trans}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L101"
     },
     {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_3_transmission_vs_propagation_the_golden_distinction",
@@ -4615,18 +4550,6 @@
       "norm_label": "3. why a 1 gbps isp plan $\\neq$ 1 gbps download speed",
       "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L204"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_4_propagation_delay_d_text_prop",
-      "label": "4\ufe0f\u20e3 Propagation Delay ($d_{\\text{prop}}$)",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "4\ufe0f\u20e3 propagation delay ($d_{\\text{prop}}$)",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L118"
     },
     {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_4_total_end_to_end_delay_across_multiple_hops",
@@ -4663,30 +4586,6 @@
       "norm_label": "\ud83d\ude80 6. bandwidth, throughput & bottlenecks",
       "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L168"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation",
-      "label": "\ud83d\udd22 Example Calculation:",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd22 example calculation:",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L111"
-    },
-    {
-      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation_128",
-      "label": "\ud83d\udd22 Example Calculation:",
-      "_origin": "ast",
-      "community": 28,
-      "community_name": "Network Performance: Delay, Latency & Throughput",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd22 example calculation:",
-      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L128"
     },
     {
       "id": "computer_networking_04_network_performance_delay_latency_throughput_network_performance_delay_latency_throughput",
@@ -6557,100 +6456,88 @@
       "source_location": "L80"
     },
     {
-      "id": "ext_res_extra_courses",
-      "label": "Extra_Courses.md",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_1_processing_delay_d_text_proc",
+      "label": "1\ufe0f\u20e3 Processing Delay ($d_{\\text{proc}}$)",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "extra_courses.md",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ext_res_extra_courses_1_stanford_university_machine_learning_specialization",
-      "label": "1. Stanford University \u2013 Machine Learning Specialization",
-      "_origin": "ast",
-      "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "1. stanford university \u2013 machine learning specialization",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L3"
+      "norm_label": "1\ufe0f\u20e3 processing delay ($d_{\\text{proc}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L78"
     },
     {
-      "id": "ext_res_extra_courses_2_deeplearning_ai_deep_learning_specialization",
-      "label": "2. DeepLearning.AI \u2013 Deep Learning Specialization",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_queuing_delay_d_text_queue",
+      "label": "2\ufe0f\u20e3 Queuing Delay ($d_{\\text{queue}}$)",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "2. deeplearning.ai \u2013 deep learning specialization",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L9"
+      "norm_label": "2\ufe0f\u20e3 queuing delay ($d_{\\text{queue}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L93"
     },
     {
-      "id": "ext_res_extra_courses_3_google",
-      "label": "3. Google",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_2_the_four_components_of_nodal_delay",
+      "label": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "3. google",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L15"
+      "norm_label": "\ud83e\udde9 2. the four components of nodal delay",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L53"
     },
     {
-      "id": "ext_res_extra_courses_4_ibm",
-      "label": "4. IBM",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_3_transmission_delay_d_text_trans",
+      "label": "3\ufe0f\u20e3 Transmission Delay ($d_{\\text{trans}}$)",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "4. ibm",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L25"
+      "norm_label": "3\ufe0f\u20e3 transmission delay ($d_{\\text{trans}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L101"
     },
     {
-      "id": "ext_res_extra_courses_tier_1_worth_doing",
-      "label": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_4_propagation_delay_d_text_prop",
+      "label": "4\ufe0f\u20e3 Propagation Delay ($d_{\\text{prop}}$)",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udd47 tier 1 (worth doing)",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L1"
+      "norm_label": "4\ufe0f\u20e3 propagation delay ($d_{\\text{prop}}$)",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L118"
     },
     {
-      "id": "ext_res_extra_courses_tier_2_very_useful_for_software_engineers",
-      "label": "\ud83e\udd48 Tier 2 (Very useful for software engineers)",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation",
+      "label": "\ud83d\udd22 Example Calculation:",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udd48 tier 2 (very useful for software engineers)",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L35"
+      "norm_label": "\ud83d\udd22 example calculation:",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L111"
     },
     {
-      "id": "ext_res_extra_courses_tier_3_good_additions",
-      "label": "\ud83e\udd49 Tier 3 (Good additions)",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput_example_calculation_128",
+      "label": "\ud83d\udd22 Example Calculation:",
       "_origin": "ast",
       "community": 37,
-      "community_name": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "community_name": "\ud83e\udde9 2. The Four Components of Nodal Delay",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udd49 tier 3 (good additions)",
-      "source_file": "Ext_&_res/Extra_Courses.md",
-      "source_location": "L48"
+      "norm_label": "\ud83d\udd22 example calculation:",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L128"
     },
     {
       "id": "dsa_01_strings_stringbuilder_1_what_is_stringbuilder",
@@ -6802,18 +6689,6 @@
       "source_location": "L1"
     },
     {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
-      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L99"
-    },
-    {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_why_does_networking_have_different_names_for_data",
       "label": "\u2753 1. Why Does Networking Have Different Names for \"Data\"?",
       "_origin": "ast",
@@ -6826,30 +6701,6 @@
       "source_location": "L28"
     },
     {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
-      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L60"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
-      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L105"
-    },
-    {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_3_comprehensive_pdu_comparison_matrix",
       "label": "\ud83d\udcca 3. Comprehensive PDU Comparison Matrix",
       "_origin": "ast",
@@ -6860,30 +6711,6 @@
       "norm_label": "\ud83d\udcca 3. comprehensive pdu comparison matrix",
       "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L152"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
-      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L126"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
-      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L136"
     },
     {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_4_packets_are_end_to_end_frames_are_hop_by_hop",
@@ -6908,18 +6735,6 @@
       "norm_label": "\ud83c\udfaf 5. architectural verification & summary",
       "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L185"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
-      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L147"
     },
     {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_protocol_data_units_segment_packet_frame_bits",
@@ -7492,6 +7307,102 @@
       "source_location": "L84"
     },
     {
+      "id": "ext_res_extra_courses",
+      "label": "Extra_Courses.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "extra_courses.md",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ext_res_extra_courses_1_stanford_university_machine_learning_specialization",
+      "label": "1. Stanford University \u2013 Machine Learning Specialization",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. stanford university \u2013 machine learning specialization",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L3"
+    },
+    {
+      "id": "ext_res_extra_courses_2_deeplearning_ai_deep_learning_specialization",
+      "label": "2. DeepLearning.AI \u2013 Deep Learning Specialization",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. deeplearning.ai \u2013 deep learning specialization",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L9"
+    },
+    {
+      "id": "ext_res_extra_courses_3_google",
+      "label": "3. Google",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. google",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "ext_res_extra_courses_4_ibm",
+      "label": "4. IBM",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. ibm",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L25"
+    },
+    {
+      "id": "ext_res_extra_courses_tier_1_worth_doing",
+      "label": "\ud83e\udd47 Tier 1 (Worth doing)",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd47 tier 1 (worth doing)",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ext_res_extra_courses_tier_2_very_useful_for_software_engineers",
+      "label": "\ud83e\udd48 Tier 2 (Very useful for software engineers)",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd48 tier 2 (very useful for software engineers)",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "ext_res_extra_courses_tier_3_good_additions",
+      "label": "\ud83e\udd49 Tier 3 (Good additions)",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd49 tier 3 (good additions)",
+      "source_file": "Ext_&_res/Extra_Courses.md",
+      "source_location": "L48"
+    },
+    {
       "id": "java_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
@@ -7617,6 +7528,30 @@
       "source_location": "L81"
     },
     {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
+      "label": "\ud83d\udcbb 5. Python Syntax & Anatomy of `train_test_split()`",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcbb 5. python syntax & anatomy of `train_test_split()`",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L119"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
+      "label": "\ud83d\udd04 6. The Complete Leakage-Free Workflow",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd04 6. the complete leakage-free workflow",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L169"
+    },
+    {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_next_step",
       "label": "Next Step",
       "_origin": "ast",
@@ -7626,7 +7561,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L144"
+      "source_location": "L210"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
@@ -7638,7 +7573,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L140"
+      "source_location": "L206"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
@@ -7650,19 +7585,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L138"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_python_implementation",
-      "label": "\ud83d\udcbb Python Implementation",
-      "_origin": "ast",
-      "community": 40,
-      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcbb python implementation",
-      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L119"
+      "source_location": "L204"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
@@ -7674,7 +7597,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L147"
+      "source_location": "L213"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_standard_split_proportions",
@@ -7699,6 +7622,18 @@
       "norm_label": "\u2702\ufe0f train-test split and generalization",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
       "source_location": "L12"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_what_are_x_train_x_test_y_train_y_test",
+      "label": "\ud83e\udde9 What Are `X_train`, `X_test`, `y_train`, `y_test`?",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde9 what are `x_train`, `x_test`, `y_train`, `y_test`?",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L155"
     },
     {
       "id": "dsa_02_binary_search_binary_search_1_core_idea",
@@ -7902,7 +7837,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd00 3. handling mixed data types: `columntransformer`",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L117"
+      "source_location": "L166"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_4_production_python_boilerplate_complete_pipeline",
@@ -7914,7 +7849,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb 4. production python boilerplate: complete pipeline",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L150"
+      "source_location": "L199"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_5_safe_cross_validation_without_leakage",
@@ -7926,7 +7861,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 5. safe cross-validation without leakage",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L198"
+      "source_location": "L247"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_key_summary_takeaways",
@@ -7938,7 +7873,19 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L214"
+      "source_location": "L263"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_lifecycle_comparison_training_vs_testing",
+      "label": "\ud83d\udd0d Lifecycle Comparison: Training vs. Testing",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd0d lifecycle comparison: training vs. testing",
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L119"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_next_steps",
@@ -7950,7 +7897,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L235"
+      "source_location": "L284"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites",
@@ -7962,7 +7909,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L229"
+      "source_location": "L278"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites_next_steps",
@@ -7974,7 +7921,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L227"
+      "source_location": "L276"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_related_notes",
@@ -7986,7 +7933,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L239"
+      "source_location": "L288"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
@@ -8011,6 +7958,18 @@
       "norm_label": "the manual anti-pattern vs. the unified pipeline",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
       "source_location": "L43"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_why_does_fit_take_both_x_y_while_predict_takes_only_x",
+      "label": "\u2753 Why Does `fit()` Take Both $(X, y)$ While `predict()` Takes Only $(X)$?",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2753 why does `fit()` take both $(x, y)$ while `predict()` takes only $(x)$?",
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L128"
     },
     {
       "id": "computer_networking_03_switching_techniques_packet_vs_circuit",
@@ -8162,6 +8121,23 @@
       "source_location": "L129"
     },
     {
+      "id": "computer_networking_05_network_hardware_hub_switch_router_modem",
+      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "_origin": "ast",
+      "community": 44,
+      "community_name": "\ud83d\udd0c Network Hardware: Hub vs. Switch vs. Router vs. Modem",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "05. network hardware - hub, switch, router, modem.md",
+      "source_file": "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "source_location": "L1"
+    },
+    {
       "id": "computer_networking_05_network_hardware_hub_switch_router_modem_1_hub_the_blind_broadcaster_layer_1",
       "label": "\ud83d\udd0c 1. Hub \u2014 The \"Blind Broadcaster\" (Layer 1)",
       "_origin": "ast",
@@ -8304,23 +8280,6 @@
       "norm_label": "switch vs. router core distinction:",
       "source_file": "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
       "source_location": "L128"
-    },
-    {
-      "id": "computer_networking_11_mtu_and_fragmentation",
-      "label": "11. MTU and Fragmentation.md",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "MTU and IP Fragmentation",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "11. mtu and fragmentation.md",
-      "source_file": "Computer Networking/11. MTU and Fragmentation.md",
-      "source_location": "L1"
     },
     {
       "id": "computer_networking_11_mtu_and_fragmentation_1_what_is_mtu",
@@ -11033,8 +10992,8 @@
       "source_location": "L176"
     },
     {
-      "id": "computer_networking_05_network_hardware_hub_switch_router_modem",
-      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "id": "computer_networking_04_network_performance_delay_latency_throughput",
+      "label": "04. Network Performance - Delay, Latency, Throughput.md",
       "_origin": "ast",
       "community": 64,
       "community_name": "Computer Networking/README.md",
@@ -11045,8 +11004,8 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "05. network hardware - hub, switch, router, modem.md",
-      "source_file": "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "norm_label": "04. network performance - delay, latency, throughput.md",
+      "source_file": "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
       "source_location": "L1"
     },
     {
@@ -11064,6 +11023,23 @@
       "node_kind": "page",
       "norm_label": "10. ethernet and mac addressing.md",
       "source_file": "Computer Networking/10. Ethernet and MAC Addressing.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "computer_networking_11_mtu_and_fragmentation",
+      "label": "11. MTU and Fragmentation.md",
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "Computer Networking/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "11. mtu and fragmentation.md",
+      "source_file": "Computer Networking/11. MTU and Fragmentation.md",
       "source_location": "L1"
     },
     {
@@ -11140,6 +11116,78 @@
       "norm_label": "\ud83c\udf10 introduction to computer networks",
       "source_file": "Computer Networking/01. Introduction to Computer Networks.md",
       "source_location": "L12"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
+      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L99"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
+      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
+      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
+      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
+      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L136"
+    },
+    {
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
+      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L147"
     },
     {
       "id": "ai_ml_readme_1_01_classical_ml_readme_01_classical_ml_foundations",
@@ -14007,6 +14055,17 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_what_are_x_train_x_test_y_train_y_test",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L155",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
       "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
       "relation": "contains",
@@ -14014,7 +14073,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L140",
+      "source_location": "L206",
       "weight": 1.0
     },
     {
@@ -14025,12 +14084,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L144",
+      "source_location": "L210",
       "weight": 1.0
     },
     {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_python_implementation",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14041,24 +14100,13 @@
     },
     {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L138",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L147",
+      "source_location": "L169",
       "weight": 1.0
     },
     {
@@ -14070,6 +14118,28 @@
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
       "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L204",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L213",
       "weight": 1.0
     },
     {
@@ -15195,6 +15265,28 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_2_why_pipeline_is_the_ultimate_defense_against_data_leakage",
+      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_lifecycle_comparison_training_vs_testing",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_2_why_pipeline_is_the_ultimate_defense_against_data_leakage",
+      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_why_does_fit_take_both_x_y_while_predict_takes_only_x",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L128",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites_next_steps",
       "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites",
       "relation": "contains",
@@ -15202,7 +15294,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L229",
+      "source_location": "L278",
       "weight": 1.0
     },
     {
@@ -15213,7 +15305,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L235",
+      "source_location": "L284",
       "weight": 1.0
     },
     {
@@ -15224,7 +15316,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L117",
+      "source_location": "L166",
       "weight": 1.0
     },
     {
@@ -15235,29 +15327,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L150",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
-      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_5_safe_cross_validation_without_leakage",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L198",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
-      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_key_summary_takeaways",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L214",
+      "source_location": "L199",
       "weight": 1.0
     },
     {
@@ -15273,13 +15343,35 @@
     },
     {
       "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
+      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_5_safe_cross_validation_without_leakage",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L247",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
+      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_key_summary_takeaways",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L263",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
       "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites_next_steps",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L227",
+      "source_location": "L276",
       "weight": 1.0
     },
     {
@@ -15290,7 +15382,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L239",
+      "source_location": "L288",
       "weight": 1.0
     },
     {
@@ -21428,7 +21520,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L148",
+      "source_location": "L214",
       "weight": 1.0
     },
     {
@@ -21582,7 +21674,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L240",
+      "source_location": "L289",
       "weight": 1.0
     },
     {
@@ -21593,7 +21685,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L246",
+      "source_location": "L295",
       "weight": 1.0
     },
     {
@@ -22874,5 +22966,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0ba20881336999e63559b0cb4ca41ec4d9a31b6d"
+  "built_at_commit": "a388e4c1e88f6d18d0aff9083c46324d8a7376c4"
 }

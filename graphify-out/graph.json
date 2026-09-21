@@ -5553,23 +5553,6 @@
       "source_location": "L72"
     },
     {
-      "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation",
-      "label": "03. Missing Value Imputation.md",
-      "_origin": "ast",
-      "community": 32,
-      "community_name": "\ud83e\ude79 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Machine Learning Preprocessing",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "03. missing value imputation.md",
-      "source_file": "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md",
-      "source_location": "L1"
-    },
-    {
       "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation_1_mcar_missing_completely_at_random",
       "label": "1\ufe0f\u20e3 MCAR \u2014 Missing Completely At Random",
       "_origin": "ast",
@@ -6264,6 +6247,18 @@
       "source_location": "L221"
     },
     {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
+      "label": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L157"
+    },
+    {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
       "label": "\ud83d\udee0\ufe0f 4. Remedies for Heteroscedasticity",
       "_origin": "ast",
@@ -6300,6 +6295,30 @@
       "source_location": "L81"
     },
     {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_heteroscedasticity_non_constant_variance",
+      "label": "\ud83d\udd34 Heteroscedasticity (*Non-Constant Variance*)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L183"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_homoscedasticity_constant_variance",
+      "label": "\ud83d\udfe2 Homoscedasticity (*Constant Variance*)",
+      "_origin": "ast",
+      "community": 35,
+      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L176"
+    },
+    {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_key_summary_takeaways",
       "label": "\ud83d\udd11 Key Summary Takeaways",
       "_origin": "ast",
@@ -6322,42 +6341,6 @@
       "norm_label": "\ud83d\udcd0 linear regression assumptions & residual analysis",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
       "source_location": "L15"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_next_steps",
-      "label": "Next Steps",
-      "_origin": "ast",
-      "community": 35,
-      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next steps",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L293"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 35,
-      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L288"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 35,
-      "community_name": "\ud83d\udcd0 Linear Regression Assumptions & Residual Analysis",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L286"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_python_diagnostic_implementation",
@@ -6783,23 +6766,6 @@
       "norm_label": "\ud83c\udfd7\ufe0f stringbuilder (architecture, methods & dsa patterns)",
       "source_file": "DSA/01. Strings/StringBuilder.md",
       "source_location": "L15"
-    },
-    {
-      "id": "computer_networking_09_data_units_segment_packet_frame_bits",
-      "label": "09. Data Units - Segment, Packet, Frame, Bits.md",
-      "_origin": "ast",
-      "community": 39,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "09. data units - segment, packet, frame, bits.md",
-      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L1"
     },
     {
       "id": "computer_networking_09_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
@@ -7617,6 +7583,42 @@
       "source_location": "L81"
     },
     {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
+      "label": "\ud83d\udcbb 5. Python Syntax & Anatomy of `train_test_split()`",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcbb 5. python syntax & anatomy of `train_test_split()`",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L119"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
+      "label": "\ud83d\udd04 6. The Complete Leakage-Free Workflow",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd04 6. the complete leakage-free workflow",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L183"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_how_python_knows_which_variable_receives_which_partition",
+      "label": "\u2753 How Python Knows Which Variable Receives Which Partition",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2753 how python knows which variable receives which partition",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L169"
+    },
+    {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_next_step",
       "label": "Next Step",
       "_origin": "ast",
@@ -7626,7 +7628,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L144"
+      "source_location": "L224"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
@@ -7638,7 +7640,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L140"
+      "source_location": "L220"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
@@ -7650,19 +7652,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L138"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_python_implementation",
-      "label": "\ud83d\udcbb Python Implementation",
-      "_origin": "ast",
-      "community": 40,
-      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcbb python implementation",
-      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L119"
+      "source_location": "L218"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
@@ -7674,7 +7664,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L147"
+      "source_location": "L227"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_standard_split_proportions",
@@ -7699,6 +7689,18 @@
       "norm_label": "\u2702\ufe0f train-test split and generalization",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
       "source_location": "L12"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_what_are_x_train_x_test_y_train_y_test",
+      "label": "\ud83e\udde9 What Are `X_train`, `X_test`, `y_train`, `y_test`?",
+      "_origin": "ast",
+      "community": 40,
+      "community_name": "\u2702\ufe0f Train-Test Split and Generalization",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde9 what are `x_train`, `x_test`, `y_train`, `y_test`?",
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L155"
     },
     {
       "id": "dsa_02_binary_search_binary_search_1_core_idea",
@@ -7902,7 +7904,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd00 3. handling mixed data types: `columntransformer`",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L131"
+      "source_location": "L166"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_4_production_python_boilerplate_complete_pipeline",
@@ -7914,7 +7916,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb 4. production python boilerplate: complete pipeline",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L164"
+      "source_location": "L199"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_5_safe_cross_validation_without_leakage",
@@ -7926,7 +7928,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 5. safe cross-validation without leakage",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L212"
+      "source_location": "L247"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_key_summary_takeaways",
@@ -7938,7 +7940,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L228"
+      "source_location": "L263"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_lifecycle_comparison_training_vs_testing",
@@ -7962,7 +7964,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L249"
+      "source_location": "L284"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites",
@@ -7974,7 +7976,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L243"
+      "source_location": "L278"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites_next_steps",
@@ -7986,7 +7988,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L241"
+      "source_location": "L276"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_related_notes",
@@ -7998,7 +8000,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L253"
+      "source_location": "L288"
     },
     {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
@@ -8023,6 +8025,18 @@
       "norm_label": "the manual anti-pattern vs. the unified pipeline",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
       "source_location": "L43"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_why_does_fit_take_both_x_y_while_predict_takes_only_x",
+      "label": "\u2753 Why Does `fit()` Take Both $(X, y)$ While `predict()` Takes Only $(X)$?",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2753 why does `fit()` take both $(x, y)$ while `predict()` takes only $(x)$?",
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L128"
     },
     {
       "id": "computer_networking_03_switching_techniques_packet_vs_circuit",
@@ -8172,6 +8186,23 @@
       "norm_label": "the inefficiency of circuit switching for computers:",
       "source_file": "Computer Networking/03. Switching Techniques - Packet vs Circuit.md",
       "source_location": "L129"
+    },
+    {
+      "id": "computer_networking_05_network_hardware_hub_switch_router_modem",
+      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "_origin": "ast",
+      "community": 44,
+      "community_name": "\ud83d\udd0c Network Hardware: Hub vs. Switch vs. Router vs. Modem",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "05. network hardware - hub, switch, router, modem.md",
+      "source_file": "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "source_location": "L1"
     },
     {
       "id": "computer_networking_05_network_hardware_hub_switch_router_modem_1_hub_the_blind_broadcaster_layer_1",
@@ -9514,23 +9545,6 @@
       "source_location": "L115"
     },
     {
-      "id": "ai_ml_02_data_preprocessing_02_categorical_encoding",
-      "label": "02. Categorical Encoding.md",
-      "_origin": "ast",
-      "community": 50,
-      "community_name": "\ud83c\udff7\ufe0f Categorical Encoding: Nominal vs. Ordinal",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "AI &amp; ML",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "02. categorical encoding.md",
-      "source_file": "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
-      "source_location": "L1"
-    },
-    {
       "id": "ai_ml_02_data_preprocessing_02_categorical_encoding_1_what_is_a_categorical_variable",
       "label": "\ud83e\udde9 1. What is a Categorical Variable?",
       "_origin": "ast",
@@ -10528,6 +10542,23 @@
       "source_location": "L1"
     },
     {
+      "id": "ai_ml_02_data_preprocessing_02_categorical_encoding",
+      "label": "02. Categorical Encoding.md",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "AI &amp; ML",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "02. categorical encoding.md",
+      "source_file": "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
+      "source_location": "L1"
+    },
+    {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions",
       "label": "06. Linear Regression Assumptions.md",
       "_origin": "ast",
@@ -10576,6 +10607,23 @@
       "node_kind": "page",
       "norm_label": "01. data leakage.md",
       "source_file": "AI & ML/02. Data Preprocessing/01. Data Leakage.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation",
+      "label": "03. Missing Value Imputation.md",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Machine Learning Preprocessing",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "03. missing value imputation.md",
+      "source_file": "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md",
       "source_location": "L1"
     },
     {
@@ -11009,44 +11057,44 @@
       "source_location": "L15"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
-      "label": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_next_steps",
+      "label": "Next Steps",
       "_origin": "ast",
       "community": 63,
-      "community_name": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "community_name": "\ud83d\udd17 Prerequisites & Next Steps",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
+      "norm_label": "next steps",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L157"
+      "source_location": "L293"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_heteroscedasticity_non_constant_variance",
-      "label": "\ud83d\udd34 Heteroscedasticity (*Non-Constant Variance*)",
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites",
+      "label": "Prerequisites",
       "_origin": "ast",
       "community": 63,
-      "community_name": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "community_name": "\ud83d\udd17 Prerequisites & Next Steps",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
+      "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L183"
+      "source_location": "L288"
     },
     {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_homoscedasticity_constant_variance",
-      "label": "\ud83d\udfe2 Homoscedasticity (*Constant Variance*)",
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
       "_origin": "ast",
       "community": 63,
-      "community_name": "\u2696\ufe0f 3. Homoscedasticity vs. Heteroscedasticity",
+      "community_name": "\ud83d\udd17 Prerequisites & Next Steps",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L176"
+      "source_location": "L286"
     },
     {
-      "id": "computer_networking_05_network_hardware_hub_switch_router_modem",
-      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "id": "computer_networking_09_data_units_segment_packet_frame_bits",
+      "label": "09. Data Units - Segment, Packet, Frame, Bits.md",
       "_origin": "ast",
       "community": 64,
       "community_name": "Computer Networking/README.md",
@@ -11057,8 +11105,8 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "05. network hardware - hub, switch, router, modem.md",
-      "source_file": "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "norm_label": "09. data units - segment, packet, frame, bits.md",
+      "source_file": "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L1"
     },
     {
@@ -14019,6 +14067,28 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_what_are_x_train_x_test_y_train_y_test",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L155",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_how_python_knows_which_variable_receives_which_partition",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L169",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
       "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
       "relation": "contains",
@@ -14026,7 +14096,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L140",
+      "source_location": "L220",
       "weight": 1.0
     },
     {
@@ -14037,12 +14107,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L144",
+      "source_location": "L224",
       "weight": 1.0
     },
     {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_python_implementation",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_5_python_syntax_anatomy_of_train_test_split",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14053,24 +14123,13 @@
     },
     {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L138",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L147",
+      "source_location": "L183",
       "weight": 1.0
     },
     {
@@ -14082,6 +14141,28 @@
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
       "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L218",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L227",
       "weight": 1.0
     },
     {
@@ -15218,6 +15299,17 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_2_why_pipeline_is_the_ultimate_defense_against_data_leakage",
+      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_why_does_fit_take_both_x_y_while_predict_takes_only_x",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L128",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites_next_steps",
       "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_prerequisites",
       "relation": "contains",
@@ -15225,7 +15317,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L243",
+      "source_location": "L278",
       "weight": 1.0
     },
     {
@@ -15236,7 +15328,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L249",
+      "source_location": "L284",
       "weight": 1.0
     },
     {
@@ -15247,7 +15339,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L131",
+      "source_location": "L166",
       "weight": 1.0
     },
     {
@@ -15258,18 +15350,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L164",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
-      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_5_safe_cross_validation_without_leakage",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L212",
+      "source_location": "L199",
       "weight": 1.0
     },
     {
@@ -15285,13 +15366,24 @@
     },
     {
       "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
+      "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_5_safe_cross_validation_without_leakage",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L247",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_scikit_learn_pipeline_columntransformer",
       "target": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_key_summary_takeaways",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L228",
+      "source_location": "L263",
       "weight": 1.0
     },
     {
@@ -15302,7 +15394,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L241",
+      "source_location": "L276",
       "weight": 1.0
     },
     {
@@ -15313,7 +15405,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L253",
+      "source_location": "L288",
       "weight": 1.0
     },
     {
@@ -21451,7 +21543,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L148",
+      "source_location": "L228",
       "weight": 1.0
     },
     {
@@ -21605,7 +21697,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L254",
+      "source_location": "L289",
       "weight": 1.0
     },
     {
@@ -21616,7 +21708,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L260",
+      "source_location": "L295",
       "weight": 1.0
     },
     {
@@ -22897,5 +22989,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0ba20881336999e63559b0cb4ca41ec4d9a31b6d"
+  "built_at_commit": "a388e4c1e88f6d18d0aff9083c46324d8a7376c4"
 }

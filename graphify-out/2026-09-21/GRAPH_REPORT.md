@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 80 files · ~63,229 words
+- 80 files · ~63,995 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 947 nodes · 1015 edges · 66 communities (61 shown, 3 thin omitted)
+- 951 nodes · 1019 edges · 67 communities (62 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `0ba20881`
+- Built from commit: `a388e4c1`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -52,7 +52,7 @@
 - 📦 Packets and Packet Switching
 - 📐 Linear Regression Assumptions & Residual Analysis
 - 🧠 Introduction to Machine Learning
-- 🥇 Tier 1 (Worth doing)
+- 🧩 2. The Four Components of Nodal Delay
 - 🏗️ StringBuilder (Architecture, Methods & DSA Patterns)
 - Protocol Data Units: Segment, Packet, Frame & Bits
 - ✂️ Train-Test Split and Generalization
@@ -79,6 +79,7 @@
 - 📦 Encapsulation and Decapsulation
 - ⚖️ 3. Homoscedasticity vs. Heteroscedasticity
 - 🌐 Introduction to Computer Networks
+- 📦 2. Layer-by-Layer PDU Breakdown
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
@@ -95,7 +96,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (66 total, 3 thin omitted)
+## Communities (67 total, 3 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -114,8 +115,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.09
-Nodes (22): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, 🧭 Computer Science Knowledge Vault: Command Center, 🧠 Core Domain Master MOCs (Study Order), ⚡ Quick Actions & Reference Utilities, 🗺️ Vault Architecture & Domain Map (+14 more)
+Cohesion: 0.07
+Nodes (29): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, 🧭 Computer Science Knowledge Vault: Command Center, 🧠 Core Domain Master MOCs (Study Order), ⚡ Quick Actions & Reference Utilities, 🗺️ Vault Architecture & Domain Map (+21 more)
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.05
@@ -202,8 +203,8 @@ Cohesion: 0.15
 Nodes (13): ⚖️ Browser JavaScript vs Node.js, 🚫 Common Misconception: Node.js is NOT a Programming Language, 🛒 Connection to the ShopKart Project, Introduction to Node.js, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+5 more)
 
 ### Community 28 - "Network Performance: Delay, Latency & Throughput"
-Cohesion: 0.10
-Nodes (19): ⏱️ 1. Latency, Delay & Ping (RTT), 1️⃣ Processing Delay ($d_{\text{proc}}$), 2️⃣ Queuing Delay ($d_{\text{queue}}$), 2. The Bottleneck Link Principle, 🧩 2. The Four Components of Nodal Delay, 3️⃣ Transmission Delay ($d_{\text{trans}}$), 🌊 3. Transmission vs. Propagation (The Golden Distinction), 3. Why a 1 Gbps ISP Plan $\neq$ 1 Gbps Download Speed (+11 more)
+Cohesion: 0.17
+Nodes (12): ⏱️ 1. Latency, Delay & Ping (RTT), 2. The Bottleneck Link Principle, 🌊 3. Transmission vs. Propagation (The Golden Distinction), 3. Why a 1 Gbps ISP Plan $\neq$ 1 Gbps Download Speed, 🌐 4. Total End-to-End Delay Across Multiple Hops, 🎯 5. Practical Scenario Breakdown, 🚀 6. Bandwidth, Throughput & Bottlenecks, Network Performance: Delay, Latency & Throughput (+4 more)
 
 ### Community 29 - "⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference"
 Cohesion: 0.09
@@ -237,40 +238,40 @@ Nodes (15): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assu
 Cohesion: 0.15
 Nodes (12): 1. Traditional Programming (Rule-Based), 2. Machine Learning (Data-Driven Learning), 🔑 Core Takeaways, 🧠 Introduction to Machine Learning, Next Step, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🧩 The 3 Foundational Pillars of ML (+4 more)
 
-### Community 37 - "🥇 Tier 1 (Worth doing)"
-Cohesion: 0.25
-Nodes (7): 1. Stanford University – Machine Learning Specialization, 2. DeepLearning.AI – Deep Learning Specialization, 3. Google, 4. IBM, 🥇 Tier 1 (Worth doing), 🥈 Tier 2 (Very useful for software engineers), 🥉 Tier 3 (Good additions)
+### Community 37 - "🧩 2. The Four Components of Nodal Delay"
+Cohesion: 0.29
+Nodes (7): 1️⃣ Processing Delay ($d_{\text{proc}}$), 2️⃣ Queuing Delay ($d_{\text{queue}}$), 🧩 2. The Four Components of Nodal Delay, 3️⃣ Transmission Delay ($d_{\text{trans}}$), 4️⃣ Propagation Delay ($d_{\text{prop}}$), 🔢 Example Calculation:, 🔢 Example Calculation:
 
 ### Community 38 - "🏗️ StringBuilder (Architecture, Methods & DSA Patterns)"
 Cohesion: 0.18
 Nodes (11): 💡 1. What is `StringBuilder`?, ⚔️ 2. The Big Comparison: `String` vs `StringBuilder` vs `StringBuffer`, 🏛️ 3. Internal Architecture & Capacity, 🛠️ 4. Essential Methods & Time Complexities, 🎯 5. High-Frequency DSA Patterns, ⚠️ 6. Common Pitfalls & Traps, Pattern 1: Backtracking & DFS (Path Construction), Pattern 2: Right-to-Left Arithmetic & Reversal (+3 more)
 
 ### Community 39 - "Protocol Data Units: Segment, Packet, Frame & Bits"
-Cohesion: 0.15
-Nodes (12): 1️⃣ Application Layer $\to$ Data / Message, ❓ 1. Why Does Networking Have Different Names for "Data"?, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 📊 3. Comprehensive PDU Comparison Matrix, 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop! (+4 more)
+Cohesion: 0.29
+Nodes (6): ❓ 1. Why Does Networking Have Different Names for "Data"?, 📊 3. Comprehensive PDU Comparison Matrix, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop!, 🎯 5. Architectural Verification & Summary, Protocol Data Units: Segment, Packet, Frame & Bits, 🔗 Related Notes & Next Concepts
 
 ### Community 40 - "✂️ Train-Test Split and Generalization"
-Cohesion: 0.17
-Nodes (11): 🚫 1. Why We Cannot Train on 100% of Data, ✂️ 2. The Train-Test Split Workflow, 🎯 3. Generalization: The Core Goal of Machine Learning, 🚨 4. What is Overfitting?, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 💻 Python Implementation (+3 more)
+Cohesion: 0.14
+Nodes (13): 🚫 1. Why We Cannot Train on 100% of Data, ✂️ 2. The Train-Test Split Workflow, 🎯 3. Generalization: The Core Goal of Machine Learning, 🚨 4. What is Overfitting?, 💻 5. Python Syntax & Anatomy of `train_test_split()`, 🔄 6. The Complete Leakage-Free Workflow, Next Step, Prerequisites (+5 more)
 
 ### Community 41 - "🔍 Binary Search"
 Cohesion: 0.14
 Nodes (14): 💡 1. Core Idea, 📋 2. Basic Template, 🎯 3. Walkthrough Example, ❓ 4. Key Questions & Nuances, 🧠 5. Mental Model, 🔍 Binary Search, Step 1: Initial State, Step 2: Second Iteration (+6 more)
 
 ### Community 42 - "🚂 Scikit-Learn Pipeline & ColumnTransformer"
-Cohesion: 0.17
-Nodes (12): 🚂 1. What is a Pipeline?, 🛡️ 2. Why Pipeline is the Ultimate Defense Against Data Leakage, 🔀 3. Handling Mixed Data Types: `ColumnTransformer`, 💻 4. Production Python Boilerplate: Complete Pipeline, 🔄 5. Safe Cross-Validation Without Leakage, 🔑 Key Summary Takeaways, Next Steps, Prerequisites (+4 more)
+Cohesion: 0.14
+Nodes (14): 🚂 1. What is a Pipeline?, 🛡️ 2. Why Pipeline is the Ultimate Defense Against Data Leakage, 🔀 3. Handling Mixed Data Types: `ColumnTransformer`, 💻 4. Production Python Boilerplate: Complete Pipeline, 🔄 5. Safe Cross-Validation Without Leakage, 🔑 Key Summary Takeaways, 🔍 Lifecycle Comparison: Training vs. Testing, Next Steps (+6 more)
 
 ### Community 43 - "Switching Techniques: Packet vs. Circuit Switching"
 Cohesion: 0.17
 Nodes (11): ☎️ 1. Circuit Switching (The Traditional Model), 📦 2. Packet Switching (The Modern Internet Model), 3-Phase Lifecycle:, ⚡ 3. Why Did the Internet Choose Packet Switching?, ⚔️ 4. Comprehensive Comparison: Packet vs. Circuit Switching, 🏗️ 5. Real-World Architecture & Deep Dive Scenarios, Key Principles of Packet Switching:, 🔗 Related Notes & Next Concepts (+3 more)
 
 ### Community 44 - "🔌 Network Hardware: Hub vs. Switch vs. Router vs. Modem"
-Cohesion: 0.17
+Cohesion: 0.15
 Nodes (12): 🔌 1. Hub — The "Blind Broadcaster" (Layer 1), 🔀 2. Switch — The Intelligent LAN Forwarder (Layer 2), 🌐 3. Router — The Inter-Network Gateway (Layer 3), 📡 4. Modem — The Physical Signal Converter (Layer 1 Interface), 🏠 5. Demystifying Your "Home Wi-Fi Router" Box, 📊 6. Comprehensive Hardware Comparison Matrix, 🎯 7. Scenario Test Answers & Explanations, How a Hub Operates: (+4 more)
 
 ### Community 45 - "MTU and IP Fragmentation"
-Cohesion: 0.17
+Cohesion: 0.18
 Nodes (11): 📏 1. What is MTU?, ✂️ 2. What is IP Fragmentation?, 🧩 3. How IPv4 Fragmentation Works: The 3 Header Fields, 🔢 4. Step-by-Step Numerical Walkthrough, ⚔️ 5. IPv4 vs. IPv6 Fragmentation, 🚫 6. Why Modern Networks Avoid Fragmentation, 🎯 7. Architectural Verification & Key Takeaways, Common Link Layer MTU Standards: (+3 more)
 
 ### Community 46 - "4. Fundamental Algebraic Properties"
@@ -341,9 +342,13 @@ Nodes (3): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Enca
 Cohesion: 0.67
 Nodes (3): ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🔴 Heteroscedasticity (*Non-Constant Variance*), 🟢 Homoscedasticity (*Constant Variance*)
 
+### Community 66 - "📦 2. Layer-by-Layer PDU Breakdown"
+Cohesion: 0.33
+Nodes (6): 1️⃣ Application Layer $\to$ Data / Message, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 5️⃣ Physical Layer $\to$ Bits
+
 ## Knowledge Gaps
-- **648 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+643 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 658 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **650 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+645 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 660 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
@@ -356,7 +361,7 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
   _High betweenness centrality (0.040) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _648 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _650 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**
