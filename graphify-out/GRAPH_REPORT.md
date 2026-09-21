@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 79 files · ~60,371 words
+- 79 files · ~61,078 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 930 nodes · 1119 edges · 60 communities (58 shown, 2 thin omitted)
+- 932 nodes · 1122 edges · 61 communities (59 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `1b181da4`
+- Built from commit: `87e6afff`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -41,7 +41,7 @@
 - Async JavaScript and JSON
 - Event Loop and Non-Blocking I/O
 - V8 Engine
-- Core Modules
+- 🔁 End-to-End ML Pipeline
 - Introduction to Node.js
 - 📏 Feature Scaling & StandardScaler
 - ⚡ Quick Look: Java DSA Cheatsheet & "Take a Look" Reference
@@ -58,7 +58,7 @@
 - 📦 Packets and Packet Switching
 - 🔍 Binary Search
 - Protocol Data Units: Segment, Packet, Frame & Bits
-- 🧹 Data Preprocessing & Feature Engineering
+- 🌐 Backend Development Knowledge Base
 - 🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)
 - Switching Techniques: Packet vs. Circuit Switching
 - 🧠 Introduction to Machine Learning
@@ -71,10 +71,11 @@
 - 📚 Roadmap Stages & Core Notes
 - Subnet Masks and CIDR Notation
 - 🔤 Strings & String Manipulation
+- Quick Look / Take a Look Cheatsheet Rule
+- 🧭 Computer Science Knowledge Vault: Command Center
 - 📐 Linear Regression Assumptions & Residual Analysis
-- 🩹 Missing Value Imputation
+- 🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)
 - 🚨 Data Leakage: The 3 Critical Leakage Patterns
-- 🔗 Linked Lists Module
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
@@ -91,7 +92,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (60 total, 2 thin omitted)
+## Communities (61 total, 2 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -110,8 +111,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.14
-Nodes (13): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist? (+5 more)
+Cohesion: 0.13
+Nodes (14): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist?, 🌐 Introduction to Computer Networks, 🔗 Linked Lists Module, 🧭 Module Learning Path, 📚 Module Notes (+6 more)
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.05
@@ -122,8 +123,8 @@ Cohesion: 0.12
 Nodes (17): 1. Eliminates the Reversal Pass (`O(N)` savings), 2. Zero Array Resizing & Reallocations, 3. Avoids Object Overhead & Method Dispatch, 4. Zero-Copy Leading Carry Handling, Code, Code, 📊 Complexity & Performance Comparison, Constraints (+9 more)
 
 ### Community 7 - "AI & ML/README.md"
-Cohesion: 0.14
-Nodes (21): 🗺️ 1. The 10-Stage Machine Learning Lifecycle, 🏡 2. Concrete Pipeline Walkthrough: House Price Prediction, 🛡️ 3. Encapsulation with Scikit-Learn `Pipeline`, 🔁 End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+13 more)
+Cohesion: 0.15
+Nodes (20): 📊 Classical Machine Learning Foundations, 🔗 Connections, 📖 Learning Path, Next Topics, Prerequisites, 🔗 Related Notes, 🧹 Data Preprocessing & Feature Engineering, 📖 Module Topics (+12 more)
 
 ### Community 8 - "➕ String Arithmetic & Add Binary Pattern"
 Cohesion: 0.17
@@ -174,8 +175,8 @@ Cohesion: 0.33
 Nodes (5): Critical instruction, Obsidian, Obsidian Vault Agent Instructions, Read-only requests, Rule files
 
 ### Community 22 - "Backend/README.md"
-Cohesion: 0.10
-Nodes (26): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🔗 Connections, 📖 Learning Path (+18 more)
+Cohesion: 0.09
+Nodes (27): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers) (+19 more)
 
 ### Community 23 - "Async JavaScript and JSON"
 Cohesion: 0.18
@@ -189,9 +190,9 @@ Nodes (11): Console Output:, Event Loop and Non-Blocking I/O, Next Step, Prerequ
 Cohesion: 0.20
 Nodes (10): Execution Flow:, 🤔 How Does Node.js Use V8?, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, V8 Engine, 🧠 What is a JavaScript Engine? (+2 more)
 
-### Community 26 - "Core Modules"
-Cohesion: 0.22
-Nodes (9): 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers), Asynchronous File Reading (Error-First Callback Pattern), Core Modules, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+1 more)
+### Community 26 - "🔁 End-to-End ML Pipeline"
+Cohesion: 0.25
+Nodes (8): 🗺️ 1. The 10-Stage Machine Learning Lifecycle, 🏡 2. Concrete Pipeline Walkthrough: House Price Prediction, 🛡️ 3. Encapsulation with Scikit-Learn `Pipeline`, 🔁 End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes
 
 ### Community 27 - "Introduction to Node.js"
 Cohesion: 0.15
@@ -250,16 +251,16 @@ Cohesion: 0.12
 Nodes (16): 1. 🚦 Fair Sharing & Statistical Multiplexing, 🧩 1. The Core Concept: Data vs. Packet, 2. ⚡ Error Recovery & Retransmission Efficiency, ❓ 2. Why Break Data Into Packets?, 📦 3. Anatomy of a Packet: Header vs. Payload, 3. 💾 Router Buffer and Memory Feasibility, 4. 🔀 Dynamic Path Selection & Resilience (Multipath Routing), 🔄 4. How Packet Switching Works (+8 more)
 
 ### Community 41 - "🔍 Binary Search"
-Cohesion: 0.13
+Cohesion: 0.14
 Nodes (14): 💡 1. Core Idea, 📋 2. Basic Template, 🎯 3. Walkthrough Example, ❓ 4. Key Questions & Nuances, 🧠 5. Mental Model, 🔍 Binary Search, Step 1: Initial State, Step 2: Second Iteration (+6 more)
 
 ### Community 42 - "Protocol Data Units: Segment, Packet, Frame & Bits"
 Cohesion: 0.17
 Nodes (12): 1️⃣ Application Layer $\to$ Data / Message, ❓ 1. Why Does Networking Have Different Names for "Data"?, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 📊 3. Comprehensive PDU Comparison Matrix, 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop! (+4 more)
 
-### Community 43 - "🧹 Data Preprocessing & Feature Engineering"
-Cohesion: 0.29
-Nodes (7): 🧹 Data Preprocessing & Feature Engineering, 📖 Module Topics, 🔄 Module Workflow Graph, Next Steps, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes
+### Community 43 - "🌐 Backend Development Knowledge Base"
+Cohesion: 0.25
+Nodes (8): 1. [[WebDev/Backend/JavaScript/README|01. JavaScript Foundations]], 2. [[WebDev/Backend/Node.js/README|02. Node.js Runtime & Architecture]], 3. Practical Implementation, 🌐 Backend Development Knowledge Base, 📚 Core Modules, 🔄 Knowledge Flow Graph, 🗺️ Master 13-Part Learning Roadmap, 🔗 Quick Links
 
 ### Community 44 - "🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)"
 Cohesion: 0.20
@@ -306,28 +307,32 @@ Cohesion: 0.25
 Nodes (8): 🥸 1. What Does a Subnet Mask Actually Do?, ⚡ 2. Understanding CIDR Slash Notation (`/n`), 🏛️ 3. Standard Octet Boundaries (`/8`, `/16`, `/24`), 🧮 4. The Master CIDR Subnet Mask Reference Table, 🔍 5. How Routers Find the Network Address: Bitwise AND, 🎯 6. Quick Test Answers & Explanations, 🔗 Related Notes & Next Concepts, 🎭 Subnet Masks and CIDR Notation
 
 ### Community 55 - "🔤 Strings & String Manipulation"
-Cohesion: 0.19
-Nodes (9): ⚡ Essential String Idioms (Java), 🗺️ Module Learning Path, 💡 Practice Problems, 🔗 Related Notes, 🔤 Strings & String Manipulation, 🔗 Connections, 🗺️ Core Topics, ☕ Java Knowledge Base & Roadmap (+1 more)
+Cohesion: 0.40
+Nodes (5): ⚡ Essential String Idioms (Java), 🗺️ Module Learning Path, 💡 Practice Problems, 🔗 Related Notes, 🔤 Strings & String Manipulation
+
+### Community 56 - "Quick Look / Take a Look Cheatsheet Rule"
+Cohesion: 0.50
+Nodes (4): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions
+
+### Community 57 - "🧭 Computer Science Knowledge Vault: Command Center"
+Cohesion: 0.50
+Nodes (4): 🧭 Computer Science Knowledge Vault: Command Center, 🧠 Core Domain Master MOCs, ⚡ Quick Actions & Reference Utilities, 🗺️ Vault Architecture & Domain Map
 
 ### Community 58 - "📐 Linear Regression Assumptions & Residual Analysis"
 Cohesion: 0.12
 Nodes (17): 1️⃣ Log Transformation (Primary Remedy), 🧩 1. What is an Assumption & Why Do Residuals Matter?, 📊 2. Residual Analysis & Residual Plots, 2️⃣ Weighted Least Squares (WLS), ⚖️ 3. Homoscedasticity vs. Heteroscedasticity, 🛠️ 4. Remedies for Heteroscedasticity, 📜 5. The Classical 6 Linear Regression Assumptions (Gauss-Markov Framework), 🔍 Comprehensive Diagnostic Pattern Cheat Sheet (+9 more)
 
-### Community 59 - "🩹 Missing Value Imputation"
-Cohesion: 0.13
-Nodes (15): 1. 🧮 Mean Imputation, 2. 🛡️ Median Imputation (Outlier-Robust), 3. 🎯 Constant / Arbitrary Imputation, 🚨 Imputation Leakage (The Trap), 🩹 Missing Value Imputation, Next Steps, 📊 Numerical Imputation Strategies, Prerequisites (+7 more)
+### Community 59 - "🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)"
+Cohesion: 0.12
+Nodes (17): 1️⃣ MCAR — Missing Completely At Random, ❓ 1. The Missing Data Problem, 2️⃣ MAR — Missing At Random, 🔬 2. The 3 Missingness Mechanisms (MCAR vs. MAR vs. MNAR), 📊 3. Imputation Strategies: Numerical vs. Categorical, 3️⃣ MNAR — Missing Not At Random (The Danger Zone) 🚨, 🏷️ 4. The Missing Indicator Feature (`was_missing`), ⚠️ 5. The Hidden Statistical Pitfalls of Mean Imputation (+9 more)
 
 ### Community 60 - "🚨 Data Leakage: The 3 Critical Leakage Patterns"
 Cohesion: 0.11
 Nodes (19): 1️⃣ Preprocessing Leakage (Test $\to$ Train), 2️⃣ Target Leakage (Post-Event $\to$ Pre-Event), 3️⃣ Temporal Leakage (Future $\to$ Past), 🚨 Data Leakage: The 3 Critical Leakage Patterns, 🧠 Master Comparison: The 3 Leakage Types, Next Steps, Other Target Leakage Examples:, Prerequisites (+11 more)
 
-### Community 61 - "🔗 Linked Lists Module"
-Cohesion: 0.40
-Nodes (5): 🔗 Linked Lists Module, 🧭 Module Learning Path, 📚 Module Notes, ⚡ Quick Comparison: Array vs. Linked List, 🔗 Related Notes & Navigation
-
 ## Knowledge Gaps
-- **636 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+631 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 644 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **638 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+633 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 646 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
@@ -340,7 +345,7 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
   _High betweenness centrality (0.041) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _636 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _638 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**

@@ -42,7 +42,7 @@
   "40": "📦 Packets and Packet Switching",
   "41": "🔍 Binary Search",
   "42": "Protocol Data Units: Segment, Packet, Frame & Bits",
-  "43": "🔁 End-to-End ML Pipeline",
+  "43": "🧹 Data Preprocessing & Feature Engineering",
   "44": "🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)",
   "45": "Switching Techniques: Packet vs. Circuit Switching",
   "46": "🧠 Introduction to Machine Learning",
@@ -55,11 +55,8 @@
   "53": "📚 Roadmap Stages & Core Notes",
   "54": "Subnet Masks and CIDR Notation",
   "55": "🔤 Strings & String Manipulation",
-  "56": "🧭 Computer Science Knowledge Vault: Command Center",
-  "57": "☕ Java Knowledge Base & Roadmap",
   "58": "📐 Linear Regression Assumptions & Residual Analysis",
   "59": "🩹 Missing Value Imputation",
-  "60": "Data Leakage",
-  "61": "🔗 Linked Lists Module",
-  "62": "Quick Look / Take a Look Cheatsheet Rule"
+  "60": "🚨 Data Leakage: The 3 Critical Leakage Patterns",
+  "61": "🔗 Linked Lists Module"
 }

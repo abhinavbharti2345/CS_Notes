@@ -33,9 +33,11 @@ date: 2026-09-21
 
 3. **[[Missing Value Imputation]]**
    - Handling incomplete data matrices (`NaN` / null values)
-   - Numerical strategies: Mean, Median (outlier-robust), and Constant imputation
+   - **The 3 Mechanisms:** **MCAR** (Random), **MAR** (Observed data), and **MNAR** (Hidden value itself)
+   - Numerical strategies: Mean vs. Median (outlier-robust) & Categorical strategies (Mode, `"Unknown"`)
+   - The Missing Indicator feature (`was_missing` / `add_indicator=True`)
+   - Statistical side-effects of Mean Imputation (variance shrinkage & correlation attenuation)
    - Preventing Imputation Leakage across train/test splits
-   - Implementation via Scikit-Learn `SimpleImputer`
 
 4. **[[Feature Scaling|Feature Scaling & StandardScaler]]**
    - The scale disparity problem (e.g., hours vs income)
