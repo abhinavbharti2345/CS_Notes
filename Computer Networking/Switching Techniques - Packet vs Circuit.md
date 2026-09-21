@@ -29,7 +29,7 @@ sequenceDiagram
     participant S2 as 🔀 Switch 2
     actor B as 💻 Host B (Callee)
 
-    rect rgb(30, 41, 59)
+    rect rgba(99, 102, 241, 0.12)
         Note over A,B: 1. Setup Phase (Path & Bandwidth Reservation)
         A->>S1: Setup Request
         S1->>S2: Reserve Channel (FDM/TDM)
@@ -37,13 +37,13 @@ sequenceDiagram
         B-->>A: Call Acknowledged (Circuit Locked 🔒)
     end
 
-    rect rgb(16, 185, 129, 0.15)
+    rect rgba(16, 185, 129, 0.12)
         Note over A,B: 2. Continuous Data Transfer (Deterministic & Uninterrupted)
         A->>B: Continuous Audio / Bitstream
         B->>A: Continuous Audio / Bitstream
     end
 
-    rect rgb(239, 68, 68, 0.15)
+    rect rgba(244, 63, 94, 0.12)
         Note over A,B: 3. Teardown Phase (Release Bandwidth Back to Pool)
         A->>S1: Teardown Signal
         S1->>S2: Release Link Capacity
@@ -69,17 +69,20 @@ Packet switching is the architectural foundation of the modern **Internet**. Ins
 ```mermaid
 flowchart TD
     subgraph Senders ["📤 Sources"]
+        direction TD
         H1["💻 Host A (Web Data)"]
         H2["📱 Host C (Chat App)"]
     end
 
     subgraph Core ["🌐 Packet-Switched Core (Store & Forward)"]
+        direction TD
         R1["🔀 Router R1 (Queue & Checksum)"]
         R2["🔀 Router R2 (Dynamic Routing)"]
         R1 -->|"📦 Interleaved [A1, C1, A2]"| R2
     end
 
     subgraph Receiver ["📥 Destination"]
+        direction TD
         HB["🖥️ Host B (Reassembly)"]
     end
 
@@ -87,10 +90,17 @@ flowchart TD
     H2 --> R1
     R2 --> HB
 
-    classDef host fill:#1e293b,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef router fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
-    class H1,H2,HB host;
+    style Senders fill:none,stroke:#0ea5e9,stroke-width:1.5px,stroke-dasharray:4 4
+    style Core fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+    style Receiver fill:none,stroke:#8b5cf6,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef host fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef router fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef dest fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+
+    class H1,H2 host;
     class R1,R2 router;
+    class HB dest;
 ```
 
 ### Key Principles of Packet Switching:
@@ -155,15 +165,23 @@ timeline
 ```mermaid
 flowchart TD
     subgraph Circuit ["☎️ Circuit-Switched Allocation (Rigid Slots)"]
-        C1["Slot 1: User A (5 GB)"] --- C2["Slot 2: User B (Video)"] --- C3["Slot 3: User C (Text)"] --- C4["❌ Slot 4-100: Blocked! Capacity Exceeded"]
+        direction TD
+        C1["Slot 1: User A (5 GB)"] --> C2["Slot 2: User B (Video)"] --> C3["Slot 3: User C (Text)"] --> C4["❌ Slots 4-100: Blocked! Capacity Exceeded"]
     end
 
     subgraph Packet ["📦 Packet-Switched Multiplexing (Shared Queue)"]
-        P1["Shared Pipeline: [A1] -> [B1] -> [C1] -> [A2] -> [A3] -> [B2] -> [A4]"]
+        direction TD
+        P1["Shared Pipeline: [A1] ➔ [B1] ➔ [C1] ➔ [A2] ➔ [A3] ➔ [B2]"]
     end
 
-    style Circuit fill:#1e293b,stroke:#ef4444,stroke-width:2px,color:#fff
-    style Packet fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff
+    style Circuit fill:none,stroke:#f43f5e,stroke-width:1.5px,stroke-dasharray:4 4
+    style Packet fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef dangerNode fill:#f43f5e18,stroke:#f43f5e,stroke-width:1.8px;
+    classDef goodNode fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+
+    class C1,C2,C3,C4 dangerNode;
+    class P1 goodNode;
 ```
 
 > [!important] Sharpened Intuition

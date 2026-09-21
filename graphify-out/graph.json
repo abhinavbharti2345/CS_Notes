@@ -4136,7 +4136,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L207"
+      "source_location": "L215"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_prerequisites",
@@ -4148,7 +4148,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L202"
+      "source_location": "L210"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_prerequisites_next_steps",
@@ -4160,7 +4160,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L200"
+      "source_location": "L208"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_preventing_data_leakage_in_scaling",
@@ -4184,7 +4184,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python / scikit-learn implementation",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L166"
+      "source_location": "L174"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_related_notes",
@@ -4196,7 +4196,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L210"
+      "source_location": "L218"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_standardscaler_z_score_standardization",
@@ -4232,7 +4232,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 summary takeaways",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L187"
+      "source_location": "L195"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_the_fit_vs_transform_paradigm",
@@ -4280,7 +4280,7 @@
       "node_kind": "heading",
       "norm_label": "why?",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L161"
+      "source_location": "L169"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_why_does_scale_matter",
@@ -5648,7 +5648,7 @@
       "node_kind": "heading",
       "norm_label": "2\ufe0f\u20e3 queuing delay ($d_{\\text{queue}}$)",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L92"
+      "source_location": "L93"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_2_the_bottleneck_link_principle",
@@ -5660,7 +5660,7 @@
       "node_kind": "heading",
       "norm_label": "2. the bottleneck link principle",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L177"
+      "source_location": "L178"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_2_the_four_components_of_nodal_delay",
@@ -5684,7 +5684,7 @@
       "node_kind": "heading",
       "norm_label": "3\ufe0f\u20e3 transmission delay ($d_{\\text{trans}}$)",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L100"
+      "source_location": "L101"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_3_transmission_vs_propagation_the_golden_distinction",
@@ -5696,7 +5696,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udf0a 3. transmission vs. propagation (the golden distinction)",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L134"
+      "source_location": "L135"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_3_why_a_1_gbps_isp_plan_neq_1_gbps_download_speed",
@@ -5708,7 +5708,7 @@
       "node_kind": "heading",
       "norm_label": "3. why a 1 gbps isp plan $\\neq$ 1 gbps download speed",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L203"
+      "source_location": "L204"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_4_propagation_delay_d_text_prop",
@@ -5720,7 +5720,7 @@
       "node_kind": "heading",
       "norm_label": "4\ufe0f\u20e3 propagation delay ($d_{\\text{prop}}$)",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L117"
+      "source_location": "L118"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_4_total_end_to_end_delay_across_multiple_hops",
@@ -5732,7 +5732,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udf10 4. total end-to-end delay across multiple hops",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L148"
+      "source_location": "L149"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_5_practical_scenario_breakdown",
@@ -5744,7 +5744,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 5. practical scenario breakdown",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L156"
+      "source_location": "L157"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_6_bandwidth_throughput_bottlenecks",
@@ -5756,7 +5756,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\ude80 6. bandwidth, throughput & bottlenecks",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L167"
+      "source_location": "L168"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_example_calculation",
@@ -5768,10 +5768,10 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd22 example calculation:",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L110"
+      "source_location": "L111"
     },
     {
-      "id": "computer_networking_network_performance_delay_latency_throughput_example_calculation_127",
+      "id": "computer_networking_network_performance_delay_latency_throughput_example_calculation_128",
       "label": "\ud83d\udd22 Example Calculation:",
       "_origin": "ast",
       "community": 34,
@@ -5780,7 +5780,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd22 example calculation:",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L127"
+      "source_location": "L128"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_network_performance_delay_latency_throughput",
@@ -5804,7 +5804,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd0d practical bottleneck analysis:",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L197"
+      "source_location": "L198"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_real_world_responsiveness_benchmarks_rtt",
@@ -5828,7 +5828,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L212"
+      "source_location": "L213"
     },
     {
       "id": "computer_networking_network_performance_delay_latency_throughput_unit_conversions",
@@ -6188,7 +6188,7 @@
       "node_kind": "heading",
       "norm_label": "\u2694\ufe0f 2. the big comparison: `string` vs `stringbuilder` vs `stringbuffer`",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L46"
+      "source_location": "L49"
     },
     {
       "id": "dsa_01_strings_stringbuilder_3_internal_architecture_capacity",
@@ -6200,7 +6200,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfdb\ufe0f 3. internal architecture & capacity",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L75"
+      "source_location": "L78"
     },
     {
       "id": "dsa_01_strings_stringbuilder_4_essential_methods_time_complexities",
@@ -6212,7 +6212,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udee0\ufe0f 4. essential methods & time complexities",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L88"
+      "source_location": "L91"
     },
     {
       "id": "dsa_01_strings_stringbuilder_5_high_frequency_dsa_patterns",
@@ -6224,7 +6224,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 5. high-frequency dsa patterns",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L106"
+      "source_location": "L109"
     },
     {
       "id": "dsa_01_strings_stringbuilder_6_common_pitfalls_traps",
@@ -6236,7 +6236,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a0\ufe0f 6. common pitfalls & traps",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L173"
+      "source_location": "L176"
     },
     {
       "id": "dsa_01_strings_stringbuilder_pattern_1_backtracking_dfs_path_construction",
@@ -6248,7 +6248,7 @@
       "node_kind": "heading",
       "norm_label": "pattern 1: backtracking & dfs (path construction)",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L108"
+      "source_location": "L111"
     },
     {
       "id": "dsa_01_strings_stringbuilder_pattern_2_right_to_left_arithmetic_reversal",
@@ -6260,7 +6260,7 @@
       "node_kind": "heading",
       "norm_label": "pattern 2: right-to-left arithmetic & reversal",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L142"
+      "source_location": "L145"
     },
     {
       "id": "dsa_01_strings_stringbuilder_pattern_3_efficient_buffer_resetting",
@@ -6272,7 +6272,7 @@
       "node_kind": "heading",
       "norm_label": "pattern 3: efficient buffer resetting",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L159"
+      "source_location": "L162"
     },
     {
       "id": "dsa_01_strings_stringbuilder_related_notes",
@@ -6284,7 +6284,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L199"
+      "source_location": "L202"
     },
     {
       "id": "dsa_01_strings_stringbuilder_stringbuilder_architecture_methods_dsa_patterns",
@@ -6308,7 +6308,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udfe2 1. supervised learning ($x + y$)",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L41"
+      "source_location": "L48"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_2_unsupervised_learning_x_only",
@@ -6320,7 +6320,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udfe1 2. unsupervised learning ($x$ only)",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L100"
+      "source_location": "L107"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_common_unsupervised_tasks",
@@ -6332,7 +6332,7 @@
       "node_kind": "heading",
       "norm_label": "common unsupervised tasks:",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L118"
+      "source_location": "L125"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_decision_tree_cheat_sheet",
@@ -6344,7 +6344,7 @@
       "node_kind": "heading",
       "norm_label": "\u2696\ufe0f decision tree cheat-sheet",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L134"
+      "source_location": "L141"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_how_supervised_learning_works_in_ml",
@@ -6356,7 +6356,7 @@
       "node_kind": "heading",
       "norm_label": "how supervised learning works in ml",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L53"
+      "source_location": "L60"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_how_unsupervised_learning_works_in_ml",
@@ -6368,7 +6368,7 @@
       "node_kind": "heading",
       "norm_label": "how unsupervised learning works in ml",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L115"
+      "source_location": "L122"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_next_step",
@@ -6380,7 +6380,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L164"
+      "source_location": "L178"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_prerequisites",
@@ -6392,7 +6392,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L161"
+      "source_location": "L175"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_prerequisites_next_steps",
@@ -6404,7 +6404,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L159"
+      "source_location": "L173"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_real_world_classification_examples",
@@ -6416,7 +6416,7 @@
       "node_kind": "heading",
       "norm_label": "real-world classification examples:",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L90"
+      "source_location": "L97"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_real_world_regression_examples",
@@ -6428,7 +6428,7 @@
       "node_kind": "heading",
       "norm_label": "real-world regression examples:",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L71"
+      "source_location": "L78"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_related_notes",
@@ -6440,7 +6440,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L167"
+      "source_location": "L181"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_remember_this_forever",
@@ -6452,7 +6452,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd25 remember this forever",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L125"
+      "source_location": "L132"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_supervised_sub_type_a_regression_predicting_a_number",
@@ -6464,7 +6464,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcc8 supervised sub-type a: regression (predicting a number)",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L62"
+      "source_location": "L69"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_supervised_sub_type_b_classification_predicting_a_category",
@@ -6476,7 +6476,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udff7\ufe0f supervised sub-type b: classification (predicting a category)",
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L81"
+      "source_location": "L88"
     },
     {
       "id": "ai_ml_classical_ml_supervised_vs_unsupervised_learning_supervised_vs_unsupervised_learning",
@@ -7307,7 +7307,7 @@
       "node_kind": "heading",
       "norm_label": "1. \ud83d\udea6 fair sharing & statistical multiplexing",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L55"
+      "source_location": "L58"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_1_the_core_concept_data_vs_packet",
@@ -7331,7 +7331,7 @@
       "node_kind": "heading",
       "norm_label": "2. \u26a1 error recovery & retransmission efficiency",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L77"
+      "source_location": "L86"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_2_why_break_data_into_packets",
@@ -7343,7 +7343,7 @@
       "node_kind": "heading",
       "norm_label": "\u2753 2. why break data into packets?",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L51"
+      "source_location": "L54"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_3_anatomy_of_a_packet_header_vs_payload",
@@ -7355,7 +7355,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udce6 3. anatomy of a packet: header vs. payload",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L110"
+      "source_location": "L119"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_3_router_buffer_and_memory_feasibility",
@@ -7367,7 +7367,7 @@
       "node_kind": "heading",
       "norm_label": "3. \ud83d\udcbe router buffer and memory feasibility",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L85"
+      "source_location": "L94"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_4_dynamic_path_selection_resilience_multipath_routing",
@@ -7379,7 +7379,7 @@
       "node_kind": "heading",
       "norm_label": "4. \ud83d\udd00 dynamic path selection & resilience (multipath routing)",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L90"
+      "source_location": "L99"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_4_how_packet_switching_works",
@@ -7391,7 +7391,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 4. how packet switching works",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L146"
+      "source_location": "L155"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_5_critical_misconceptions_vs_engineering_realities",
@@ -7403,7 +7403,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a0\ufe0f 5. critical misconceptions vs. engineering realities",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L171"
+      "source_location": "L180"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_6_monolithic_stream_vs_packet_switching",
@@ -7415,7 +7415,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcca 6. monolithic stream vs. packet switching",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L188"
+      "source_location": "L197"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_hop_by_hop_lifecycle",
@@ -7427,7 +7427,7 @@
       "node_kind": "heading",
       "norm_label": "hop-by-hop lifecycle:",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L163"
+      "source_location": "L172"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_misconception_1_alternate_paths_are_chosen_simply_because_they_are_faster",
@@ -7439,7 +7439,7 @@
       "node_kind": "heading",
       "norm_label": "misconception 1: \"alternate paths are chosen simply because they are 'faster'.\"",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L176"
+      "source_location": "L185"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_misconception_2_breaking_data_into_packets_makes_a_single_transfer_faster",
@@ -7451,7 +7451,7 @@
       "node_kind": "heading",
       "norm_label": "misconception 2: \"breaking data into packets makes a single transfer faster.\"",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L180"
+      "source_location": "L189"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_packets_and_packet_switching",
@@ -7475,7 +7475,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L200"
+      "source_location": "L209"
     },
     {
       "id": "computer_networking_packets_and_packet_switching_the_postal_delivery_truck_analogy",
@@ -7487,7 +7487,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\ude9a the postal / delivery truck analogy",
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L131"
+      "source_location": "L140"
     },
     {
       "id": "dsa_02_binary_search_binary_search",
@@ -7685,7 +7685,7 @@
       "node_kind": "heading",
       "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L85"
+      "source_location": "L99"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_1_why_does_networking_have_different_names_for_data",
@@ -7709,7 +7709,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L51"
+      "source_location": "L60"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
@@ -7721,7 +7721,7 @@
       "node_kind": "heading",
       "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L91"
+      "source_location": "L105"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_3_comprehensive_pdu_comparison_matrix",
@@ -7733,7 +7733,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcca 3. comprehensive pdu comparison matrix",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L138"
+      "source_location": "L152"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
@@ -7745,7 +7745,7 @@
       "node_kind": "heading",
       "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L112"
+      "source_location": "L126"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
@@ -7757,7 +7757,7 @@
       "node_kind": "heading",
       "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L122"
+      "source_location": "L136"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_4_packets_are_end_to_end_frames_are_hop_by_hop",
@@ -7769,7 +7769,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udca1 4. packets are end-to-end, frames are hop-by-hop!",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L150"
+      "source_location": "L164"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_5_architectural_verification_summary",
@@ -7781,7 +7781,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 5. architectural verification & summary",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L171"
+      "source_location": "L185"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
@@ -7793,7 +7793,7 @@
       "node_kind": "heading",
       "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L133"
+      "source_location": "L147"
     },
     {
       "id": "computer_networking_data_units_segment_packet_frame_bits_protocol_data_units_segment_packet_frame_bits",
@@ -7817,7 +7817,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L186"
+      "source_location": "L200"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_1_why_do_we_need_ip_addresses_if_we_already_have_mac_addresses",
@@ -7841,7 +7841,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd22 2. the 32-bit structure of ipv4",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L54"
+      "source_location": "L62"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_3_binary_to_decimal_conversion_the_8_bit_magic_table",
@@ -7853,7 +7853,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\uddee 3. binary to decimal conversion (the 8-bit magic table)",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L75"
+      "source_location": "L83"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_4_mac_address_vs_ipv4_address",
@@ -7865,7 +7865,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcca 4. mac address vs. ipv4 address",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L108"
+      "source_location": "L116"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_converting_decimal_to_binary_192_168_1_10",
@@ -7877,7 +7877,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd22 converting decimal to binary: `192.168.1.10`",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L83"
+      "source_location": "L91"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_ip_addressing_fundamentals_ipv4_binary_basics",
@@ -7901,7 +7901,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a1 quick-fire binary to decimal examples",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L95"
+      "source_location": "L103"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_related_notes_next_concepts",
@@ -7913,7 +7913,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L121"
+      "source_location": "L129"
     },
     {
       "id": "computer_networking_ip_addressing_fundamentals_the_flat_vs_hierarchical_addressing_problem",
@@ -7937,7 +7937,7 @@
       "node_kind": "heading",
       "norm_label": "why does each number range strictly from 0 to 255?",
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L63"
+      "source_location": "L71"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_1_circuit_switching_the_traditional_model",
@@ -7985,7 +7985,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a1 3. why did the internet choose packet switching?",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L106"
+      "source_location": "L116"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_4_comprehensive_comparison_packet_vs_circuit_switching",
@@ -7997,7 +7997,7 @@
       "node_kind": "heading",
       "norm_label": "\u2694\ufe0f 4. comprehensive comparison: packet vs. circuit switching",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L129"
+      "source_location": "L139"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_5_real_world_architecture_deep_dive_scenarios",
@@ -8009,7 +8009,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfd7\ufe0f 5. real-world architecture & deep dive scenarios",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L145"
+      "source_location": "L155"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_key_principles_of_packet_switching",
@@ -8021,7 +8021,7 @@
       "node_kind": "heading",
       "norm_label": "key principles of packet switching:",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L96"
+      "source_location": "L106"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_related_notes_next_concepts",
@@ -8033,7 +8033,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L175"
+      "source_location": "L193"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_switching_techniques_packet_vs_circuit_switching",
@@ -8057,7 +8057,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfeb the 100-user shared campus link scenario",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L147"
+      "source_location": "L157"
     },
     {
       "id": "computer_networking_switching_techniques_packet_vs_circuit_the_inefficiency_of_circuit_switching_for_computers",
@@ -8069,7 +8069,7 @@
       "node_kind": "heading",
       "norm_label": "the inefficiency of circuit switching for computers:",
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L119"
+      "source_location": "L129"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_1_traditional_programming_rule_based",
@@ -8081,7 +8081,7 @@
       "node_kind": "heading",
       "norm_label": "1. traditional programming (rule-based)",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L139"
+      "source_location": "L151"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_2_machine_learning_data_driven_learning",
@@ -8093,7 +8093,7 @@
       "node_kind": "heading",
       "norm_label": "2. machine learning (data-driven learning)",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L148"
+      "source_location": "L160"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_core_takeaways",
@@ -8105,7 +8105,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 core takeaways",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L159"
+      "source_location": "L171"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_introduction_to_machine_learning",
@@ -8129,7 +8129,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L171"
+      "source_location": "L183"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_prerequisites_next_steps",
@@ -8141,7 +8141,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L169"
+      "source_location": "L181"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_related_notes",
@@ -8153,7 +8153,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L174"
+      "source_location": "L186"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_the_3_foundational_pillars_of_ml",
@@ -8189,7 +8189,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 the heartbeat of machine learning: the optimization loop",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L94"
+      "source_location": "L95"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_traditional_programming_vs_machine_learning",
@@ -8201,7 +8201,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 traditional programming vs. machine learning",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L118"
+      "source_location": "L125"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_what_does_learning_actually_mean",
@@ -8213,7 +8213,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udd16 what does \"learning\" actually mean?",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L79"
+      "source_location": "L80"
     },
     {
       "id": "computer_networking_mtu_and_fragmentation_1_what_is_mtu",
@@ -9245,7 +9245,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udea8 2. the core dilemma: where does the split occur?",
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L54"
+      "source_location": "L56"
     },
     {
       "id": "computer_networking_network_id_and_host_id_3_enter_the_subnet_mask",
@@ -9257,7 +9257,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udd78 3. enter the subnet mask",
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L72"
+      "source_location": "L74"
     },
     {
       "id": "computer_networking_network_id_and_host_id_4_8_bit_binary_place_value_breakdown",
@@ -9269,7 +9269,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\uddee 4. 8-bit binary place value breakdown",
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L100"
+      "source_location": "L104"
     },
     {
       "id": "computer_networking_network_id_and_host_id_5_ipv4_bitwise_numerical_principles",
@@ -9281,7 +9281,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 5. ipv4 bitwise & numerical principles",
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L112"
+      "source_location": "L116"
     },
     {
       "id": "computer_networking_network_id_and_host_id_network_id_and_host_id",
@@ -9305,7 +9305,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L123"
+      "source_location": "L127"
     },
     {
       "id": "computer_networking_network_id_and_host_id_resulting_split",
@@ -9317,7 +9317,7 @@
       "node_kind": "heading",
       "norm_label": "resulting split:",
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L94"
+      "source_location": "L98"
     },
     {
       "id": "computer_networking_network_protocols_and_standards_1_why_do_networks_need_protocols",
@@ -9365,7 +9365,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcdc 4. open standards & standards bodies",
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L100"
+      "source_location": "L109"
     },
     {
       "id": "computer_networking_network_protocols_and_standards_5_quick_check_matching_protocols_to_responsibilities",
@@ -9377,7 +9377,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 5. quick check: matching protocols to responsibilities",
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L110"
+      "source_location": "L119"
     },
     {
       "id": "computer_networking_network_protocols_and_standards_core_protocols_at_a_glance",
@@ -9389,7 +9389,7 @@
       "node_kind": "heading",
       "norm_label": "core protocols at a glance:",
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L87"
+      "source_location": "L96"
     },
     {
       "id": "computer_networking_network_protocols_and_standards_network_protocols_and_standards",
@@ -9413,7 +9413,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L121"
+      "source_location": "L130"
     },
     {
       "id": "computer_networking_readme_computer_networks_moc_map_of_content",
@@ -9437,7 +9437,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 cross-domain cs connections",
       "source_file": "Computer Networking/README.md",
-      "source_location": "L76"
+      "source_location": "L81"
     },
     {
       "id": "computer_networking_readme_curriculum_roadmap",
@@ -9461,7 +9461,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcda roadmap stages & core notes",
       "source_file": "Computer Networking/README.md",
-      "source_location": "L37"
+      "source_location": "L42"
     },
     {
       "id": "computer_networking_readme_stage_1_what_is_a_network_internet_architecture",
@@ -9473,7 +9473,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udf0d stage 1 \u2014 what is a network & internet architecture",
       "source_file": "Computer Networking/README.md",
-      "source_location": "L39"
+      "source_location": "L44"
     },
     {
       "id": "computer_networking_readme_stage_2_how_data_travels_encapsulation_data_link_layer",
@@ -9485,7 +9485,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udce6 stage 2 \u2014 how data travels (encapsulation & data link layer)",
       "source_file": "Computer Networking/README.md",
-      "source_location": "L50"
+      "source_location": "L55"
     },
     {
       "id": "computer_networking_readme_stage_3_ip_addressing_subnetting_i",
@@ -9497,7 +9497,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfe0 stage 3 \u2014 ip addressing & subnetting i",
       "source_file": "Computer Networking/README.md",
-      "source_location": "L59"
+      "source_location": "L64"
     },
     {
       "id": "computer_networking_readme_stage_4_subnetting_ii_routing",
@@ -9509,7 +9509,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\uddee stage 4 \u2014 subnetting ii & routing",
       "source_file": "Computer Networking/README.md",
-      "source_location": "L67"
+      "source_location": "L72"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_1_what_does_a_subnet_mask_actually_do",
@@ -9533,7 +9533,7 @@
       "node_kind": "heading",
       "norm_label": "\u26a1 2. understanding cidr slash notation (`/n`)",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L55"
+      "source_location": "L63"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_3_standard_octet_boundaries_8_16_24",
@@ -9545,7 +9545,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfdb\ufe0f 3. standard octet boundaries (`/8`, `/16`, `/24`)",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L79"
+      "source_location": "L91"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_4_the_master_cidr_subnet_mask_reference_table",
@@ -9557,7 +9557,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\uddee 4. the master cidr subnet mask reference table",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L91"
+      "source_location": "L103"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_5_how_routers_find_the_network_address_bitwise_and",
@@ -9569,7 +9569,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd0d 5. how routers find the network address: bitwise and",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L110"
+      "source_location": "L122"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_6_quick_test_answers_explanations",
@@ -9581,7 +9581,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 6. quick test answers & explanations",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L126"
+      "source_location": "L138"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_related_notes_next_concepts",
@@ -9593,7 +9593,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L139"
+      "source_location": "L151"
     },
     {
       "id": "computer_networking_subnet_masks_and_cidr_notation_subnet_masks_and_cidr_notation",
@@ -9785,7 +9785,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L160"
+      "source_location": "L167"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_numerical_imputation_strategies",
@@ -9809,7 +9809,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L156"
+      "source_location": "L163"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_prerequisites_next_steps",
@@ -9821,7 +9821,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L154"
+      "source_location": "L161"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_python_scikit_learn_implementation",
@@ -9833,7 +9833,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python / scikit-learn implementation",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L120"
+      "source_location": "L127"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_related_notes",
@@ -9845,7 +9845,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L164"
+      "source_location": "L171"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_summary_comparison",
@@ -9857,7 +9857,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 summary comparison",
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L144"
+      "source_location": "L151"
     },
     {
       "id": "ai_ml_data_preprocessing_missing_value_imputation_the_problem_of_missing_data",
@@ -10817,7 +10817,7 @@
       "node_kind": "heading",
       "norm_label": "complexity:",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L150"
+      "source_location": "L158"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_edge_case_deep_dive_unequal_string_lengths",
@@ -10829,7 +10829,7 @@
       "node_kind": "heading",
       "norm_label": "\u2753 edge case deep-dive: unequal string lengths",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L108"
+      "source_location": "L116"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_full_implementation_leetcode_67_add_binary",
@@ -10841,7 +10841,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb full implementation: leetcode 67 (add binary)",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L123"
+      "source_location": "L131"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_generalization_decimal_string_addition_leetcode_415_add_strings",
@@ -10853,7 +10853,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 generalization: decimal string addition (leetcode 415: add strings)",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L156"
+      "source_location": "L164"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_related_notes",
@@ -10865,7 +10865,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L187"
+      "source_location": "L195"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_string_arithmetic_add_binary_pattern",
@@ -10901,7 +10901,7 @@
       "node_kind": "heading",
       "norm_label": "the java string trap:",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L71"
+      "source_location": "L79"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_the_optimal_solution_stringbuilder",
@@ -10913,7 +10913,7 @@
       "node_kind": "heading",
       "norm_label": "the optimal solution: `stringbuilder`",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L75"
+      "source_location": "L83"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_the_three_loop_conditions_while_i_0_j_0_carry_0",
@@ -10925,7 +10925,7 @@
       "node_kind": "heading",
       "norm_label": "the three loop conditions (`while (i >= 0 || j >= 0 || carry != 0)`)",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L116"
+      "source_location": "L124"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_the_universal_right_to_left_arithmetic_template",
@@ -10937,7 +10937,7 @@
       "node_kind": "heading",
       "norm_label": "\u2699\ufe0f the universal right-to-left arithmetic template",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L81"
+      "source_location": "L89"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_why_stringbuilder_instead_of_string",
@@ -10949,7 +10949,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udde0 why `stringbuilder` instead of `string`?",
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L57"
+      "source_location": "L61"
     },
     {
       "id": "dsa_04_bit_manipulation_bit_tricks_1_built_in_method_integer_bitcount_n_fastest_recommended",
@@ -13340,7 +13340,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L118",
+      "source_location": "L125",
       "weight": 1.0
     },
     {
@@ -13362,7 +13362,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L159",
+      "source_location": "L171",
       "weight": 1.0
     },
     {
@@ -13373,7 +13373,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L169",
+      "source_location": "L181",
       "weight": 1.0
     },
     {
@@ -13384,7 +13384,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L174",
+      "source_location": "L186",
       "weight": 1.0
     },
     {
@@ -13406,7 +13406,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L79",
+      "source_location": "L80",
       "weight": 1.0
     },
     {
@@ -13417,7 +13417,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L171",
+      "source_location": "L183",
       "weight": 1.0
     },
     {
@@ -13428,7 +13428,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L139",
+      "source_location": "L151",
       "weight": 1.0
     },
     {
@@ -13439,7 +13439,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L148",
+      "source_location": "L160",
       "weight": 1.0
     },
     {
@@ -13450,7 +13450,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L94",
+      "source_location": "L95",
       "weight": 1.0
     },
     {
@@ -13538,7 +13538,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L53",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -13549,7 +13549,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L115",
+      "source_location": "L122",
       "weight": 1.0
     },
     {
@@ -13560,7 +13560,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L118",
+      "source_location": "L125",
       "weight": 1.0
     },
     {
@@ -13571,7 +13571,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L161",
+      "source_location": "L175",
       "weight": 1.0
     },
     {
@@ -13582,7 +13582,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L164",
+      "source_location": "L178",
       "weight": 1.0
     },
     {
@@ -13593,7 +13593,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L71",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
@@ -13604,7 +13604,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L90",
+      "source_location": "L97",
       "weight": 1.0
     },
     {
@@ -13615,7 +13615,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L100",
+      "source_location": "L107",
       "weight": 1.0
     },
     {
@@ -13626,7 +13626,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L125",
+      "source_location": "L132",
       "weight": 1.0
     },
     {
@@ -13637,7 +13637,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L134",
+      "source_location": "L141",
       "weight": 1.0
     },
     {
@@ -13659,7 +13659,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L159",
+      "source_location": "L173",
       "weight": 1.0
     },
     {
@@ -13670,7 +13670,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L167",
+      "source_location": "L181",
       "weight": 1.0
     },
     {
@@ -13681,7 +13681,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L41",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -13692,7 +13692,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L62",
+      "source_location": "L69",
       "weight": 1.0
     },
     {
@@ -13703,7 +13703,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L81",
+      "source_location": "L88",
       "weight": 1.0
     },
     {
@@ -14143,7 +14143,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L166",
+      "source_location": "L174",
       "weight": 1.0
     },
     {
@@ -14154,7 +14154,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L187",
+      "source_location": "L195",
       "weight": 1.0
     },
     {
@@ -14165,7 +14165,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L200",
+      "source_location": "L208",
       "weight": 1.0
     },
     {
@@ -14176,7 +14176,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L210",
+      "source_location": "L218",
       "weight": 1.0
     },
     {
@@ -14209,7 +14209,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L202",
+      "source_location": "L210",
       "weight": 1.0
     },
     {
@@ -14220,7 +14220,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L207",
+      "source_location": "L215",
       "weight": 1.0
     },
     {
@@ -14231,7 +14231,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L161",
+      "source_location": "L169",
       "weight": 1.0
     },
     {
@@ -14330,18 +14330,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L120",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation",
-      "target": "ai_ml_data_preprocessing_missing_value_imputation_summary_comparison",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L144",
+      "source_location": "L127",
       "weight": 1.0
     },
     {
@@ -14357,13 +14346,24 @@
     },
     {
       "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation",
+      "target": "ai_ml_data_preprocessing_missing_value_imputation_summary_comparison",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
+      "source_location": "L151",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_data_preprocessing_missing_value_imputation_missing_value_imputation",
       "target": "ai_ml_data_preprocessing_missing_value_imputation_prerequisites_next_steps",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L154",
+      "source_location": "L161",
       "weight": 1.0
     },
     {
@@ -14374,7 +14374,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L164",
+      "source_location": "L171",
       "weight": 1.0
     },
     {
@@ -14451,7 +14451,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L156",
+      "source_location": "L163",
       "weight": 1.0
     },
     {
@@ -14462,7 +14462,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L160",
+      "source_location": "L167",
       "weight": 1.0
     },
     {
@@ -14632,13 +14632,24 @@
     },
     {
       "source": "computer_networking_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
+      "target": "computer_networking_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
       "target": "computer_networking_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L112",
+      "source_location": "L126",
       "weight": 1.0
     },
     {
@@ -14649,7 +14660,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L122",
+      "source_location": "L136",
       "weight": 1.0
     },
     {
@@ -14660,7 +14671,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L133",
+      "source_location": "L147",
       "weight": 1.0
     },
     {
@@ -14671,18 +14682,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L85",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
-      "target": "computer_networking_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L91",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -14693,7 +14693,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L138",
+      "source_location": "L152",
       "weight": 1.0
     },
     {
@@ -14704,7 +14704,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L150",
+      "source_location": "L164",
       "weight": 1.0
     },
     {
@@ -14715,7 +14715,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L171",
+      "source_location": "L185",
       "weight": 1.0
     },
     {
@@ -14726,7 +14726,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L186",
+      "source_location": "L200",
       "weight": 1.0
     },
     {
@@ -14748,7 +14748,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L51",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -14935,18 +14935,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L63",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_ip_addressing_fundamentals_3_binary_to_decimal_conversion_the_8_bit_magic_table",
-      "target": "computer_networking_ip_addressing_fundamentals_converting_decimal_to_binary_192_168_1_10",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L83",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -14957,7 +14946,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L95",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_ip_addressing_fundamentals_3_binary_to_decimal_conversion_the_8_bit_magic_table",
+      "target": "computer_networking_ip_addressing_fundamentals_converting_decimal_to_binary_192_168_1_10",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/IP Addressing Fundamentals.md",
+      "source_location": "L91",
       "weight": 1.0
     },
     {
@@ -14968,7 +14968,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L108",
+      "source_location": "L116",
       "weight": 1.0
     },
     {
@@ -14979,7 +14979,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L121",
+      "source_location": "L129",
       "weight": 1.0
     },
     {
@@ -15001,7 +15001,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L54",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -15012,7 +15012,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L75",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -15287,7 +15287,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L94",
+      "source_location": "L98",
       "weight": 1.0
     },
     {
@@ -15298,7 +15298,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L100",
+      "source_location": "L104",
       "weight": 1.0
     },
     {
@@ -15309,7 +15309,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L112",
+      "source_location": "L116",
       "weight": 1.0
     },
     {
@@ -15320,7 +15320,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L123",
+      "source_location": "L127",
       "weight": 1.0
     },
     {
@@ -15342,7 +15342,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L54",
+      "source_location": "L56",
       "weight": 1.0
     },
     {
@@ -15353,7 +15353,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L72",
+      "source_location": "L74",
       "weight": 1.0
     },
     {
@@ -15397,7 +15397,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L197",
+      "source_location": "L198",
       "weight": 1.0
     },
     {
@@ -15408,7 +15408,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L100",
+      "source_location": "L101",
       "weight": 1.0
     },
     {
@@ -15419,7 +15419,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L117",
+      "source_location": "L118",
       "weight": 1.0
     },
     {
@@ -15441,7 +15441,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L92",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -15452,18 +15452,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L110",
+      "source_location": "L111",
       "weight": 1.0
     },
     {
       "source": "computer_networking_network_performance_delay_latency_throughput_4_propagation_delay_d_text_prop",
-      "target": "computer_networking_network_performance_delay_latency_throughput_example_calculation_127",
+      "target": "computer_networking_network_performance_delay_latency_throughput_example_calculation_128",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L127",
+      "source_location": "L128",
       "weight": 1.0
     },
     {
@@ -15474,7 +15474,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L177",
+      "source_location": "L178",
       "weight": 1.0
     },
     {
@@ -15485,7 +15485,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L203",
+      "source_location": "L204",
       "weight": 1.0
     },
     {
@@ -15496,7 +15496,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L134",
+      "source_location": "L135",
       "weight": 1.0
     },
     {
@@ -15507,7 +15507,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L148",
+      "source_location": "L149",
       "weight": 1.0
     },
     {
@@ -15518,7 +15518,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L156",
+      "source_location": "L157",
       "weight": 1.0
     },
     {
@@ -15529,7 +15529,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L167",
+      "source_location": "L168",
       "weight": 1.0
     },
     {
@@ -15551,7 +15551,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L212",
+      "source_location": "L213",
       "weight": 1.0
     },
     {
@@ -15584,7 +15584,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L87",
+      "source_location": "L96",
       "weight": 1.0
     },
     {
@@ -15595,7 +15595,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L100",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
@@ -15606,7 +15606,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L110",
+      "source_location": "L119",
       "weight": 1.0
     },
     {
@@ -15617,7 +15617,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L121",
+      "source_location": "L130",
       "weight": 1.0
     },
     {
@@ -15782,7 +15782,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L55",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -15793,7 +15793,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L77",
+      "source_location": "L86",
       "weight": 1.0
     },
     {
@@ -15804,7 +15804,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L85",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -15815,7 +15815,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L90",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -15826,7 +15826,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L131",
+      "source_location": "L140",
       "weight": 1.0
     },
     {
@@ -15837,7 +15837,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L163",
+      "source_location": "L172",
       "weight": 1.0
     },
     {
@@ -15848,7 +15848,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L176",
+      "source_location": "L185",
       "weight": 1.0
     },
     {
@@ -15859,7 +15859,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L180",
+      "source_location": "L189",
       "weight": 1.0
     },
     {
@@ -15870,7 +15870,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L110",
+      "source_location": "L119",
       "weight": 1.0
     },
     {
@@ -15881,7 +15881,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L146",
+      "source_location": "L155",
       "weight": 1.0
     },
     {
@@ -15892,7 +15892,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L171",
+      "source_location": "L180",
       "weight": 1.0
     },
     {
@@ -15903,7 +15903,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L188",
+      "source_location": "L197",
       "weight": 1.0
     },
     {
@@ -15925,7 +15925,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L200",
+      "source_location": "L209",
       "weight": 1.0
     },
     {
@@ -15936,7 +15936,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L51",
+      "source_location": "L54",
       "weight": 1.0
     },
     {
@@ -15969,7 +15969,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L37",
+      "source_location": "L42",
       "weight": 1.0
     },
     {
@@ -15980,7 +15980,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L76",
+      "source_location": "L81",
       "weight": 1.0
     },
     {
@@ -15991,7 +15991,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L39",
+      "source_location": "L44",
       "weight": 1.0
     },
     {
@@ -16002,7 +16002,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L50",
+      "source_location": "L55",
       "weight": 1.0
     },
     {
@@ -16013,7 +16013,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L59",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -16024,7 +16024,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L67",
+      "source_location": "L72",
       "weight": 1.0
     },
     {
@@ -16040,13 +16040,24 @@
     },
     {
       "source": "computer_networking_subnet_masks_and_cidr_notation_subnet_masks_and_cidr_notation",
+      "target": "computer_networking_subnet_masks_and_cidr_notation_4_the_master_cidr_subnet_mask_reference_table",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_subnet_masks_and_cidr_notation_subnet_masks_and_cidr_notation",
       "target": "computer_networking_subnet_masks_and_cidr_notation_5_how_routers_find_the_network_address_bitwise_and",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L110",
+      "source_location": "L122",
       "weight": 1.0
     },
     {
@@ -16057,7 +16068,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L126",
+      "source_location": "L138",
       "weight": 1.0
     },
     {
@@ -16068,7 +16079,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L139",
+      "source_location": "L151",
       "weight": 1.0
     },
     {
@@ -16090,23 +16101,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L55",
+      "source_location": "L63",
       "weight": 1.0
     },
     {
       "source": "computer_networking_subnet_masks_and_cidr_notation_subnet_masks_and_cidr_notation",
       "target": "computer_networking_subnet_masks_and_cidr_notation_3_standard_octet_boundaries_8_16_24",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
-      "source_location": "L79",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_subnet_masks_and_cidr_notation_subnet_masks_and_cidr_notation",
-      "target": "computer_networking_subnet_masks_and_cidr_notation_4_the_master_cidr_subnet_mask_reference_table",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -16145,7 +16145,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L96",
+      "source_location": "L106",
       "weight": 1.0
     },
     {
@@ -16156,7 +16156,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L119",
+      "source_location": "L129",
       "weight": 1.0
     },
     {
@@ -16167,7 +16167,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L147",
+      "source_location": "L157",
       "weight": 1.0
     },
     {
@@ -16178,7 +16178,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L106",
+      "source_location": "L116",
       "weight": 1.0
     },
     {
@@ -16189,7 +16189,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L129",
+      "source_location": "L139",
       "weight": 1.0
     },
     {
@@ -16200,7 +16200,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L145",
+      "source_location": "L155",
       "weight": 1.0
     },
     {
@@ -16211,7 +16211,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L175",
+      "source_location": "L193",
       "weight": 1.0
     },
     {
@@ -16299,7 +16299,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L116",
+      "source_location": "L124",
       "weight": 1.0
     },
     {
@@ -16310,7 +16310,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L150",
+      "source_location": "L158",
       "weight": 1.0
     },
     {
@@ -16321,7 +16321,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L108",
+      "source_location": "L116",
       "weight": 1.0
     },
     {
@@ -16332,7 +16332,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L123",
+      "source_location": "L131",
       "weight": 1.0
     },
     {
@@ -16343,7 +16343,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L156",
+      "source_location": "L164",
       "weight": 1.0
     },
     {
@@ -16354,7 +16354,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L187",
+      "source_location": "L195",
       "weight": 1.0
     },
     {
@@ -16376,7 +16376,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L57",
+      "source_location": "L61",
       "weight": 1.0
     },
     {
@@ -16387,7 +16387,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L81",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -16398,7 +16398,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L71",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -16409,7 +16409,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L75",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -16486,7 +16486,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L108",
+      "source_location": "L111",
       "weight": 1.0
     },
     {
@@ -16497,7 +16497,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L142",
+      "source_location": "L145",
       "weight": 1.0
     },
     {
@@ -16508,7 +16508,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L159",
+      "source_location": "L162",
       "weight": 1.0
     },
     {
@@ -16519,7 +16519,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L106",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
@@ -16530,7 +16530,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L173",
+      "source_location": "L176",
       "weight": 1.0
     },
     {
@@ -16541,7 +16541,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L199",
+      "source_location": "L202",
       "weight": 1.0
     },
     {
@@ -16563,7 +16563,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L46",
+      "source_location": "L49",
       "weight": 1.0
     },
     {
@@ -16574,7 +16574,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L75",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
@@ -16585,7 +16585,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L88",
+      "source_location": "L91",
       "weight": 1.0
     },
     {
@@ -20688,7 +20688,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L172",
+      "source_location": "L184",
       "weight": 1.0
     },
     {
@@ -20699,7 +20699,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L175",
+      "source_location": "L187",
       "weight": 1.0
     },
     {
@@ -20710,7 +20710,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L178",
+      "source_location": "L190",
       "weight": 1.0
     },
     {
@@ -20776,7 +20776,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Supervised vs Unsupervised Learning.md",
-      "source_location": "L171",
+      "source_location": "L185",
       "weight": 1.0
     },
     {
@@ -20897,7 +20897,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L203",
+      "source_location": "L211",
       "weight": 1.0
     },
     {
@@ -20908,7 +20908,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L204",
+      "source_location": "L212",
       "weight": 1.0
     },
     {
@@ -20919,7 +20919,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L211",
+      "source_location": "L219",
       "weight": 1.0
     },
     {
@@ -20930,7 +20930,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L158",
+      "source_location": "L165",
       "weight": 1.0
     },
     {
@@ -20941,7 +20941,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L161",
+      "source_location": "L168",
       "weight": 1.0
     },
     {
@@ -20952,7 +20952,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L165",
+      "source_location": "L172",
       "weight": 1.0
     },
     {
@@ -20963,7 +20963,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L168",
+      "source_location": "L175",
       "weight": 1.0
     },
     {
@@ -20974,7 +20974,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Missing Value Imputation.md",
-      "source_location": "L169",
+      "source_location": "L176",
       "weight": 1.0
     },
     {
@@ -21150,7 +21150,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L144",
+      "source_location": "L158",
       "weight": 1.0
     },
     {
@@ -21161,7 +21161,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L188",
+      "source_location": "L202",
       "weight": 1.0
     },
     {
@@ -21172,7 +21172,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L190",
+      "source_location": "L204",
       "weight": 1.0
     },
     {
@@ -21183,7 +21183,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L191",
+      "source_location": "L205",
       "weight": 1.0
     },
     {
@@ -21194,7 +21194,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L192",
+      "source_location": "L206",
       "weight": 1.0
     },
     {
@@ -21205,7 +21205,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L194",
+      "source_location": "L208",
       "weight": 1.0
     },
     {
@@ -21216,7 +21216,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L195",
+      "source_location": "L209",
       "weight": 1.0
     },
     {
@@ -21227,7 +21227,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L196",
+      "source_location": "L210",
       "weight": 1.0
     },
     {
@@ -21293,7 +21293,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L123",
+      "source_location": "L131",
       "weight": 1.0
     },
     {
@@ -21304,7 +21304,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L125",
+      "source_location": "L133",
       "weight": 1.0
     },
     {
@@ -21315,7 +21315,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L127",
+      "source_location": "L135",
       "weight": 1.0
     },
     {
@@ -21326,7 +21326,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L129",
+      "source_location": "L137",
       "weight": 1.0
     },
     {
@@ -21337,7 +21337,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/IP Addressing Fundamentals.md",
-      "source_location": "L130",
+      "source_location": "L138",
       "weight": 1.0
     },
     {
@@ -21458,7 +21458,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L125",
+      "source_location": "L129",
       "weight": 1.0
     },
     {
@@ -21469,7 +21469,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L128",
+      "source_location": "L132",
       "weight": 1.0
     },
     {
@@ -21480,7 +21480,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L130",
+      "source_location": "L134",
       "weight": 1.0
     },
     {
@@ -21491,7 +21491,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network ID and Host ID.md",
-      "source_location": "L131",
+      "source_location": "L135",
       "weight": 1.0
     },
     {
@@ -21502,23 +21502,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L214",
+      "source_location": "L215",
       "weight": 1.0
     },
     {
       "source": "computer_networking_network_performance_delay_latency_throughput",
       "target": "computer_networking_introduction_to_computer_networks",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L216",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_network_performance_delay_latency_throughput",
-      "target": "computer_networking_packets_and_packet_switching",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21529,7 +21518,7 @@
     },
     {
       "source": "computer_networking_network_performance_delay_latency_throughput",
-      "target": "computer_networking_switching_techniques_packet_vs_circuit",
+      "target": "computer_networking_packets_and_packet_switching",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21540,13 +21529,24 @@
     },
     {
       "source": "computer_networking_network_performance_delay_latency_throughput",
+      "target": "computer_networking_switching_techniques_packet_vs_circuit",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
+      "source_location": "L219",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_network_performance_delay_latency_throughput",
       "target": "computer_networking_osi_vs_tcp_ip_model",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Performance - Delay, Latency, Throughput.md",
-      "source_location": "L221",
+      "source_location": "L222",
       "weight": 1.0
     },
     {
@@ -21557,7 +21557,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L123",
+      "source_location": "L132",
       "weight": 1.0
     },
     {
@@ -21568,7 +21568,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L125",
+      "source_location": "L134",
       "weight": 1.0
     },
     {
@@ -21579,7 +21579,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L128",
+      "source_location": "L137",
       "weight": 1.0
     },
     {
@@ -21590,7 +21590,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L130",
+      "source_location": "L139",
       "weight": 1.0
     },
     {
@@ -21601,7 +21601,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Protocols and Standards.md",
-      "source_location": "L131",
+      "source_location": "L140",
       "weight": 1.0
     },
     {
@@ -21678,7 +21678,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L202",
+      "source_location": "L211",
       "weight": 1.0
     },
     {
@@ -21689,7 +21689,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L203",
+      "source_location": "L212",
       "weight": 1.0
     },
     {
@@ -21700,7 +21700,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L205",
+      "source_location": "L214",
       "weight": 1.0
     },
     {
@@ -21711,7 +21711,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L207",
+      "source_location": "L216",
       "weight": 1.0
     },
     {
@@ -21722,7 +21722,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Packets and Packet Switching.md",
-      "source_location": "L208",
+      "source_location": "L217",
       "weight": 1.0
     },
     {
@@ -21733,7 +21733,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L40",
+      "source_location": "L45",
       "weight": 1.0
     },
     {
@@ -21744,7 +21744,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L42",
+      "source_location": "L47",
       "weight": 1.0
     },
     {
@@ -21755,7 +21755,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L52",
+      "source_location": "L57",
       "weight": 1.0
     },
     {
@@ -21766,7 +21766,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
-      "source_location": "L62",
+      "source_location": "L67",
       "weight": 1.0
     },
     {
@@ -21777,7 +21777,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L179",
+      "source_location": "L197",
       "weight": 1.0
     },
     {
@@ -21788,7 +21788,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Switching Techniques - Packet vs Circuit.md",
-      "source_location": "L183",
+      "source_location": "L201",
       "weight": 1.0
     },
     {
@@ -22294,7 +22294,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/Add Binary & String Arithmetic.md",
-      "source_location": "L190",
+      "source_location": "L198",
       "weight": 1.0
     },
     {
@@ -22371,7 +22371,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "DSA/01. Strings/StringBuilder.md",
-      "source_location": "L202",
+      "source_location": "L205",
       "weight": 1.0
     },
     {
@@ -23267,5 +23267,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4959a81265ca1c2b6673709136feb3ffc989e2e1"
+  "built_at_commit": "3c8821fd644835a3f5ee98d0c5af4cfea6f86405"
 }

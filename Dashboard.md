@@ -17,12 +17,12 @@ flowchart TD
     Vault --> DSA["🌳 <b>DSA</b><br/>Strings • Linked Lists • Bit Manipulation • Two Pointers"]
     Vault --> CORE["☕ <b>Core Systems & Languages</b><br/>Java • Python • OS • DBMS"]
 
-    classDef root fill:#1e293b,stroke:#8b5cf6,stroke-width:2.5px,color:#fff;
-    classDef aiml fill:#1e293b,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef net fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
-    classDef back fill:#1e293b,stroke:#f59e0b,stroke-width:2px,color:#fff;
-    classDef dsa fill:#1e293b,stroke:#ec4899,stroke-width:2px,color:#fff;
-    classDef core fill:#1e293b,stroke:#06b6d4,stroke-width:2px,color:#fff;
+    classDef root fill:#8b5cf618,stroke:#8b5cf6,stroke-width:2.5px;
+    classDef aiml fill:#0ea5e918,stroke:#0ea5e9,stroke-width:2px;
+    classDef net fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef back fill:#f59e0b18,stroke:#f59e0b,stroke-width:2px;
+    classDef dsa fill:#ec489918,stroke:#ec4899,stroke-width:2px;
+    classDef core fill:#6366f118,stroke:#6366f1,stroke-width:2px;
     
     class Vault root;
     class AIML aiml;

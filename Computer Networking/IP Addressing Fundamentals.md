@@ -26,24 +26,32 @@ A beginner might ask: *"If every device already has a unique MAC address, why ca
 
 ```mermaid
 flowchart TD
-    subgraph Flat["❌ MAC Addresses (Flat & Random Non-Routable)"]
-        direction TB
+    subgraph Flat["❌ MAC Addresses (Flat & Non-Routable)"]
+        direction TD
         M1["3C:52:82:AB:19:F4 (Tokyo)"]
         M2["3C:52:82:AB:19:F5 (London)"]
         M3["3C:52:82:AB:19:F6 (Mumbai)"]
-        FlatNote["⚠️ No geographical hierarchy.<br>Routers would need billions of global table entries!"]
+        FlatNote["⚠️ No network hierarchy.<br>Routers would need billions of global entries!"]
+        M1 --- M2 --- M3 --- FlatNote
     end
 
     subgraph Hierarchical["✅ IP Addresses (Hierarchical Postal Structure)"]
-        direction TB
+        direction TD
         I1["142.250.190.46"] --> AS["Regional Network / ISP"] --> Subnet["Local Subnet / Router"] --> Host["Specific Endpoint Device"]
         HierNote["⚡ Core routers only inspect network prefixes.<br>Routing tables are compressed and scalable!"]
+        Host --- HierNote
     end
 
-    style Flat fill:#1e293b,stroke:#ef4444,color:#fff
-    style Hierarchical fill:#1e293b,stroke:#10b981,color:#fff
-    style FlatNote fill:#7f1d1d,stroke:#f87171,color:#fff
-    style HierNote fill:#064e3b,stroke:#34d399,color:#fff
+    style Flat fill:none,stroke:#f43f5e,stroke-width:1.5px,stroke-dasharray:4 4
+    style Hierarchical fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef flatNode fill:#f43f5e18,stroke:#f43f5e,stroke-width:1.8px;
+    classDef hierNode fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef stepNode fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+
+    class M1,M2,M3,FlatNote flatNode;
+    class I1,AS,Subnet,Host stepNode;
+    class HierNote hierNode;
 ```
 
 - **MAC addresses are "flat":** They contain no geographic or network hierarchy. If the global Internet routed via MAC addresses, every core router on Earth would need a routing table containing **billions of individual entries**, causing Internet routers to run out of memory and collapse.

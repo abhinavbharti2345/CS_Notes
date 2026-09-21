@@ -4088,7 +4088,7 @@
       "node_kind": "heading",
       "norm_label": "2. distance-based algorithms",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L73"
+      "source_location": "L74"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_feature_scaling_standardscaler",
@@ -4112,7 +4112,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd0d intuitive example",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L98"
+      "source_location": "L99"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_mathematical_formula",
@@ -4124,7 +4124,7 @@
       "node_kind": "heading",
       "norm_label": "mathematical formula",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L82"
+      "source_location": "L83"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_next_steps",
@@ -4136,7 +4136,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L206"
+      "source_location": "L207"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_prerequisites",
@@ -4148,7 +4148,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L201"
+      "source_location": "L202"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_prerequisites_next_steps",
@@ -4160,7 +4160,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L199"
+      "source_location": "L200"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_preventing_data_leakage_in_scaling",
@@ -4172,7 +4172,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udeab preventing data leakage in scaling",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L131"
+      "source_location": "L132"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_python_scikit_learn_implementation",
@@ -4184,7 +4184,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python / scikit-learn implementation",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L165"
+      "source_location": "L166"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_related_notes",
@@ -4196,7 +4196,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L209"
+      "source_location": "L210"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_standardscaler_z_score_standardization",
@@ -4208,7 +4208,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcd0 standardscaler (z-score standardization)",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L78"
+      "source_location": "L79"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_statistical_properties_of_scaled_output",
@@ -4220,7 +4220,7 @@
       "node_kind": "heading",
       "norm_label": "statistical properties of scaled output",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L92"
+      "source_location": "L93"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_summary_takeaways",
@@ -4232,7 +4232,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 summary takeaways",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L186"
+      "source_location": "L187"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_the_fit_vs_transform_paradigm",
@@ -4244,7 +4244,7 @@
       "node_kind": "heading",
       "norm_label": "\u2699\ufe0f the `fit()` vs. `transform()` paradigm",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L120"
+      "source_location": "L121"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_the_scale_disparity_problem",
@@ -4280,7 +4280,7 @@
       "node_kind": "heading",
       "norm_label": "why?",
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L160"
+      "source_location": "L161"
     },
     {
       "id": "ai_ml_data_preprocessing_feature_scaling_why_does_scale_matter",
@@ -6719,24 +6719,6 @@
       "source_location": "L1"
     },
     {
-      "id": "dsa_02_binary_search_binary_search",
-      "label": "Binary Search.md",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Dashboard.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Data Structures &amp; Algorithms",
-        "subtopic": "Searching",
-        "type": "concept",
-        "date": "2026-09-10"
-      },
-      "node_kind": "page",
-      "norm_label": "binary search.md",
-      "source_file": "DSA/02. Binary Search/Binary Search.md",
-      "source_location": "L1"
-    },
-    {
       "id": "dsa_03_linked_lists_linked_list_fundamentals",
       "label": "Linked List Fundamentals.md",
       "_origin": "ast",
@@ -7124,6 +7106,66 @@
       "source_location": "L10"
     },
     {
+      "id": "computer_networking_encapsulation_and_decapsulation_1_the_nested_envelopes_analogy",
+      "label": "\u2709\ufe0f 1. The Nested Envelopes Analogy",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2709\ufe0f 1. the nested envelopes analogy",
+      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "computer_networking_encapsulation_and_decapsulation_2_the_step_by_step_encapsulation_journey",
+      "label": "\ud83d\udce6 2. The Step-by-Step Encapsulation Journey",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 2. the step-by-step encapsulation journey",
+      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
+      "source_location": "L37"
+    },
+    {
+      "id": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
+      "label": "\ud83d\udce6 Encapsulation and Decapsulation",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 encapsulation and decapsulation",
+      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "computer_networking_introduction_to_computer_networks_1_why_do_networks_exist",
+      "label": "\ud83c\udf1f 1. Why Do Networks Exist?",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf1f 1. why do networks exist?",
+      "source_file": "Computer Networking/Introduction to Computer Networks.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
+      "label": "\ud83c\udf10 Introduction to Computer Networks",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "Dashboard.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf10 introduction to computer networks",
+      "source_file": "Computer Networking/Introduction to Computer Networks.md",
+      "source_location": "L12"
+    },
+    {
       "id": "dashboard",
       "label": "Dashboard.md",
       "_origin": "ast",
@@ -7448,6 +7490,24 @@
       "source_location": "L131"
     },
     {
+      "id": "dsa_02_binary_search_binary_search",
+      "label": "Binary Search.md",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "\ud83d\udd0d Binary Search",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Searching",
+        "type": "concept",
+        "date": "2026-09-10"
+      },
+      "node_kind": "page",
+      "norm_label": "binary search.md",
+      "source_file": "DSA/02. Binary Search/Binary Search.md",
+      "source_location": "L1"
+    },
+    {
       "id": "dsa_02_binary_search_binary_search_1_core_idea",
       "label": "\ud83d\udca1 1. Core Idea",
       "_origin": "ast",
@@ -7760,162 +7820,6 @@
       "source_location": "L186"
     },
     {
-      "id": "computer_networking_introduction_to_computer_networks_1_lan_local_area_network",
-      "label": "1. \ud83c\udfe0 LAN (Local Area Network)",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1. \ud83c\udfe0 lan (local area network)",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L103"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_1_why_do_networks_exist",
-      "label": "\ud83c\udf1f 1. Why Do Networks Exist?",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf1f 1. why do networks exist?",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L19"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_2_man_metropolitan_area_network",
-      "label": "2. \ud83c\udfd9\ufe0f MAN (Metropolitan Area Network)",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2. \ud83c\udfd9\ufe0f man (metropolitan area network)",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L109"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_2_what_is_the_internet",
-      "label": "\ud83c\udf10 2. What Is the Internet?",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf10 2. what is the internet?",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L50"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_3_classification_of_networks_by_geographical_scope",
-      "label": "\ud83d\uddfa\ufe0f 3. Classification of Networks by Geographical Scope",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f 3. classification of networks by geographical scope",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L82"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_3_wan_wide_area_network",
-      "label": "3. \ud83c\udf0d WAN (Wide Area Network)",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3. \ud83c\udf0d wan (wide area network)",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L115"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_4_the_anatomy_of_a_web_request_mental_model_opening_google_com",
-      "label": "\ud83d\udd0d 4. The Anatomy of a Web Request (Mental Model: Opening `google.com`)",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd0d 4. the anatomy of a web request (mental model: opening `google.com`)",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L137"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_5_conceptual_relationships_next_steps",
-      "label": "\ud83e\udded 5. Conceptual Relationships & Next Steps",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udded 5. conceptual relationships & next steps",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L177"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_comparative_summary_lan_vs_man_vs_wan",
-      "label": "\ud83d\udcca Comparative Summary: LAN vs. MAN vs. WAN",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcca comparative summary: lan vs. man vs. wan",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L123"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_core_motivations_use_cases",
-      "label": "Core Motivations & Use Cases",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "core motivations & use cases",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L40"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
-      "label": "\ud83c\udf10 Introduction to Computer Networks",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf10 introduction to computer networks",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L12"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_step_by_step_breakdown",
-      "label": "Step-by-Step Breakdown:",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "step-by-step breakdown:",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L158"
-    },
-    {
-      "id": "computer_networking_introduction_to_computer_networks_the_structural_hierarchy",
-      "label": "The Structural Hierarchy",
-      "_origin": "ast",
-      "community": 43,
-      "community_name": "\ud83c\udf10 Introduction to Computer Networks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "the structural hierarchy",
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L56"
-    },
-    {
       "id": "computer_networking_ip_addressing_fundamentals_1_why_do_we_need_ip_addresses_if_we_already_have_mac_addresses",
       "label": "\u2753 1. Why Do We Need IP Addresses If We Already Have MAC Addresses?",
       "_origin": "ast",
@@ -8177,7 +8081,7 @@
       "node_kind": "heading",
       "norm_label": "1. traditional programming (rule-based)",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L134"
+      "source_location": "L139"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_2_machine_learning_data_driven_learning",
@@ -8189,7 +8093,7 @@
       "node_kind": "heading",
       "norm_label": "2. machine learning (data-driven learning)",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L143"
+      "source_location": "L148"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_core_takeaways",
@@ -8201,7 +8105,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 core takeaways",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L154"
+      "source_location": "L159"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_introduction_to_machine_learning",
@@ -8225,7 +8129,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L166"
+      "source_location": "L171"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_prerequisites_next_steps",
@@ -8237,7 +8141,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L164"
+      "source_location": "L169"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_related_notes",
@@ -8249,7 +8153,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L169"
+      "source_location": "L174"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_the_3_foundational_pillars_of_ml",
@@ -8285,7 +8189,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 the heartbeat of machine learning: the optimization loop",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L89"
+      "source_location": "L94"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_traditional_programming_vs_machine_learning",
@@ -8297,7 +8201,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 traditional programming vs. machine learning",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L113"
+      "source_location": "L118"
     },
     {
       "id": "ai_ml_classical_ml_introduction_to_machine_learning_what_does_learning_actually_mean",
@@ -8309,7 +8213,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udd16 what does \"learning\" actually mean?",
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L74"
+      "source_location": "L79"
     },
     {
       "id": "computer_networking_mtu_and_fragmentation_1_what_is_mtu",
@@ -8465,7 +8369,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd00 2. switch \u2014 the intelligent lan forwarder (layer 2)",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L56"
+      "source_location": "L60"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_3_router_the_inter_network_gateway_layer_3",
@@ -8477,7 +8381,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udf10 3. router \u2014 the inter-network gateway (layer 3)",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L91"
+      "source_location": "L99"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_4_modem_the_physical_signal_converter_layer_1_interface",
@@ -8489,7 +8393,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udce1 4. modem \u2014 the physical signal converter (layer 1 interface)",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L122"
+      "source_location": "L135"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_5_demystifying_your_home_wi_fi_router_box",
@@ -8501,7 +8405,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfe0 5. demystifying your \"home wi-fi router\" box",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L148"
+      "source_location": "L161"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_6_comprehensive_hardware_comparison_matrix",
@@ -8513,7 +8417,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcca 6. comprehensive hardware comparison matrix",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L174"
+      "source_location": "L194"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_7_scenario_test_answers_explanations",
@@ -8525,7 +8429,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 7. scenario test answers & explanations",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L188"
+      "source_location": "L208"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_how_a_hub_operates",
@@ -8537,7 +8441,7 @@
       "node_kind": "heading",
       "norm_label": "how a hub operates:",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L46"
+      "source_location": "L50"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_how_a_switch_learns_the_mac_address_table_cam_table",
@@ -8549,7 +8453,7 @@
       "node_kind": "heading",
       "norm_label": "how a switch learns: the mac address table (cam table)",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L74"
+      "source_location": "L82"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_network_hardware_hub_vs_switch_vs_router_vs_modem",
@@ -8573,7 +8477,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L199"
+      "source_location": "L219"
     },
     {
       "id": "computer_networking_network_hardware_hub_switch_router_modem_switch_vs_router_core_distinction",
@@ -8585,7 +8489,7 @@
       "node_kind": "heading",
       "norm_label": "switch vs. router core distinction:",
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L115"
+      "source_location": "L128"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_1_why_do_networks_use_layers",
@@ -8609,7 +8513,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udf10 2. the 5-layer internet protocol stack",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L68"
+      "source_location": "L75"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_3_the_7_layer_osi_reference_model_vs_5_layer_tcp_ip_stack",
@@ -8621,7 +8525,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfdb\ufe0f 3. the 7-layer osi reference model vs. 5-layer tcp/ip stack",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L82"
+      "source_location": "L89"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_4_the_protocol_data_unit_pdu_hierarchy",
@@ -8633,7 +8537,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udce6 4. the protocol data unit (pdu) hierarchy",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L118"
+      "source_location": "L129"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_5_end_to_end_encapsulation_and_decapsulation_flow",
@@ -8645,7 +8549,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 5. end-to-end encapsulation and decapsulation flow",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L143"
+      "source_location": "L163"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_6_scenario_test_answers_explanations",
@@ -8657,7 +8561,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf 6. scenario test answers & explanations",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L173"
+      "source_location": "L192"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_layered_network_models_osi_vs_tcp_ip_architecture",
@@ -8681,7 +8585,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L188"
+      "source_location": "L207"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_the_2_distinct_layers_in_osi",
@@ -8693,7 +8597,7 @@
       "node_kind": "heading",
       "norm_label": "the 2 distinct layers in osi:",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L109"
+      "source_location": "L120"
     },
     {
       "id": "computer_networking_osi_vs_tcp_ip_model_the_power_of_layered_modularity",
@@ -8705,7 +8609,7 @@
       "node_kind": "heading",
       "norm_label": "the power of layered modularity",
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L52"
+      "source_location": "L59"
     },
     {
       "id": "dsa_04_bit_manipulation_bit_manipulation_problems_1_single_number",
@@ -9233,7 +9137,7 @@
       "node_kind": "heading",
       "norm_label": "\u2696\ufe0f 2. the golden distinction: mac vs. ip addresses",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L54"
+      "source_location": "L56"
     },
     {
       "id": "computer_networking_ethernet_and_mac_addressing_3_how_a_packet_traverses_routers_the_mac_vs_ip_lifecycle",
@@ -9245,7 +9149,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 3. how a packet traverses routers: the mac vs. ip lifecycle",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L80"
+      "source_location": "L82"
     },
     {
       "id": "computer_networking_ethernet_and_mac_addressing_4_types_of_mac_addresses",
@@ -9257,7 +9161,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udff7\ufe0f 4. types of mac addresses",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L111"
+      "source_location": "L113"
     },
     {
       "id": "computer_networking_ethernet_and_mac_addressing_5_real_world_deep_dive_architectural_edge_cases",
@@ -9269,7 +9173,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd0d 5. real-world deep dive & architectural edge cases",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L129"
+      "source_location": "L131"
     },
     {
       "id": "computer_networking_ethernet_and_mac_addressing_breakdown",
@@ -9281,7 +9185,7 @@
       "node_kind": "heading",
       "norm_label": "breakdown:",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L39"
+      "source_location": "L41"
     },
     {
       "id": "computer_networking_ethernet_and_mac_addressing_ethernet_and_mac_addressing",
@@ -9305,7 +9209,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & next concepts",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L140"
+      "source_location": "L142"
     },
     {
       "id": "computer_networking_ethernet_and_mac_addressing_the_international_postal_delivery_analogy",
@@ -9317,7 +9221,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\ude9a the international postal delivery analogy",
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L71"
+      "source_location": "L73"
     },
     {
       "id": "computer_networking_network_id_and_host_id_1_the_street_name_house_number_analogy",
@@ -9702,90 +9606,6 @@
       "norm_label": "\ud83c\udfad subnet masks and cidr notation",
       "source_file": "Computer Networking/Subnet Masks and CIDR Notation.md",
       "source_location": "L14"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_1_the_nested_envelopes_analogy",
-      "label": "\u2709\ufe0f 1. The Nested Envelopes Analogy",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u2709\ufe0f 1. the nested envelopes analogy",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L23"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_2_the_step_by_step_encapsulation_journey",
-      "label": "\ud83d\udce6 2. The Step-by-Step Encapsulation Journey",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 2. the step-by-step encapsulation journey",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L37"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_3_the_core_concept_header_vs_payload_is_relative",
-      "label": "\ud83d\udd0d 3. The Core Concept: Header vs. Payload Is Relative!",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd0d 3. the core concept: header vs. payload is relative!",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L63"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_4_how_network_devices_inspect_envelopes_partial_decapsulation",
-      "label": "\ud83d\udd04 4. How Network Devices Inspect Envelopes (Partial Decapsulation)",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 4. how network devices inspect envelopes (partial decapsulation)",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L88"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_5_summary_headers_trailers_pdus",
-      "label": "\ud83d\udcca 5. Summary: Headers, Trailers & PDUs",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcca 5. summary: headers, trailers & pdus",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L119"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
-      "label": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 encapsulation and decapsulation",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L15"
-    },
-    {
-      "id": "computer_networking_encapsulation_and_decapsulation_related_notes_next_concepts",
-      "label": "\ud83d\udd17 Related Notes & Next Concepts",
-      "_origin": "ast",
-      "community": 55,
-      "community_name": "\ud83d\udce6 Encapsulation and Decapsulation",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes & next concepts",
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L149"
     },
     {
       "id": "dashboard_computer_science_knowledge_vault_command_center",
@@ -10289,7 +10109,7 @@
       "node_kind": "heading",
       "norm_label": "\u2705 approved safe pattern",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L130"
+      "source_location": "L136"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_data_leakage",
@@ -10313,7 +10133,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L174"
+      "source_location": "L180"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_preprocessing_leakage_the_most_common_form",
@@ -10337,7 +10157,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L170"
+      "source_location": "L176"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_prerequisites_next_steps",
@@ -10349,7 +10169,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L168"
+      "source_location": "L174"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_prohibited_code_patterns",
@@ -10361,7 +10181,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udeab prohibited code patterns",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L116"
+      "source_location": "L122"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_related_notes",
@@ -10373,7 +10193,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L181"
+      "source_location": "L187"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_the_correct_order_leakage_free_protocol",
@@ -10397,7 +10217,7 @@
       "node_kind": "heading",
       "norm_label": "\u2699\ufe0f the `fit()` vs. `transform()` paradigm",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L106"
+      "source_location": "L112"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_the_golden_rule_of_preprocessing",
@@ -10409,7 +10229,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udde0 the golden rule of preprocessing",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L151"
+      "source_location": "L157"
     },
     {
       "id": "ai_ml_data_preprocessing_data_leakage_the_wrong_order_causes_leakage",
@@ -10457,7 +10277,7 @@
       "node_kind": "heading",
       "norm_label": "\u2753 why must transformers be fitted on training data only?",
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L156"
+      "source_location": "L162"
     },
     {
       "id": "ai_ml_readme",
@@ -13520,7 +13340,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L113",
+      "source_location": "L118",
       "weight": 1.0
     },
     {
@@ -13542,7 +13362,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L154",
+      "source_location": "L159",
       "weight": 1.0
     },
     {
@@ -13553,7 +13373,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L164",
+      "source_location": "L169",
       "weight": 1.0
     },
     {
@@ -13564,7 +13384,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L169",
+      "source_location": "L174",
       "weight": 1.0
     },
     {
@@ -13586,7 +13406,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L74",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -13597,7 +13417,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L166",
+      "source_location": "L171",
       "weight": 1.0
     },
     {
@@ -13608,7 +13428,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L134",
+      "source_location": "L139",
       "weight": 1.0
     },
     {
@@ -13619,7 +13439,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L143",
+      "source_location": "L148",
       "weight": 1.0
     },
     {
@@ -13630,7 +13450,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L89",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -14125,7 +13945,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L106",
+      "source_location": "L112",
       "weight": 1.0
     },
     {
@@ -14147,7 +13967,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L151",
+      "source_location": "L157",
       "weight": 1.0
     },
     {
@@ -14158,7 +13978,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L168",
+      "source_location": "L174",
       "weight": 1.0
     },
     {
@@ -14169,7 +13989,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L181",
+      "source_location": "L187",
       "weight": 1.0
     },
     {
@@ -14224,7 +14044,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L170",
+      "source_location": "L176",
       "weight": 1.0
     },
     {
@@ -14235,7 +14055,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L174",
+      "source_location": "L180",
       "weight": 1.0
     },
     {
@@ -14246,7 +14066,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L116",
+      "source_location": "L122",
       "weight": 1.0
     },
     {
@@ -14257,7 +14077,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L130",
+      "source_location": "L136",
       "weight": 1.0
     },
     {
@@ -14268,7 +14088,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L156",
+      "source_location": "L162",
       "weight": 1.0
     },
     {
@@ -14290,7 +14110,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L120",
+      "source_location": "L121",
       "weight": 1.0
     },
     {
@@ -14301,7 +14121,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L131",
+      "source_location": "L132",
       "weight": 1.0
     },
     {
@@ -14323,7 +14143,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L165",
+      "source_location": "L166",
       "weight": 1.0
     },
     {
@@ -14334,7 +14154,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L186",
+      "source_location": "L187",
       "weight": 1.0
     },
     {
@@ -14345,7 +14165,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L199",
+      "source_location": "L200",
       "weight": 1.0
     },
     {
@@ -14356,7 +14176,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L209",
+      "source_location": "L210",
       "weight": 1.0
     },
     {
@@ -14378,7 +14198,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L78",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -14389,7 +14209,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L201",
+      "source_location": "L202",
       "weight": 1.0
     },
     {
@@ -14400,7 +14220,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L206",
+      "source_location": "L207",
       "weight": 1.0
     },
     {
@@ -14411,7 +14231,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L160",
+      "source_location": "L161",
       "weight": 1.0
     },
     {
@@ -14422,7 +14242,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L82",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -14433,7 +14253,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L92",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -14444,7 +14264,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L98",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -14477,7 +14297,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L73",
+      "source_location": "L74",
       "weight": 1.0
     },
     {
@@ -14944,28 +14764,6 @@
     },
     {
       "source": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
-      "target": "computer_networking_encapsulation_and_decapsulation_5_summary_headers_trailers_pdus",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L119",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
-      "target": "computer_networking_encapsulation_and_decapsulation_related_notes_next_concepts",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L149",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
       "target": "computer_networking_encapsulation_and_decapsulation_1_the_nested_envelopes_analogy",
       "relation": "contains",
       "_origin": "ast",
@@ -14987,28 +14785,6 @@
       "weight": 1.0
     },
     {
-      "source": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
-      "target": "computer_networking_encapsulation_and_decapsulation_3_the_core_concept_header_vs_payload_is_relative",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L63",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation_encapsulation_and_decapsulation",
-      "target": "computer_networking_encapsulation_and_decapsulation_4_how_network_devices_inspect_envelopes_partial_decapsulation",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L88",
-      "weight": 1.0
-    },
-    {
       "source": "computer_networking_ethernet_and_mac_addressing",
       "target": "computer_networking_ethernet_and_mac_addressing_ethernet_and_mac_addressing",
       "relation": "contains",
@@ -15027,7 +14803,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L39",
+      "source_location": "L41",
       "weight": 1.0
     },
     {
@@ -15038,7 +14814,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L71",
+      "source_location": "L73",
       "weight": 1.0
     },
     {
@@ -15049,7 +14825,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L111",
+      "source_location": "L113",
       "weight": 1.0
     },
     {
@@ -15060,7 +14836,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L129",
+      "source_location": "L131",
       "weight": 1.0
     },
     {
@@ -15071,7 +14847,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L140",
+      "source_location": "L142",
       "weight": 1.0
     },
     {
@@ -15093,7 +14869,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L54",
+      "source_location": "L56",
       "weight": 1.0
     },
     {
@@ -15104,7 +14880,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L80",
+      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -15119,105 +14895,6 @@
       "weight": 1.0
     },
     {
-      "source": "computer_networking_introduction_to_computer_networks_1_why_do_networks_exist",
-      "target": "computer_networking_introduction_to_computer_networks_core_motivations_use_cases",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L40",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_2_what_is_the_internet",
-      "target": "computer_networking_introduction_to_computer_networks_the_structural_hierarchy",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L56",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_3_classification_of_networks_by_geographical_scope",
-      "target": "computer_networking_introduction_to_computer_networks_1_lan_local_area_network",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L103",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_3_classification_of_networks_by_geographical_scope",
-      "target": "computer_networking_introduction_to_computer_networks_2_man_metropolitan_area_network",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L109",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_3_classification_of_networks_by_geographical_scope",
-      "target": "computer_networking_introduction_to_computer_networks_3_wan_wide_area_network",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L115",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_3_classification_of_networks_by_geographical_scope",
-      "target": "computer_networking_introduction_to_computer_networks_comparative_summary_lan_vs_man_vs_wan",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L123",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_4_the_anatomy_of_a_web_request_mental_model_opening_google_com",
-      "target": "computer_networking_introduction_to_computer_networks_step_by_step_breakdown",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L158",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
-      "target": "computer_networking_introduction_to_computer_networks_4_the_anatomy_of_a_web_request_mental_model_opening_google_com",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L137",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
-      "target": "computer_networking_introduction_to_computer_networks_5_conceptual_relationships_next_steps",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L177",
-      "weight": 1.0
-    },
-    {
       "source": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
       "target": "computer_networking_introduction_to_computer_networks_1_why_do_networks_exist",
       "relation": "contains",
@@ -15226,28 +14903,6 @@
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Introduction to Computer Networks.md",
       "source_location": "L19",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
-      "target": "computer_networking_introduction_to_computer_networks_2_what_is_the_internet",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L50",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_introduction_to_computer_networks_introduction_to_computer_networks",
-      "target": "computer_networking_introduction_to_computer_networks_3_classification_of_networks_by_geographical_scope",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Introduction to Computer Networks.md",
-      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -15500,7 +15155,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L46",
+      "source_location": "L50",
       "weight": 1.0
     },
     {
@@ -15511,7 +15166,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L74",
+      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -15522,7 +15177,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L115",
+      "source_location": "L128",
       "weight": 1.0
     },
     {
@@ -15533,7 +15188,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L122",
+      "source_location": "L135",
       "weight": 1.0
     },
     {
@@ -15544,7 +15199,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L148",
+      "source_location": "L161",
       "weight": 1.0
     },
     {
@@ -15555,7 +15210,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L174",
+      "source_location": "L194",
       "weight": 1.0
     },
     {
@@ -15566,7 +15221,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L188",
+      "source_location": "L208",
       "weight": 1.0
     },
     {
@@ -15577,7 +15232,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L199",
+      "source_location": "L219",
       "weight": 1.0
     },
     {
@@ -15599,7 +15254,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L56",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -15610,7 +15265,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L91",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -16017,7 +15672,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L52",
+      "source_location": "L59",
       "weight": 1.0
     },
     {
@@ -16028,7 +15683,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L109",
+      "source_location": "L120",
       "weight": 1.0
     },
     {
@@ -16039,7 +15694,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L118",
+      "source_location": "L129",
       "weight": 1.0
     },
     {
@@ -16050,7 +15705,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L143",
+      "source_location": "L163",
       "weight": 1.0
     },
     {
@@ -16061,7 +15716,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L173",
+      "source_location": "L192",
       "weight": 1.0
     },
     {
@@ -16072,7 +15727,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L188",
+      "source_location": "L207",
       "weight": 1.0
     },
     {
@@ -16094,7 +15749,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L68",
+      "source_location": "L75",
       "weight": 1.0
     },
     {
@@ -16105,7 +15760,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L82",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -21033,7 +20688,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L167",
+      "source_location": "L172",
       "weight": 1.0
     },
     {
@@ -21044,7 +20699,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L170",
+      "source_location": "L175",
       "weight": 1.0
     },
     {
@@ -21055,7 +20710,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Classical ML/Introduction to Machine Learning.md",
-      "source_location": "L173",
+      "source_location": "L178",
       "weight": 1.0
     },
     {
@@ -21176,7 +20831,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L161",
+      "source_location": "L167",
       "weight": 1.0
     },
     {
@@ -21187,7 +20842,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L162",
+      "source_location": "L168",
       "weight": 1.0
     },
     {
@@ -21198,7 +20853,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L171",
+      "source_location": "L177",
       "weight": 1.0
     },
     {
@@ -21209,7 +20864,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L172",
+      "source_location": "L178",
       "weight": 1.0
     },
     {
@@ -21220,7 +20875,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L182",
+      "source_location": "L188",
       "weight": 1.0
     },
     {
@@ -21231,7 +20886,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Data Leakage.md",
-      "source_location": "L187",
+      "source_location": "L193",
       "weight": 1.0
     },
     {
@@ -21242,7 +20897,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L202",
+      "source_location": "L203",
       "weight": 1.0
     },
     {
@@ -21253,7 +20908,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L203",
+      "source_location": "L204",
       "weight": 1.0
     },
     {
@@ -21264,7 +20919,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/Data Preprocessing/Feature Scaling.md",
-      "source_location": "L210",
+      "source_location": "L211",
       "weight": 1.0
     },
     {
@@ -21576,96 +21231,8 @@
       "weight": 1.0
     },
     {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_readme",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L151",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_osi_vs_tcp_ip_model",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L153",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_network_protocols_and_standards",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L154",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_network_hardware_hub_switch_router_modem",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L155",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_ethernet_and_mac_addressing",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L158",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_mtu_and_fragmentation",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L159",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_encapsulation_and_decapsulation",
-      "target": "computer_networking_ip_addressing_fundamentals",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Encapsulation and Decapsulation.md",
-      "source_location": "L160",
-      "weight": 1.0
-    },
-    {
       "source": "computer_networking_ethernet_and_mac_addressing",
       "target": "computer_networking_readme",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L142",
-      "weight": 1.0
-    },
-    {
-      "source": "computer_networking_ethernet_and_mac_addressing",
-      "target": "computer_networking_network_hardware_hub_switch_router_modem",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -21676,13 +21243,35 @@
     },
     {
       "source": "computer_networking_ethernet_and_mac_addressing",
+      "target": "computer_networking_network_hardware_hub_switch_router_modem",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
+      "source_location": "L146",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_ethernet_and_mac_addressing",
+      "target": "computer_networking_encapsulation_and_decapsulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
+      "source_location": "L147",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_ethernet_and_mac_addressing",
       "target": "computer_networking_mtu_and_fragmentation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L148",
+      "source_location": "L150",
       "weight": 1.0
     },
     {
@@ -21693,7 +21282,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Ethernet and MAC Addressing.md",
-      "source_location": "L149",
+      "source_location": "L151",
       "weight": 1.0
     },
     {
@@ -21764,6 +21353,17 @@
     },
     {
       "source": "computer_networking_mtu_and_fragmentation",
+      "target": "computer_networking_encapsulation_and_decapsulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/MTU and Fragmentation.md",
+      "source_location": "L166",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_mtu_and_fragmentation",
       "target": "computer_networking_network_id_and_host_id",
       "relation": "references",
       "_origin": "ast",
@@ -21792,7 +21392,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L201",
+      "source_location": "L221",
       "weight": 1.0
     },
     {
@@ -21803,7 +21403,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L203",
+      "source_location": "L223",
       "weight": 1.0
     },
     {
@@ -21814,7 +21414,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L204",
+      "source_location": "L224",
       "weight": 1.0
     },
     {
@@ -21825,7 +21425,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L205",
+      "source_location": "L225",
       "weight": 1.0
     },
     {
@@ -21836,7 +21436,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L207",
+      "source_location": "L227",
       "weight": 1.0
     },
     {
@@ -21847,7 +21447,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L209",
+      "source_location": "L229",
       "weight": 1.0
     },
     {
@@ -21973,6 +21573,17 @@
     },
     {
       "source": "computer_networking_network_protocols_and_standards",
+      "target": "computer_networking_encapsulation_and_decapsulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/Network Protocols and Standards.md",
+      "source_location": "L128",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_network_protocols_and_standards",
       "target": "computer_networking_ethernet_and_mac_addressing",
       "relation": "references",
       "_origin": "ast",
@@ -22012,7 +21623,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L190",
+      "source_location": "L209",
       "weight": 1.0
     },
     {
@@ -22023,7 +21634,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L192",
+      "source_location": "L211",
       "weight": 1.0
     },
     {
@@ -22034,7 +21645,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L193",
+      "source_location": "L212",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_osi_vs_tcp_ip_model",
+      "target": "computer_networking_encapsulation_and_decapsulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
+      "source_location": "L216",
       "weight": 1.0
     },
     {
@@ -22045,7 +21667,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Computer Networking/OSI vs TCP-IP Model.md",
-      "source_location": "L198",
+      "source_location": "L217",
       "weight": 1.0
     },
     {
@@ -22123,6 +21745,17 @@
       "confidence_score": 1.0,
       "source_file": "Computer Networking/README.md",
       "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "computer_networking_readme",
+      "target": "computer_networking_encapsulation_and_decapsulation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Computer Networking/README.md",
+      "source_location": "L52",
       "weight": 1.0
     },
     {

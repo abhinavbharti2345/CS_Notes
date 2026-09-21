@@ -62,10 +62,10 @@ flowchart TD
     TestTrans --> Eval["📊 Evaluate Model on Clean X_test"]
     Model --> Eval
 
-    classDef step fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef train fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
-    classDef test fill:#1e293b,stroke:#f59e0b,stroke-width:1.5px,color:#fff;
-    classDef model fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
+    classDef step fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef train fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef test fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
+    classDef model fill:#8b5cf618,stroke:#8b5cf6,stroke-width:2px;
     class Raw,Split step;
     class Train,Impute,CatEnc,Scale train;
     class Test,TestTrans,Eval test;

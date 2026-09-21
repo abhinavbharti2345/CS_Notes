@@ -48,8 +48,8 @@ flowchart TD
     Protocol --> P2["2️⃣ SEMANTICS (Meaning & Action)<br/>Interpreting fields: Status 200 vs 404, SYN vs ACK"]
     Protocol --> P3["3️⃣ TIMING (Sequencing & Speed)<br/>Flow control, RTT timeouts, transmission order"]
 
-    classDef proto fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
-    classDef branch fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    classDef proto fill:#8b5cf618,stroke:#8b5cf6,stroke-width:2px;
+    classDef branch fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
     class Protocol proto;
     class P1,P2,P3 branch;
 ```
@@ -80,8 +80,17 @@ flowchart TD
 
     L5 --> L4 --> L3 --> L2 --> L1
 
-    classDef layer fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    class L5,L4,L3,L2,L1 layer;
+    classDef l5 fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef l4 fill:#6366f118,stroke:#6366f1,stroke-width:1.8px;
+    classDef l3 fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef l2 fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef l1 fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
+
+    class L5 l5;
+    class L4 l4;
+    class L3 l3;
+    class L2 l2;
+    class L1 l1;
 ```
 
 ### Core Protocols at a Glance:

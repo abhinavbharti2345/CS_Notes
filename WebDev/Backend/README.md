@@ -37,8 +37,8 @@ flowchart TD
 
     P0 --> P1 --> P2 --> P3 --> P4 --> P5 --> P6 --> P7 --> P8 --> P9 --> P10 --> P11 --> P12 --> P13
 
-    classDef active fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
-    classDef planned fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
     class P0,P1,P11 active;
     class P2,P3,P4,P5,P6,P7,P8,P9,P10,P12,P13 planned;
 ```
@@ -85,9 +85,9 @@ flowchart TD
     EL -.-> SK
     CM -.-> SK
 
-    classDef js fill:#1e293b,stroke:#f59e0b,stroke-width:1.5px,color:#fff;
-    classDef node fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
-    classDef proj fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
+    classDef js fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
+    classDef node fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef proj fill:#8b5cf618,stroke:#8b5cf6,stroke-width:2px;
     class V,O,F,A js;
     class N,V8,EL,CM node;
     class SK proj;

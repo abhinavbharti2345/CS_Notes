@@ -63,8 +63,8 @@ flowchart TD
     Total --> P3["3️⃣ Transmission Delay (d_trans)<br/>Pushing bits onto the wire: L / R"]
     Total --> P4["4️⃣ Propagation Delay (d_prop)<br/>Physical travel through medium: d / s"]
 
-    classDef nodal fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
-    classDef comp fill:#1e293b,stroke:#3b82f6,stroke-width:1px,color:#fff;
+    classDef nodal fill:#8b5cf618,stroke:#8b5cf6,stroke-width:2px;
+    classDef comp fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
     class Total nodal;
     class P1,P2,P3,P4 comp;
 ```
@@ -83,7 +83,8 @@ $$
 ```mermaid
 flowchart TD
     Ingress["📦 Packet Ingress"] --> Check["🔍 Checksum & Header"] --> Lookup["🗺️ Routing Table Lookup"] --> Egress["📤 Output Port"]
-    classDef step fill:#1e293b,stroke:#10b981,stroke-width:1px,color:#fff;
+    
+    classDef step fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class Ingress,Check,Lookup,Egress step;
 ```
 
@@ -188,8 +189,8 @@ flowchart TD
     -->|"🔒 50 Mbps Uplink (BOTTLENECK LINK)"| ISP["🏢 ISP Edge Switch"]
     -->|"1 Gbps Core Fiber"| Server["🖥️ Web Server"]
 
-    classDef normal fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef bottleneck fill:#1e293b,stroke:#ef4444,stroke-width:2.5px,color:#fff;
+    classDef normal fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef bottleneck fill:#f43f5e18,stroke:#f43f5e,stroke-width:2px;
     class Laptop,Router,Server normal;
     class ISP bottleneck;
 ```

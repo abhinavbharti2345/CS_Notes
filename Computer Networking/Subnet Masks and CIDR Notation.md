@@ -24,7 +24,7 @@ date: 2026-09-18
 An IPv4 address like `192.168.1.10` cannot be routed without knowing its boundary. The subnet mask acts as a binary filter:
 
 ```mermaid
-graph TD
+flowchart TD
     subgraph IPAddress["IPv4 Address: 192.168.1.10"]
         IP["11000000.10101000.00000001 . 00001010"]
     end
@@ -40,11 +40,19 @@ graph TD
 
     IPAddress & SubnetMask --> Result
 
-    style IPAddress fill:#1e293b,stroke:#3b82f6,color:#fff
-    style SubnetMask fill:#1e293b,stroke:#8b5cf6,color:#fff
-    style Result fill:#0f172a,stroke:#10b981,color:#fff
-    style Net fill:#064e3b,color:#fff
-    style Host fill:#1e3a8a,color:#fff
+    style IPAddress fill:none,stroke:#0ea5e9,stroke-width:1.5px,stroke-dasharray:4 4
+    style SubnetMask fill:none,stroke:#8b5cf6,stroke-width:1.5px,stroke-dasharray:4 4
+    style Result fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef ip fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef mask fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef net fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef host fill:#6366f118,stroke:#6366f1,stroke-width:1.8px;
+
+    class IP ip;
+    class Mask mask;
+    class Net net;
+    class Host host;
 ```
 
 - **All binary `1`s:** Lock down the **Network Prefix** (cannot be changed by hosts).
@@ -61,17 +69,21 @@ $$\boxed{\text{Host Bits } (H) = 32 - N}$$
 $$\boxed{\text{Total IP Addresses} = 2^H}$$
 
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph TotalBits["32 TOTAL IPv4 BITS"]
-        direction LR
+        direction TD
         N["🔒 N Network Bits (/N Prefix)"]
         H["💻 H Host Bits (32 - N)"]
-        N --- H
+        N --> H
     end
 
-    style TotalBits fill:#1e293b,stroke:#64748b,color:#fff
-    style N fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff
-    style H fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
+    style TotalBits fill:none,stroke:#64748b,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef n fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef h fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+
+    class N n;
+    class H h;
 ```
 
 ---

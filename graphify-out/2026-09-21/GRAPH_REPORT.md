@@ -1,11 +1,11 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 78 files · ~57,583 words
+- 78 files · ~57,771 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 925 nodes · 1109 edges · 60 communities (58 shown, 2 thin omitted)
+- 910 nodes · 1092 edges · 58 communities (56 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
@@ -58,7 +58,6 @@
 - 📦 Packets and Packet Switching
 - 🔍 Binary Search
 - Protocol Data Units: Segment, Packet, Frame & Bits
-- 🌐 Introduction to Computer Networks
 - 🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)
 - Switching Techniques: Packet vs. Circuit Switching
 - 🧠 Introduction to Machine Learning
@@ -70,7 +69,6 @@
 - Network Protocols and Standards
 - 📚 Roadmap Stages & Core Notes
 - Subnet Masks and CIDR Notation
-- 📦 Encapsulation and Decapsulation
 - 🧭 Computer Science Knowledge Vault: Command Center
 - 🔗 Linked Lists Module
 - 🩹 Missing Value Imputation
@@ -91,7 +89,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (60 total, 2 thin omitted)
+## Communities (58 total, 2 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -110,8 +108,8 @@ Cohesion: 0.11
 Nodes (18): 1. `let` (Mutable), 1. String (Text Data), 1. `.toLowerCase()`, 2. `const` (Immutable Reference), 2. Number, 2. `.split(separator)`, 3. Boolean, 4. `null` (Intentional Emptiness) (+10 more)
 
 ### Community 4 - "Dashboard.md"
-Cohesion: 0.14
-Nodes (13): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, ⚡ Essential String Idioms (Java), 🗺️ Module Learning Path, 💡 Practice Problems, 🔗 Related Notes (+5 more)
+Cohesion: 0.12
+Nodes (18): Actions to Take, Purpose, Quick Look / Take a Look Cheatsheet Rule, Trigger Conditions, ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation, 🌟 1. Why Do Networks Exist? (+10 more)
 
 ### Community 5 - "1. Single Number"
 Cohesion: 0.05
@@ -250,16 +248,12 @@ Cohesion: 0.12
 Nodes (16): 1. 🚦 Fair Sharing & Statistical Multiplexing, 🧩 1. The Core Concept: Data vs. Packet, 2. ⚡ Error Recovery & Retransmission Efficiency, ❓ 2. Why Break Data Into Packets?, 📦 3. Anatomy of a Packet: Header vs. Payload, 3. 💾 Router Buffer and Memory Feasibility, 4. 🔀 Dynamic Path Selection & Resilience (Multipath Routing), 🔄 4. How Packet Switching Works (+8 more)
 
 ### Community 41 - "🔍 Binary Search"
-Cohesion: 0.14
+Cohesion: 0.13
 Nodes (14): 💡 1. Core Idea, 📋 2. Basic Template, 🎯 3. Walkthrough Example, ❓ 4. Key Questions & Nuances, 🧠 5. Mental Model, 🔍 Binary Search, Step 1: Initial State, Step 2: Second Iteration (+6 more)
 
 ### Community 42 - "Protocol Data Units: Segment, Packet, Frame & Bits"
 Cohesion: 0.17
 Nodes (12): 1️⃣ Application Layer $\to$ Data / Message, ❓ 1. Why Does Networking Have Different Names for "Data"?, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 📊 3. Comprehensive PDU Comparison Matrix, 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop! (+4 more)
-
-### Community 43 - "🌐 Introduction to Computer Networks"
-Cohesion: 0.15
-Nodes (13): 1. 🏠 LAN (Local Area Network), 🌟 1. Why Do Networks Exist?, 2. 🏙️ MAN (Metropolitan Area Network), 🌐 2. What Is the Internet?, 🗺️ 3. Classification of Networks by Geographical Scope, 3. 🌍 WAN (Wide Area Network), 🔍 4. The Anatomy of a Web Request (Mental Model: Opening `google.com`), 🧭 5. Conceptual Relationships & Next Steps (+5 more)
 
 ### Community 44 - "🔢 IP Addressing Fundamentals (IPv4 & Binary Basics)"
 Cohesion: 0.20
@@ -305,10 +299,6 @@ Nodes (8): 🌐 Computer Networks MOC (Map of Content), 🔗 Cross-Domain CS Con
 Cohesion: 0.25
 Nodes (8): 🥸 1. What Does a Subnet Mask Actually Do?, ⚡ 2. Understanding CIDR Slash Notation (`/n`), 🏛️ 3. Standard Octet Boundaries (`/8`, `/16`, `/24`), 🧮 4. The Master CIDR Subnet Mask Reference Table, 🔍 5. How Routers Find the Network Address: Bitwise AND, 🎯 6. Quick Test Answers & Explanations, 🔗 Related Notes & Next Concepts, 🎭 Subnet Masks and CIDR Notation
 
-### Community 55 - "📦 Encapsulation and Decapsulation"
-Cohesion: 0.29
-Nodes (7): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 🔍 3. The Core Concept: Header vs. Payload Is Relative!, 🔄 4. How Network Devices Inspect Envelopes (Partial Decapsulation), 📊 5. Summary: Headers, Trailers & PDUs, 📦 Encapsulation and Decapsulation, 🔗 Related Notes & Next Concepts
-
 ### Community 56 - "🧭 Computer Science Knowledge Vault: Command Center"
 Cohesion: 0.50
 Nodes (4): 🧭 Computer Science Knowledge Vault: Command Center, 🧠 Core Domain Master MOCs, ⚡ Quick Actions & Reference Utilities, 🗺️ Vault Architecture & Domain Map
@@ -326,21 +316,21 @@ Cohesion: 0.13
 Nodes (15): ✅ Approved Safe Pattern, 🚨 Data Leakage, Next Steps, 🔄 Preprocessing Leakage: The Most Common Form, Prerequisites, 🔗 Prerequisites & Next Steps, 🚫 Prohibited Code Patterns, 🔗 Related Notes (+7 more)
 
 ## Knowledge Gaps
-- **630 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+625 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 638 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **619 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+614 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 627 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Bit Manipulation Problems` connect `1. Single Number` to `Dashboard.md`?**
-  _High betweenness centrality (0.069) - this node is a cross-community bridge._
+  _High betweenness centrality (0.070) - this node is a cross-community bridge._
 - **Why does `🧱 Linked List Fundamentals` connect `🧱 Linked List Fundamentals` to `Dashboard.md`?**
-  _High betweenness centrality (0.046) - this node is a cross-community bridge._
+  _High betweenness centrality (0.047) - this node is a cross-community bridge._
 - **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
-  _High betweenness centrality (0.041) - this node is a cross-community bridge._
+  _High betweenness centrality (0.042) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _630 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _619 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**

@@ -34,6 +34,7 @@ We simulate manual column-by-column addition from **right to left** (least signi
 ```mermaid
 flowchart TD
     subgraph Simulation ["Right-to-Left Arithmetic Loop"]
+        direction TD
         Start["i = a.length() - 1<br/>j = b.length() - 1<br/>carry = 0"] --> Condition{"i >= 0 || j >= 0 || carry != 0"}
         
         Condition -- "Yes" --> Extract["bitA = (i >= 0) ? a[i] - '0' : 0<br/>bitB = (j >= 0) ? b[j] - '0' : 0"]
@@ -44,9 +45,12 @@ flowchart TD
         Condition -- "No" --> Reverse["sb.reverse().toString()<br/><b>⚡ Result Completed!</b>"]
     end
 
-    classDef step fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef decision fill:#1e293b,stroke:#f59e0b,stroke-width:1.5px,color:#fff;
-    classDef finish fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
+    style Simulation fill:none,stroke:#6366f1,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef step fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef decision fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
+    classDef finish fill:#10b98118,stroke:#10b981,stroke-width:2px;
+
     class Start,Extract,Calc,Decrement step;
     class Condition decision;
     class Reverse finish;
@@ -64,8 +68,12 @@ When processing right $\to$ left:
 ```mermaid
 flowchart TD
     P["Processed Order: 1 -> 0 -> 1 -> 1"] --> R["Reversed Final String: 1 1 0 1"]
-    classDef style fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
-    class P,R style;
+    
+    classDef proc fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef rev fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    
+    class P proc;
+    class R rev;
 ```
 
 ### The Java String Trap:

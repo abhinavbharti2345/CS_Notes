@@ -35,8 +35,8 @@ flowchart TD
 
     M0 --> M1 --> M2 --> M3 --> M4 --> M5 --> M6 --> M7 --> M8 --> M9 --> M10
 
-    classDef active fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
-    classDef planned fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
     class M1,M2,M3,M4 active;
     class M0,M5,M6,M7,M8,M9,M10 planned;
 ```

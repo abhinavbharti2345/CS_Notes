@@ -31,8 +31,8 @@ flowchart TD
 
     P1 --> P2 --> P3 --> P4 --> P5 --> P6 --> P7 --> P8
 
-    classDef active fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
-    classDef planned fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
     class P1,P2 active;
     class P3,P4,P5,P6,P7,P8 planned;
 ```
@@ -75,8 +75,8 @@ flowchart TD
     Imp --> Pipe
     Scale --> Pipe
 
-    classDef f fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef p fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
+    classDef f fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef p fill:#10b98118,stroke:#10b981,stroke-width:2px;
     class Intro,Sup,Feat,TTS,Leak,Cat,Imp,Scale f;
     class Pipe p;
 ```

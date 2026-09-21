@@ -38,12 +38,15 @@ flowchart TD
     C3 --> P3["📦 Packet 3<br><code>[Header | Chunk 3]</code>"]
     C4 --> P4["📦 Packet 4<br><code>[Header | Chunk 4]</code>"]
 
-    style Raw fill:#1e293b,stroke:#3b82f6,color:#fff
-    style Split fill:#4c1d95,stroke:#8b5cf6,color:#fff
-    style P1 fill:#064e3b,stroke:#10b981,color:#fff
-    style P2 fill:#064e3b,stroke:#10b981,color:#fff
-    style P3 fill:#064e3b,stroke:#10b981,color:#fff
-    style P4 fill:#064e3b,stroke:#10b981,color:#fff
+    classDef raw fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef split fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef chunk fill:#64748b15,stroke:#64748b,stroke-width:1.5px;
+    classDef pkt fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+
+    class Raw raw;
+    class Split split;
+    class C1,C2,C3,C4 chunk;
+    class P1,P2,P3,P4 pkt;
 ```
 
 ---
@@ -57,17 +60,23 @@ Why doesn't the Internet send a single continuous 100 MB block across the wire? 
 ```mermaid
 flowchart TD
     subgraph Monolithic ["❌ Monolithic Stream (Head-of-Line Blocking)"]
+        direction TD
         H1["Host A: 10 GB Video Transfer (Locks Entire Wire)"] --> H2["Host B: 🛑 BLOCKED (Waiting indefinitely)"]
     end
 
     subgraph Multiplex ["✅ Statistical Multiplexing (Packets Interleaved)"]
+        direction TD
         Pkt["Shared Link: [A1] ➔ [B1] ➔ [A2] ➔ [B2] ➔ [C1] ➔ [A3]"]
     end
 
-    classDef bad fill:#1e293b,stroke:#ef4444,stroke-width:1.5px,color:#fff;
-    classDef good fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
-    class Monolithic,H1,H2 bad;
-    class Multiplex,Pkt good;
+    style Monolithic fill:none,stroke:#f43f5e,stroke-width:1.5px,stroke-dasharray:4 4
+    style Multiplex fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef bad fill:#f43f5e18,stroke:#f43f5e,stroke-width:1.8px;
+    classDef good fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+
+    class H1,H2 bad;
+    class Pkt good;
 ```
 
 Breaking data into packets allows hundreds of hosts to interleave their transmissions smoothly across shared physical infrastructure without waiting for other users' multi-gigabyte transfers to finish.
@@ -97,8 +106,8 @@ flowchart TD
     R1 --> Server["🖥️ Destination Server"]
     R2 --> Server
 
-    classDef dev fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef rtr fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    classDef dev fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef rtr fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class Client,Server dev;
     class R1,R2 rtr;
 ```

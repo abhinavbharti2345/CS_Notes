@@ -26,10 +26,15 @@ flowchart TD
 
     S1 --> S2 --> S3 --> S4
 
-    style S1 fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style S2 fill:#312e81,stroke:#6366f1,stroke-width:2px,color:#fff
-    style S3 fill:#4c1d95,stroke:#8b5cf6,stroke-width:2px,color:#fff
-    style S4 fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff
+    classDef s1 fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef s2 fill:#6366f118,stroke:#6366f1,stroke-width:1.8px;
+    classDef s3 fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef s4 fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+
+    class S1 s1;
+    class S2 s2;
+    class S3 s3;
+    class S4 s4;
 ```
 
 ---

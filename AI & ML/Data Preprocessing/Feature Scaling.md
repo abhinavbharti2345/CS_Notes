@@ -136,7 +136,7 @@ In machine learning libraries (such as Scikit-Learn), scaling follows a strict t
 
 ```mermaid
 flowchart TD
-    Raw["Raw Dataset"] --> Split["✂️ Train / Test Split"]
+    Raw["📄 Full Raw Dataset"] --> Split["✂️ 1. train_test_split()"]
     
     Split --> Train["📦 X_train"]
     Split --> Test["🔒 X_test (Held Out)"]
@@ -149,13 +149,21 @@ flowchart TD
     TransTrain --> Model["🧠 Train Model"]
     TransTest --> Eval["🎯 Unbiased Evaluation"]
 
-    style Raw fill:#1e293b,stroke:#64748b,color:#fff
-    style Split fill:#1e3a8a,stroke:#3b82f6,color:#fff
-    style Train fill:#064e3b,stroke:#10b981,color:#fff
-    style Test fill:#78350f,stroke:#f59e0b,color:#fff
-    style Fit fill:#4c1d95,stroke:#8b5cf6,color:#fff
-    style TransTrain fill:#065f46,stroke:#34d399,color:#fff
-    style TransTest fill:#7c2d12,stroke:#fb923c,color:#fff
+    classDef raw fill:#64748b15,stroke:#64748b,stroke-width:1.5px;
+    classDef split fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef train fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef test fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
+    classDef fit fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef model fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef eval fill:#6366f118,stroke:#6366f1,stroke-width:1.8px;
+
+    class Raw raw;
+    class Split split;
+    class Train,TransTrain train;
+    class Test,TransTest test;
+    class Fit fit;
+    class Model model;
+    class Eval eval;
 ```
 
 ### Why?

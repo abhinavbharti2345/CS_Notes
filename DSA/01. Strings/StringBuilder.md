@@ -26,17 +26,20 @@ date: 2026-09-08
 ```mermaid
 flowchart TD
     subgraph S ["❌ String Concatenation (Immutable Heap Allocation: O(N^2))"]
-        direction LR
+        direction TD
         S1["'hello'"] -->|'+ world'| S2["'hello world'<br/><i>(New Heap Object Allocated)</i>"]
     end
 
     subgraph SB ["✅ StringBuilder Mutation (In-Place Dynamic Buffer: O(N))"]
-        direction LR
+        direction TD
         B1["['h','e','l','l','o', _, _, ...]"] -->|'.append()'| B2["['h','e','l','l','o',' ','w','o','r','l','d']<br/><i>(Zero Garbage Allocations)</i>"]
     end
 
-    classDef bad fill:#1e293b,stroke:#ef4444,stroke-width:1.5px,color:#fff;
-    classDef good fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    style S fill:none,stroke:#f43f5e,stroke-width:1.5px,stroke-dasharray:4 4
+    style SB fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef bad fill:#f43f5e18,stroke:#f43f5e,stroke-width:1.8px;
+    classDef good fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class S1,S2 bad;
     class B1,B2 good;
 ```
@@ -88,7 +91,7 @@ Internally, `StringBuilder` is backed by a resizable character array (`char[]` i
 ## 🛠️ 4. Essential Methods & Time Complexities
 
 | Method | Description | Time Complexity |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | `sb.append(x)` | Appends boolean, char, int, long, String, etc. to the end | **$O(1)$ amortized** |
 | `sb.insert(offset, x)` | Inserts data at the specified index, shifting trailing elements | **$O(N)$** |
 | `sb.charAt(i)` | Returns char at index `i` (0-indexed) | **$O(1)$** |
@@ -114,7 +117,7 @@ flowchart TD
     Append --> Recurse["recurse(left)"]
     Recurse --> Rollback["sb.setLength(len)<br/>⚡ Instant rollback to 'root'!"]
 
-    classDef step fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
+    classDef step fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
     class Start,Checkpoint,Append,Recurse,Rollback step;
 ```
 

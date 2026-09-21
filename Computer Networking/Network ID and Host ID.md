@@ -27,14 +27,16 @@ Think of how postal mail is delivered to a physical residence:
 ```mermaid
 flowchart TD
     subgraph FullAddress ["📬 Full IP Address Analogy"]
-        direction LR
+        direction TD
         Net["🏘️ Network ID<br/><b>'MG Road, Bangalore'</b><br/><i>Shared by all devices on this LAN</i>"]
         Host["🏠 Host ID<br/><b>'House #42'</b><br/><i>Unique interface identifier</i>"]
-        Net --- Host
+        Net --> Host
     end
 
-    classDef net fill:#1e293b,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef host fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
+    style FullAddress fill:none,stroke:#64748b,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef net fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef host fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class Net net;
     class Host host;
 ```
@@ -79,14 +81,16 @@ A **Subnet Mask** is another 32-bit binary number paired with an IP address. It 
 ```mermaid
 flowchart TD
     subgraph Split ["32-Bit Delineation via Subnet Mask (255.255.255.0)"]
-        direction LR
+        direction TD
         N["11111111 . 11111111 . 11111111<br/><b>24 Network Bits (1s)</b><br/>Network ID = 192.168.1.0"]
         H["00000000<br/><b>8 Host Bits (0s)</b><br/>Host ID = .10"]
-        N --- H
+        N --> H
     end
 
-    classDef net fill:#1e293b,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef host fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff;
+    style Split fill:none,stroke:#64748b,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef net fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef host fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class N net;
     class H host;
 ```

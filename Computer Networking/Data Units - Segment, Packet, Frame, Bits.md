@@ -42,8 +42,17 @@ flowchart TD
 
     L5 --> L4 --> L3 --> L2 --> L1
 
-    classDef pdu fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    class L5,L4,L3,L2,L1 pdu;
+    classDef l5 fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef l4 fill:#6366f118,stroke:#6366f1,stroke-width:1.8px;
+    classDef l3 fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef l2 fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef l1 fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
+
+    class L5 l5;
+    class L4 l4;
+    class L3 l3;
+    class L2 l2;
+    class L1 l1;
 ```
 
 ---
@@ -53,27 +62,32 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph Frame ["🖼️ Layer 2: ETHERNET FRAME"]
-        direction LR
-        FH["🏷️ Frame Header<br/>(MACs, EtherType)"]
+        direction TD
+        FH["🏷️ Frame Header (MACs, EtherType)"]
         subgraph Packet ["📦 Layer 3: IP PACKET"]
-            direction LR
-            IH["🗺️ IP Header<br/>(Src/Dst IP)"]
+            direction TD
+            IH["🗺️ IP Header (Src/Dst IP)"]
             subgraph Segment ["🔄 Layer 4: TCP SEGMENT"]
-                direction LR
-                TH["🚪 TCP Header<br/>(Ports, Seq #)"]
-                Data["📄 App Data<br/>('Hello')"]
-                TH --- Data
+                direction TD
+                TH["🚪 TCP Header (Ports, Seq #)"]
+                Data["📄 App Data ('Hello')"]
+                TH --> Data
             end
-            IH --- Segment
+            IH --> Segment
         end
-        FT["🛡️ Frame Trailer<br/>(FCS / CRC32)"]
-        FH --- Packet --- FT
+        FT["🛡️ Frame Trailer (FCS / CRC32)"]
+        FH --> Packet --> FT
     end
 
-    classDef f fill:#1e293b,stroke:#3b82f6,stroke-width:1px,color:#fff;
-    classDef p fill:#1e293b,stroke:#10b981,stroke-width:1px,color:#fff;
-    classDef s fill:#1e293b,stroke:#8b5cf6,stroke-width:1px,color:#fff;
-    classDef d fill:#1e293b,stroke:#f59e0b,stroke-width:1px,color:#fff;
+    style Frame fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
+    style Packet fill:none,stroke:#8b5cf6,stroke-width:1.5px,stroke-dasharray:4 4
+    style Segment fill:none,stroke:#6366f1,stroke-width:1.5px,stroke-dasharray:4 4
+
+    classDef f fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef p fill:#8b5cf618,stroke:#8b5cf6,stroke-width:1.8px;
+    classDef s fill:#6366f118,stroke:#6366f1,stroke-width:1.8px;
+    classDef d fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+
     class FH,FT f;
     class IH p;
     class TH s;
@@ -99,9 +113,9 @@ flowchart TD
     
     TL --> UDP["⚡ UDP (User Datagram Protocol)<br/>• Connectionless (Fire & Forget)<br/>• Zero ACKs / No retransmissions<br/>• Minimal header overhead (8 Bytes)<br/>• Ultra-low latency<br/><i>Used by: Live streaming, Gaming, DNS, VoIP</i>"]
 
-    classDef root fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
-    classDef tcp fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef udp fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    classDef root fill:#8b5cf618,stroke:#8b5cf6,stroke-width:2px;
+    classDef tcp fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef udp fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class TL root;
     class TCP tcp;
     class UDP udp;
@@ -160,8 +174,8 @@ flowchart TD
     R2 -->|"Fiber Frame [IP Packet]"| R3["🔀 Router 3"]
     R3 -->|"Ethernet Frame [IP Packet]"| S["🖥️ Google Server"]
 
-    classDef host fill:#1e293b,stroke:#3b82f6,stroke-width:1.5px,color:#fff;
-    classDef router fill:#1e293b,stroke:#10b981,stroke-width:1.5px,color:#fff;
+    classDef host fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef router fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
     class L,S host;
     class R1,R2,R3 router;
 ```
