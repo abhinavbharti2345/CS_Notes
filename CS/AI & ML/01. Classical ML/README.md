@@ -1,0 +1,91 @@
+---
+topic: Classical Machine Learning
+type: moc
+tags:
+  - ml
+  - classical-ml
+  - foundations
+date: 2026-09-05
+---
+
+# 📊 Classical Machine Learning Foundations
+
+> [!important] Core Objective
+> Forget complex mathematical formulas for a moment. This module builds the **core intuition, paradigms, and vocabulary** behind Machine Learning from scratch before diving into specific algorithms.
+
+---
+
+## 📖 Learning Path
+
+1. **[[01. Introduction to Machine Learning]]**
+   - Core intuition: Examples $\rightarrow$ Discover Pattern $\rightarrow$ Predict $\hat{y}$
+   - The 3 Pillars: Input $X$, Target $y$, and Model (Learned Pattern)
+   - What is "Learning"? (Iterative parameter adjustment loop: predict $\rightarrow$ error $\rightarrow$ adjust $\rightarrow$ repeat)
+   - Paradigm shift (Traditional rule-based code vs Data-driven ML)
+
+2. **[[02. Supervised vs Unsupervised Learning]]**
+   - **Supervised Learning** ($X + y$): Labeled examples (flashcard analogy)
+     - *Regression*: Continuous numerical targets (e.g., house prices ₹75L, weather 31.5°C, salary ₹85k, marks)
+     - *Classification*: Discrete categorical targets (e.g., pass/fail, spam/not spam, cat/dog, fraud, disease)
+   - **Unsupervised Learning** ($X$ only): Unlabeled pattern discovery & grouping (e.g., clustering, PCA)
+   - The Master Mental Map & Taxonomy
+
+3. **[[03. Features, Targets, and Datasets]]**
+   - Features ($X$) = Inputs used for prediction
+   - Target ($y$) = Output being predicted
+   - Samples & Rows in a Dataset
+   - Mathematical mapping: $X \rightarrow \text{Model} \rightarrow y$
+
+4. **[[04. Train-Test Split and Generalization]]**
+   - Why we never evaluate models on training data
+   - Training Data vs Test Data (e.g., 80/20 split)
+   - The ultimate goal: Generalization to unseen data
+   - What is **Overfitting**? (Memorization vs learning true patterns)
+
+5. **[[05. End-to-End ML Pipeline]]**
+   - The complete 10-stage machine learning workflow:
+     `Raw Data` $\rightarrow$ `Understand` $\rightarrow$ `Clean` $\rightarrow$ `Split` $\rightarrow$ `Preprocess` $\rightarrow$ `Model` $\rightarrow$ `Train` $\rightarrow$ `Predict` $\rightarrow$ `Evaluate` $\rightarrow$ `Improve`
+
+6. **[[06. Linear Regression Assumptions]]**
+   - Why assumptions matter & residual formulation ($e = y - \hat{y}$)
+   - Diagnostic residual plot patterns (random vs U-shape vs funnel)
+   - **Homoscedasticity** (constant error variance) vs **Heteroscedasticity**
+   - Corrective transformations (Log transform $\ln y$, WLS)
+   - The 6 Classical OLS Assumptions (Gauss-Markov)
+
+7. **[[07. Regression Evaluation Metrics]]**
+   - **MSE** vs **RMSE** vs **MAE** vs **$R^2$** score
+   - Why square root restores natural target units ($\sqrt{\text{MSE}}$)
+   - Outlier penalty characteristics & differentiability
+   - Canonical `fit_linreg_rmse` leak-free pipeline pattern
+
+8. **[[08. Gradient Descent and Cost Functions]]**
+   - Minimizing cost $J(\theta)$ via iterative downhill updates
+   - Foggy mountain metaphor & gradient direction $\nabla J(\theta)$
+   - Update rule: $\theta := \theta - \alpha \nabla J(\theta)$
+   - Learning rate $\alpha$ dynamics (too small vs reasonable vs too large)
+   - Batch vs Stochastic (SGD) vs Mini-Batch Gradient Descent
+
+9. **[[09. R-Squared and Adjusted R-Squared Calculation]]**
+   - Step-by-step hand calculation with 5-student dataset
+   - Computing $\text{SS}_{\text{tot}} = 1000$ and $\text{SS}_{\text{res}} = 94$
+   - Deriving $R^2 = 0.906$ vs Adjusted $R^2 = 0.812$
+   - Why Adjusted $R^2$ penalizes adding features ($p=2$)
+
+---
+
+## 🔗 Connections
+
+### Prerequisites
+- Basic programming concepts (variables, conditions, loops, arrays) in [[Variables and Data Types|Python / JS]].
+
+### Next Topics
+- **Linear Regression**: Finding optimal weights and biases via Gradient Descent.
+- **Logistic Regression & Classification**: Sigmoid function and decision boundaries.
+- **Model Evaluation**: Precision, Recall, F1-Score, MSE, RMSE.
+
+---
+
+## 🔗 Related Notes
+- [[CS/AI & ML/README|🤖 AI & ML Master MOC]]
+- [[Home|🧭 Main Command Center]]

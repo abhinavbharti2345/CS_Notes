@@ -10,35 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "b79fc4c921ac244d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06. Linear Regression Assumptions"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,6 +207,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "project-manager:Project manager": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -233,7 +218,6 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -243,43 +227,43 @@
       "ollama-assistant:Open Ollama Assistant": false
     }
   },
-  "active": "b79fc4c921ac244d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "graphify-out/cache/ast/v0.9.53-s2/b4cd7679c0bb469413dfe8d0d7e619371b53ff15eb3013a915decce5bac736e0.json",
-    "graphify-out/cache/ast/v0.9.53-s2/8f469b0852f6833b948149153d22d8e367c2d92b5581e96c4c72cc40e2be8cc7.json",
-    "AI & ML/01. Classical ML/README.md",
-    "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-    "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-    "graphify-out/cache/ast/v0.9.53-s2/a410119ec9ebcf7e339e8a4943fc874e46deaf238cfea22cc8da9f1ce1babe74.json",
-    "graphify-out/cache/ast/v0.9.53-s2/5c0ee929bba50591912e51b6e60fc0450e9a5c0a2f443762126a4e022f5111d1.json",
-    "graphify-out/cache/ast/v0.9.53-s2/3eb0348aa9b0a61d9e6d9ba98216719bf31aca26e4255b357e94152db9ccd0f5.json",
-    "graphify-out/cache/ast/v0.9.53-s2/650153002281353850b5bc075cecc71fc2200726cd9cbbfaac727c8ef3ae6351.json",
-    "graphify-out/cache/ast/v0.9.53-s2/418966bc6e8cf132d9e0b0ca04c1adadef322b6314fe79835b0ee04709a368dd.json",
-    "graphify-out/cache/ast/v0.9.53-s2/704596fa27223de915e33170939a7c80306e6f27b0faa508880e72e8bd713f07.json",
-    "graphify-out/cache/ast/v0.9.53-s2/ea79740a2e208947b4f6bdaed6b925f2dbd43be60dcb793bee8f0b2e9fbfd66b.json",
-    "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-    "AI & ML/01. Classical ML/03. Features, Targets, and Datasets.md",
-    "AI & ML/01. Classical ML/02. Supervised vs Unsupervised Learning.md",
-    "AI & ML/01. Classical ML/01. Introduction to Machine Learning.md",
-    "Computer Networking/09. Data Units - Segment, Packet, Frame, Bits.md",
-    "Dashboard.md",
-    "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-    "graphify-out/cache/ast/v0.9.53-s2/498e1cebf84cf9e9967e032c10f9da8aaa644e25287532a2172ca2b7e91e7cce.json",
-    "graphify-out/cache/ast/v0.9.53-s2/5f8f86197b451cf47ce889d86ace3930e3e0081db2158c182366219a12f92daf.json",
-    "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-    "DSA/02. Binary Search/Binary Search.md",
-    "Computer Networking/08. Encapsulation and Decapsulation.md",
-    "Computer Networking/07. Network Protocols and Standards.md",
-    "Computer Networking/03. Switching Techniques - Packet vs Circuit.md",
-    "Computer Networking/11. MTU and Fragmentation.md",
-    "Computer Networking/06. OSI vs TCP-IP Model.md",
-    "Computer Networking/05. Network Hardware - Hub, Switch, Router, Modem.md",
-    "Computer Networking/10. Ethernet and MAC Addressing.md",
-    "Computer Networking/02. Packets and Packet Switching.md",
-    "Computer Networking/01. Introduction to Computer Networks.md",
-    "Computer Networking/12. IP Addressing Fundamentals.md",
-    "Computer Networking/04. Network Performance - Delay, Latency, Throughput.md",
-    "DSA/04. Bit Manipulation/04. Bit Manipulation Problems.md",
-    "DSA/04. Bit Manipulation/03. XOR Patterns.md"
+    "graphify-out/2026-10-01/manifest.json",
+    "graphify-out/2026-10-01/GRAPH_REPORT.md",
+    "graphify-out/2026-10-01/graph.json",
+    "graphify-out/2026-10-01",
+    "graphify-out/cache/ast/v0.9.53-s2/987d7930912fc24d46c1b855d2a2e7be409a1b025beda351482e5335e891d833.json",
+    "graphify-out/cache/ast/v0.9.53-s2/47e4b9b8c541b85a87956ff6cf8de5cd6ef544a5d7083fe722c05ed887888e5c.json",
+    "graphify-out/cache/ast/v0.9.53-s2/81369adb8a3bb6d9e31f53d9e86b34437f1e147e4b7311835c86cd9b2729047c.json",
+    "graphify-out/cache/ast/v0.9.53-s2/cc5da067f3b693c73a937e8988ebbb8cf7558b184e033b4ebc8ff8512a4128f1.json",
+    "graphify-out/cache/ast/v0.9.53-s2/341620947c7887d93598bd2b44d4199fdcc89afb5d45673fcc3215167c0e8db4.json",
+    "graphify-out/cache/ast/v0.9.53-s2/4468270a4f06c3ac2ff0c0e08e2c6c0982ae2d12c60d7eeb0cc2ce04f31095d3.json",
+    "graphify-out/cache/ast/v0.9.53-s2/a99d05c2a9aaaf5d3fc38ce285d2de243d2c5ec3fe11732c2ec771eca6fd9f15.json",
+    "graphify-out/cache/ast/v0.9.53-s2/6e0767b394859b4470618ccb6d68f5c327bc1e68c0c9e0b39ba0a8ef9ed6eb21.json",
+    "CS/Python.md",
+    "CS/WebDev/Backend/Node.js/V8 Engine.md",
+    "CS/WebDev/Backend/Node.js/README.md",
+    "CS/WebDev/Backend/Node.js/Introduction to Node.js.md",
+    "CS/WebDev/Backend/Node.js/Event Loop and Non-Blocking IO.md",
+    "CS/WebDev/Backend/Node.js/Core Modules.md",
+    "CS/WebDev/Backend/JavaScript/Variables and Data Types.md",
+    "CS/WebDev/Backend/JavaScript/README.md",
+    "CS/WebDev/Backend/JavaScript/Objects and Destructuring.md",
+    "CS/WebDev/Backend/JavaScript/Async JavaScript and JSON.md",
+    "CS/WebDev/Backend/JavaScript/Functions and Control Flow.md",
+    "CS/WebDev/Backend/README.md",
+    "CS/WebDev/Backend/ShopKart Auth Project.md",
+    "CS/JAVA/README.md",
+    "CS/DSA/06. Stacks & Queues/01. Stack Fundamentals.md",
+    "CS/DSA/06. Stacks & Queues/02. Stack Implementation from Scratch.md",
+    "CS/DSA/06. Stacks & Queues/README.md",
+    "CS/DSA/DSA Problems/67. Add Binary.md",
+    "CS/DSA/04. Bit Manipulation/04. Bit Manipulation Problems.md",
+    "CS/DSA/04. Bit Manipulation/Bit Manipulation.md",
+    "CS/DSA/04. Bit Manipulation/02. Bit Tricks.md",
+    "CS/DSA/04. Bit Manipulation/03. XOR Patterns.md",
+    "CS/DSA/03. Linked Lists/README.md",
+    "CS/DSA/04. Bit Manipulation/01. Bitwise Operators.md"
   ]
 }

@@ -102,9 +102,9 @@
     "semantic_hash": ""
   },
   "Dashboard.md": {
-    "mtime": 1789986562.1286466,
-    "seen": 1789986569.2683132,
-    "ast_hash": "ef3b300642b530e68ed9155ba7278edf",
+    "mtime": 1789988303.937758,
+    "seen": 1789988311.043699,
+    "ast_hash": "d4834880393f12382d1f4e04b9d783db",
     "semantic_hash": ""
   },
   "Ext_&_res/Extra_Courses.md": {
@@ -300,9 +300,9 @@
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md": {
-    "mtime": 1789985274.2070704,
-    "seen": 1789986569.2682781,
-    "ast_hash": "d92a9848963072858577a4f5c284e214",
+    "mtime": 1789988911.973157,
+    "seen": 1789988934.1690164,
+    "ast_hash": "18c09f4f10e046bc4662a0583689d48e",
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md": {
@@ -312,15 +312,15 @@
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md": {
-    "mtime": 1789987031.5780318,
-    "seen": 1789987039.5178049,
-    "ast_hash": "93c7689a8d63250b204efd7ed18ac25c",
+    "mtime": 1789988888.3747716,
+    "seen": 1789988934.169019,
+    "ast_hash": "bbb066bae3c28cfedce6627cbc06bedd",
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/README.md": {
-    "mtime": 1789986541.2784288,
-    "seen": 1789986569.268283,
-    "ast_hash": "b597955627d41fee8d7faa25f376f5fa",
+    "mtime": 1789988298.7494226,
+    "seen": 1789988311.0436647,
+    "ast_hash": "8ba509c75ba64b3851a4135202d8cc03",
     "semantic_hash": ""
   },
   "AI & ML/02. Data Preprocessing/01. Data Leakage.md": {
@@ -342,9 +342,9 @@
     "semantic_hash": ""
   },
   "AI & ML/02. Data Preprocessing/04. Feature Scaling.md": {
-    "mtime": 1789984311.1043065,
-    "seen": 1789984475.2859857,
-    "ast_hash": "4518e70c5763d2e628786e00ab46e2c6",
+    "mtime": 1789988922.6104238,
+    "seen": 1789988934.1690254,
+    "ast_hash": "c7ff105246e6e1b8471974374bdf89f6",
     "semantic_hash": ""
   },
   "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md": {
@@ -480,9 +480,15 @@
     "semantic_hash": ""
   },
   "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md": {
-    "mtime": 1789986530.4177406,
-    "seen": 1789986569.268282,
-    "ast_hash": "a05cf4b90e133b6064b6989b3e2e216a",
+    "mtime": 1789990570.5864015,
+    "seen": 1789990579.931243,
+    "ast_hash": "9afaf171e49fd06740abfb4ea584f7f2",
+    "semantic_hash": ""
+  },
+  "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md": {
+    "mtime": 1789989050.5365229,
+    "seen": 1789989059.09693,
+    "ast_hash": "ee2b2f1657b70606a1ab79a2bce3f90c",
     "semantic_hash": ""
   }
 }

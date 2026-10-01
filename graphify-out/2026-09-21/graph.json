@@ -3491,6 +3491,114 @@
       "source_location": "L52"
     },
     {
+      "id": "webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
+      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
+      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
+      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "asynchronous file reading (error-first callback pattern)",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L33"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_core_modules",
+      "label": "Core Modules",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core modules",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L86"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L82"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "webdev_backend_node_js_core_modules_what_are_core_modules",
+      "label": "\ud83d\udce6 What Are Core Modules?",
+      "_origin": "ast",
+      "community": 22,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 what are core modules?",
+      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L14"
+    },
+    {
       "id": "webdev_backend_node_js_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
@@ -3995,114 +4103,6 @@
       "source_location": "L69"
     },
     {
-      "id": "webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
-      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L29"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
-      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L54"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
-      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "asynchronous file reading (error-first callback pattern)",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_core_modules",
-      "label": "Core Modules",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "core modules",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L12"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_next_step",
-      "label": "Next Step",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L86"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L82"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L80"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L90"
-    },
-    {
-      "id": "webdev_backend_node_js_core_modules_what_are_core_modules",
-      "label": "\ud83d\udce6 What Are Core Modules?",
-      "_origin": "ast",
-      "community": 25,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 what are core modules?",
-      "source_file": "WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L14"
-    },
-    {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling",
       "label": "04. Feature Scaling.md",
       "_origin": "ast",
@@ -4129,7 +4129,7 @@
       "node_kind": "heading",
       "norm_label": "1. loss surface geometry & optimization",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L51"
+      "source_location": "L62"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_2_distance_based_algorithms",
@@ -4141,7 +4141,7 @@
       "node_kind": "heading",
       "norm_label": "2. distance-based algorithms",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L74"
+      "source_location": "L85"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_feature_scaling_standardscaler",
@@ -4165,7 +4165,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd0d intuitive example",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L101"
+      "source_location": "L112"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_mathematical_formula",
@@ -4177,7 +4177,7 @@
       "node_kind": "heading",
       "norm_label": "mathematical formula",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L83"
+      "source_location": "L94"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_next_steps",
@@ -4189,7 +4189,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L217"
+      "source_location": "L228"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_prerequisites",
@@ -4201,7 +4201,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L212"
+      "source_location": "L223"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_prerequisites_next_steps",
@@ -4213,7 +4213,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L210"
+      "source_location": "L221"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_preventing_data_leakage_in_scaling",
@@ -4225,7 +4225,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udeab preventing data leakage in scaling",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L134"
+      "source_location": "L145"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_python_scikit_learn_implementation",
@@ -4237,7 +4237,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python / scikit-learn implementation",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L176"
+      "source_location": "L187"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_related_notes",
@@ -4249,7 +4249,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L220"
+      "source_location": "L231"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_standardscaler_z_score_standardization",
@@ -4261,7 +4261,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcd0 standardscaler (z-score standardization)",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L79"
+      "source_location": "L90"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_statistical_properties_of_scaled_output",
@@ -4273,7 +4273,7 @@
       "node_kind": "heading",
       "norm_label": "statistical properties of scaled output",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L95"
+      "source_location": "L106"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_summary_takeaways",
@@ -4285,7 +4285,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 summary takeaways",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L197"
+      "source_location": "L208"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_the_fit_vs_transform_paradigm",
@@ -4297,7 +4297,7 @@
       "node_kind": "heading",
       "norm_label": "\u2699\ufe0f the `fit()` vs. `transform()` paradigm",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L123"
+      "source_location": "L134"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_the_scale_disparity_problem",
@@ -4333,7 +4333,7 @@
       "node_kind": "heading",
       "norm_label": "why?",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L171"
+      "source_location": "L182"
     },
     {
       "id": "ai_ml_02_data_preprocessing_04_feature_scaling_why_does_scale_matter",
@@ -4345,7 +4345,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfaf why does scale matter?",
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L49"
+      "source_location": "L60"
     },
     {
       "id": "webdev_backend_node_js_introduction_to_node_js_browser_javascript_vs_node_js",
@@ -5553,6 +5553,23 @@
       "source_location": "L72"
     },
     {
+      "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation",
+      "label": "03. Missing Value Imputation.md",
+      "_origin": "ast",
+      "community": 32,
+      "community_name": "\ud83e\ude79 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Machine Learning Preprocessing",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "03. missing value imputation.md",
+      "source_file": "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md",
+      "source_location": "L1"
+    },
+    {
       "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation_1_mcar_missing_completely_at_random",
       "label": "1\ufe0f\u20e3 MCAR \u2014 Missing Completely At Random",
       "_origin": "ast",
@@ -6208,7 +6225,7 @@
       "node_kind": "heading",
       "norm_label": "1\ufe0f\u20e3 log transformation (primary remedy)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L249"
+      "source_location": "L260"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_1_random_residuals_ideal_well_specified",
@@ -6244,7 +6261,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udf19 2. curved residual pattern (non-linearity)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L123"
+      "source_location": "L121"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_2_residual_analysis_residual_plots",
@@ -6268,7 +6285,7 @@
       "node_kind": "heading",
       "norm_label": "2\ufe0f\u20e3 weighted least squares (wls)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L269"
+      "source_location": "L280"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_funnel_shaped_residuals_heteroscedasticity",
@@ -6280,7 +6297,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udce3 3. funnel-shaped residuals (heteroscedasticity)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L148"
+      "source_location": "L143"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_3_homoscedasticity_vs_heteroscedasticity",
@@ -6292,7 +6309,7 @@
       "node_kind": "heading",
       "norm_label": "\u2696\ufe0f 3. homoscedasticity vs. heteroscedasticity",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L205"
+      "source_location": "L209"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_clustered_groupings_omitted_categorical_sub_population",
@@ -6304,7 +6321,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udde9 4. clustered groupings (omitted categorical sub-population)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L173"
+      "source_location": "L169"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_4_remedies_for_heteroscedasticity",
@@ -6316,7 +6333,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udee0\ufe0f 4. remedies for heteroscedasticity",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L245"
+      "source_location": "L256"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_the_classical_6_linear_regression_assumptions_gauss_markov_framework",
@@ -6328,7 +6345,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcdc 5. the classical 6 linear regression assumptions (gauss-markov framework)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L274"
+      "source_location": "L285"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_5_trend_over_time_autocorrelation",
@@ -6340,7 +6357,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcc8 5. trend over time (autocorrelation)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L189"
+      "source_location": "L191"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_comprehensive_diagnostic_pattern_cheat_sheet",
@@ -6364,7 +6381,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd34 heteroscedasticity (*non-constant variance*)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L231"
+      "source_location": "L235"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_homoscedasticity_constant_variance",
@@ -6376,7 +6393,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udfe2 homoscedasticity (*constant variance*)",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L224"
+      "source_location": "L228"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_key_summary_takeaways",
@@ -6388,7 +6405,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L321"
+      "source_location": "L332"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_linear_regression_assumptions_residual_analysis",
@@ -6412,7 +6429,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L341"
+      "source_location": "L352"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites",
@@ -6424,7 +6441,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L336"
+      "source_location": "L347"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_prerequisites_next_steps",
@@ -6436,7 +6453,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L334"
+      "source_location": "L345"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_python_diagnostic_implementation",
@@ -6448,7 +6465,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb python diagnostic implementation",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L298"
+      "source_location": "L309"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_related_notes",
@@ -6460,7 +6477,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L345"
+      "source_location": "L356"
     },
     {
       "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions_visualizing_the_diagnostic_patterns_with_session_4_data",
@@ -7705,7 +7722,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb 5. python syntax & anatomy of `train_test_split()`",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L119"
+      "source_location": "L130"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
@@ -7717,7 +7734,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 6. the complete leakage-free workflow",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L183"
+      "source_location": "L194"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_how_python_knows_which_variable_receives_which_partition",
@@ -7729,7 +7746,7 @@
       "node_kind": "heading",
       "norm_label": "\u2753 how python knows which variable receives which partition",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L169"
+      "source_location": "L180"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_next_step",
@@ -7741,7 +7758,7 @@
       "node_kind": "heading",
       "norm_label": "next step",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L224"
+      "source_location": "L235"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites",
@@ -7753,7 +7770,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L220"
+      "source_location": "L231"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
@@ -7765,7 +7782,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L218"
+      "source_location": "L229"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_related_notes",
@@ -7777,7 +7794,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L227"
+      "source_location": "L238"
     },
     {
       "id": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_standard_split_proportions",
@@ -7813,7 +7830,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83e\udde9 what are `x_train`, `x_test`, `y_train`, `y_test`?",
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L155"
+      "source_location": "L166"
     },
     {
       "id": "dsa_02_binary_search_binary_search_1_core_idea",
@@ -7984,11 +8001,298 @@
       "source_location": "L137"
     },
     {
+      "id": "ai_ml_readme",
+      "label": "AI & ML/README.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Artificial Intelligence &amp; Machine Learning",
+        "type": "moc",
+        "date": "2026-09-05"
+      },
+      "node_kind": "page",
+      "norm_label": "ai & ml/readme.md",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline",
+      "label": "05. End-to-End ML Pipeline.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Classical Machine Learning",
+        "type": "concept",
+        "date": "2026-09-05"
+      },
+      "node_kind": "page",
+      "norm_label": "05. end-to-end ml pipeline.md",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme",
+      "label": "01. Classical ML/README.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Classical Machine Learning",
+        "type": "moc",
+        "date": "2026-09-05"
+      },
+      "node_kind": "page",
+      "norm_label": "01. classical ml/readme.md",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions",
+      "label": "06. Linear Regression Assumptions.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Classical Machine Learning",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "06. linear regression assumptions.md",
+      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme",
+      "label": "02. Data Preprocessing/README.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Preprocessing &amp; Feature Engineering",
+        "type": "moc",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "02. data preprocessing/readme.md",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_01_data_leakage",
+      "label": "01. Data Leakage.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Machine Learning Preprocessing",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "01. data leakage.md",
+      "source_file": "AI & ML/02. Data Preprocessing/01. Data Leakage.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline",
+      "label": "05. Scikit-Learn Pipeline.md",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Machine Learning Preprocessing",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "05. scikit-learn pipeline.md",
+      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_1_the_10_stage_machine_learning_lifecycle",
+      "label": "\ud83d\uddfa\ufe0f 1. The 10-Stage Machine Learning Lifecycle",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f 1. the 10-stage machine learning lifecycle",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_2_concrete_pipeline_walkthrough_house_price_prediction",
+      "label": "\ud83c\udfe1 2. Concrete Pipeline Walkthrough: House Price Prediction",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfe1 2. concrete pipeline walkthrough: house price prediction",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L46"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_3_encapsulation_with_scikit_learn_pipeline",
+      "label": "\ud83d\udee1\ufe0f 3. Encapsulation with Scikit-Learn `Pipeline`",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udee1\ufe0f 3. encapsulation with scikit-learn `pipeline`",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L65"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_end_to_end_ml_pipeline",
+      "label": "\ud83d\udd01 End-to-End ML Pipeline",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd01 end-to-end ml pipeline",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L98"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
+      "source_location": "L101"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme_classical_machine_learning_foundations",
+      "label": "\ud83d\udcca Classical Machine Learning Foundations",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcca classical machine learning foundations",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme_connections",
+      "label": "\ud83d\udd17 Connections",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 connections",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L71"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme_learning_path",
+      "label": "\ud83d\udcd6 Learning Path",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcd6 learning path",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L18"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme_next_topics",
+      "label": "Next Topics",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next topics",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L76"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_readme_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/01. Classical ML/README.md",
+      "source_location": "L83"
+    },
+    {
       "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline_1_what_is_a_pipeline",
       "label": "\ud83d\ude82 1. What is a Pipeline?",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\ude82 1. what is a pipeline?",
@@ -8000,7 +8304,7 @@
       "label": "\ud83d\udee1\ufe0f 2. Why Pipeline is the Ultimate Defense Against Data Leakage",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udee1\ufe0f 2. why pipeline is the ultimate defense against data leakage",
@@ -8012,7 +8316,7 @@
       "label": "\ud83d\udd00 3. Handling Mixed Data Types: `ColumnTransformer`",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd00 3. handling mixed data types: `columntransformer`",
@@ -8024,7 +8328,7 @@
       "label": "\ud83d\udcbb 4. Production Python Boilerplate: Complete Pipeline",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb 4. production python boilerplate: complete pipeline",
@@ -8036,7 +8340,7 @@
       "label": "\ud83d\udd04 5. Safe Cross-Validation Without Leakage",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd04 5. safe cross-validation without leakage",
@@ -8048,7 +8352,7 @@
       "label": "\ud83d\udd11 Key Summary Takeaways",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd11 key summary takeaways",
@@ -8060,7 +8364,7 @@
       "label": "\ud83d\udd0d Lifecycle Comparison: Training vs. Testing",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd0d lifecycle comparison: training vs. testing",
@@ -8072,7 +8376,7 @@
       "label": "Next Steps",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "next steps",
@@ -8084,7 +8388,7 @@
       "label": "Prerequisites",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "prerequisites",
@@ -8096,7 +8400,7 @@
       "label": "\ud83d\udd17 Prerequisites & Next Steps",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
@@ -8108,7 +8412,7 @@
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
@@ -8120,7 +8424,7 @@
       "label": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\ude82 scikit-learn pipeline & columntransformer",
@@ -8132,7 +8436,7 @@
       "label": "The Manual Anti-Pattern vs. The Unified Pipeline",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "the manual anti-pattern vs. the unified pipeline",
@@ -8144,12 +8448,180 @@
       "label": "\u2753 Why Does `fit()` Take Both $(X, y)$ While `predict()` Takes Only $(X)$?",
       "_origin": "ast",
       "community": 42,
-      "community_name": "\ud83d\ude82 Scikit-Learn Pipeline & ColumnTransformer",
+      "community_name": "01. Classical ML/README.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u2753 why does `fit()` take both $(x, y)$ while `predict()` takes only $(x)$?",
       "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
       "source_location": "L128"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_data_preprocessing_feature_engineering",
+      "label": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\uddf9 data preprocessing & feature engineering",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_module_topics",
+      "label": "\ud83d\udcd6 Module Topics",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcd6 module topics",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L18"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_module_workflow_graph",
+      "label": "\ud83d\udd04 Module Workflow Graph",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd04 module workflow graph",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L56"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_next_steps",
+      "label": "Next Steps",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next steps",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L94"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L89"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L87"
+    },
+    {
+      "id": "ai_ml_02_data_preprocessing_readme_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/02. Data Preprocessing/README.md",
+      "source_location": "L102"
+    },
+    {
+      "id": "ai_ml_readme_1_01_classical_ml_readme_01_classical_ml_foundations",
+      "label": "1. [[01. Classical ML/README|01. Classical ML Foundations]]",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. [[01. classical ml/readme|01. classical ml foundations]]",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L44"
+    },
+    {
+      "id": "ai_ml_readme_2_02_data_preprocessing_readme_02_data_preprocessing_feature_engineering",
+      "label": "2. [[02. Data Preprocessing/README|02. Data Preprocessing & Feature Engineering]]",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. [[02. data preprocessing/readme|02. data preprocessing & feature engineering]]",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "ai_ml_readme_artificial_intelligence_machine_learning_knowledge_base",
+      "label": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd16 artificial intelligence & machine learning knowledge base",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "ai_ml_readme_core_modules",
+      "label": "\ud83d\udcda Core Modules",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcda core modules",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "ai_ml_readme_knowledge_flow_graph",
+      "label": "\ud83d\udd04 Knowledge Flow Graph",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd04 knowledge flow graph",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L63"
+    },
+    {
+      "id": "ai_ml_readme_machine_learning_learning_path",
+      "label": "\ud83d\uddfa\ufe0f Machine Learning Learning Path",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f machine learning learning path",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "ai_ml_readme_quick_links",
+      "label": "\ud83d\udd17 Quick Links",
+      "_origin": "ast",
+      "community": 42,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 quick links",
+      "source_file": "AI & ML/README.md",
+      "source_location": "L88"
     },
     {
       "id": "computer_networking_03_switching_techniques_packet_vs_circuit",
@@ -9641,6 +10113,23 @@
       "source_location": "L115"
     },
     {
+      "id": "ai_ml_02_data_preprocessing_02_categorical_encoding",
+      "label": "02. Categorical Encoding.md",
+      "_origin": "ast",
+      "community": 50,
+      "community_name": "\ud83c\udff7\ufe0f Categorical Encoding: Nominal vs. Ordinal",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "AI &amp; ML",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "02. categorical encoding.md",
+      "source_file": "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
+      "source_location": "L1"
+    },
+    {
       "id": "ai_ml_02_data_preprocessing_02_categorical_encoding_1_what_is_a_categorical_variable",
       "label": "\ud83e\udde9 1. What is a Categorical Variable?",
       "_origin": "ast",
@@ -10299,102 +10788,6 @@
       "source_location": "L75"
     },
     {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_1_the_10_stage_machine_learning_lifecycle",
-      "label": "\ud83d\uddfa\ufe0f 1. The 10-Stage Machine Learning Lifecycle",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f 1. the 10-stage machine learning lifecycle",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L19"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_2_concrete_pipeline_walkthrough_house_price_prediction",
-      "label": "\ud83c\udfe1 2. Concrete Pipeline Walkthrough: House Price Prediction",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udfe1 2. concrete pipeline walkthrough: house price prediction",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L46"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_3_encapsulation_with_scikit_learn_pipeline",
-      "label": "\ud83d\udee1\ufe0f 3. Encapsulation with Scikit-Learn `Pipeline`",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udee1\ufe0f 3. encapsulation with scikit-learn `pipeline`",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L65"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_end_to_end_ml_pipeline",
-      "label": "\ud83d\udd01 End-to-End ML Pipeline",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd01 end-to-end ml pipeline",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L12"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_next_step",
-      "label": "Next Step",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L98"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L92"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L90"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 56,
-      "community_name": "\ud83d\udd01 End-to-End ML Pipeline",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L101"
-    },
-    {
       "id": "computer_networking_14_subnet_masks_and_cidr_notation_1_what_does_a_subnet_mask_actually_do",
       "label": "\ud83e\udd78 1. What Does a Subnet Mask Actually Do?",
       "_origin": "ast",
@@ -10585,159 +10978,6 @@
       "norm_label": "xor patterns",
       "source_file": "DSA/04. Bit Manipulation/03. XOR Patterns.md",
       "source_location": "L13"
-    },
-    {
-      "id": "ai_ml_readme",
-      "label": "AI & ML/README.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Artificial Intelligence &amp; Machine Learning",
-        "type": "moc",
-        "date": "2026-09-05"
-      },
-      "node_kind": "page",
-      "norm_label": "ai & ml/readme.md",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_05_end_to_end_ml_pipeline",
-      "label": "05. End-to-End ML Pipeline.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Classical Machine Learning",
-        "type": "concept",
-        "date": "2026-09-05"
-      },
-      "node_kind": "page",
-      "norm_label": "05. end-to-end ml pipeline.md",
-      "source_file": "AI & ML/01. Classical ML/05. End-to-End ML Pipeline.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme",
-      "label": "01. Classical ML/README.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Classical Machine Learning",
-        "type": "moc",
-        "date": "2026-09-05"
-      },
-      "node_kind": "page",
-      "norm_label": "01. classical ml/readme.md",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_02_categorical_encoding",
-      "label": "02. Categorical Encoding.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "AI &amp; ML",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "02. categorical encoding.md",
-      "source_file": "AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_06_linear_regression_assumptions",
-      "label": "06. Linear Regression Assumptions.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Classical Machine Learning",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "06. linear regression assumptions.md",
-      "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme",
-      "label": "02. Data Preprocessing/README.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Data Preprocessing &amp; Feature Engineering",
-        "type": "moc",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "02. data preprocessing/readme.md",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_01_data_leakage",
-      "label": "01. Data Leakage.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Machine Learning Preprocessing",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "01. data leakage.md",
-      "source_file": "AI & ML/02. Data Preprocessing/01. Data Leakage.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_03_missing_value_imputation",
-      "label": "03. Missing Value Imputation.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Machine Learning Preprocessing",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "03. missing value imputation.md",
-      "source_file": "AI & ML/02. Data Preprocessing/03. Missing Value Imputation.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_05_scikit_learn_pipeline",
-      "label": "05. Scikit-Learn Pipeline.md",
-      "_origin": "ast",
-      "community": 59,
-      "community_name": "01. Classical ML/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Machine Learning Preprocessing",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "05. scikit-learn pipeline.md",
-      "source_file": "AI & ML/02. Data Preprocessing/05. Scikit-Learn Pipeline.md",
-      "source_location": "L1"
     },
     {
       "id": "dsa_dsa_problems_67_add_binary_1_eliminates_the_reversal_pass_o_n_savings",
@@ -10944,162 +11184,6 @@
       "source_location": "L95"
     },
     {
-      "id": "ai_ml_02_data_preprocessing_readme_data_preprocessing_feature_engineering",
-      "label": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\uddf9 data preprocessing & feature engineering",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L11"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme_module_topics",
-      "label": "\ud83d\udcd6 Module Topics",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcd6 module topics",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L18"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme_module_workflow_graph",
-      "label": "\ud83d\udd04 Module Workflow Graph",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 module workflow graph",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L56"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme_next_steps",
-      "label": "Next Steps",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next steps",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L94"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L89"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L87"
-    },
-    {
-      "id": "ai_ml_02_data_preprocessing_readme_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 60,
-      "community_name": "\ud83e\uddf9 Data Preprocessing & Feature Engineering",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "AI & ML/02. Data Preprocessing/README.md",
-      "source_location": "L102"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme_classical_machine_learning_foundations",
-      "label": "\ud83d\udcca Classical Machine Learning Foundations",
-      "_origin": "ast",
-      "community": 61,
-      "community_name": "\ud83d\udcca Classical Machine Learning Foundations",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcca classical machine learning foundations",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L11"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme_connections",
-      "label": "\ud83d\udd17 Connections",
-      "_origin": "ast",
-      "community": 61,
-      "community_name": "\ud83d\udcca Classical Machine Learning Foundations",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 connections",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L64"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme_learning_path",
-      "label": "\ud83d\udcd6 Learning Path",
-      "_origin": "ast",
-      "community": 61,
-      "community_name": "\ud83d\udcca Classical Machine Learning Foundations",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udcd6 learning path",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L18"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme_next_topics",
-      "label": "Next Topics",
-      "_origin": "ast",
-      "community": 61,
-      "community_name": "\ud83d\udcca Classical Machine Learning Foundations",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next topics",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L69"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 61,
-      "community_name": "\ud83d\udcca Classical Machine Learning Foundations",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L66"
-    },
-    {
-      "id": "ai_ml_01_classical_ml_readme_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 61,
-      "community_name": "\ud83d\udcca Classical Machine Learning Foundations",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L76"
-    },
-    {
       "id": "computer_networking_08_encapsulation_and_decapsulation",
       "label": "08. Encapsulation and Decapsulation.md",
       "_origin": "ast",
@@ -11218,6 +11302,18 @@
       "source_location": "L105"
     },
     {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_5_adjusted_r_2_r_2_text_adj",
+      "label": "5\ufe0f\u20e3 Adjusted $R^2$ ($R^2_{\\text{adj}}$)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5\ufe0f\u20e3 adjusted $r^2$ ($r^2_{\\text{adj}}$)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L146"
+    },
+    {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
       "label": "\ud83d\udcbb Complete Production Pattern: `fit_linreg_rmse`",
       "_origin": "ast",
@@ -11227,7 +11323,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udcbb complete production pattern: `fit_linreg_rmse`",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L137"
+      "source_location": "L243"
     },
     {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_core_characteristics",
@@ -11266,6 +11362,30 @@
       "source_location": "L92"
     },
     {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_edge_case_1_zero_target_variance_text_ss_text_tot_0",
+      "label": "\u26a0\ufe0f Edge Case 1: Zero Target Variance ($\\text{SS}_{\\text{tot}} == 0$)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a0\ufe0f edge case 1: zero target variance ($\\text{ss}_{\\text{tot}} == 0$)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L173"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_edge_case_2_insufficient_degrees_of_freedom_n_p_1_le_0",
+      "label": "\u26a0\ufe0f Edge Case 2: Insufficient Degrees of Freedom ($n - p - 1 \\le 0$)",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a0\ufe0f edge case 2: insufficient degrees of freedom ($n - p - 1 \\le 0$)",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L178"
+    },
+    {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_interpretation_scale",
       "label": "Interpretation Scale:",
       "_origin": "ast",
@@ -11275,7 +11395,7 @@
       "node_kind": "heading",
       "norm_label": "interpretation scale:",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L113"
+      "source_location": "L119"
     },
     {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_next_steps",
@@ -11287,7 +11407,7 @@
       "node_kind": "heading",
       "norm_label": "next steps",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L181"
+      "source_location": "L287"
     },
     {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites",
@@ -11299,7 +11419,7 @@
       "node_kind": "heading",
       "norm_label": "prerequisites",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L177"
+      "source_location": "L283"
     },
     {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
@@ -11311,7 +11431,19 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L175"
+      "source_location": "L281"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_pure_numpy_implementation_r2_and_adjusted_r2",
+      "label": "\ud83d\udcbb Pure NumPy Implementation: `r2_and_adjusted_r2`",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcbb pure numpy implementation: `r2_and_adjusted_r2`",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L185"
     },
     {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
@@ -11335,7 +11467,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L185"
+      "source_location": "L291"
     },
     {
       "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
@@ -11346,6 +11478,30 @@
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u2696\ufe0f side-by-side comparison matrix",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L231"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_2_critical_edge_cases_for_production_coding",
+      "label": "\ud83d\udee1\ufe0f The 2 Critical Edge Cases for Production & Coding",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udee1\ufe0f the 2 critical edge cases for production & coding",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L169"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_critical_flaw_of_r_2_monotonic_inflation",
+      "label": "\ud83d\udea8 The Critical Flaw of $R^2$: Monotonic Inflation",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udea8 the critical flaw of $r^2$: monotonic inflation",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
       "source_location": "L126"
     },
@@ -11360,6 +11516,30 @@
       "norm_label": "\ud83c\udfaf the four essential regression metrics",
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
       "source_location": "L23"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_what_does_r_2_measure",
+      "label": "What Does $R^2$ Measure?",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "what does $r^2$ measure?",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L109"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_why_the_adjustment_works",
+      "label": "Why the Adjustment Works:",
+      "_origin": "ast",
+      "community": 63,
+      "community_name": "\ud83d\udcca Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "why the adjustment works:",
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L158"
     },
     {
       "id": "computer_networking_06_osi_vs_tcp_ip_model",
@@ -11471,88 +11651,261 @@
       "source_location": "L12"
     },
     {
-      "id": "ai_ml_readme_1_01_classical_ml_readme_01_classical_ml_foundations",
-      "label": "1. [[01. Classical ML/README|01. Classical ML Foundations]]",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions",
+      "label": "08. Gradient Descent and Cost Functions.md",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1. [[01. classical ml/readme|01. classical ml foundations]]",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L44"
+      "frontmatter": {
+        "topic": "Classical Machine Learning",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "08. gradient descent and cost functions.md",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L1"
     },
     {
-      "id": "ai_ml_readme_2_02_data_preprocessing_readme_02_data_preprocessing_feature_engineering",
-      "label": "2. [[02. Data Preprocessing/README|02. Data Preprocessing & Feature Engineering]]",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_1_the_cost_landscape_j_theta_theta_2",
+      "label": "\ud83d\udcc9 1. The Cost Landscape: $J(\\theta) = \\theta^2$",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "2. [[02. data preprocessing/readme|02. data preprocessing & feature engineering]]",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L53"
+      "norm_label": "\ud83d\udcc9 1. the cost landscape: $j(\\theta) = \\theta^2$",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L91"
     },
     {
-      "id": "ai_ml_readme_artificial_intelligence_machine_learning_knowledge_base",
-      "label": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_1_the_optimization_problem",
+      "label": "\ud83c\udfaf 1. The Optimization Problem",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udd16 artificial intelligence & machine learning knowledge base",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L12"
+      "norm_label": "\ud83c\udfaf 1. the optimization problem",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L24"
     },
     {
-      "id": "ai_ml_readme_core_modules",
-      "label": "\ud83d\udcda Core Modules",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_2_intuition_the_foggy_mountain_metaphor",
+      "label": "\ud83c\udfd4\ufe0f 2. Intuition: The Foggy Mountain Metaphor",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcda core modules",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L42"
+      "norm_label": "\ud83c\udfd4\ufe0f 2. intuition: the foggy mountain metaphor",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L60"
     },
     {
-      "id": "ai_ml_readme_knowledge_flow_graph",
-      "label": "\ud83d\udd04 Knowledge Flow Graph",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_2_loss_curve_over_iterations_alpha_text_reasonable",
+      "label": "\ud83d\udcc9 2. Loss Curve Over Iterations ($\\alpha = \\text{Reasonable}$)",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd04 knowledge flow graph",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L63"
+      "norm_label": "\ud83d\udcc9 2. loss curve over iterations ($\\alpha = \\text{reasonable}$)",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L108"
     },
     {
-      "id": "ai_ml_readme_machine_learning_learning_path",
-      "label": "\ud83d\uddfa\ufe0f Machine Learning Learning Path",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_3_the_core_gradient_descent_update_rule",
+      "label": "\ud83e\udded 3. The Core Gradient Descent Update Rule",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f machine learning learning path",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L19"
+      "norm_label": "\ud83e\udded 3. the core gradient descent update rule",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L73"
     },
     {
-      "id": "ai_ml_readme_quick_links",
-      "label": "\ud83d\udd17 Quick Links",
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_4_visualizing_the_cost_function_loss_convergence",
+      "label": "\ud83d\udcc8 4. Visualizing the Cost Function & Loss Convergence",
       "_origin": "ast",
-      "community": 7,
-      "community_name": "\ud83e\udd16 Artificial Intelligence & Machine Learning Knowledge Base",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 quick links",
-      "source_file": "AI & ML/README.md",
-      "source_location": "L88"
+      "norm_label": "\ud83d\udcc8 4. visualizing the cost function & loss convergence",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L89"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_5_the_impact_of_learning_rate_alpha",
+      "label": "\u26a1 5. The Impact of Learning Rate ($\\alpha$)",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u26a1 5. the impact of learning rate ($\\alpha$)",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L125"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_6_batch_vs_stochastic_vs_mini_batch_gradient_descent",
+      "label": "\ud83d\udd04 6. Batch vs. Stochastic vs. Mini-Batch Gradient Descent",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd04 6. batch vs. stochastic vs. mini-batch gradient descent",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L167"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_7_step_by_step_hand_calculation_example_1_complete_step",
+      "label": "\u270d\ufe0f 7. Step-by-Step Hand-Calculation Example (1 Complete Step)",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u270d\ufe0f 7. step-by-step hand-calculation example (1 complete step)",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L203"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_8_key_summary_takeaways",
+      "label": "\ud83d\udd11 8. Key Summary Takeaways",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd11 8. key summary takeaways",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L250"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_anatomy_of_the_equation",
+      "label": "\ud83d\udd0d Anatomy of the Equation:",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd0d anatomy of the equation:",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L77"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_comprehensive_comparison_matrix",
+      "label": "\u2696\ufe0f Comprehensive Comparison Matrix",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2696\ufe0f comprehensive comparison matrix",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L190"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_given",
+      "label": "\ud83d\udce6 Given:",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 given:",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L207"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "label": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfd4\ufe0f gradient descent & cost functions",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L17"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_next_steps",
+      "label": "Next Steps",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next steps",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L271"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L266"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L264"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_proof_of_error_reduction",
+      "label": "\ud83c\udfaf Proof of Error Reduction:",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udfaf proof of error reduction:",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L229"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L275"
+    },
+    {
+      "id": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_the_5_step_by_step_calculations",
+      "label": "\ud83d\udd22 The 5 Step-by-Step Calculations:",
+      "_origin": "ast",
+      "community": 66,
+      "community_name": "\ud83c\udfd4\ufe0f Gradient Descent & Cost Functions",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd22 the 5 step-by-step calculations:",
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L217"
     },
     {
       "id": "dsa_01_strings_add_binary_string_arithmetic_complexity",
@@ -14343,7 +14696,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L155",
+      "source_location": "L166",
       "weight": 1.0
     },
     {
@@ -14354,7 +14707,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L169",
+      "source_location": "L180",
       "weight": 1.0
     },
     {
@@ -14365,7 +14718,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L220",
+      "source_location": "L231",
       "weight": 1.0
     },
     {
@@ -14376,7 +14729,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L224",
+      "source_location": "L235",
       "weight": 1.0
     },
     {
@@ -14387,18 +14740,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L119",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
-      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L183",
+      "source_location": "L130",
       "weight": 1.0
     },
     {
@@ -14414,13 +14756,24 @@
     },
     {
       "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
+      "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_6_the_complete_leakage_free_workflow",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
+      "source_location": "L194",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_train_test_split_and_generalization",
       "target": "ai_ml_01_classical_ml_04_train_test_split_and_generalization_prerequisites_next_steps",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L218",
+      "source_location": "L229",
       "weight": 1.0
     },
     {
@@ -14431,7 +14784,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L227",
+      "source_location": "L238",
       "weight": 1.0
     },
     {
@@ -14574,7 +14927,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L224",
+      "source_location": "L228",
       "weight": 1.0
     },
     {
@@ -14585,7 +14938,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L231",
+      "source_location": "L235",
       "weight": 1.0
     },
     {
@@ -14596,7 +14949,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L249",
+      "source_location": "L260",
       "weight": 1.0
     },
     {
@@ -14607,7 +14960,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L269",
+      "source_location": "L280",
       "weight": 1.0
     },
     {
@@ -14629,7 +14982,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L205",
+      "source_location": "L209",
       "weight": 1.0
     },
     {
@@ -14651,7 +15004,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L245",
+      "source_location": "L256",
       "weight": 1.0
     },
     {
@@ -14662,7 +15015,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L274",
+      "source_location": "L285",
       "weight": 1.0
     },
     {
@@ -14673,7 +15026,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L298",
+      "source_location": "L309",
       "weight": 1.0
     },
     {
@@ -14684,7 +15037,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L321",
+      "source_location": "L332",
       "weight": 1.0
     },
     {
@@ -14695,7 +15048,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L334",
+      "source_location": "L345",
       "weight": 1.0
     },
     {
@@ -14706,7 +15059,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L345",
+      "source_location": "L356",
       "weight": 1.0
     },
     {
@@ -14739,7 +15092,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L336",
+      "source_location": "L347",
       "weight": 1.0
     },
     {
@@ -14750,7 +15103,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L341",
+      "source_location": "L352",
       "weight": 1.0
     },
     {
@@ -14761,7 +15114,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L123",
+      "source_location": "L121",
       "weight": 1.0
     },
     {
@@ -14772,7 +15125,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L148",
+      "source_location": "L143",
       "weight": 1.0
     },
     {
@@ -14783,7 +15136,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L173",
+      "source_location": "L169",
       "weight": 1.0
     },
     {
@@ -14794,7 +15147,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L189",
+      "source_location": "L191",
       "weight": 1.0
     },
     {
@@ -14854,13 +15207,35 @@
     },
     {
       "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_what_does_r_2_measure",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_4_r_2_score_coefficient_of_determination",
       "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_interpretation_scale",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L113",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_5_adjusted_r_2_r_2_text_adj",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_why_the_adjustment_works",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L158",
       "weight": 1.0
     },
     {
@@ -14871,7 +15246,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L177",
+      "source_location": "L283",
       "weight": 1.0
     },
     {
@@ -14882,7 +15257,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L181",
+      "source_location": "L287",
       "weight": 1.0
     },
     {
@@ -14898,7 +15273,7 @@
     },
     {
       "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
-      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_critical_flaw_of_r_2_monotonic_inflation",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14909,29 +15284,29 @@
     },
     {
       "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
-      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_5_adjusted_r_2_r_2_text_adj",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L137",
+      "source_location": "L146",
       "weight": 1.0
     },
     {
       "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
-      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_2_critical_edge_cases_for_production_coding",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L175",
+      "source_location": "L169",
       "weight": 1.0
     },
     {
       "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
-      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_related_notes",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_pure_numpy_implementation_r2_and_adjusted_r2",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -14949,6 +15324,50 @@
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
       "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_side_by_side_comparison_matrix",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L231",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_complete_production_pattern_fit_linreg_rmse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L243",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L281",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_regression_evaluation_metrics_mse_rmse_mae_r_2",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L291",
       "weight": 1.0
     },
     {
@@ -14985,6 +15404,248 @@
       "weight": 1.0
     },
     {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_2_critical_edge_cases_for_production_coding",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_edge_case_1_zero_target_variance_text_ss_text_tot_0",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_the_2_critical_edge_cases_for_production_coding",
+      "target": "ai_ml_01_classical_ml_07_regression_evaluation_metrics_edge_case_2_insufficient_degrees_of_freedom_n_p_1_le_0",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
+      "source_location": "L178",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_3_the_core_gradient_descent_update_rule",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_anatomy_of_the_equation",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L77",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_4_visualizing_the_cost_function_loss_convergence",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_2_loss_curve_over_iterations_alpha_text_reasonable",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L108",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_4_visualizing_the_cost_function_loss_convergence",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_1_the_cost_landscape_j_theta_theta_2",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_6_batch_vs_stochastic_vs_mini_batch_gradient_descent",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_comprehensive_comparison_matrix",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L190",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_7_step_by_step_hand_calculation_example_1_complete_step",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_given",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L207",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_7_step_by_step_hand_calculation_example_1_complete_step",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_the_5_step_by_step_calculations",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L217",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_7_step_by_step_hand_calculation_example_1_complete_step",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_proof_of_error_reduction",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L229",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_5_the_impact_of_learning_rate_alpha",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_6_batch_vs_stochastic_vs_mini_batch_gradient_descent",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L167",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_7_step_by_step_hand_calculation_example_1_complete_step",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L203",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_1_the_optimization_problem",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_8_key_summary_takeaways",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L250",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_prerequisites_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L264",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_related_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L275",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_2_intuition_the_foggy_mountain_metaphor",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_3_the_core_gradient_descent_update_rule",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_gradient_descent_cost_functions",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_4_visualizing_the_cost_function_loss_convergence",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_prerequisites",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L266",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_prerequisites_next_steps",
+      "target": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L271",
+      "weight": 1.0
+    },
+    {
       "source": "ai_ml_01_classical_ml_readme",
       "target": "ai_ml_01_classical_ml_readme_classical_machine_learning_foundations",
       "relation": "contains",
@@ -15014,7 +15675,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L64",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -15025,7 +15686,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L76",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -15036,7 +15697,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L66",
+      "source_location": "L73",
       "weight": 1.0
     },
     {
@@ -15047,7 +15708,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L69",
+      "source_location": "L76",
       "weight": 1.0
     },
     {
@@ -15575,7 +16236,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L123",
+      "source_location": "L134",
       "weight": 1.0
     },
     {
@@ -15586,7 +16247,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L134",
+      "source_location": "L145",
       "weight": 1.0
     },
     {
@@ -15608,7 +16269,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L176",
+      "source_location": "L187",
       "weight": 1.0
     },
     {
@@ -15619,7 +16280,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L197",
+      "source_location": "L208",
       "weight": 1.0
     },
     {
@@ -15630,7 +16291,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L210",
+      "source_location": "L221",
       "weight": 1.0
     },
     {
@@ -15641,7 +16302,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L220",
+      "source_location": "L231",
       "weight": 1.0
     },
     {
@@ -15652,7 +16313,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L49",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -15663,7 +16324,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L79",
+      "source_location": "L90",
       "weight": 1.0
     },
     {
@@ -15674,7 +16335,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L212",
+      "source_location": "L223",
       "weight": 1.0
     },
     {
@@ -15685,7 +16346,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L217",
+      "source_location": "L228",
       "weight": 1.0
     },
     {
@@ -15696,29 +16357,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L171",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_02_data_preprocessing_04_feature_scaling_standardscaler_z_score_standardization",
-      "target": "ai_ml_02_data_preprocessing_04_feature_scaling_intuitive_example",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L101",
-      "weight": 1.0
-    },
-    {
-      "source": "ai_ml_02_data_preprocessing_04_feature_scaling_standardscaler_z_score_standardization",
-      "target": "ai_ml_02_data_preprocessing_04_feature_scaling_mathematical_formula",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L83",
+      "source_location": "L182",
       "weight": 1.0
     },
     {
@@ -15729,7 +16368,29 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L95",
+      "source_location": "L106",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_02_data_preprocessing_04_feature_scaling_standardscaler_z_score_standardization",
+      "target": "ai_ml_02_data_preprocessing_04_feature_scaling_intuitive_example",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
+      "source_location": "L112",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_02_data_preprocessing_04_feature_scaling_standardscaler_z_score_standardization",
+      "target": "ai_ml_02_data_preprocessing_04_feature_scaling_mathematical_formula",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -15751,7 +16412,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L51",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -15762,7 +16423,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L74",
+      "source_location": "L85",
       "weight": 1.0
     },
     {
@@ -22043,7 +22704,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/04. Train-Test Split and Generalization.md",
-      "source_location": "L228",
+      "source_location": "L239",
       "weight": 1.0
     },
     {
@@ -22087,7 +22748,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L346",
+      "source_location": "L357",
       "weight": 1.0
     },
     {
@@ -22098,7 +22759,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/06. Linear Regression Assumptions.md",
-      "source_location": "L350",
+      "source_location": "L361",
       "weight": 1.0
     },
     {
@@ -22109,7 +22770,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/07. Regression Evaluation Metrics.md",
-      "source_location": "L186",
+      "source_location": "L292",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_ml_01_classical_ml_08_gradient_descent_and_cost_functions",
+      "target": "ai_ml_01_classical_ml_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AI & ML/01. Classical ML/08. Gradient Descent and Cost Functions.md",
+      "source_location": "L276",
       "weight": 1.0
     },
     {
@@ -22120,7 +22792,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L67",
+      "source_location": "L74",
       "weight": 1.0
     },
     {
@@ -22131,7 +22803,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L77",
+      "source_location": "L84",
       "weight": 1.0
     },
     {
@@ -22142,7 +22814,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/01. Classical ML/README.md",
-      "source_location": "L78",
+      "source_location": "L85",
       "weight": 1.0
     },
     {
@@ -22197,7 +22869,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AI & ML/02. Data Preprocessing/04. Feature Scaling.md",
-      "source_location": "L221",
+      "source_location": "L232",
       "weight": 1.0
     },
     {
@@ -22406,7 +23078,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L104",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -22417,7 +23089,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L105",
+      "source_location": "L106",
       "weight": 1.0
     },
     {
@@ -22428,7 +23100,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L106",
+      "source_location": "L107",
       "weight": 1.0
     },
     {
@@ -22439,7 +23111,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L109",
+      "source_location": "L110",
       "weight": 1.0
     },
     {
@@ -22450,7 +23122,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L110",
+      "source_location": "L111",
       "weight": 1.0
     },
     {
@@ -22516,7 +23188,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L88",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -22527,7 +23199,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L89",
+      "source_location": "L90",
       "weight": 1.0
     },
     {
@@ -22538,7 +23210,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L90",
+      "source_location": "L91",
       "weight": 1.0
     },
     {
@@ -22549,7 +23221,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L92",
+      "source_location": "L93",
       "weight": 1.0
     },
     {
@@ -22560,7 +23232,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L93",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -22571,7 +23243,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Dashboard.md",
-      "source_location": "L96",
+      "source_location": "L97",
       "weight": 1.0
     },
     {
@@ -23500,5 +24172,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0bd7cae5aa749bacc512efbd90809d560c1dae67"
+  "built_at_commit": "437a65a06af0cc00291728a82155c953b15bce59"
 }

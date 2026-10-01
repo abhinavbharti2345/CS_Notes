@@ -184,7 +184,7 @@ Nodes (7): 💻 Complete Registration Controller Example, 🔑 End-to-End Login 
 
 ### Community 31 - "🌳 Data Structures & Algorithms (DSA) Knowledge Base"
 Cohesion: 0.33
-Nodes (6): 📚 Active Modules, ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[DSA/01. Strings/README|01. Strings]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
+Nodes (6): 📚 Active Modules, ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[CS/DSA/01. Strings/README|01. Strings]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
 
 ### Community 32 - "Features, Targets, and Datasets"
 Cohesion: 0.17

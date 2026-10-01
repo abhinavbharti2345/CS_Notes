@@ -1,16 +1,16 @@
 # Graph Report - CS Notes  (2026-09-21)
 
 ## Corpus Check
-- 81 files · ~65,539 words
+- 82 files · ~68,344 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 974 nodes · 1042 edges · 66 communities (61 shown, 3 thin omitted)
+- 1003 nodes · 1071 edges · 61 communities (57 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `0bd7cae5`
+- Built from commit: `437a65a0`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -22,7 +22,6 @@
 - Dashboard.md
 - 1. Single Number
 - 📝 LeetCode 67: Add Binary
-- 🤖 Artificial Intelligence & Machine Learning Knowledge Base
 - ➕ String Arithmetic & Add Binary Pattern
 - 🧱 Linked List Fundamentals
 - ⚡ Bit Manipulation
@@ -40,7 +39,6 @@
 - Backend/README.md
 - Async JavaScript and JSON
 - Event Loop and Non-Blocking I/O
-- Core Modules
 - 📏 Feature Scaling & StandardScaler
 - Introduction to Node.js
 - Network Performance: Delay, Latency & Throughput
@@ -57,7 +55,7 @@
 - Protocol Data Units: Segment, Packet, Frame & Bits
 - ✂️ Train-Test Split and Generalization
 - 🔍 Binary Search
-- 🚂 Scikit-Learn Pipeline & ColumnTransformer
+- 01. Classical ML/README.md
 - Switching Techniques: Packet vs. Circuit Switching
 - 🔌 Network Hardware: Hub vs. Switch vs. Router vs. Modem
 - MTU and IP Fragmentation
@@ -71,31 +69,29 @@
 - 📚 Roadmap Stages & Core Notes
 - Network ID and Host ID
 - V8 Engine
-- 🔁 End-to-End ML Pipeline
 - 🎭 Subnet Masks and CIDR Notation
 - XOR Patterns
-- 🧹 Data Preprocessing & Feature Engineering
-- 📊 Classical Machine Learning Foundations
 - 📦 Encapsulation and Decapsulation
 - 📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)
 - 🌐 Introduction to Computer Networks
+- 🏔️ Gradient Descent & Cost Functions
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
 2. `Obsidian Bases Skill` - 14 edges
 3. `Obsidian Flavored Markdown Skill` - 14 edges
-4. `Functions Reference` - 13 edges
-5. `🧱 Linked List Fundamentals` - 13 edges
-6. `JSON Canvas Skill` - 11 edges
-7. `📐 Linear Regression Assumptions & Residual Analysis` - 11 edges
-8. `🚨 Data Leakage: The 3 Critical Leakage Patterns` - 11 edges
-9. `Introduction to Node.js` - 11 edges
-10. `🧭 Supervised vs Unsupervised Learning` - 10 edges
+4. `📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)` - 14 edges
+5. `Functions Reference` - 13 edges
+6. `🧱 Linked List Fundamentals` - 13 edges
+7. `JSON Canvas Skill` - 11 edges
+8. `📐 Linear Regression Assumptions & Residual Analysis` - 11 edges
+9. `🏔️ Gradient Descent & Cost Functions` - 11 edges
+10. `🚨 Data Leakage: The 3 Critical Leakage Patterns` - 11 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (66 total, 3 thin omitted)
+## Communities (61 total, 3 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -124,10 +120,6 @@ Nodes (42): 1. Single Number, 2. Two Missing Numbers, 3. Minimum XOR Pair, 4. Su
 ### Community 6 - "📝 LeetCode 67: Add Binary"
 Cohesion: 0.12
 Nodes (17): 1. Eliminates the Reversal Pass (`O(N)` savings), 2. Zero Array Resizing & Reallocations, 3. Avoids Object Overhead & Method Dispatch, 4. Zero-Copy Leading Carry Handling, Code, Code, 📊 Complexity & Performance Comparison, Constraints (+9 more)
-
-### Community 7 - "🤖 Artificial Intelligence & Machine Learning Knowledge Base"
-Cohesion: 0.29
-Nodes (7): 1. [[01. Classical ML/README|01. Classical ML Foundations]], 2. [[02. Data Preprocessing/README|02. Data Preprocessing & Feature Engineering]], 🤖 Artificial Intelligence & Machine Learning Knowledge Base, 📚 Core Modules, 🔄 Knowledge Flow Graph, 🗺️ Machine Learning Learning Path, 🔗 Quick Links
 
 ### Community 8 - "➕ String Arithmetic & Add Binary Pattern"
 Cohesion: 0.17
@@ -178,8 +170,8 @@ Cohesion: 0.33
 Nodes (5): Critical instruction, Obsidian, Obsidian Vault Agent Instructions, Read-only requests, Rule files
 
 ### Community 22 - "Backend/README.md"
-Cohesion: 0.10
-Nodes (26): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🔗 Connections, 📖 Learning Path (+18 more)
+Cohesion: 0.07
+Nodes (35): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers) (+27 more)
 
 ### Community 23 - "Async JavaScript and JSON"
 Cohesion: 0.18
@@ -188,10 +180,6 @@ Nodes (11): ⚡ `async` and `await`, Async JavaScript and JSON, Example Comparis
 ### Community 24 - "Event Loop and Non-Blocking I/O"
 Cohesion: 0.18
 Nodes (11): Console Output:, Event Loop and Non-Blocking I/O, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🧵 Single-Threaded Concurrency, 🔄 The Event Loop Mental Model (+3 more)
-
-### Community 25 - "Core Modules"
-Cohesion: 0.22
-Nodes (9): 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers), Asynchronous File Reading (Error-First Callback Pattern), Core Modules, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+1 more)
 
 ### Community 26 - "📏 Feature Scaling & StandardScaler"
 Cohesion: 0.10
@@ -215,7 +203,7 @@ Nodes (19): 1️⃣ Preprocessing Leakage (Test $\to$ Train), 2️⃣ Target Lea
 
 ### Community 31 - "📚 Active Modules"
 Cohesion: 0.25
-Nodes (8): 📚 Active Modules, 🔍 [[Binary Search|02. Binary Search]], ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[DSA/01. Strings/README|01. Strings]], 🔗 [[DSA/03. Linked Lists/README|03. Linked Lists]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
+Nodes (8): 📚 Active Modules, 🔍 [[Binary Search|02. Binary Search]], ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[CS/DSA/01. Strings/README|01. Strings]], 🔗 [[CS/DSA/03. Linked Lists/README|03. Linked Lists]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
 
 ### Community 32 - "🩹 Missing Value Imputation & Missingness Mechanisms (MCAR, MAR, MNAR)"
 Cohesion: 0.11
@@ -257,9 +245,9 @@ Nodes (14): 🚫 1. Why We Cannot Train on 100% of Data, ✂️ 2. The Train-Tes
 Cohesion: 0.14
 Nodes (14): 💡 1. Core Idea, 📋 2. Basic Template, 🎯 3. Walkthrough Example, ❓ 4. Key Questions & Nuances, 🧠 5. Mental Model, 🔍 Binary Search, Step 1: Initial State, Step 2: Second Iteration (+6 more)
 
-### Community 42 - "🚂 Scikit-Learn Pipeline & ColumnTransformer"
-Cohesion: 0.14
-Nodes (14): 🚂 1. What is a Pipeline?, 🛡️ 2. Why Pipeline is the Ultimate Defense Against Data Leakage, 🔀 3. Handling Mixed Data Types: `ColumnTransformer`, 💻 4. Production Python Boilerplate: Complete Pipeline, 🔄 5. Safe Cross-Validation Without Leakage, 🔑 Key Summary Takeaways, 🔍 Lifecycle Comparison: Training vs. Testing, Next Steps (+6 more)
+### Community 42 - "01. Classical ML/README.md"
+Cohesion: 0.05
+Nodes (42): 🗺️ 1. The 10-Stage Machine Learning Lifecycle, 🏡 2. Concrete Pipeline Walkthrough: House Price Prediction, 🛡️ 3. Encapsulation with Scikit-Learn `Pipeline`, 🔁 End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+34 more)
 
 ### Community 43 - "Switching Techniques: Packet vs. Circuit Switching"
 Cohesion: 0.17
@@ -290,7 +278,7 @@ Cohesion: 0.20
 Nodes (9): 📖 1. The Core Machine Learning Vocabulary, 🗂️ 2. Visual Structure of a Dataset, 📐 3. The Governing Machine Learning Equation, 📊 Features, Targets, and Datasets, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 💻 Python Representation (Pandas & Scikit-Learn) (+1 more)
 
 ### Community 50 - "🏷️ Categorical Encoding: Nominal vs. Ordinal"
-Cohesion: 0.22
+Cohesion: 0.20
 Nodes (9): 🧩 1. What is a Categorical Variable?, ⚖️ 2. The Two Types of Categorical Data: Nominal vs. Ordinal, 📈 3. Ordinal Encoding (Preserving Inherent Rank), 🚨 4. The Nominal Integer Encoding Trap (False Ordering), 🔲 5. One-Hot Encoding (OHE), 🧠 6. Encoding Decision Matrix, 🏷️ Categorical Encoding: Nominal vs. Ordinal, Properties of One-Hot Encoding: (+1 more)
 
 ### Community 51 - "Network Protocols and Standards"
@@ -313,10 +301,6 @@ Nodes (8): 🏘️ 1. The Street Name & House Number Analogy, 🚨 2. The Core D
 Cohesion: 0.20
 Nodes (10): Execution Flow:, 🤔 How Does Node.js Use V8?, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, V8 Engine, 🧠 What is a JavaScript Engine? (+2 more)
 
-### Community 56 - "🔁 End-to-End ML Pipeline"
-Cohesion: 0.25
-Nodes (8): 🗺️ 1. The 10-Stage Machine Learning Lifecycle, 🏡 2. Concrete Pipeline Walkthrough: House Price Prediction, 🛡️ 3. Encapsulation with Scikit-Learn `Pipeline`, 🔁 End-to-End ML Pipeline, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes
-
 ### Community 57 - "🎭 Subnet Masks and CIDR Notation"
 Cohesion: 0.25
 Nodes (8): 🥸 1. What Does a Subnet Mask Actually Do?, ⚡ 2. Understanding CIDR Slash Notation (`/n`), 🏛️ 3. Standard Octet Boundaries (`/8`, `/16`, `/24`), 🧮 4. The Master CIDR Subnet Mask Reference Table, 🔍 5. How Routers Find the Network Address: Bitwise AND, 🎯 6. Quick Test Answers & Explanations, 🔗 Related Notes & Next Concepts, 🎭 Subnet Masks and CIDR Notation
@@ -325,41 +309,37 @@ Nodes (8): 🥸 1. What Does a Subnet Mask Actually Do?, ⚡ 2. Understanding CI
 Cohesion: 0.25
 Nodes (8): 1. Core XOR Identities, 2. Cancellation & Algebraic Manipulation, 3. XOR Problem Recognition Guide, 4. Bit-Count XOR Observation, Key Takeaway, 🔗 Related Notes, Why This Matters, XOR Patterns
 
-### Community 60 - "🧹 Data Preprocessing & Feature Engineering"
-Cohesion: 0.29
-Nodes (7): 🧹 Data Preprocessing & Feature Engineering, 📖 Module Topics, 🔄 Module Workflow Graph, Next Steps, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes
-
-### Community 61 - "📊 Classical Machine Learning Foundations"
-Cohesion: 0.33
-Nodes (6): 📊 Classical Machine Learning Foundations, 🔗 Connections, 📖 Learning Path, Next Topics, Prerequisites, 🔗 Related Notes
-
 ### Community 62 - "📦 Encapsulation and Decapsulation"
 Cohesion: 0.50
 Nodes (3): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation
 
 ### Community 63 - "📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)"
-Cohesion: 0.12
-Nodes (16): 1️⃣ Mean Squared Error (MSE), 2️⃣ Root Mean Squared Error (RMSE), 3️⃣ Mean Absolute Error (MAE), 4️⃣ $R^2$ Score (Coefficient of Determination), 💻 Complete Production Pattern: `fit_linreg_rmse`, Core Characteristics:, Core Characteristics:, Core Characteristics: (+8 more)
+Cohesion: 0.08
+Nodes (24): 1️⃣ Mean Squared Error (MSE), 2️⃣ Root Mean Squared Error (RMSE), 3️⃣ Mean Absolute Error (MAE), 4️⃣ $R^2$ Score (Coefficient of Determination), 5️⃣ Adjusted $R^2$ ($R^2_{\text{adj}}$), 💻 Complete Production Pattern: `fit_linreg_rmse`, Core Characteristics:, Core Characteristics: (+16 more)
+
+### Community 66 - "🏔️ Gradient Descent & Cost Functions"
+Cohesion: 0.10
+Nodes (20): 📉 1. The Cost Landscape: $J(\theta) = \theta^2$, 🎯 1. The Optimization Problem, 🏔️ 2. Intuition: The Foggy Mountain Metaphor, 📉 2. Loss Curve Over Iterations ($\alpha = \text{Reasonable}$), 🧭 3. The Core Gradient Descent Update Rule, 📈 4. Visualizing the Cost Function & Loss Convergence, ⚡ 5. The Impact of Learning Rate ($\alpha$), 🔄 6. Batch vs. Stochastic vs. Mini-Batch Gradient Descent (+12 more)
 
 ## Knowledge Gaps
-- **665 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+660 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 675 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **685 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+680 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 695 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Bit Manipulation Problems` connect `1. Single Number` to `Dashboard.md`?**
-  _High betweenness centrality (0.066) - this node is a cross-community bridge._
+  _High betweenness centrality (0.078) - this node is a cross-community bridge._
 - **Why does `🧱 Linked List Fundamentals` connect `🧱 Linked List Fundamentals` to `Dashboard.md`?**
-  _High betweenness centrality (0.044) - this node is a cross-community bridge._
-- **Why does `Bit Tricks` connect `Bit Tricks` to `Dashboard.md`?**
-  _High betweenness centrality (0.039) - this node is a cross-community bridge._
+  _High betweenness centrality (0.045) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _665 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _685 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.07407407407407407 - nodes in this community are weakly interconnected._
 - **Should `Obsidian Flavored Markdown Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.05405405405405406 - nodes in this community are weakly interconnected._
+- **Should `Variables and Data Types` be split into smaller, more focused modules?**
+  _Cohesion score 0.1111111111111111 - nodes in this community are weakly interconnected._

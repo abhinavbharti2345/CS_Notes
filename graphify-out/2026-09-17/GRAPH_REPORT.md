@@ -189,7 +189,7 @@ Nodes (9): 1. Traditional Programming (Rule-Based), 2. Machine Learning (Data-Dr
 
 ### Community 31 - "📚 Active Modules"
 Cohesion: 0.29
-Nodes (7): 📚 Active Modules, 🔍 [[Binary Search|02. Binary Search]], ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[DSA/01. Strings/README|01. Strings]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
+Nodes (7): 📚 Active Modules, 🔍 [[Binary Search|02. Binary Search]], ⚡ [[Bit Manipulation|04. Bit Manipulation]], 🌳 Data Structures & Algorithms (DSA) Knowledge Base, 🔤 [[CS/DSA/01. Strings/README|01. Strings]], 🗺️ DSA Master Roadmap, 🔗 Quick Links & Reference
 
 ### Community 32 - "Features, Targets, and Datasets"
 Cohesion: 0.17
