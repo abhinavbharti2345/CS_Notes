@@ -28,6 +28,7 @@ created: 2026-10-06
 > > - [[CS/DSA/02. Binary Search|🔍 Binary Search on Monotonic Space]]
 > > - [[CS/DSA/03. Linked Lists|🔗 Linked List Operations & Pointers]]
 > > - [[CS/DSA/04. Bit Manipulation|🔢 Bitwise Hacks & XOR Contribution]]
+> > - [[CS/DSA/05. Recursion & Backtracking/README|🔁 Recursion & Call Stack Mechanics]]
 > > - [[CS/DSA/06. Stacks & Queues|📚 Monotonic Stacks & Queues]]
 > > - [[CS/DSA/07. Trees & BSTs/README|🌳 Trees & Binary Search Trees]]
 >

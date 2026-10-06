@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="920px" height="580px" viewBox="-0.5 -0.5 920 580" content="&lt;mxfile host=&quot;Electron&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64)&quot; version=&quot;21.6.8&quot;&gt;&lt;diagram id=&quot;recursion-lifecycle&quot; name=&quot;Recursion Lifecycle &amp; Call Stack&quot;&gt;&lt;mxGraphModel dx=&quot;920&quot; dy=&quot;580&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;920&quot; pageHeight=&quot;580&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="downGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="upGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <marker id="arrowDown" viewBox="0 0 10 10" refX="6" refY="5" markerUnits="strokeWidth" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8b5cf6"/>
+    </marker>
+    <marker id="arrowUp" viewBox="0 0 10 10" refX="6" refY="5" markerUnits="strokeWidth" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#10b981"/>
+    </marker>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="0" y="0" width="920" height="580" rx="16" fill="url(#bgGrad)" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Title Header -->
+  <text x="35" y="42" fill="#f3f4f6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.02em">
+    🔄 Recursion Call Stack Lifecycle: print(4)
+  </text>
+  <text x="35" y="65" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">
+    The 2 Phases: Stack Winding (Calls Going Deeper) ➔ Base Case ➔ Stack Unwinding (Returning &amp; Printing)
+  </text>
+
+  <!-- Container Left: Phase 1 (Going Down) -->
+  <rect x="35" y="90" width="265" height="460" rx="12" fill="#1e1b4b" fill-opacity="0.35" stroke="#6366f1" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <rect x="50" y="105" width="235" height="30" rx="6" fill="#4338ca" fill-opacity="0.8"/>
+  <text x="167" y="125" fill="#ffffff" font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    ⬇️ PHASE 1: GOING DOWN
+  </text>
+  <text x="167" y="152" fill="#a5b4fc" font-family="sans-serif" font-size="11.5" text-anchor="middle">
+    Calls pause &amp; wait in memory
+  </text>
+
+  <!-- Down Nodes -->
+  <g transform="translate(55, 170)">
+    <!-- Node 4 -->
+    <rect x="0" y="0" width="225" height="50" rx="8" fill="#1f2937" stroke="#6366f1" stroke-width="1.5"/>
+    <text x="112" y="24" fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">print(4)</text>
+    <text x="112" y="41" fill="#9ca3af" font-family="sans-serif" font-size="10.5" text-anchor="middle">calls print(3) • [PAUSED]</text>
+
+    <!-- Arrow 4->3 -->
+    <line x1="112" y1="50" x2="112" y2="70" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+    <!-- Node 3 -->
+    <rect x="0" y="70" width="225" height="50" rx="8" fill="#1f2937" stroke="#6366f1" stroke-width="1.5"/>
+    <text x="112" y="94" fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">print(3)</text>
+    <text x="112" y="111" fill="#9ca3af" font-family="sans-serif" font-size="10.5" text-anchor="middle">calls print(2) • [PAUSED]</text>
+
+    <!-- Arrow 3->2 -->
+    <line x1="112" y1="120" x2="112" y2="140" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+    <!-- Node 2 -->
+    <rect x="0" y="140" width="225" height="50" rx="8" fill="#1f2937" stroke="#6366f1" stroke-width="1.5"/>
+    <text x="112" y="164" fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">print(2)</text>
+    <text x="112" y="181" fill="#9ca3af" font-family="sans-serif" font-size="10.5" text-anchor="middle">calls print(1) • [PAUSED]</text>
+
+    <!-- Arrow 2->1 -->
+    <line x1="112" y1="190" x2="112" y2="210" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+    <!-- Node 1 -->
+    <rect x="0" y="210" width="225" height="50" rx="8" fill="#1f2937" stroke="#6366f1" stroke-width="1.5"/>
+    <text x="112" y="234" fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">print(1)</text>
+    <text x="112" y="251" fill="#9ca3af" font-family="sans-serif" font-size="10.5" text-anchor="middle">calls print(0) • [PAUSED]</text>
+
+    <!-- Arrow 1->0 -->
+    <line x1="112" y1="260" x2="112" y2="280" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+    <!-- Base Case Node 0 -->
+    <rect x="0" y="280" width="225" height="55" rx="8" fill="#831843" fill-opacity="0.8" stroke="#ec4899" stroke-width="2"/>
+    <text x="112" y="304" fill="#fdf2f8" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">print(0) 🛑</text>
+    <text x="112" y="322" fill="#fbcfe8" font-family="sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">BASE CASE: if (n==0) return;</text>
+  </g>
+
+  <!-- Center Container: RAM Call Stack Model -->
+  <rect x="325" y="90" width="270" height="460" rx="12" fill="#0f172a" stroke="#475569" stroke-width="1.2"/>
+  <rect x="340" y="105" width="240" height="30" rx="6" fill="#334155"/>
+  <text x="460" y="125" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    📦 RAM CALL STACK (LIFO)
+  </text>
+  <text x="460" y="152" fill="#94a3b8" font-family="sans-serif" font-size="11.5" text-anchor="middle">
+    Stores function state, NOT output!
+  </text>
+
+  <!-- Stack Frames Box -->
+  <g transform="translate(345, 175)">
+    <!-- Frame 0 (Top) -->
+    <rect x="0" y="0" width="230" height="42" rx="6" fill="#be185d" stroke="#f472b6" stroke-width="1.5"/>
+    <text x="115" y="22" fill="#ffffff" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(0)</text>
+    <text x="115" y="36" fill="#fbcfe8" font-family="sans-serif" font-size="9.5" text-anchor="middle">TOP ➔ Returns instantly</text>
+
+    <!-- Frame 1 -->
+    <rect x="0" y="48" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <text x="115" y="70" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(1)</text>
+    <text x="115" y="84" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 1 (Waiting)</text>
+
+    <!-- Frame 2 -->
+    <rect x="0" y="96" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <text x="115" y="118" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(2)</text>
+    <text x="115" y="132" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 2 (Waiting)</text>
+
+    <!-- Frame 3 -->
+    <rect x="0" y="144" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <text x="115" y="166" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(3)</text>
+    <text x="115" y="180" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 3 (Waiting)</text>
+
+    <!-- Frame 4 (Bottom) -->
+    <rect x="0" y="192" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <text x="115" y="214" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(4)</text>
+    <text x="115" y="228" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">BOTTOM ➔ First called, Last finished</text>
+
+    <!-- Stack Base Line -->
+    <line x1="-5" y1="245" x2="235" y2="245" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+    <text x="115" y="265" fill="#64748b" font-family="sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle">STACK BASE MEMORY</text>
+  </g>
+
+  <!-- Container Right: Phase 2 (Coming Up) -->
+  <rect x="620" y="90" width="265" height="460" rx="12" fill="#064e3b" fill-opacity="0.3" stroke="#10b981" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <rect x="635" y="105" width="235" height="30" rx="6" fill="#059669" fill-opacity="0.8"/>
+  <text x="752" y="125" fill="#ffffff" font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    ⬆️ PHASE 2: COMING BACK UP
+  </text>
+  <text x="752" y="152" fill="#6ee7b7" font-family="sans-serif" font-size="11.5" text-anchor="middle">
+    Functions resume &amp; print output
+  </text>
+
+  <!-- Up Nodes (Executed from 1 up to 4) -->
+  <g transform="translate(640, 170)">
+    <!-- Resume 4 -->
+    <rect x="0" y="0" width="225" height="50" rx="8" fill="#1f2937" stroke="#10b981" stroke-width="1.5"/>
+    <text x="112" y="22" fill="#6ee7b7" font-family="monospace" font-size="12.5" font-weight="bold" text-anchor="middle">4. print(4) finishes</text>
+    <text x="112" y="39" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">➔ OUTPUT: 4</text>
+
+    <!-- Up Arrow 3->4 -->
+    <line x1="112" y1="70" x2="112" y2="50" stroke="#10b981" stroke-width="2" marker-end="url(#arrowUp)"/>
+
+    <!-- Resume 3 -->
+    <rect x="0" y="70" width="225" height="50" rx="8" fill="#1f2937" stroke="#10b981" stroke-width="1.5"/>
+    <text x="112" y="92" fill="#6ee7b7" font-family="monospace" font-size="12.5" font-weight="bold" text-anchor="middle">3. print(3) resumes</text>
+    <text x="112" y="109" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">➔ OUTPUT: 3</text>
+
+    <!-- Up Arrow 2->3 -->
+    <line x1="112" y1="140" x2="112" y2="120" stroke="#10b981" stroke-width="2" marker-end="url(#arrowUp)"/>
+
+    <!-- Resume 2 -->
+    <rect x="0" y="140" width="225" height="50" rx="8" fill="#1f2937" stroke="#10b981" stroke-width="1.5"/>
+    <text x="112" y="162" fill="#6ee7b7" font-family="monospace" font-size="12.5" font-weight="bold" text-anchor="middle">2. print(2) resumes</text>
+    <text x="112" y="179" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">➔ OUTPUT: 2</text>
+
+    <!-- Up Arrow 1->2 -->
+    <line x1="112" y1="210" x2="112" y2="190" stroke="#10b981" stroke-width="2" marker-end="url(#arrowUp)"/>
+
+    <!-- Resume 1 -->
+    <rect x="0" y="210" width="225" height="50" rx="8" fill="#1f2937" stroke="#10b981" stroke-width="1.5"/>
+    <text x="112" y="232" fill="#6ee7b7" font-family="monospace" font-size="12.5" font-weight="bold" text-anchor="middle">1. print(1) resumes</text>
+    <text x="112" y="249" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">➔ OUTPUT: 1</text>
+
+    <!-- Bridge from Base Case to Resume 1 -->
+    <path d="M -80 305 Q -20 305 0 240" fill="none" stroke="#ec4899" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Output Result Banner at Bottom Right -->
+  <rect x="640" y="475" width="225" height="42" rx="8" fill="#047857" stroke="#34d399" stroke-width="1.5"/>
+  <text x="752" y="501" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
+    🏁 Final Order: 1, 2, 3, 4
+  </text>
+</svg>

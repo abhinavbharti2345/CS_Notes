@@ -32,8 +32,8 @@ flowchart TD
 
     classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
     classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
-    class T1 active;
-    class T2,T3,T4,T5 planned;
+    class T1,T2 active;
+    class T3,T4,T5 planned;
 ```
 
 ---
@@ -48,6 +48,15 @@ flowchart TD
    - Concept Verification Quiz (5/5 mastery check)
    - Height calculations & Edge vs Node conventions
    - Manual Java tree construction (`root.left`, `root.left.right` pointer tracing)
+
+2. **[[02. Binary Tree Traversals|02. Binary Tree Traversals]]**
+   - Master mental model: The Root Position Rule (PRE = first, IN = middle, POST = last)
+   - **Why recursion works:** Mapping code execution line order directly to $\text{ROOT}$, $\text{LEFT}$, and $\text{RIGHT}$ actions
+   - Preorder ($\text{Root} \rightarrow \text{Left} \rightarrow \text{Right}$) trace & recursion
+   - Inorder ($\text{Left} \rightarrow \text{Root} \rightarrow \text{Right}$) trace & BST sorting invariant
+   - Postorder ($\text{Left} \rightarrow \text{Right} \rightarrow \text{Root}$) trace & bottom-up tree evaluation
+   - Level-Order (BFS) overview
+   - Complete runnable Java test suite & comparison matrix
 
 ---
 

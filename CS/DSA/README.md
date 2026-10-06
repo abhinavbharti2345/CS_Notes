@@ -37,8 +37,8 @@ flowchart TD
 
     classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
     classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
-    class M1,M2,M3,M4,M6,M7 active;
-    class M0,M5,M8,M9,M10 planned;
+    class M1,M2,M3,M4,M5,M6,M7 active;
+    class M0,M8,M9,M10 planned;
 ```
 
 ---
@@ -67,6 +67,10 @@ Bit-level integer representation, operators, low-level tricks, and algorithmic X
 - **03.** [[03. XOR Patterns]] — Identities ($A \oplus 0 = A$, $A \oplus A = 0$), duplicate cancellation, and bit-count observations
 - **04.** [[04. Bit Manipulation Problems]] — Single Number, Two Missing Numbers (Partitioning), Minimum XOR Pair, and Sum of XOR of All Pairs (Bit Contribution)
 
+### 🔁 [[CS/DSA/05. Recursion & Backtracking/README|05. Recursion & Backtracking]]
+Recursive problem solving, call stack winding/unwinding, and state decomposition:
+- **01.** [[CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals|🔄 01. Recursion Fundamentals]] — Base case vs recursive case, call stack phases (going down vs coming up), factorial tracing, the 3-question formula, and recursive tree decomposition.
+
 ### 🥞 [[CS/DSA/06. Stacks & Queues/README|06. Stacks & Queues]]
 Restricted access LIFO and FIFO linear structures, monotonic stacks, and parsing:
 - **01.** [[01. Stack Fundamentals|🥞 01. Stack Fundamentals]] — LIFO mechanics, `push`/`pop`/`peek`/`isEmpty`, Java `ArrayDeque`, custom array stack, and interview use cases.
@@ -74,6 +78,7 @@ Restricted access LIFO and FIFO linear structures, monotonic stacks, and parsing
 ### 🌳 [[CS/DSA/07. Trees & BSTs/README|07. Trees & BSTs]]
 Hierarchical structures, binary trees, binary search trees, and traversals:
 - **01.** [[CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals|🌳 01. Binary Tree Fundamentals]] — Tree hierarchy vs arrays, Node anatomy, Java implementation, Binary tree rule, Terminology (Root, Parent, Child, Siblings, Leaf), and Height conventions (Edge vs Node).
+- **02.** [[CS/DSA/07. Trees & BSTs/02. Binary Tree Traversals|🚶‍♂️ 02. Binary Tree Traversals]] — DFS traversals (Preorder, Inorder, Postorder), BFS Level-Order, step-by-step traces, Java recursion, and use-case matrix.
 
 ---
 
@@ -87,7 +92,15 @@ Hierarchical structures, binary trees, binary search trees, and traversals:
 - [[02. Linked List Patterns|🧠 Linked List Patterns]]
 - [[Bit Manipulation|📁 Bit Manipulation Master Note]]
 - [[04. Bit Manipulation Problems|💡 Bit Manipulation Problems]]
+- [[CS/DSA/05. Recursion & Backtracking/README|🔁 05. Recursion & Backtracking Master Note]]
+- [[CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals|🔄 01. Recursion Fundamentals]]
+- [[CS/DSA/03. Linked Lists/README|🔗 03. Linked Lists Master Note]]
+- [[01. Linked List Fundamentals|🧱 Linked List Fundamentals]]
+- [[02. Linked List Patterns|🧠 Linked List Patterns]]
+- [[Bit Manipulation|📁 Bit Manipulation Master Note]]
+- [[04. Bit Manipulation Problems|💡 Bit Manipulation Problems]]
 - [[CS/DSA/07. Trees & BSTs/README|🌳 07. Trees & BSTs Master Note]]
 - [[CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals|🌳 01. Binary Tree Fundamentals]]
+- [[CS/DSA/07. Trees & BSTs/02. Binary Tree Traversals|🚶‍♂️ 02. Binary Tree Traversals]]
 
 

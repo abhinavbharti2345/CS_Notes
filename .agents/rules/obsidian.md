@@ -643,3 +643,12 @@ The vault should continuously become a **coherent, interconnected map of Compute
 When new CS material is provided without specific organization instructions, automatically apply these rules.
 
 **Optimize for long-term understanding, conceptual relationships, discoverability, practical usefulness, and reuse — not exams, classes, or maximum organization complexity.**
+
+---
+
+## 23. Diagrams & Visual Flowcharts (Draw.io & Asset Storage)
+
+* **Use Draw.io for Flowcharts & Multi-Step Systems:** For complex workflows, call stack diagrams, memory models, and state charts, create `.drawio.svg` vector diagrams.
+* **Keep Note Folders Clean (Mandatory `assets/` Subfolder):** Always place `.drawio.svg` and media files in an `assets/` subfolder within the module (never directly in the notes folder).
+* **Embed via Wikilinks:** Embed diagrams inside notes with `![[diagram_name.drawio.svg]]`.
+* **Compact Mermaid Diagrams:** When using Mermaid for lightweight inline graphs, prefer horizontal (`flowchart LR`) over tall vertical layouts (`flowchart TD`).
