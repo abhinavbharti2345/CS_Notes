@@ -126,9 +126,9 @@
     "semantic_hash": ""
   },
   "Home.md": {
-    "mtime": 1790853601.4831164,
-    "seen": 1790853615.0861733,
-    "ast_hash": "d7abe1e51806dae277cc4431babe2430",
+    "mtime": 1790855757.6740446,
+    "seen": 1790855779.232136,
+    "ast_hash": "7e5bd2331504162d532b27794db0a494",
     "semantic_hash": ""
   },
   "CS/AI & ML/01. Classical ML/01. Introduction to Machine Learning.md": {
@@ -531,6 +531,18 @@
     "mtime": 1790853601.593246,
     "seen": 1790853615.086171,
     "ast_hash": "aa4bcfb86e60e8029323e6c6b066d5c2",
+    "semantic_hash": ""
+  },
+  "TaskNotes/Start Here.md": {
+    "mtime": 1790854595.661138,
+    "seen": 1790854691.693895,
+    "ast_hash": "aebc6a2e632a9b9f8b6565803d603318",
+    "semantic_hash": ""
+  },
+  "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md": {
+    "mtime": 1790855770.0973725,
+    "seen": 1790855779.2321253,
+    "ast_hash": "6f50061930d4913b2416509b22775243",
     "semantic_hash": ""
   }
 }

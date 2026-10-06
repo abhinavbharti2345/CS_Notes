@@ -1,0 +1,237 @@
+/* ==========================================================================
+   🌌 CYBERPUNK COMMAND CENTER - ULTIMATE OBSIDIAN DASHBOARD UI
+   ========================================================================== */
+
+/* -------------------- 1. HERO BANNER -------------------- */
+.dashboard .callout[data-callout="hero"] {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(168, 85, 247, 0.12) 50%, rgba(236, 72, 153, 0.08) 100%) !important;
+  border: 1px solid rgba(139, 92, 246, 0.35) !important;
+  border-radius: 16px !important;
+  padding: 22px 26px !important;
+  margin-bottom: 20px !important;
+  position: relative !important;
+  overflow: hidden !important;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.28) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+}
+
+.dashboard .callout[data-callout="hero"] .callout-title {
+  font-size: 1.45rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+  color: #c084fc !important;
+  margin-bottom: 4px !important;
+}
+
+.dashboard .callout[data-callout="hero"] .callout-icon {
+  display: none !important;
+}
+
+.dashboard .callout[data-callout="hero"] .callout-content p {
+  color: #94a3b8 !important;
+  font-size: 0.98rem !important;
+  margin: 0 !important;
+}
+
+/* -------------------- 2. QUICK ACTION LAUNCHER DOCK -------------------- */
+.dashboard .callout[data-callout="actions"] {
+  background: rgba(15, 23, 42, 0.65) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 14px !important;
+  padding: 12px 16px !important;
+  margin: 14px 0 24px 0 !important;
+  backdrop-filter: blur(12px) !important;
+}
+
+.dashboard .callout[data-callout="actions"] .callout-title {
+  display: none !important;
+}
+
+.dashboard .callout[data-callout="actions"] .callout-content ul {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 10px !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.dashboard .callout[data-callout="actions"] .callout-content li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.dashboard .callout[data-callout="actions"] .callout-content a.internal-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  background: rgba(139, 92, 246, 0.12) !important;
+  color: #e2e8f0 !important;
+  border: 1px solid rgba(139, 92, 246, 0.3) !important;
+  border-radius: 10px !important;
+  padding: 8px 16px !important;
+  font-size: 0.88rem !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  transition: all 0.22s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.dashboard .callout[data-callout="actions"] .callout-content a.internal-link:hover {
+  background: rgba(139, 92, 246, 0.28) !important;
+  border-color: rgba(168, 85, 247, 0.8) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 16px rgba(139, 92, 246, 0.35) !important;
+  color: #ffffff !important;
+}
+
+/* -------------------- 3. RESPONSIVE GRID LAYOUTS -------------------- */
+.dashboard .callout[data-callout="grid"] {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 16px 0 24px 0 !important;
+}
+
+.dashboard .callout[data-callout="grid"] > .callout-title {
+  display: none !important;
+}
+
+.dashboard .callout[data-callout="grid"] > .callout-content {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+  gap: 16px !important;
+}
+
+.dashboard .callout[data-callout="grid-2"] {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 16px 0 24px 0 !important;
+}
+
+.dashboard .callout[data-callout="grid-2"] > .callout-title {
+  display: none !important;
+}
+
+.dashboard .callout[data-callout="grid-2"] > .callout-content {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)) !important;
+  gap: 18px !important;
+}
+
+/* -------------------- 4. GLASSMORPHISM DOMAIN CARDS -------------------- */
+.dashboard .callout[data-callout^="card-"] {
+  background: rgba(22, 22, 34, 0.75) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 14px !important;
+  padding: 16px 18px !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.2) !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.dashboard .callout[data-callout^="card-"]:hover {
+  transform: translateY(-3px) !important;
+}
+
+.dashboard .callout[data-callout^="card-"] .callout-title {
+  font-size: 1.06rem !important;
+  font-weight: 600 !important;
+  margin-bottom: 6px !important;
+}
+
+.dashboard .callout[data-callout^="card-"] .callout-icon {
+  display: none !important;
+}
+
+.dashboard .callout[data-callout^="card-"] ul {
+  padding-left: 18px !important;
+  margin: 8px 0 0 0 !important;
+}
+
+.dashboard .callout[data-callout^="card-"] li {
+  font-size: 0.88rem !important;
+  margin-bottom: 5px !important;
+}
+
+/* Color Accent Variations */
+.dashboard .callout[data-callout="card-aiml"] { border-top: 3px solid #0ea5e9 !important; }
+.dashboard .callout[data-callout="card-aiml"]:hover { border-color: #0ea5e9 !important; box-shadow: 0 8px 26px rgba(14, 165, 233, 0.25) !important; }
+
+.dashboard .callout[data-callout="card-net"] { border-top: 3px solid #10b981 !important; }
+.dashboard .callout[data-callout="card-net"]:hover { border-color: #10b981 !important; box-shadow: 0 8px 26px rgba(16, 185, 129, 0.25) !important; }
+
+.dashboard .callout[data-callout="card-web"] { border-top: 3px solid #f59e0b !important; }
+.dashboard .callout[data-callout="card-web"]:hover { border-color: #f59e0b !important; box-shadow: 0 8px 26px rgba(245, 158, 11, 0.25) !important; }
+
+.dashboard .callout[data-callout="card-dsa"] { border-top: 3px solid #ec4899 !important; }
+.dashboard .callout[data-callout="card-dsa"]:hover { border-color: #ec4899 !important; box-shadow: 0 8px 26px rgba(236, 72, 153, 0.25) !important; }
+
+.dashboard .callout[data-callout="card-core"] { border-top: 3px solid #8b5cf6 !important; }
+.dashboard .callout[data-callout="card-core"]:hover { border-color: #8b5cf6 !important; box-shadow: 0 8px 26px rgba(139, 92, 246, 0.25) !important; }
+
+/* -------------------- 5. TELEMETRY & DATAVIEW WIDGETS -------------------- */
+.dashboard .callout[data-callout="telemetry"] {
+  background: rgba(18, 18, 28, 0.8) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 14px !important;
+  padding: 16px 18px !important;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.22) !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.dashboard .callout[data-callout="telemetry"] .callout-title {
+  font-size: 1.02rem !important;
+  font-weight: 600 !important;
+  color: #c084fc !important;
+  margin-bottom: 10px !important;
+}
+
+.dashboard .callout[data-callout="telemetry"] .callout-icon {
+  display: none !important;
+}
+
+/* Dataview Table Modernization */
+.dashboard .dataview.table-view-table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 5px !important;
+}
+
+.dashboard .dataview.table-view-table thead th {
+  background: transparent !important;
+  color: #94a3b8 !important;
+  font-size: 0.78rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.06em !important;
+  border: none !important;
+  padding: 6px 10px !important;
+}
+
+.dashboard .dataview.table-view-table tbody tr {
+  background: rgba(30, 30, 46, 0.7) !important;
+  border-radius: 8px !important;
+  transition: transform 0.18s ease, background 0.18s ease !important;
+}
+
+.dashboard .dataview.table-view-table tbody tr:hover {
+  background: rgba(139, 92, 246, 0.2) !important;
+  transform: translateX(4px) !important;
+}
+
+.dashboard .dataview.table-view-table tbody td {
+  border: none !important;
+  padding: 8px 12px !important;
+  font-size: 0.88rem !important;
+}
+
+.dashboard .dataview.table-view-table tbody td:first-child {
+  border-top-left-radius: 8px !important;
+  border-bottom-left-radius: 8px !important;
+}
+
+.dashboard .dataview.table-view-table tbody td:last-child {
+  border-top-right-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+}

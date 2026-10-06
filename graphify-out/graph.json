@@ -5475,6 +5475,81 @@
       "source_location": "L1"
     },
     {
+      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "label": "Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "kanban-plugin": "basic"
+      },
+      "node_kind": "page",
+      "norm_label": "study plan - 2026-10-01 (stacks, recursion, mern).md",
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L1"
+    },
+    {
+      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_01_30_02_00_review_ai_vault_ingestion",
+      "label": "\ud83d\udd52 01:30 \u2013 02:00 \uff5c \ud83c\udfc1 Review & AI Vault Ingestion",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd52 01:30 \u2013 02:00 | \ud83c\udfc1 review & ai vault ingestion",
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L37"
+    },
+    {
+      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_19_00_21_00_stacks_mastery_dsa",
+      "label": "\ud83d\udd52 19:00 \u2013 21:00 \uff5c \ud83e\udd5e Stacks Mastery (DSA)",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd52 19:00 \u2013 21:00 | \ud83e\udd5e stacks mastery (dsa)",
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L10"
+    },
+    {
+      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_21_15_23_15_recursion_backtracking_dsa",
+      "label": "\ud83d\udd52 21:15 \u2013 23:15 \uff5c \ud83c\udf32 Recursion & Backtracking (DSA)",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd52 21:15 \u2013 23:15 | \ud83c\udf32 recursion & backtracking (dsa)",
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L19"
+    },
+    {
+      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_23_30_01_30_mern_fullstack_engineering",
+      "label": "\ud83d\udd52 23:30 \u2013 01:30 \uff5c \u26a1 MERN Fullstack Engineering",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd52 23:30 \u2013 01:30 | \u26a1 mern fullstack engineering",
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L28"
+    },
+    {
+      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_completed_tonight",
+      "label": "\u2705 Completed Tonight",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\u2705 completed tonight",
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L44"
+    },
+    {
       "id": "cs_webdev_backend_javascript_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
@@ -5545,114 +5620,6 @@
       "norm_label": "what this prepares you for",
       "source_file": "CS/WebDev/Backend/JavaScript/README.md",
       "source_location": "L52"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
-      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L29"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
-      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L54"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
-      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "asynchronous file reading (error-first callback pattern)",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_core_modules",
-      "label": "Core Modules",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "core modules",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L12"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_next_step",
-      "label": "Next Step",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L86"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_prerequisites",
-      "label": "Prerequisites",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L82"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L80"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L90"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_what_are_core_modules",
-      "label": "\ud83d\udce6 What Are Core Modules?",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 what are core modules?",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L14"
     },
     {
       "id": "cs_webdev_backend_node_js_readme_connections",
@@ -8290,52 +8257,52 @@
       "source_location": "L1"
     },
     {
-      "id": "home_computer_science_knowledge_vault_command_center",
-      "label": "\ud83e\udded Computer Science Knowledge Vault: Command Center",
+      "id": "home_active_tasks_study_sprints",
+      "label": "\ud83d\udccb Active Tasks & Study Sprints",
       "_origin": "ast",
       "community": 4,
       "community_name": "Home.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udded computer science knowledge vault: command center",
+      "norm_label": "\ud83d\udccb active tasks & study sprints",
       "source_file": "Home.md",
-      "source_location": "L1"
+      "source_location": "L145"
     },
     {
-      "id": "home_core_domain_master_mocs_study_order",
-      "label": "\ud83e\udde0 Core Domain Master MOCs (Study Order)",
+      "id": "home_comprehensive_master_roadmaps_click_to_expand",
+      "label": "\ud83e\udde0 Comprehensive Master Roadmaps (Click to Expand)",
       "_origin": "ast",
       "community": 4,
       "community_name": "Home.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udde0 core domain master mocs (study order)",
+      "norm_label": "\ud83e\udde0 comprehensive master roadmaps (click to expand)",
       "source_file": "Home.md",
-      "source_location": "L49"
+      "source_location": "L34"
     },
     {
-      "id": "home_quick_actions_reference_utilities",
-      "label": "\u26a1 Quick Actions & Reference Utilities",
+      "id": "home_cs_domain_matrix",
+      "label": "\ud83c\udfdb\ufe0f CS Domain Matrix",
       "_origin": "ast",
       "community": 4,
       "community_name": "Home.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\u26a1 quick actions & reference utilities",
+      "norm_label": "\ud83c\udfdb\ufe0f cs domain matrix",
       "source_file": "Home.md",
-      "source_location": "L37"
+      "source_location": "L109"
     },
     {
-      "id": "home_vault_architecture_domain_map",
-      "label": "\ud83d\uddfa\ufe0f Vault Architecture & Domain Map",
+      "id": "home_visual_architecture_map",
+      "label": "\ud83d\uddfa\ufe0f Visual Architecture Map",
       "_origin": "ast",
       "community": 4,
       "community_name": "Home.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f vault architecture & domain map",
+      "norm_label": "\ud83d\uddfa\ufe0f visual architecture map",
       "source_file": "Home.md",
-      "source_location": "L8"
+      "source_location": "L5"
     },
     {
       "id": "cs_ai_ml_01_classical_ml_01_introduction_to_machine_learning",
@@ -8516,18 +8483,6 @@
       "source_location": "L1"
     },
     {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
-      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
-      "_origin": "ast",
-      "community": 41,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L99"
-    },
-    {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_1_why_does_networking_have_different_names_for_data",
       "label": "\u2753 1. Why Does Networking Have Different Names for \"Data\"?",
       "_origin": "ast",
@@ -8540,30 +8495,6 @@
       "source_location": "L28"
     },
     {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
-      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "_origin": "ast",
-      "community": 41,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L60"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
-      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
-      "_origin": "ast",
-      "community": 41,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L105"
-    },
-    {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_3_comprehensive_pdu_comparison_matrix",
       "label": "\ud83d\udcca 3. Comprehensive PDU Comparison Matrix",
       "_origin": "ast",
@@ -8574,30 +8505,6 @@
       "norm_label": "\ud83d\udcca 3. comprehensive pdu comparison matrix",
       "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L152"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
-      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
-      "_origin": "ast",
-      "community": 41,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L126"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
-      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
-      "_origin": "ast",
-      "community": 41,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L136"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_4_packets_are_end_to_end_frames_are_hop_by_hop",
@@ -8622,18 +8529,6 @@
       "norm_label": "\ud83c\udfaf 5. architectural verification & summary",
       "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L185"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
-      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
-      "_origin": "ast",
-      "community": 41,
-      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L147"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_protocol_data_units_segment_packet_frame_bits",
@@ -9114,6 +9009,23 @@
       "source_location": "L129"
     },
     {
+      "id": "cs_computer_networking_01_architecture_fundamentals_05_network_hardware_hub_switch_router_modem",
+      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "_origin": "ast",
+      "community": 45,
+      "community_name": "\ud83d\udd0c Network Hardware: Hub vs. Switch vs. Router vs. Modem",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "05. network hardware - hub, switch, router, modem.md",
+      "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "source_location": "L1"
+    },
+    {
       "id": "cs_computer_networking_01_architecture_fundamentals_05_network_hardware_hub_switch_router_modem_1_hub_the_blind_broadcaster_layer_1",
       "label": "\ud83d\udd0c 1. Hub \u2014 The \"Blind Broadcaster\" (Layer 1)",
       "_origin": "ast",
@@ -9256,23 +9168,6 @@
       "norm_label": "switch vs. router core distinction:",
       "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/05. Network Hardware - Hub, Switch, Router, Modem.md",
       "source_location": "L128"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_05_mtu_and_fragmentation",
-      "label": "05. MTU and Fragmentation.md",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "MTU and IP Fragmentation",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "05. mtu and fragmentation.md",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/05. MTU and Fragmentation.md",
-      "source_location": "L1"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_05_mtu_and_fragmentation_1_what_is_mtu",
@@ -12556,8 +12451,8 @@
       "source_location": "L89"
     },
     {
-      "id": "cs_computer_networking_01_architecture_fundamentals_05_network_hardware_hub_switch_router_modem",
-      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "id": "cs_computer_networking_02_data_flow_encapsulation_05_mtu_and_fragmentation",
+      "label": "05. MTU and Fragmentation.md",
       "_origin": "ast",
       "community": 69,
       "community_name": "Computer Networking/README.md",
@@ -12568,8 +12463,8 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "05. network hardware - hub, switch, router, modem.md",
-      "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/05. Network Hardware - Hub, Switch, Router, Modem.md",
+      "norm_label": "05. mtu and fragmentation.md",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/05. MTU and Fragmentation.md",
       "source_location": "L1"
     },
     {
@@ -13036,6 +12931,378 @@
       "norm_label": "vault-organization.md",
       "source_file": ".agents/rules/vault-organization.md",
       "source_location": "L1"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
+      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
+      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
+      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "asynchronous file reading (error-first callback pattern)",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L33"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_core_modules",
+      "label": "Core Modules",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core modules",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L86"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L82"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_what_are_core_modules",
+      "label": "\ud83d\udce6 What Are Core Modules?",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "Core Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 what are core modules?",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
+      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L99"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
+      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
+      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
+      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
+      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L136"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
+      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L147"
+    },
+    {
+      "id": "tasknotes_start_here",
+      "label": "Start Here.md",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "start here.md",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "tasknotes_start_here_1_create_a_task_from_the_command_palette",
+      "label": "1. Create a task from the command palette",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1. create a task from the command palette",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L19"
+    },
+    {
+      "id": "tasknotes_start_here_2_convert_inline_tasks_into_tasknotes",
+      "label": "2. Convert inline tasks into TaskNotes",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. convert inline tasks into tasknotes",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L31"
+    },
+    {
+      "id": "tasknotes_start_here_3_review_your_tasks",
+      "label": "3. Review your tasks",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. review your tasks",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L45"
+    },
+    {
+      "id": "tasknotes_start_here_4_adjust_only_what_gets_in_your_way",
+      "label": "4. Adjust only what gets in your way",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. adjust only what gets in your way",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L79"
+    },
+    {
+      "id": "tasknotes_start_here_5_make_it_yours",
+      "label": "5. Make it yours",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5. make it yours",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L88"
+    },
+    {
+      "id": "tasknotes_start_here_6_contextual_views",
+      "label": "6. Contextual views",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "6. contextual views",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "tasknotes_start_here_agenda",
+      "label": "Agenda",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "agenda",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L55"
+    },
+    {
+      "id": "tasknotes_start_here_before_you_start",
+      "label": "Before you start",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "before you start",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "tasknotes_start_here_calendar",
+      "label": "Calendar",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "calendar",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L67"
+    },
+    {
+      "id": "tasknotes_start_here_finished",
+      "label": "Finished",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "finished",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L113"
+    },
+    {
+      "id": "tasknotes_start_here_kanban",
+      "label": "Kanban",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "kanban",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "tasknotes_start_here_mini_calendar",
+      "label": "Mini calendar",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mini calendar",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L61"
+    },
+    {
+      "id": "tasknotes_start_here_more_help_and_extensions",
+      "label": "More help and extensions",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "more help and extensions",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L105"
+    },
+    {
+      "id": "tasknotes_start_here_start_here_with_tasknotes",
+      "label": "Start Here with TaskNotes",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "start here with tasknotes",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "tasknotes_start_here_task_list",
+      "label": "Task list",
+      "_origin": "ast",
+      "community": 75,
+      "community_name": "Start Here with TaskNotes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "task list",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L49"
     },
     {
       "id": "cs_ai_ml_01_classical_ml_06_linear_regression_assumptions_1_log_transformation_primary_remedy",
@@ -23216,6 +23483,61 @@
       "weight": 1.0
     },
     {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_19_00_21_00_stacks_mastery_dsa",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_21_15_23_15_recursion_backtracking_dsa",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_23_30_01_30_mern_fullstack_engineering",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_01_30_02_00_review_ai_vault_ingestion",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_completed_tonight",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
       "source": "cs_webdev_backend_javascript_async_javascript_and_json",
       "target": "cs_webdev_backend_javascript_async_javascript_and_json_async_javascript_and_json",
       "relation": "contains",
@@ -24680,46 +25002,211 @@
     },
     {
       "source": "home",
-      "target": "home_computer_science_knowledge_vault_command_center",
+      "target": "home_cs_domain_matrix",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Home.md",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "home_active_tasks_study_sprints",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": "L145",
+      "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "home_comprehensive_master_roadmaps_click_to_expand",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "home_visual_architecture_map",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here",
+      "target": "tasknotes_start_here_start_here_with_tasknotes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
       "source_location": "L1",
       "weight": 1.0
     },
     {
-      "source": "home_computer_science_knowledge_vault_command_center",
-      "target": "home_quick_actions_reference_utilities",
+      "source": "tasknotes_start_here_3_review_your_tasks",
+      "target": "tasknotes_start_here_task_list",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "Home.md",
-      "source_location": "L37",
-      "weight": 1.0
-    },
-    {
-      "source": "home_computer_science_knowledge_vault_command_center",
-      "target": "home_core_domain_master_mocs_study_order",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Home.md",
+      "source_file": "TaskNotes/Start Here.md",
       "source_location": "L49",
       "weight": 1.0
     },
     {
-      "source": "home_computer_science_knowledge_vault_command_center",
-      "target": "home_vault_architecture_domain_map",
+      "source": "tasknotes_start_here_3_review_your_tasks",
+      "target": "tasknotes_start_here_agenda",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "Home.md",
-      "source_location": "L8",
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_3_review_your_tasks",
+      "target": "tasknotes_start_here_mini_calendar",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_3_review_your_tasks",
+      "target": "tasknotes_start_here_calendar",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_3_review_your_tasks",
+      "target": "tasknotes_start_here_kanban",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_more_help_and_extensions",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_before_you_start",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_finished",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L113",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_1_create_a_task_from_the_command_palette",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_2_convert_inline_tasks_into_tasknotes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_3_review_your_tasks",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_4_adjust_only_what_gets_in_your_way",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_5_make_it_yours",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "tasknotes_start_here_start_here_with_tasknotes",
+      "target": "tasknotes_start_here_6_contextual_views",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TaskNotes/Start Here.md",
+      "source_location": "L92",
       "weight": 1.0
     },
     {
@@ -25966,6 +26453,39 @@
       "weight": 1.0
     },
     {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_webdev_backend_node_js_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_webdev_backend_shopkart_auth_project",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "target": "cs_dsa_06_stacks_queues_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
       "source": "cs_webdev_backend_javascript_async_javascript_and_json",
       "target": "cs_webdev_backend_javascript_variables_and_data_types",
       "relation": "references",
@@ -26479,7 +26999,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Home.md",
-      "source_location": "L119",
+      "source_location": "L100",
       "weight": 1.0
     },
     {
@@ -26490,7 +27010,29 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Home.md",
-      "source_location": "L123",
+      "source_location": "L104",
+      "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "cs_webdev_backend_node_js_event_loop_and_non_blocking_io",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": "L128",
+      "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": "L148",
       "weight": 1.0
     },
     {
@@ -26501,21 +27043,10 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "Home.md",
-      "source_location": "L42",
-      "weight": 1.0
-    },
-    {
-      "source": "home",
-      "target": "ext_res_extra_courses",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Home.md",
-      "source_location": "L45",
+      "source_location": "L56",
       "weight": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "437a65a06af0cc00291728a82155c953b15bce59"
+  "built_at_commit": "4331c88f9cdf009d848f129b6459c0983663a4ff"
 }

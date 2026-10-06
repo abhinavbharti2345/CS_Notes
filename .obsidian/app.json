@@ -6,5 +6,8 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "graphify-out/"
+  ]
 }

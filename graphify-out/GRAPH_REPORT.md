@@ -1,16 +1,16 @@
 # Graph Report - My vault  (2026-10-01)
 
 ## Corpus Check
-- 89 files · ~79,613 words
+- 91 files · ~81,233 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1099 nodes · 1176 edges · 73 communities (67 shown, 3 thin omitted)
+- 1121 nodes · 1200 edges · 76 communities (70 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `437a65a0`
+- Built from commit: `4331c88f`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -85,6 +85,9 @@
 - 📊 Classical Machine Learning Foundations
 - 📦 Encapsulation and Decapsulation
 - 🌐 Introduction to Computer Networks
+- Core Modules
+- 📦 2. Layer-by-Layer PDU Breakdown
+- Start Here with TaskNotes
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian CS Knowledge Vault Rules` - 24 edges
@@ -101,7 +104,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (73 total, 3 thin omitted)
+## Communities (76 total, 3 thin omitted)
 
 ### Community 0 - "Obsidian Bases Skill"
 Cohesion: 0.04
@@ -116,8 +119,8 @@ Cohesion: 0.05
 Nodes (33): Basic Callout, Callouts Reference, Custom Callouts (CSS), Foldable Callouts, Nested Callouts, Supported Callout Types, Embed Audio, Embed Bases (+25 more)
 
 ### Community 3 - "Backend/README.md"
-Cohesion: 0.07
-Nodes (35): 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path, Prerequisites, 🔗 Related Notes, What This Prepares You For, 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers) (+27 more)
+Cohesion: 0.08
+Nodes (31): 🕒 01:30 – 02:00 ｜ 🏁 Review & AI Vault Ingestion, 🕒 19:00 – 21:00 ｜ 🥞 Stacks Mastery (DSA), 🕒 21:15 – 23:15 ｜ 🌲 Recursion & Backtracking (DSA), 🕒 23:30 – 01:30 ｜ ⚡ MERN Fullstack Engineering, ✅ Completed Tonight, 🔗 Connections, 🟨 JavaScript Foundations for Backend, 📖 Learning Path (+23 more)
 
 ### Community 4 - "Home.md"
 Cohesion: 0.08
@@ -260,8 +263,8 @@ Cohesion: 0.15
 Nodes (12): 1. Traditional Programming (Rule-Based), 2. Machine Learning (Data-Driven Learning), 🔑 Core Takeaways, 🧠 Introduction to Machine Learning, Next Step, 🔗 Prerequisites & Next Steps, 🔗 Related Notes, 🧩 The 3 Foundational Pillars of ML (+4 more)
 
 ### Community 41 - "Protocol Data Units: Segment, Packet, Frame & Bits"
-Cohesion: 0.15
-Nodes (12): 1️⃣ Application Layer $\to$ Data / Message, ❓ 1. Why Does Networking Have Different Names for "Data"?, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 📊 3. Comprehensive PDU Comparison Matrix, 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop! (+4 more)
+Cohesion: 0.29
+Nodes (6): ❓ 1. Why Does Networking Have Different Names for "Data"?, 📊 3. Comprehensive PDU Comparison Matrix, 💡 4. Packets Are End-to-End, Frames Are Hop-by-Hop!, 🎯 5. Architectural Verification & Summary, Protocol Data Units: Segment, Packet, Frame & Bits, 🔗 Related Notes & Next Concepts
 
 ### Community 42 - "Introduction to Node.js"
 Cohesion: 0.15
@@ -276,11 +279,11 @@ Cohesion: 0.17
 Nodes (11): ☎️ 1. Circuit Switching (The Traditional Model), 📦 2. Packet Switching (The Modern Internet Model), 3-Phase Lifecycle:, ⚡ 3. Why Did the Internet Choose Packet Switching?, ⚔️ 4. Comprehensive Comparison: Packet vs. Circuit Switching, 🏗️ 5. Real-World Architecture & Deep Dive Scenarios, Key Principles of Packet Switching:, 🔗 Related Notes & Next Concepts (+3 more)
 
 ### Community 45 - "🔌 Network Hardware: Hub vs. Switch vs. Router vs. Modem"
-Cohesion: 0.17
+Cohesion: 0.15
 Nodes (12): 🔌 1. Hub — The "Blind Broadcaster" (Layer 1), 🔀 2. Switch — The Intelligent LAN Forwarder (Layer 2), 🌐 3. Router — The Inter-Network Gateway (Layer 3), 📡 4. Modem — The Physical Signal Converter (Layer 1 Interface), 🏠 5. Demystifying Your "Home Wi-Fi Router" Box, 📊 6. Comprehensive Hardware Comparison Matrix, 🎯 7. Scenario Test Answers & Explanations, How a Hub Operates: (+4 more)
 
 ### Community 46 - "MTU and IP Fragmentation"
-Cohesion: 0.17
+Cohesion: 0.18
 Nodes (11): 📏 1. What is MTU?, ✂️ 2. What is IP Fragmentation?, 🧩 3. How IPv4 Fragmentation Works: The 3 Header Fields, 🔢 4. Step-by-Step Numerical Walkthrough, ⚔️ 5. IPv4 vs. IPv6 Fragmentation, 🚫 6. Why Modern Networks Avoid Fragmentation, 🎯 7. Architectural Verification & Key Takeaways, Common Link Layer MTU Standards: (+3 more)
 
 ### Community 47 - "➕ String Arithmetic & Add Binary Pattern"
@@ -371,20 +374,32 @@ Nodes (6): 📊 Classical Machine Learning Foundations, 🔗 Connections, 📖 L
 Cohesion: 0.50
 Nodes (3): ✉️ 1. The Nested Envelopes Analogy, 📦 2. The Step-by-Step Encapsulation Journey, 📦 Encapsulation and Decapsulation
 
+### Community 73 - "Core Modules"
+Cohesion: 0.22
+Nodes (9): 🗂️ 1. The `fs` Module (File System), 🌐 2. The `http` Module (Web Servers), Asynchronous File Reading (Error-First Callback Pattern), Core Modules, Next Step, Prerequisites, 🔗 Prerequisites & Next Steps, 🔗 Related Notes (+1 more)
+
+### Community 74 - "📦 2. Layer-by-Layer PDU Breakdown"
+Cohesion: 0.33
+Nodes (6): 1️⃣ Application Layer $\to$ Data / Message, 📦 2. Layer-by-Layer PDU Breakdown, 2️⃣ Transport Layer $\to$ Segment (TCP) vs. Datagram (UDP), 3️⃣ Network Layer $\to$ Packet (IP Datagram), 4️⃣ Data Link Layer $\to$ Frame, 5️⃣ Physical Layer $\to$ Bits
+
+### Community 75 - "Start Here with TaskNotes"
+Cohesion: 0.12
+Nodes (15): 1. Create a task from the command palette, 2. Convert inline tasks into TaskNotes, 3. Review your tasks, 4. Adjust only what gets in your way, 5. Make it yours, 6. Contextual views, Agenda, Before you start (+7 more)
+
 ## Knowledge Gaps
-- **747 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+742 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 760 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **766 isolated node(s):** `Rule files`, `Critical instruction`, `Read-only requests`, `Obsidian`, `graphify` (+761 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 780 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `🧠 Linked List Core Patterns` connect `🧠 Linked List Core Patterns` to `Home.md`?**
-  _High betweenness centrality (0.045) - this node is a cross-community bridge._
-- **Why does `💡 Bit Manipulation Practice Problems` connect `2. Two Missing Numbers` to `Home.md`?**
   _High betweenness centrality (0.043) - this node is a cross-community bridge._
+- **Why does `💡 Bit Manipulation Practice Problems` connect `2. Two Missing Numbers` to `Home.md`?**
+  _High betweenness centrality (0.042) - this node is a cross-community bridge._
 - **What connects `Rule files`, `Critical instruction`, `Read-only requests` to the rest of the system?**
-  _747 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _766 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Obsidian Bases Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.044444444444444446 - nodes in this community are weakly interconnected._
 - **Should `JSON Canvas Skill` be split into smaller, more focused modules?**
@@ -392,4 +407,4 @@ _Questions this graph is uniquely positioned to answer:_
 - **Should `Obsidian Flavored Markdown Skill` be split into smaller, more focused modules?**
   _Cohesion score 0.05405405405405406 - nodes in this community are weakly interconnected._
 - **Should `Backend/README.md` be split into smaller, more focused modules?**
-  _Cohesion score 0.07215541165587419 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.080338266384778 - nodes in this community are weakly interconnected._

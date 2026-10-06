@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "defaultView": "Home.md",
+  "openOnStartup": true,
+  "openWhenEmpty": true,
+  "manualOpenMode": "replace",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
+  "autoCreate": false,
+  "autoScroll": false,
+  "pin": false,
+  "hideReleaseNotes": true
+}

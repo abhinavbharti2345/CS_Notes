@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "20bf358956c572b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "519cdccdf4c1e49d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/mini-calendar-default.base",
+                "viewName": "Due"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "tasknotes-simple",
+              "title": "mini-calendar-default"
             }
           }
         ]
@@ -167,16 +166,6 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "975e304c3c60440d",
-            "type": "leaf",
-            "state": {
-              "type": "local-llm-chat-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Local LLM"
-            }
           }
         ],
         "currentTab": 3
@@ -194,8 +183,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -207,8 +196,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "project-manager:Project manager": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,24 +210,40 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "templater-obsidian:Templater": false,
       "terminal:Open terminal": false,
-      "local-llm-hub:Open chat": false,
-      "ollama-assistant:Open Ollama Assistant": false
+      "project-manager:Project manager": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "519cdccdf4c1e49d",
   "lastOpenFiles": [
-    "graphify-out/2026-10-01/manifest.json",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "My vault/Study/Study.md",
+    "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
+    "CS/AI & ML/01. Classical ML/01. Introduction to Machine Learning.md",
+    "TaskNotes/Views/tasks-default.base",
+    "My vault/Study/_tasks",
+    "My vault/Study",
+    "My vault",
+    "graphify-out/cache/ast/v0.9.53-s2/82dbcf9409f9f51091bbe2da91be983840d1fabc21a1f6a18516269672d30d1b.json",
+    "graphify-out/cache/ast/v0.9.53-s2/16a8929945100b0909b2b7de1b7202263f8d9933701839cd75e47cbdee6185b1.json",
+    "Home.md",
+    "graphify-out/cache/ast/v0.9.53-s2/cd02b4b10051b1009d559849c11646bb4c63bf6da3fdbbbebe79ef067f9d15c1.json",
+    "graphify-out/cache/ast/v0.9.53-s2/25f87c9bdb8cba4390e1dd0af188ab9a9c728267859db74bc854805459ff18a3.json",
+    "CS/CS Tasks Kanban.md",
+    "TaskNotes/Tasks/study recurssion.md",
+    "2026-10-02.md",
+    "TaskNotes/Start Here.md",
+    "2026-10-01.md",
     "graphify-out/2026-10-01/GRAPH_REPORT.md",
-    "graphify-out/2026-10-01/graph.json",
-    "graphify-out/2026-10-01",
-    "graphify-out/cache/ast/v0.9.53-s2/987d7930912fc24d46c1b855d2a2e7be409a1b025beda351482e5335e891d833.json",
-    "graphify-out/cache/ast/v0.9.53-s2/47e4b9b8c541b85a87956ff6cf8de5cd6ef544a5d7083fe722c05ed887888e5c.json",
-    "graphify-out/cache/ast/v0.9.53-s2/81369adb8a3bb6d9e31f53d9e86b34437f1e147e4b7311835c86cd9b2729047c.json",
-    "graphify-out/cache/ast/v0.9.53-s2/cc5da067f3b693c73a937e8988ebbb8cf7558b184e033b4ebc8ff8512a4128f1.json",
-    "graphify-out/cache/ast/v0.9.53-s2/341620947c7887d93598bd2b44d4199fdcc89afb5d45673fcc3215167c0e8db4.json",
-    "graphify-out/cache/ast/v0.9.53-s2/4468270a4f06c3ac2ff0c0e08e2c6c0982ae2d12c60d7eeb0cc2ce04f31095d3.json",
-    "graphify-out/cache/ast/v0.9.53-s2/a99d05c2a9aaaf5d3fc38ce285d2de243d2c5ec3fe11732c2ec771eca6fd9f15.json",
-    "graphify-out/cache/ast/v0.9.53-s2/6e0767b394859b4470618ccb6d68f5c327bc1e68c0c9e0b39ba0a8ef9ed6eb21.json",
     "CS/Python.md",
     "CS/WebDev/Backend/Node.js/V8 Engine.md",
     "CS/WebDev/Backend/Node.js/README.md",
@@ -255,15 +258,6 @@
     "CS/WebDev/Backend/README.md",
     "CS/WebDev/Backend/ShopKart Auth Project.md",
     "CS/JAVA/README.md",
-    "CS/DSA/06. Stacks & Queues/01. Stack Fundamentals.md",
-    "CS/DSA/06. Stacks & Queues/02. Stack Implementation from Scratch.md",
-    "CS/DSA/06. Stacks & Queues/README.md",
-    "CS/DSA/DSA Problems/67. Add Binary.md",
-    "CS/DSA/04. Bit Manipulation/04. Bit Manipulation Problems.md",
-    "CS/DSA/04. Bit Manipulation/Bit Manipulation.md",
-    "CS/DSA/04. Bit Manipulation/02. Bit Tricks.md",
-    "CS/DSA/04. Bit Manipulation/03. XOR Patterns.md",
-    "CS/DSA/03. Linked Lists/README.md",
-    "CS/DSA/04. Bit Manipulation/01. Bitwise Operators.md"
+    "CS/DSA/06. Stacks & Queues/01. Stack Fundamentals.md"
   ]
 }

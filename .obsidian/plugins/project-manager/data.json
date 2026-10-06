@@ -1,7 +1,9 @@
 {
-  "projectsFolder": "Projects",
+  "projectsFolder": "",
   "peopleFolder": "People",
-  "excludedFolders": [],
+  "excludedFolders": [
+    ""
+  ],
   "defaultView": "table",
   "ganttGranularity": "week",
   "ganttWeekLabel": "weekNumber",

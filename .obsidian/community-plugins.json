@@ -13,11 +13,11 @@
   "editing-toolbar",
   "calendar",
   "terminal",
-  "local-llm-hub",
-  "ollama-assistant",
   "obsidian-charts",
   "advanced-canvas",
   "drawio-obsidian",
   "project-manager",
-  "execute-code"
+  "execute-code",
+  "heatmap-calendar",
+  "tasknotes"
 ]
