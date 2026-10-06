@@ -1,0 +1,72 @@
+/* ==========================================================================
+   ✨ PREMIUM AESTHETIC DIAGRAM SUITE - CLEAN & ROBUST OBSIDIAN DIAGRAMS
+   ========================================================================== */
+
+/* -------------------- 1. DIAGRAM CONTAINER CARD -------------------- */
+.mermaid,
+.block-language-mermaid,
+div[class*="language-mermaid"] {
+  background: rgba(17, 24, 39, 0.4) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 12px !important;
+  padding: 18px 16px !important;
+  margin: 16px 0 !important;
+  overflow-x: auto !important;
+  text-align: center !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25) !important;
+}
+
+/* Ensure Mermaid SVG scales cleanly */
+.mermaid svg,
+.block-language-mermaid svg {
+  max-width: 100% !important;
+  height: auto !important;
+  display: inline-block !important;
+  font-family: inherit !important;
+}
+
+/* Smooth rounded corners on flowchart nodes */
+.mermaid .node rect,
+.block-language-mermaid .node rect {
+  rx: 8px !important;
+  ry: 8px !important;
+}
+
+/* Subtle edge styling */
+.mermaid .edgePath .path,
+.block-language-mermaid .edgePath .path {
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
+
+/* Strip intrusive inline code background within SVG diagrams */
+.mermaid code,
+.block-language-mermaid code,
+.mermaid svg foreignObject code {
+  background: transparent !important;
+  color: inherit !important;
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  font-size: inherit !important;
+}
+
+/* Subgraph and Cluster Title Text */
+.mermaid .cluster text,
+.mermaid .cluster span,
+.block-language-mermaid .cluster text,
+.block-language-mermaid .cluster span {
+  fill: #e2e8f0 !important;
+  color: #e2e8f0 !important;
+  font-weight: 600 !important;
+}
+
+/* -------------------- 2. CHARTS & CANVAS -------------------- */
+.chart-container,
+.obsidian-charts-container {
+  background: rgba(17, 24, 39, 0.4) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 12px !important;
+  padding: 16px !important;
+  margin: 16px 0 !important;
+}

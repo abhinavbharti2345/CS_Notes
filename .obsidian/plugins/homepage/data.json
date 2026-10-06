@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "defaultView": "Home.md",
+  "defaultView": "home.md",
   "openOnStartup": true,
   "openWhenEmpty": true,
   "manualOpenMode": "replace",

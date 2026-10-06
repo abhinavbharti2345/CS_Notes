@@ -1,0 +1,57 @@
+---
+topic: Data Structures & Algorithms
+subtopic: Trees & Binary Search Trees
+type: moc
+tags:
+  - dsa
+  - trees
+  - bst
+  - moc
+  - roadmap
+date: 2026-10-06
+---
+
+# 🌳 07. Trees & Binary Search Trees (BSTs)
+
+> [!abstract] Module Overview
+> Master hub for hierarchical data structures, binary trees, binary search trees (BST), balanced trees (AVL/Red-Black), tree traversals (DFS & BFS), and algorithmic tree patterns.
+
+---
+
+## 🗺️ Module Knowledge Graph & Roadmap
+
+```mermaid
+flowchart TD
+    T1["<b>01. Fundamentals</b><br/><i>Hierarchy, Nodes, Terminology & Height</i>"]
+    T2["<b>02. Tree Traversals</b><br/><i>Preorder, Inorder, Postorder & Level-Order (BFS)</i>"]
+    T3["<b>03. Binary Search Trees (BST)</b><br/><i>Search, Insert, Delete, Inorder Invariant</i>"]
+    T4["<b>04. Construction & Views</b><br/><i>Tree from Traversals, Top/Bottom/Side Views</i>"]
+    T5["<b>05. Advanced Patterns</b><br/><i>LCA, Diameter, Max Path Sum, Serialization</i>"]
+
+    T1 --> T2 --> T3 --> T4 --> T5
+
+    classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
+    class T1 active;
+    class T2,T3,T4,T5 planned;
+```
+
+---
+
+## 📑 Module Notes
+
+1. **[[01. Binary Tree Fundamentals|01. Binary Tree Fundamentals]]**
+   - What is a Tree (Hierarchical vs Linear)
+   - Node anatomy & Java class structure
+   - Binary Tree definitions & invariants
+   - Terminology (Root, Parent, Child, Siblings, Leaf)
+   - Concept Verification Quiz (5/5 mastery check)
+   - Height calculations & Edge vs Node conventions
+   - Manual Java tree construction (`root.left`, `root.left.right` pointer tracing)
+
+---
+
+## 🔗 Master Connections
+- [[CS/DSA/README|DSA Master Roadmap]]
+- [[CS/DSA/Quick Look|⚡ Quick Formula & Pattern Cheatsheet]]
+- [[home|🧭 Main Command Center]]

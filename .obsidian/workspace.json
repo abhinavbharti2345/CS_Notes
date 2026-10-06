@@ -11,13 +11,14 @@
             "id": "519cdccdf4c1e49d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/mini-calendar-default.base",
-                "viewName": "Due"
+                "file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "mini-calendar-default"
+              "icon": "lucide-file",
+              "title": "01. Binary Tree Fundamentals"
             }
           }
         ]
@@ -223,21 +224,26 @@
   },
   "active": "519cdccdf4c1e49d",
   "lastOpenFiles": [
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
+    "graphify-out/cache/ast/v0.9.53-s2/5900ecaa033fa7836b8760ab935d9773737c6e0af8243986e6f0c1f3ddbe123a.json",
+    "graphify-out/cache/ast/v0.9.53-s2/680c3549c7b8a0b6b35c841f0ee6a0fc9721d1d7205b2bed253ca18b3a40eb54.json",
+    "graphify-out/cache/ast/v0.9.53-s2/b7cd7c84f2853318aa64a901164637320f39b960aae7772af768b47a6916d047.json",
+    "graphify-out/cache/ast/v0.9.53-s2/3043b9c77a5526c47812f38fca89deca4a84311dd9812649ed3782cc90ed7f6b.json",
+    "graphify-out/cache/ast/v0.9.53-s2/99fbea83334f2d0d790488c7b1960841865ac7f92e9daa729d83064cf3966c1d.json",
+    "graphify-out/cache/ast/v0.9.53-s2/70751885cfb5b8ce11b8f12bb50e34fe02c48db47890a0e785dfbed7f224311a.json",
+    "CS/DSA/06. Stacks & Queues/01. Stack Fundamentals.md",
+    "graphify-out/cache/ast/v0.9.53-s2/fc6080931bdfce797c23d249984c66f036a29fdc241df6b9b809f06241af06af.json",
+    "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+    "home.md",
+    "graphify-out/cache/ast/v0.9.53-s2/2bcefe56fb718c17e4f7e6c61de645055c7156ac14f48401aa550df3dc17faf1.json",
+    "graphify-out/cache/ast/v0.9.53-s2/7d05b01b70b77b2f36428f4ba48f74d4137bb04c93f19e59a048b04ebe1ecb13.json",
+    "graphify-out/cache/ast/v0.9.53-s2/d110b8dd9a4a4bb48cedce4ff6aeec96448a54e2c3ea9be9d8c5c99a32f0b7da.json",
+    "graphify-out/cache/ast/v0.9.53-s2/4650dac69eb4c420e77539a929f87e838687c87f33910505d4814c9ca59b070d.json",
+    "CS/DSA/07. Trees & BSTs/README.md",
+    "graphify-out/2026-10-06/GRAPH_REPORT.md",
     "My vault/Study/Study.md",
     "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
     "CS/AI & ML/01. Classical ML/01. Introduction to Machine Learning.md",
-    "TaskNotes/Views/tasks-default.base",
-    "My vault/Study/_tasks",
-    "My vault/Study",
-    "My vault",
-    "graphify-out/cache/ast/v0.9.53-s2/82dbcf9409f9f51091bbe2da91be983840d1fabc21a1f6a18516269672d30d1b.json",
-    "graphify-out/cache/ast/v0.9.53-s2/16a8929945100b0909b2b7de1b7202263f8d9933701839cd75e47cbdee6185b1.json",
     "Home.md",
-    "graphify-out/cache/ast/v0.9.53-s2/cd02b4b10051b1009d559849c11646bb4c63bf6da3fdbbbebe79ef067f9d15c1.json",
-    "graphify-out/cache/ast/v0.9.53-s2/25f87c9bdb8cba4390e1dd0af188ab9a9c728267859db74bc854805459ff18a3.json",
     "CS/CS Tasks Kanban.md",
     "TaskNotes/Tasks/study recurssion.md",
     "2026-10-02.md",
@@ -253,11 +259,6 @@
     "CS/WebDev/Backend/JavaScript/Variables and Data Types.md",
     "CS/WebDev/Backend/JavaScript/README.md",
     "CS/WebDev/Backend/JavaScript/Objects and Destructuring.md",
-    "CS/WebDev/Backend/JavaScript/Async JavaScript and JSON.md",
-    "CS/WebDev/Backend/JavaScript/Functions and Control Flow.md",
-    "CS/WebDev/Backend/README.md",
-    "CS/WebDev/Backend/ShopKart Auth Project.md",
-    "CS/JAVA/README.md",
-    "CS/DSA/06. Stacks & Queues/01. Stack Fundamentals.md"
+    "CS/WebDev/Backend/JavaScript/Async JavaScript and JSON.md"
   ]
 }

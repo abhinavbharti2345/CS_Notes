@@ -1,3 +1,8 @@
 .tmp.driveupload/
 *.tmp
 *.tmp.*
+
+# Graphify
+graphify-out/
+.graphify/
+

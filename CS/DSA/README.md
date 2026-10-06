@@ -37,8 +37,8 @@ flowchart TD
 
     classDef active fill:#10b98118,stroke:#10b981,stroke-width:2px;
     classDef planned fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
-    class M1,M2,M3,M4 active;
-    class M0,M5,M6,M7,M8,M9,M10 planned;
+    class M1,M2,M3,M4,M6,M7 active;
+    class M0,M5,M8,M9,M10 planned;
 ```
 
 ---
@@ -71,10 +71,14 @@ Bit-level integer representation, operators, low-level tricks, and algorithmic X
 Restricted access LIFO and FIFO linear structures, monotonic stacks, and parsing:
 - **01.** [[01. Stack Fundamentals|🥞 01. Stack Fundamentals]] — LIFO mechanics, `push`/`pop`/`peek`/`isEmpty`, Java `ArrayDeque`, custom array stack, and interview use cases.
 
+### 🌳 [[CS/DSA/07. Trees & BSTs/README|07. Trees & BSTs]]
+Hierarchical structures, binary trees, binary search trees, and traversals:
+- **01.** [[CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals|🌳 01. Binary Tree Fundamentals]] — Tree hierarchy vs arrays, Node anatomy, Java implementation, Binary tree rule, Terminology (Root, Parent, Child, Siblings, Leaf), and Height conventions (Edge vs Node).
+
 ---
 
 ## 🔗 Quick Links & Reference
-- [[Home|🧭 Main Command Center]]
+- [[home|🧭 Main Command Center]]
 - [[Quick Look|⚡ Quick Look & Cheatsheet (Frequently Forgotten Syntax)]]
 - [[CS/DSA/01. Strings/README|🔤 01. Strings Master Note]]
 - [[Binary Search|🔍 Binary Search]]
@@ -83,5 +87,7 @@ Restricted access LIFO and FIFO linear structures, monotonic stacks, and parsing
 - [[02. Linked List Patterns|🧠 Linked List Patterns]]
 - [[Bit Manipulation|📁 Bit Manipulation Master Note]]
 - [[04. Bit Manipulation Problems|💡 Bit Manipulation Problems]]
+- [[CS/DSA/07. Trees & BSTs/README|🌳 07. Trees & BSTs Master Note]]
+- [[CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals|🌳 01. Binary Tree Fundamentals]]
 
 

@@ -444,9 +444,9 @@
     "semantic_hash": ""
   },
   "CS/DSA/README.md": {
-    "mtime": 1790853601.5595193,
-    "seen": 1790853615.0861614,
-    "ast_hash": "993b399afc9135e1edcb684a356f9756",
+    "mtime": 1791277061.465067,
+    "seen": 1791277078.0794518,
+    "ast_hash": "801d4891e75dd6d01e419d75a523dccd",
     "semantic_hash": ""
   },
   "CS/JAVA/README.md": {
@@ -539,10 +539,28 @@
     "ast_hash": "aebc6a2e632a9b9f8b6565803d603318",
     "semantic_hash": ""
   },
-  "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md": {
-    "mtime": 1790855770.0973725,
-    "seen": 1790855779.2321253,
-    "ast_hash": "6f50061930d4913b2416509b22775243",
+  "My vault/Study/Study.md": {
+    "mtime": 1790855883.637935,
+    "seen": 1791276910.5627167,
+    "ast_hash": "a83851f5884dce29a6328c16d6aafc7a",
+    "semantic_hash": ""
+  },
+  "home.md": {
+    "mtime": 1791277069.8172398,
+    "seen": 1791277078.0794654,
+    "ast_hash": "1b0245f743c7b0d172216a167a68e03c",
+    "semantic_hash": ""
+  },
+  "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md": {
+    "mtime": 1791277867.8332486,
+    "seen": 1791277896.909769,
+    "ast_hash": "d5e47bc1697b91733af85bad37b802db",
+    "semantic_hash": ""
+  },
+  "CS/DSA/07. Trees & BSTs/README.md": {
+    "mtime": 1791277888.9451158,
+    "seen": 1791277896.9097703,
+    "ast_hash": "ff5e3ce9182102c0b40a8e7f8189295b",
     "semantic_hash": ""
   }
 }

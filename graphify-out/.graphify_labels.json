@@ -3,7 +3,7 @@
   "1": "JSON Canvas Skill",
   "2": "Obsidian Flavored Markdown Skill",
   "3": "Backend/README.md",
-  "4": "Home.md",
+  "4": "home.md",
   "5": "2. Two Missing Numbers",
   "6": "🧱 Linked List Fundamentals",
   "7": "📊 Regression Evaluation Metrics (MSE, RMSE, MAE, $R^2$)",
@@ -56,7 +56,7 @@
   "54": "🏷️ Categorical Encoding: Nominal vs. Ordinal",
   "55": "Ethernet and MAC Addressing",
   "56": "⚡ Bit Manipulation",
-  "57": "V8 Engine",
+  "57": "🌳 Binary Tree Fundamentals",
   "58": "Network Protocols and Standards",
   "59": "📚 Active Modules",
   "60": "🔁 End-to-End ML Pipeline",
@@ -72,7 +72,7 @@
   "70": "📦 Encapsulation and Decapsulation",
   "71": "🌐 Introduction to Computer Networks",
   "72": "vault-organization.md",
-  "73": "Core Modules",
-  "74": "📦 2. Layer-by-Layer PDU Breakdown",
+  "73": "V8 Engine",
+  "74": "🥞 Stacks & Queues Module",
   "75": "Start Here with TaskNotes"
 }

@@ -5475,81 +5475,6 @@
       "source_location": "L1"
     },
     {
-      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "label": "Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "frontmatter": {
-        "kanban-plugin": "basic"
-      },
-      "node_kind": "page",
-      "norm_label": "study plan - 2026-10-01 (stacks, recursion, mern).md",
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L1"
-    },
-    {
-      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_01_30_02_00_review_ai_vault_ingestion",
-      "label": "\ud83d\udd52 01:30 \u2013 02:00 \uff5c \ud83c\udfc1 Review & AI Vault Ingestion",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd52 01:30 \u2013 02:00 | \ud83c\udfc1 review & ai vault ingestion",
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L37"
-    },
-    {
-      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_19_00_21_00_stacks_mastery_dsa",
-      "label": "\ud83d\udd52 19:00 \u2013 21:00 \uff5c \ud83e\udd5e Stacks Mastery (DSA)",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd52 19:00 \u2013 21:00 | \ud83e\udd5e stacks mastery (dsa)",
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L10"
-    },
-    {
-      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_21_15_23_15_recursion_backtracking_dsa",
-      "label": "\ud83d\udd52 21:15 \u2013 23:15 \uff5c \ud83c\udf32 Recursion & Backtracking (DSA)",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd52 21:15 \u2013 23:15 | \ud83c\udf32 recursion & backtracking (dsa)",
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L19"
-    },
-    {
-      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_23_30_01_30_mern_fullstack_engineering",
-      "label": "\ud83d\udd52 23:30 \u2013 01:30 \uff5c \u26a1 MERN Fullstack Engineering",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd52 23:30 \u2013 01:30 | \u26a1 mern fullstack engineering",
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L28"
-    },
-    {
-      "id": "cs_study_plan_2026_10_01_stacks_recursion_mern_completed_tonight",
-      "label": "\u2705 Completed Tonight",
-      "_origin": "ast",
-      "community": 3,
-      "community_name": "Backend/README.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\u2705 completed tonight",
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L44"
-    },
-    {
       "id": "cs_webdev_backend_javascript_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
@@ -5620,6 +5545,114 @@
       "norm_label": "what this prepares you for",
       "source_file": "CS/WebDev/Backend/JavaScript/README.md",
       "source_location": "L52"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
+      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L29"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
+      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
+      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "asynchronous file reading (error-first callback pattern)",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L33"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_core_modules",
+      "label": "Core Modules",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "core modules",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L12"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_next_step",
+      "label": "Next Step",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "next step",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L86"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_prerequisites",
+      "label": "Prerequisites",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "prerequisites",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L82"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_prerequisites_next_steps",
+      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 prerequisites & next steps",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L80"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_related_notes",
+      "label": "\ud83d\udd17 Related Notes",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_core_modules_what_are_core_modules",
+      "label": "\ud83d\udce6 What Are Core Modules?",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "Backend/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 what are core modules?",
+      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
+      "source_location": "L14"
     },
     {
       "id": "cs_webdev_backend_node_js_readme_connections",
@@ -7576,11 +7609,54 @@
       "source_location": "L14"
     },
     {
+      "id": "home",
+      "label": "home.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "frontmatter": {
+        "title": "Command Center",
+        "type": "dashboard",
+        "banner_icon": "\ud83d\ude80",
+        "created": "2026-10-06"
+      },
+      "node_kind": "page",
+      "norm_label": "home.md",
+      "source_file": "home.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "my_vault_study_study",
+      "label": "Study.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "frontmatter": {
+        "pm-project": "true",
+        "id": "gi8akadcmuphcrjj",
+        "title": "Study",
+        "color": "#8b72be",
+        "icon": "\ud83d\udccb",
+        "taskIds": "[]",
+        "customFields": "[]",
+        "teamMembers": "[]",
+        "savedViews": "[]",
+        "createdAt": "2026-10-01T11:58:03.631Z",
+        "updatedAt": "2026-10-01T11:58:03.631Z"
+      },
+      "node_kind": "page",
+      "norm_label": "study.md",
+      "source_file": "My vault/Study/Study.md",
+      "source_location": "L1"
+    },
+    {
       "id": "cs_dsa_04_bit_manipulation_01_bitwise_operators",
       "label": "01. Bitwise Operators.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7598,7 +7674,7 @@
       "label": "02. Bit Tricks.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7616,7 +7692,7 @@
       "label": "03. XOR Patterns.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7634,7 +7710,7 @@
       "label": "Bit Manipulation.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7652,7 +7728,7 @@
       "label": "04. Bit Manipulation Problems.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7670,7 +7746,7 @@
       "label": "DSA/README.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7687,7 +7763,7 @@
       "label": "Add Binary & String Arithmetic.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7705,7 +7781,7 @@
       "label": "StringBuilder.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7723,7 +7799,7 @@
       "label": "01. Strings/README.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7741,7 +7817,7 @@
       "label": "Quick Look.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7758,7 +7834,7 @@
       "label": "JAVA/README.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Java Programming",
@@ -7775,7 +7851,7 @@
       "label": "67. Add Binary.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7796,7 +7872,7 @@
       "label": "Binary Search.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7814,7 +7890,7 @@
       "label": "01. Linked List Fundamentals.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7832,7 +7908,7 @@
       "label": "02. Linked List Patterns.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7850,7 +7926,7 @@
       "label": "03. Linked Lists/README.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7868,7 +7944,7 @@
       "label": "01. Stack Fundamentals.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7886,7 +7962,7 @@
       "label": "06. Stacks & Queues/README.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7904,7 +7980,7 @@
       "label": "02. Stack Implementation from Scratch.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "topic": "Data Structures &amp; Algorithms",
@@ -7918,11 +7994,47 @@
       "source_location": "L1"
     },
     {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals",
+      "label": "01. Binary Tree Fundamentals.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Trees &amp; BSTs",
+        "type": "concept",
+        "date": "2026-10-06"
+      },
+      "node_kind": "page",
+      "norm_label": "01. binary tree fundamentals.md",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_readme",
+      "label": "07. Trees & BSTs/README.md",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Data Structures &amp; Algorithms",
+        "subtopic": "Trees &amp; Binary Search Trees",
+        "type": "moc",
+        "date": "2026-10-06"
+      },
+      "node_kind": "page",
+      "norm_label": "07. trees & bsts/readme.md",
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L1"
+    },
+    {
       "id": "agents_rules_quick_look",
       "label": "quick-look.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "frontmatter": {
         "description": "Rule for managing the Quick Look / Take a Look cheatsheet for frequently forgotten syntax and utilities"
@@ -7937,7 +8049,7 @@
       "label": "Actions to Take",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "actions to take",
@@ -7949,7 +8061,7 @@
       "label": "Purpose",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "purpose",
@@ -7961,7 +8073,7 @@
       "label": "Quick Look / Take a Look Cheatsheet Rule",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "quick look / take a look cheatsheet rule",
@@ -7973,7 +8085,7 @@
       "label": "Trigger Conditions",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "trigger conditions",
@@ -7985,7 +8097,7 @@
       "label": "\u26a1 Essential String Idioms (Java)",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u26a1 essential string idioms (java)",
@@ -7997,7 +8109,7 @@
       "label": "\ud83d\uddfa\ufe0f Module Learning Path",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\uddfa\ufe0f module learning path",
@@ -8009,7 +8121,7 @@
       "label": "\ud83d\udcda Module Notes",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udcda module notes",
@@ -8021,7 +8133,7 @@
       "label": "\ud83d\udca1 Practice Problems",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udca1 practice problems",
@@ -8033,7 +8145,7 @@
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
@@ -8045,7 +8157,7 @@
       "label": "\ud83d\udd24 Strings & String Manipulation",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd24 strings & string manipulation",
@@ -8057,7 +8169,7 @@
       "label": "\ud83d\udd17 Linked Lists Module",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 linked lists module",
@@ -8069,7 +8181,7 @@
       "label": "\ud83e\udded Module Learning Path",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83e\udded module learning path",
@@ -8081,7 +8193,7 @@
       "label": "\ud83d\udcda Module Notes",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udcda module notes",
@@ -8093,7 +8205,7 @@
       "label": "\u26a1 Quick Comparison: Array vs. Linked List",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u26a1 quick comparison: array vs. linked list",
@@ -8105,7 +8217,7 @@
       "label": "\ud83d\udd17 Related Notes & Navigation",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes & navigation",
@@ -8113,83 +8225,59 @@
       "source_location": "L87"
     },
     {
-      "id": "cs_dsa_06_stacks_queues_readme_module_learning_path",
-      "label": "\ud83d\uddfa\ufe0f Module Learning Path",
+      "id": "cs_dsa_07_trees_bsts_readme_07_trees_binary_search_trees_bsts",
+      "label": "\ud83c\udf33 07. Trees & Binary Search Trees (BSTs)",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uddfa\ufe0f module learning path",
-      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
-      "source_location": "L21"
-    },
-    {
-      "id": "cs_dsa_06_stacks_queues_readme_related_notes_navigation",
-      "label": "\ud83d\udd17 Related Notes & Navigation",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Home.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes & navigation",
-      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
-      "source_location": "L90"
-    },
-    {
-      "id": "cs_dsa_06_stacks_queues_readme_stacks_1_foundations",
-      "label": "\ud83e\uddf1 Stacks 1 \u2014 Foundations",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Home.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\uddf1 stacks 1 \u2014 foundations",
-      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
-      "source_location": "L62"
-    },
-    {
-      "id": "cs_dsa_06_stacks_queues_readme_stacks_2_monotonic_stack_patterns",
-      "label": "\ud83e\udde0 Stacks 2 \u2014 Monotonic Stack Patterns",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Home.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udde0 stacks 2 \u2014 monotonic stack patterns",
-      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
-      "source_location": "L78"
-    },
-    {
-      "id": "cs_dsa_06_stacks_queues_readme_stacks_queues_module",
-      "label": "\ud83e\udd5e Stacks & Queues Module",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Home.md",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83e\udd5e stacks & queues module",
-      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "norm_label": "\ud83c\udf33 07. trees & binary search trees (bsts)",
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
       "source_location": "L14"
     },
     {
-      "id": "cs_dsa_06_stacks_queues_readme_syllabus_notes_breakdown",
-      "label": "\ud83d\udcda Syllabus & Notes Breakdown",
+      "id": "cs_dsa_07_trees_bsts_readme_master_connections",
+      "label": "\ud83d\udd17 Master Connections",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udcda syllabus & notes breakdown",
-      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
-      "source_location": "L60"
+      "norm_label": "\ud83d\udd17 master connections",
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_readme_module_knowledge_graph_roadmap",
+      "label": "\ud83d\uddfa\ufe0f Module Knowledge Graph & Roadmap",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f module knowledge graph & roadmap",
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_readme_module_notes",
+      "label": "\ud83d\udcd1 Module Notes",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcd1 module notes",
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L41"
     },
     {
       "id": "cs_java_readme_connections",
       "label": "\ud83d\udd17 Connections",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 connections",
@@ -8201,7 +8289,7 @@
       "label": "\ud83d\uddfa\ufe0f Core Topics",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\uddfa\ufe0f core topics",
@@ -8213,7 +8301,7 @@
       "label": "\u2615 Java Knowledge Base & Roadmap",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u2615 java knowledge base & roadmap",
@@ -8225,7 +8313,7 @@
       "label": "\u26a1 Quick Reference & Syntax",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\u26a1 quick reference & syntax",
@@ -8237,7 +8325,7 @@
       "label": "Python.md",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "python.md",
@@ -8245,23 +8333,11 @@
       "source_location": "L1"
     },
     {
-      "id": "home",
-      "label": "Home.md",
-      "_origin": "ast",
-      "community": 4,
-      "community_name": "Home.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "home.md",
-      "source_file": "Home.md",
-      "source_location": "L1"
-    },
-    {
       "id": "home_active_tasks_study_sprints",
       "label": "\ud83d\udccb Active Tasks & Study Sprints",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udccb active tasks & study sprints",
@@ -8273,7 +8349,7 @@
       "label": "\ud83e\udde0 Comprehensive Master Roadmaps (Click to Expand)",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83e\udde0 comprehensive master roadmaps (click to expand)",
@@ -8285,7 +8361,7 @@
       "label": "\ud83c\udfdb\ufe0f CS Domain Matrix",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83c\udfdb\ufe0f cs domain matrix",
@@ -8297,12 +8373,24 @@
       "label": "\ud83d\uddfa\ufe0f Visual Architecture Map",
       "_origin": "ast",
       "community": 4,
-      "community_name": "Home.md",
+      "community_name": "home.md",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\uddfa\ufe0f visual architecture map",
       "source_file": "Home.md",
       "source_location": "L5"
+    },
+    {
+      "id": "my_vault_study_study_study",
+      "label": "\ud83d\udccb Study",
+      "_origin": "ast",
+      "community": 4,
+      "community_name": "home.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udccb study",
+      "source_file": "My vault/Study/Study.md",
+      "source_location": "L15"
     },
     {
       "id": "cs_ai_ml_01_classical_ml_01_introduction_to_machine_learning",
@@ -8483,6 +8571,18 @@
       "source_location": "L1"
     },
     {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
+      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L99"
+    },
+    {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_1_why_does_networking_have_different_names_for_data",
       "label": "\u2753 1. Why Does Networking Have Different Names for \"Data\"?",
       "_origin": "ast",
@@ -8495,6 +8595,30 @@
       "source_location": "L28"
     },
     {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
+      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
+      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L105"
+    },
+    {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_3_comprehensive_pdu_comparison_matrix",
       "label": "\ud83d\udcca 3. Comprehensive PDU Comparison Matrix",
       "_origin": "ast",
@@ -8505,6 +8629,30 @@
       "norm_label": "\ud83d\udcca 3. comprehensive pdu comparison matrix",
       "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L152"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
+      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L126"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
+      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L136"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_4_packets_are_end_to_end_frames_are_hop_by_hop",
@@ -8529,6 +8677,18 @@
       "norm_label": "\ud83c\udfaf 5. architectural verification & summary",
       "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
       "source_location": "L185"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
+      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
+      "_origin": "ast",
+      "community": 41,
+      "community_name": "Protocol Data Units: Segment, Packet, Frame & Bits",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_location": "L147"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_protocol_data_units_segment_packet_frame_bits",
@@ -9009,23 +9169,6 @@
       "source_location": "L129"
     },
     {
-      "id": "cs_computer_networking_01_architecture_fundamentals_05_network_hardware_hub_switch_router_modem",
-      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "\ud83d\udd0c Network Hardware: Hub vs. Switch vs. Router vs. Modem",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "05. network hardware - hub, switch, router, modem.md",
-      "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/05. Network Hardware - Hub, Switch, Router, Modem.md",
-      "source_location": "L1"
-    },
-    {
       "id": "cs_computer_networking_01_architecture_fundamentals_05_network_hardware_hub_switch_router_modem_1_hub_the_blind_broadcaster_layer_1",
       "label": "\ud83d\udd0c 1. Hub \u2014 The \"Blind Broadcaster\" (Layer 1)",
       "_origin": "ast",
@@ -9168,6 +9311,23 @@
       "norm_label": "switch vs. router core distinction:",
       "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/05. Network Hardware - Hub, Switch, Router, Modem.md",
       "source_location": "L128"
+    },
+    {
+      "id": "cs_computer_networking_02_data_flow_encapsulation_05_mtu_and_fragmentation",
+      "label": "05. MTU and Fragmentation.md",
+      "_origin": "ast",
+      "community": 46,
+      "community_name": "MTU and IP Fragmentation",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "05. mtu and fragmentation.md",
+      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/05. MTU and Fragmentation.md",
+      "source_location": "L1"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_05_mtu_and_fragmentation_1_what_is_mtu",
@@ -9444,23 +9604,6 @@
       "norm_label": "\ud83e\udde0 why `stringbuilder` instead of `string`?",
       "source_file": "CS/DSA/01. Strings/Add Binary & String Arithmetic.md",
       "source_location": "L61"
-    },
-    {
-      "id": "cs_computer_networking_01_architecture_fundamentals_06_osi_vs_tcp_ip_model",
-      "label": "06. OSI vs TCP-IP Model.md",
-      "_origin": "ast",
-      "community": 48,
-      "community_name": "\ud83c\udfdb\ufe0f Layered Network Models: OSI vs. TCP/IP Architecture",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "Computer Networks",
-        "type": "concept",
-        "date": "2026-09-18"
-      },
-      "node_kind": "page",
-      "norm_label": "06. osi vs tcp-ip model.md",
-      "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/06. OSI vs TCP-IP Model.md",
-      "source_location": "L1"
     },
     {
       "id": "cs_computer_networking_01_architecture_fundamentals_06_osi_vs_tcp_ip_model_1_why_do_networks_use_layers",
@@ -10601,23 +10744,6 @@
       "source_location": "L132"
     },
     {
-      "id": "cs_ai_ml_02_data_preprocessing_02_categorical_encoding",
-      "label": "02. Categorical Encoding.md",
-      "_origin": "ast",
-      "community": 54,
-      "community_name": "\ud83c\udff7\ufe0f Categorical Encoding: Nominal vs. Ordinal",
-      "file_type": "document",
-      "frontmatter": {
-        "topic": "AI &amp; ML",
-        "type": "concept",
-        "date": "2026-09-21"
-      },
-      "node_kind": "page",
-      "norm_label": "02. categorical encoding.md",
-      "source_file": "CS/AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
-      "source_location": "L1"
-    },
-    {
       "id": "cs_ai_ml_02_data_preprocessing_02_categorical_encoding_1_what_is_a_categorical_variable",
       "label": "\ud83e\udde9 1. What is a Categorical Variable?",
       "_origin": "ast",
@@ -10971,124 +11097,244 @@
       "source_location": "L129"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_execution_flow",
-      "label": "Execution Flow:",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_1_what_is_a_tree",
+      "label": "1. What is a Tree?",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "execution flow:",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L98"
+      "norm_label": "1. what is a tree?",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L23"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_how_does_node_js_use_v8",
-      "label": "\ud83e\udd14 How Does Node.js Use V8?",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_2_what_is_a_node",
+      "label": "2. What is a Node?",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udd14 how does node.js use v8?",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L53"
+      "norm_label": "2. what is a node?",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L69"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_next_step",
-      "label": "Next Step",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_3_what_makes_it_a_binary_tree",
+      "label": "3. What Makes it a Binary Tree?",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "next step",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L123"
+      "norm_label": "3. what makes it a binary tree?",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L152"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_prerequisites",
-      "label": "Prerequisites",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_4_important_terminology",
+      "label": "4. Important Terminology",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "prerequisites",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L120"
+      "norm_label": "4. important terminology",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L196"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_prerequisites_next_steps",
-      "label": "\ud83d\udd17 Prerequisites & Next Steps",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_5_one_very_important_concept_height",
+      "label": "5. One VERY Important Concept: Height",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L118"
+      "norm_label": "5. one very important concept: height",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L258"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_related_notes",
-      "label": "\ud83d\udd17 Related Notes",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_6_building_a_binary_tree_in_java_manual_construction",
+      "label": "6. Building a Binary Tree in Java (Manual Construction)",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L126"
+      "norm_label": "6. building a binary tree in java (manual construction)",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L324"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_v8_engine",
-      "label": "V8 Engine",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_7_summary_cheatsheet",
+      "label": "7. Summary Cheatsheet",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "v8 engine",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L12"
+      "norm_label": "7. summary cheatsheet",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L407"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_what_is_a_javascript_engine",
-      "label": "\ud83e\udde0 What is a JavaScript Engine?",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_anatomical_structure_of_a_node",
+      "label": "Anatomical Structure of a Node",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83e\udde0 what is a javascript engine?",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L14"
+      "norm_label": "anatomical structure of a node",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L93"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_what_is_v8",
-      "label": "\ud83d\ude80 What is V8?",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "label": "\ud83c\udf33 Binary Tree Fundamentals",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\ude80 what is v8?",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L41"
+      "norm_label": "\ud83c\udf33 binary tree fundamentals",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L15"
     },
     {
-      "id": "cs_webdev_backend_node_js_v8_engine_why_node_gives_javascript_hands",
-      "label": "\ud83d\udc50 Why Node Gives JavaScript \"Hands\"",
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_child_count_breakdown",
+      "label": "Child Count Breakdown:",
       "_origin": "ast",
       "community": 57,
-      "community_name": "V8 Engine",
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\udc50 why node gives javascript \"hands\"",
-      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
-      "source_location": "L75"
+      "norm_label": "child count breakdown:",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L185"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_convention_1_edge_based_definition_most_common_in_theory",
+      "label": "Convention 1: Edge-Based Definition (Most Common in Theory)",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "convention 1: edge-based definition (most common in theory)",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L295"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_convention_2_node_based_definition_common_in_recursive_problems",
+      "label": "Convention 2: Node-Based Definition (Common in Recursive Problems)",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "convention 2: node-based definition (common in recursive problems)",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L307"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_finding_the_longest_path",
+      "label": "Finding the Longest Path",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "finding the longest path",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L260"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_in_java_concept_class_definition",
+      "label": "In Java (Concept & Class Definition)",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "in java (concept & class definition)",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L133"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_linear_vs_hierarchical",
+      "label": "Linear vs Hierarchical",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "linear vs hierarchical",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L61"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_related_next_steps",
+      "label": "\ud83d\udd17 Related & Next Steps",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related & next steps",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L447"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_step_1_the_basic_node_class",
+      "label": "Step 1: The Basic Node Class",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "step 1: the basic node class",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L326"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_step_2_manually_assembling_the_tree_structure",
+      "label": "Step 2: Manually Assembling the Tree Structure",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "step 2: manually assembling the tree structure",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L353"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_step_3_understanding_the_pointer_mechanics",
+      "label": "Step 3: Understanding the Pointer Mechanics",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "step 3: understanding the pointer mechanics",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L397"
+    },
+    {
+      "id": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_the_real_world_analogy_file_systems",
+      "label": "The Real-World Analogy: File Systems",
+      "_origin": "ast",
+      "community": 57,
+      "community_name": "\ud83c\udf33 Binary Tree Fundamentals",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "the real-world analogy: file systems",
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L29"
     },
     {
       "id": "cs_computer_networking_02_data_flow_encapsulation_01_network_protocols_and_standards",
@@ -11276,6 +11522,18 @@
       "source_location": "L70"
     },
     {
+      "id": "cs_dsa_readme_cs_dsa_07_trees_bsts_readme_07_trees_bsts",
+      "label": "\ud83c\udf33 [[CS/DSA/07. Trees & BSTs/README|07. Trees & BSTs]]",
+      "_origin": "ast",
+      "community": 59,
+      "community_name": "\ud83d\udcda Active Modules",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83c\udf33 [[cs/dsa/07. trees & bsts/readme|07. trees & bsts]]",
+      "source_file": "CS/DSA/README.md",
+      "source_location": "L74"
+    },
+    {
       "id": "cs_dsa_readme_data_structures_algorithms_dsa_knowledge_base",
       "label": "\ud83c\udf33 Data Structures & Algorithms (DSA) Knowledge Base",
       "_origin": "ast",
@@ -11309,7 +11567,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 quick links & reference",
       "source_file": "CS/DSA/README.md",
-      "source_location": "L76"
+      "source_location": "L80"
     },
     {
       "id": "cs_dsa_03_linked_lists_01_linked_list_fundamentals_10_the_3_pointer_mental_model",
@@ -11720,6 +11978,23 @@
       "source_location": "L101"
     },
     {
+      "id": "cs_computer_networking_03_ip_addressing_subnetting_02_network_id_and_host_id",
+      "label": "02. Network ID and Host ID.md",
+      "_origin": "ast",
+      "community": 61,
+      "community_name": "Network ID and Host ID",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "Computer Networks",
+        "type": "concept",
+        "date": "2026-09-18"
+      },
+      "node_kind": "page",
+      "norm_label": "02. network id and host id.md",
+      "source_file": "CS/Computer Networking/03. IP Addressing & Subnetting/02. Network ID and Host ID.md",
+      "source_location": "L1"
+    },
+    {
       "id": "cs_computer_networking_03_ip_addressing_subnetting_02_network_id_and_host_id_1_the_street_name_house_number_analogy",
       "label": "\ud83c\udfd8\ufe0f 1. The Street Name & House Number Analogy",
       "_origin": "ast",
@@ -12056,6 +12331,23 @@
       "node_kind": "page",
       "norm_label": "01. classical ml/readme.md",
       "source_file": "CS/AI & ML/01. Classical ML/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "cs_ai_ml_02_data_preprocessing_02_categorical_encoding",
+      "label": "02. Categorical Encoding.md",
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "01. Classical ML/README.md",
+      "file_type": "document",
+      "frontmatter": {
+        "topic": "AI &amp; ML",
+        "type": "concept",
+        "date": "2026-09-21"
+      },
+      "node_kind": "page",
+      "norm_label": "02. categorical encoding.md",
+      "source_file": "CS/AI & ML/02. Data Preprocessing/02. Categorical Encoding.md",
       "source_location": "L1"
     },
     {
@@ -12451,8 +12743,8 @@
       "source_location": "L89"
     },
     {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_05_mtu_and_fragmentation",
-      "label": "05. MTU and Fragmentation.md",
+      "id": "cs_computer_networking_01_architecture_fundamentals_05_network_hardware_hub_switch_router_modem",
+      "label": "05. Network Hardware - Hub, Switch, Router, Modem.md",
       "_origin": "ast",
       "community": 69,
       "community_name": "Computer Networking/README.md",
@@ -12463,13 +12755,13 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "05. mtu and fragmentation.md",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/05. MTU and Fragmentation.md",
+      "norm_label": "05. network hardware - hub, switch, router, modem.md",
+      "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/05. Network Hardware - Hub, Switch, Router, Modem.md",
       "source_location": "L1"
     },
     {
-      "id": "cs_computer_networking_03_ip_addressing_subnetting_02_network_id_and_host_id",
-      "label": "02. Network ID and Host ID.md",
+      "id": "cs_computer_networking_01_architecture_fundamentals_06_osi_vs_tcp_ip_model",
+      "label": "06. OSI vs TCP-IP Model.md",
       "_origin": "ast",
       "community": 69,
       "community_name": "Computer Networking/README.md",
@@ -12480,8 +12772,8 @@
         "date": "2026-09-18"
       },
       "node_kind": "page",
-      "norm_label": "02. network id and host id.md",
-      "source_file": "CS/Computer Networking/03. IP Addressing & Subnetting/02. Network ID and Host ID.md",
+      "norm_label": "06. osi vs tcp-ip model.md",
+      "source_file": "CS/Computer Networking/01. Architecture & Fundamentals/06. OSI vs TCP-IP Model.md",
       "source_location": "L1"
     },
     {
@@ -12933,184 +13225,196 @@
       "source_location": "L1"
     },
     {
-      "id": "cs_webdev_backend_node_js_core_modules_1_the_fs_module_file_system",
-      "label": "\ud83d\uddc2\ufe0f 1. The `fs` Module (File System)",
+      "id": "cs_webdev_backend_node_js_v8_engine_execution_flow",
+      "label": "Execution Flow:",
       "_origin": "ast",
       "community": 73,
-      "community_name": "Core Modules",
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83d\uddc2\ufe0f 1. the `fs` module (file system)",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L29"
+      "norm_label": "execution flow:",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L98"
     },
     {
-      "id": "cs_webdev_backend_node_js_core_modules_2_the_http_module_web_servers",
-      "label": "\ud83c\udf10 2. The `http` Module (Web Servers)",
+      "id": "cs_webdev_backend_node_js_v8_engine_how_does_node_js_use_v8",
+      "label": "\ud83e\udd14 How Does Node.js Use V8?",
       "_origin": "ast",
       "community": 73,
-      "community_name": "Core Modules",
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "\ud83c\udf10 2. the `http` module (web servers)",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L54"
+      "norm_label": "\ud83e\udd14 how does node.js use v8?",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L53"
     },
     {
-      "id": "cs_webdev_backend_node_js_core_modules_asynchronous_file_reading_error_first_callback_pattern",
-      "label": "Asynchronous File Reading (Error-First Callback Pattern)",
-      "_origin": "ast",
-      "community": 73,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "asynchronous file reading (error-first callback pattern)",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_core_modules",
-      "label": "Core Modules",
-      "_origin": "ast",
-      "community": 73,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "core modules",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L12"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_next_step",
+      "id": "cs_webdev_backend_node_js_v8_engine_next_step",
       "label": "Next Step",
       "_origin": "ast",
       "community": 73,
-      "community_name": "Core Modules",
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "next step",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L86"
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L123"
     },
     {
-      "id": "cs_webdev_backend_node_js_core_modules_prerequisites",
+      "id": "cs_webdev_backend_node_js_v8_engine_prerequisites",
       "label": "Prerequisites",
       "_origin": "ast",
       "community": 73,
-      "community_name": "Core Modules",
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "prerequisites",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L82"
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L120"
     },
     {
-      "id": "cs_webdev_backend_node_js_core_modules_prerequisites_next_steps",
+      "id": "cs_webdev_backend_node_js_v8_engine_prerequisites_next_steps",
       "label": "\ud83d\udd17 Prerequisites & Next Steps",
       "_origin": "ast",
       "community": 73,
-      "community_name": "Core Modules",
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 prerequisites & next steps",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L80"
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L118"
     },
     {
-      "id": "cs_webdev_backend_node_js_core_modules_related_notes",
+      "id": "cs_webdev_backend_node_js_v8_engine_related_notes",
       "label": "\ud83d\udd17 Related Notes",
       "_origin": "ast",
       "community": 73,
-      "community_name": "Core Modules",
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "\ud83d\udd17 related notes",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L90"
-    },
-    {
-      "id": "cs_webdev_backend_node_js_core_modules_what_are_core_modules",
-      "label": "\ud83d\udce6 What Are Core Modules?",
-      "_origin": "ast",
-      "community": 73,
-      "community_name": "Core Modules",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 what are core modules?",
-      "source_file": "CS/WebDev/Backend/Node.js/Core Modules.md",
-      "source_location": "L14"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_1_application_layer_to_data_message",
-      "label": "1\ufe0f\u20e3 Application Layer $\\to$ Data / Message",
-      "_origin": "ast",
-      "community": 74,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "1\ufe0f\u20e3 application layer $\\to$ data / message",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L99"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_layer_by_layer_pdu_breakdown",
-      "label": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "_origin": "ast",
-      "community": 74,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "\ud83d\udce6 2. layer-by-layer pdu breakdown",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L60"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_2_transport_layer_to_segment_tcp_vs_datagram_udp",
-      "label": "2\ufe0f\u20e3 Transport Layer $\\to$ Segment (TCP) vs. Datagram (UDP)",
-      "_origin": "ast",
-      "community": 74,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "2\ufe0f\u20e3 transport layer $\\to$ segment (tcp) vs. datagram (udp)",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L105"
-    },
-    {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_3_network_layer_to_packet_ip_datagram",
-      "label": "3\ufe0f\u20e3 Network Layer $\\to$ Packet (IP Datagram)",
-      "_origin": "ast",
-      "community": 74,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3\ufe0f\u20e3 network layer $\\to$ packet (ip datagram)",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
       "source_location": "L126"
     },
     {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_4_data_link_layer_to_frame",
-      "label": "4\ufe0f\u20e3 Data Link Layer $\\to$ Frame",
+      "id": "cs_webdev_backend_node_js_v8_engine_v8_engine",
+      "label": "V8 Engine",
       "_origin": "ast",
-      "community": 74,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "community": 73,
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "4\ufe0f\u20e3 data link layer $\\to$ frame",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L136"
+      "norm_label": "v8 engine",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L12"
     },
     {
-      "id": "cs_computer_networking_02_data_flow_encapsulation_03_data_units_segment_packet_frame_bits_5_physical_layer_to_bits",
-      "label": "5\ufe0f\u20e3 Physical Layer $\\to$ Bits",
+      "id": "cs_webdev_backend_node_js_v8_engine_what_is_a_javascript_engine",
+      "label": "\ud83e\udde0 What is a JavaScript Engine?",
       "_origin": "ast",
-      "community": 74,
-      "community_name": "\ud83d\udce6 2. Layer-by-Layer PDU Breakdown",
+      "community": 73,
+      "community_name": "V8 Engine",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "5\ufe0f\u20e3 physical layer $\\to$ bits",
-      "source_file": "CS/Computer Networking/02. Data Flow & Encapsulation/03. Data Units - Segment, Packet, Frame, Bits.md",
-      "source_location": "L147"
+      "norm_label": "\ud83e\udde0 what is a javascript engine?",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_v8_engine_what_is_v8",
+      "label": "\ud83d\ude80 What is V8?",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "V8 Engine",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\ude80 what is v8?",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L41"
+    },
+    {
+      "id": "cs_webdev_backend_node_js_v8_engine_why_node_gives_javascript_hands",
+      "label": "\ud83d\udc50 Why Node Gives JavaScript \"Hands\"",
+      "_origin": "ast",
+      "community": 73,
+      "community_name": "V8 Engine",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udc50 why node gives javascript \"hands\"",
+      "source_file": "CS/WebDev/Backend/Node.js/V8 Engine.md",
+      "source_location": "L75"
+    },
+    {
+      "id": "cs_dsa_06_stacks_queues_readme_module_learning_path",
+      "label": "\ud83d\uddfa\ufe0f Module Learning Path",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83e\udd5e Stacks & Queues Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\uddfa\ufe0f module learning path",
+      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "cs_dsa_06_stacks_queues_readme_related_notes_navigation",
+      "label": "\ud83d\udd17 Related Notes & Navigation",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83e\udd5e Stacks & Queues Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udd17 related notes & navigation",
+      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "source_location": "L90"
+    },
+    {
+      "id": "cs_dsa_06_stacks_queues_readme_stacks_1_foundations",
+      "label": "\ud83e\uddf1 Stacks 1 \u2014 Foundations",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83e\udd5e Stacks & Queues Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\uddf1 stacks 1 \u2014 foundations",
+      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "source_location": "L62"
+    },
+    {
+      "id": "cs_dsa_06_stacks_queues_readme_stacks_2_monotonic_stack_patterns",
+      "label": "\ud83e\udde0 Stacks 2 \u2014 Monotonic Stack Patterns",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83e\udd5e Stacks & Queues Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udde0 stacks 2 \u2014 monotonic stack patterns",
+      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "source_location": "L78"
+    },
+    {
+      "id": "cs_dsa_06_stacks_queues_readme_stacks_queues_module",
+      "label": "\ud83e\udd5e Stacks & Queues Module",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83e\udd5e Stacks & Queues Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83e\udd5e stacks & queues module",
+      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "cs_dsa_06_stacks_queues_readme_syllabus_notes_breakdown",
+      "label": "\ud83d\udcda Syllabus & Notes Breakdown",
+      "_origin": "ast",
+      "community": 74,
+      "community_name": "\ud83e\udd5e Stacks & Queues Module",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "\ud83d\udcda syllabus & notes breakdown",
+      "source_file": "CS/DSA/06. Stacks & Queues/README.md",
+      "source_location": "L60"
     },
     {
       "id": "tasknotes_start_here",
@@ -22911,6 +23215,270 @@
       "weight": 1.0
     },
     {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_1_what_is_a_tree",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_the_real_world_analogy_file_systems",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_1_what_is_a_tree",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_linear_vs_hierarchical",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_2_what_is_a_node",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_in_java_concept_class_definition",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_2_what_is_a_node",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_anatomical_structure_of_a_node",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L93",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_3_what_makes_it_a_binary_tree",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_child_count_breakdown",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L185",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_5_one_very_important_concept_height",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_finding_the_longest_path",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L260",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_5_one_very_important_concept_height",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_convention_1_edge_based_definition_most_common_in_theory",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L295",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_5_one_very_important_concept_height",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_convention_2_node_based_definition_common_in_recursive_problems",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L307",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_6_building_a_binary_tree_in_java_manual_construction",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_step_1_the_basic_node_class",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L326",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_6_building_a_binary_tree_in_java_manual_construction",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_step_2_manually_assembling_the_tree_structure",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L353",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_6_building_a_binary_tree_in_java_manual_construction",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_step_3_understanding_the_pointer_mechanics",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L397",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_3_what_makes_it_a_binary_tree",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L152",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_4_important_terminology",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L196",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_1_what_is_a_tree",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_5_one_very_important_concept_height",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L258",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_6_building_a_binary_tree_in_java_manual_construction",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L324",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_7_summary_cheatsheet",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L407",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_related_next_steps",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L447",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals_2_what_is_a_node",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme",
+      "target": "cs_dsa_07_trees_bsts_readme_07_trees_binary_search_trees_bsts",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme_07_trees_binary_search_trees_bsts",
+      "target": "cs_dsa_07_trees_bsts_readme_module_knowledge_graph_roadmap",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme_07_trees_binary_search_trees_bsts",
+      "target": "cs_dsa_07_trees_bsts_readme_module_notes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme_07_trees_binary_search_trees_bsts",
+      "target": "cs_dsa_07_trees_bsts_readme_master_connections",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
       "source": "cs_dsa_dsa_problems_67_add_binary",
       "target": "cs_dsa_dsa_problems_67_add_binary_leetcode_67_add_binary",
       "relation": "contains",
@@ -23406,6 +23974,17 @@
       "weight": 1.0
     },
     {
+      "source": "cs_dsa_readme_active_modules",
+      "target": "cs_dsa_readme_cs_dsa_07_trees_bsts_readme_07_trees_bsts",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/README.md",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
       "source": "cs_dsa_readme_data_structures_algorithms_dsa_knowledge_base",
       "target": "cs_dsa_readme_dsa_master_roadmap",
       "relation": "contains",
@@ -23435,7 +24014,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "CS/DSA/README.md",
-      "source_location": "L76",
+      "source_location": "L80",
       "weight": 1.0
     },
     {
@@ -23480,61 +24059,6 @@
       "confidence_score": 1.0,
       "source_file": "CS/JAVA/README.md",
       "source_location": "L32",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_19_00_21_00_stacks_mastery_dsa",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L10",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_21_15_23_15_recursion_backtracking_dsa",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L19",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_23_30_01_30_mern_fullstack_engineering",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L28",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_01_30_02_00_review_ai_vault_ingestion",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L37",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern_completed_tonight",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L44",
       "weight": 1.0
     },
     {
@@ -25045,6 +25569,17 @@
       "weight": 1.0
     },
     {
+      "source": "my_vault_study_study",
+      "target": "my_vault_study_study_study",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "My vault/Study/Study.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
       "source": "tasknotes_start_here",
       "target": "tasknotes_start_here_start_here_with_tasknotes",
       "relation": "contains",
@@ -26321,6 +26856,83 @@
       "weight": 1.0
     },
     {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals",
+      "target": "cs_dsa_07_trees_bsts_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals",
+      "target": "cs_dsa_quick_look",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals",
+      "target": "cs_dsa_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_01_binary_tree_fundamentals",
+      "target": "home",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme",
+      "target": "cs_dsa_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme",
+      "target": "cs_dsa_quick_look",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "cs_dsa_07_trees_bsts_readme",
+      "target": "home",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CS/DSA/07. Trees & BSTs/README.md",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
       "source": "cs_dsa_dsa_problems_67_add_binary",
       "target": "cs_dsa_readme",
       "relation": "references",
@@ -26416,7 +27028,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "CS/DSA/README.md",
-      "source_location": "L77",
+      "source_location": "L81",
       "weight": 1.0
     },
     {
@@ -26450,39 +27062,6 @@
       "confidence_score": 1.0,
       "source_file": "CS/JAVA/README.md",
       "source_location": "L34",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_webdev_backend_node_js_readme",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L30",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_webdev_backend_shopkart_auth_project",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L31",
-      "weight": 1.0
-    },
-    {
-      "source": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "target": "cs_dsa_06_stacks_queues_readme",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "CS/Study Plan - 2026-10-01 (Stacks, Recursion, MERN).md",
-      "source_location": "L40",
       "weight": 1.0
     },
     {
@@ -27026,17 +27605,6 @@
     },
     {
       "source": "home",
-      "target": "cs_study_plan_2026_10_01_stacks_recursion_mern",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "Home.md",
-      "source_location": "L148",
-      "weight": 1.0
-    },
-    {
-      "source": "home",
       "target": "cs_computer_networking_readme",
       "relation": "references",
       "_origin": "ast",
@@ -27045,8 +27613,30 @@
       "source_file": "Home.md",
       "source_location": "L56",
       "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "tasknotes_start_here",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "home.md",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "home",
+      "target": "my_vault_study_study",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "home.md",
+      "source_location": "L66",
+      "weight": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4331c88f9cdf009d848f129b6459c0983663a4ff"
+  "built_at_commit": "4d36bd07be01d1145c10d0ffdbdc085f17056ee2"
 }
