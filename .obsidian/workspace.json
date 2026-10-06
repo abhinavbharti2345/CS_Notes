@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals.md",
+                "file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Recursion Fundamentals"
+              "title": "01. Binary Tree Fundamentals"
             }
           }
         ]
@@ -222,8 +222,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "661b5a2a752526c2",
+  "active": "519cdccdf4c1e49d",
   "lastOpenFiles": [
+    "CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals.md",
+    "graphify-out/cache/ast/v0.9.53-s2/0991b3cbffdfec8f8133cd0a4aed9e7ac26fe8533ec79a1009ca5c7d4e064518.json",
     "CS/DSA/07. Trees & BSTs/assets/preorder_recursive_trace.drawio.svg",
     "CS/DSA/07. Trees & BSTs/assets",
     "graphify-out/cache/ast/v0.9.53-s2/0e78ee963a9e3b95bc19c8ca25b3aa10e1d5da002418fc438b092444d01d6129.json",
@@ -234,14 +236,12 @@
     "CS/DSA/05. Recursion & Backtracking/assets",
     "CS/DSA/05. Recursion & Backtracking/recursion_tree_decomposition.drawio.svg",
     "CS/DSA/05. Recursion & Backtracking/recursion_call_stack_lifecycle.drawio.svg",
-    "CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals.md",
     "graphify-out/cache/ast/v0.9.53-s2/001560a4b1e0534ac446cd81347ec642944e206993745e098cfe8c4fc8c76724.json",
     "CS/DSA/07. Trees & BSTs/02. Binary Tree Traversals.md",
     "CS/Computer Networking/01. Architecture & Fundamentals/06. OSI vs TCP-IP Model.md",
     "graphify-out/cache/ast/v0.9.53-s2/0efb0cfdb6dbc35540729e6076395fd317d01ddae90beb815b8de0bb3ed6d7f7.json",
     "graphify-out/cache/ast/v0.9.53-s2/aeb94b2c85660c28f650e9cf27eca4c19467a42ac4e29ea8098d5a5a1ddff6c4.json",
     "graphify-out/cache/ast/v0.9.53-s2/fdabf0c77f6f186e464f7dbe48e287c81f7b0d8d45e5172f56bfb1bc3f9953cc.json",
-    "graphify-out/cache/ast/v0.9.53-s2/5a5d25057b3f7e2ea5fa62394f166be9b63652d133e3cddc4b6beafa1e9a8d96.json",
     "CS/DSA/05. Recursion & Backtracking/README.md",
     "CS/Computer Networking/01. Architecture & Fundamentals/01. Introduction to Computer Networks.md",
     "CS/Computer Networking/03. IP Addressing & Subnetting/02. Network ID and Host ID.md",
