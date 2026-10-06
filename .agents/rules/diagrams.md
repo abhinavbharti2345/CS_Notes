@@ -4,13 +4,18 @@ description: Standards for creating aesthetic diagrams, flowcharts, and architec
 
 # 🎨 Diagram & Flowchart Standards (Draw.io & Mermaid)
 
-## 1. Primary Tool for Visual Flowcharts & Complex Concepts: Draw.io
+## 1. When to Use Draw.io vs Native Mermaid
 
-For multi-step execution traces, call stack memory models, architectural diagrams, tree decompositions, and complex flowcharts, **use Draw.io vector SVG files (`.drawio.svg`)**:
+- **Use Draw.io (`.drawio.svg`) for Large & Complex Flowcharts:**
+  - Multi-stage architectures (e.g. OSI vs TCP/IP layer mappings, encapsulation/decapsulation pipelines).
+  - Multi-tier workflows (e.g. Client $\leftrightarrow$ Express $\leftrightarrow$ JWT $\leftrightarrow$ Database auth flows).
+  - Multi-step recursive execution traces, memory heaps, routing tables, and ML lifecycle pipelines.
+  - Any flowchart with multiple decision branches, columns, or detailed annotations.
 
-- **Aesthetic Excellence:** Custom cards, rich dark-theme colors, clear typography, and clean multi-column layouts.
-- **Interactive & Editable:** Seamlessly editable directly within Obsidian via the `drawio-obsidian` plugin.
-- **Embedded XML Spec:** Always format as standalone SVG with embedded `<mxfile>` content so it renders instantly in Obsidian preview.
+- **Keep Native Mermaid for Small & Compact Graphs:**
+  - Small trees (2–5 nodes, exactly like in `01. Binary Tree Fundamentals.md`).
+  - Simple 2–3 step linear state changes ($A \to B \to C$ or push/pop on a stack).
+  - Compact bitmask operations and module roadmap indexes in `README.md`.
 
 ---
 

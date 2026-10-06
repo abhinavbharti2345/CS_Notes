@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+                "file": "CS/DSA/03. Linked Lists/01. Linked List Fundamentals.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Binary Tree Fundamentals"
+              "title": "01. Linked List Fundamentals"
             }
           }
         ]
@@ -224,31 +224,35 @@
   },
   "active": "519cdccdf4c1e49d",
   "lastOpenFiles": [
+    "graphify-out/cache/ast/v0.9.53-s2/1bb142f35077ed490539de6df6d3484a48b5c043e2c99eea6544379885b466d6.json",
+    "graphify-out/cache/ast/v0.9.53-s2/ed59a7eee3164cffd3babccf69a4ed697d3676ed93e876baac52af0e0d84e7ef.json",
+    "graphify-out/cache/ast/v0.9.53-s2/111fa4daeed39980c9971782061eca3ab1c3b9cc1d5b995da2da315e19440cab.json",
+    "graphify-out/cache/ast/v0.9.53-s2/b46d3ec49468a58e4e74e45304dcd342d08784f47b72ea45a4cb1c0385d287e2.json",
+    "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
+    "CS/DSA/03. Linked Lists/01. Linked List Fundamentals.md",
+    "graphify-out/cache/ast/v0.9.53-s2/e29ca9e3eb86b239231b76b3893c0c1346a85a997a588209e58a9808f86af33f.json",
+    "graphify-out/cache/ast/v0.9.53-s2/480a545cea986d5cbacf836609611147a2edfef61d9baa818619b414e846bf87.json",
+    "graphify-out/cache/ast/v0.9.53-s2/817617a4c0192c126c208243d69688b64b51d6fc9de4a7efb9db6f1cf44fbe8e.json",
+    "graphify-out/cache/ast/v0.9.53-s2/04a666c77bb9232fc290334d743e3823e8013cb5d6df6384cd6e430d8611631e.json",
+    "graphify-out/cache/ast/v0.9.53-s2/7e1e7a85621fe3ff78b15dd29363ebd30513794c7019de5c63713337f88d2c04.json",
+    "graphify-out/cache/ast/v0.9.53-s2/c5aa77c9f5dc5784124f9b06a476867a679fda4692983fb452b9218a3aee37dd.json",
+    "graphify-out/cache/ast/v0.9.53-s2/5b8f0c9611ee26479826f5f1c01707b773961a211aa8bc0a7e18a24f0ba3b08f.json",
+    "CS/DSA/03. Linked Lists/assets/array_vs_linked_list_memory_model.drawio.svg",
+    "CS/AI & ML/02. Data Preprocessing/assets/column_transformer_pipeline.drawio.svg",
+    "CS/AI & ML/01. Classical ML/assets/ml_lifecycle_pipeline.drawio.svg",
+    "CS/WebDev/Backend/assets/shopkart_auth_architecture.drawio.svg",
+    "CS/Computer Networking/04. Routing & Network Layer/assets/routing_vs_forwarding_architecture.drawio.svg",
+    "CS/Computer Networking/02. Data Flow & Encapsulation/assets/encapsulation_decapsulation_pipeline.drawio.svg",
+    "CS/Computer Networking/01. Architecture & Fundamentals/assets/osi_vs_tcp_ip_architecture.drawio.svg",
     "CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals.md",
-    "graphify-out/cache/ast/v0.9.53-s2/0991b3cbffdfec8f8133cd0a4aed9e7ac26fe8533ec79a1009ca5c7d4e064518.json",
     "CS/DSA/07. Trees & BSTs/assets/preorder_recursive_trace.drawio.svg",
-    "CS/DSA/07. Trees & BSTs/assets",
-    "graphify-out/cache/ast/v0.9.53-s2/0e78ee963a9e3b95bc19c8ca25b3aa10e1d5da002418fc438b092444d01d6129.json",
-    "graphify-out/cache/ast/v0.9.53-s2/20cbe0d95f0f14e3a1070b29560af93a448280df37c38316e1b47bcaf49b3345.json",
-    "graphify-out/cache/ast/v0.9.53-s2/c9aab2b536376bd335f2362e66a5d19edb4bfbd37df5db8d66d96c14c2ce69be.json",
     "CS/DSA/05. Recursion & Backtracking/assets/recursion_tree_decomposition.drawio.svg",
     "CS/DSA/05. Recursion & Backtracking/assets/recursion_call_stack_lifecycle.drawio.svg",
-    "CS/DSA/05. Recursion & Backtracking/assets",
-    "CS/DSA/05. Recursion & Backtracking/recursion_tree_decomposition.drawio.svg",
-    "CS/DSA/05. Recursion & Backtracking/recursion_call_stack_lifecycle.drawio.svg",
-    "graphify-out/cache/ast/v0.9.53-s2/001560a4b1e0534ac446cd81347ec642944e206993745e098cfe8c4fc8c76724.json",
     "CS/DSA/07. Trees & BSTs/02. Binary Tree Traversals.md",
     "CS/Computer Networking/01. Architecture & Fundamentals/06. OSI vs TCP-IP Model.md",
-    "graphify-out/cache/ast/v0.9.53-s2/0efb0cfdb6dbc35540729e6076395fd317d01ddae90beb815b8de0bb3ed6d7f7.json",
-    "graphify-out/cache/ast/v0.9.53-s2/aeb94b2c85660c28f650e9cf27eca4c19467a42ac4e29ea8098d5a5a1ddff6c4.json",
-    "graphify-out/cache/ast/v0.9.53-s2/fdabf0c77f6f186e464f7dbe48e287c81f7b0d8d45e5172f56bfb1bc3f9953cc.json",
     "CS/DSA/05. Recursion & Backtracking/README.md",
     "CS/Computer Networking/01. Architecture & Fundamentals/01. Introduction to Computer Networks.md",
     "CS/Computer Networking/03. IP Addressing & Subnetting/02. Network ID and Host ID.md",
-    "CS/Computer Networking/01. Architecture & Fundamentals/network_hardware_layers.drawio.svg",
-    "CS/Computer Networking/02. Data Flow & Encapsulation/encapsulation_pipeline.drawio.svg",
-    "CS/Computer Networking/01. Architecture & Fundamentals/osi_vs_tcp_ip_model.drawio.svg",
-    "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
     "CS/DSA/06. Stacks & Queues/01. Stack Fundamentals.md",
     "home.md",
     "CS/DSA/07. Trees & BSTs/README.md",
@@ -265,7 +269,6 @@
     "graphify-out/2026-10-01/GRAPH_REPORT.md",
     "CS/Python.md",
     "CS/WebDev/Backend/Node.js/V8 Engine.md",
-    "CS/WebDev/Backend/Node.js/README.md",
-    "CS/WebDev/Backend/Node.js/Introduction to Node.js.md"
+    "CS/WebDev/Backend/Node.js/README.md"
   ]
 }

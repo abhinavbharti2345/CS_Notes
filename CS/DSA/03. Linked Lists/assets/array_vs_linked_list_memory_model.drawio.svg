@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <filter id="shadow7" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <marker id="arrCyan7" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#38bdf8" />
+    </marker>
+    <marker id="arrGreen7" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34d399" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="940" height="520" rx="16" fill="url(#bgGrad7)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
+    🧠 Memory Architecture: Array vs. Linked List
+  </text>
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">
+    Contiguous Physical Memory Layout (O(1) Access) vs. Scattered Heap Node Pointers (O(1) Insertion/Deletion)
+  </text>
+
+  <!-- Section 1: Array Contiguous Memory -->
+  <rect x="40" y="85" width="860" height="185" rx="12" fill="#0ea5e912" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="65" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#38bdf8">
+    1️⃣ ARRAY: CONTIGUOUS PHYSICAL MEMORY BLOCK (Index-Based O(1) Access)
+  </text>
+
+  <!-- Array cells -->
+  <!-- arr[0] -->
+  <rect x="65" y="135" width="150" height="75" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow7)"/>
+  <text x="140" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">arr[0]</text>
+  <text x="140" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f8fafc">Value: 10</text>
+  <text x="140" y="200" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">Addr: 0x1000</text>
+
+  <!-- arr[1] -->
+  <rect x="230" y="135" width="150" height="75" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow7)"/>
+  <text x="305" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">arr[1]</text>
+  <text x="305" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f8fafc">Value: 20</text>
+  <text x="305" y="200" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">Addr: 0x1004</text>
+
+  <!-- arr[2] -->
+  <rect x="395" y="135" width="150" height="75" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow7)"/>
+  <text x="470" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">arr[2]</text>
+  <text x="470" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f8fafc">Value: 30</text>
+  <text x="470" y="200" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">Addr: 0x1008</text>
+
+  <!-- arr[3] -->
+  <rect x="560" y="135" width="150" height="75" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow7)"/>
+  <text x="635" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">arr[3]</text>
+  <text x="635" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f8fafc">Value: 40</text>
+  <text x="635" y="200" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">Addr: 0x100C</text>
+
+  <!-- Math box -->
+  <rect x="725" y="135" width="160" height="75" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="805" y="158" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#38bdf8">Offset Formula</text>
+  <text x="805" y="178" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#cbd5e1">Base + (i × Size)</text>
+  <text x="805" y="198" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#34d399">Lookup: O(1) ⚡</text>
+
+  <text x="65" y="245" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#f43f5e">
+    ⚠️ Shift Penalty: Inserting/deleting in the middle requires shifting all right elements ➔ O(N) penalty!
+  </text>
+
+  <!-- Section 2: Linked List Scattered Heap -->
+  <rect x="40" y="295" width="860" height="200" rx="12" fill="#10b98112" stroke="#10b981" stroke-width="1.5"/>
+  <text x="65" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#6ee7b7">
+    2️⃣ LINKED LIST: SCATTERED HEAP OBJECTS (Pointer-Connected Reference Graph)
+  </text>
+
+  <!-- Head Pointer -->
+  <rect x="65" y="360" width="75" height="75" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5" filter="url(#shadow7)"/>
+  <text x="102" y="390" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#fbbf24">head</text>
+  <text x="102" y="415" text-anchor="middle" font-family="monospace" font-size="10" fill="#cbd5e1">0x3F04</text>
+
+  <path d="M 140 397 L 165 397" stroke="#fbbf24" stroke-width="2" marker-end="url(#arrCyan7)"/>
+
+  <!-- Node 1 -->
+  <rect x="170" y="350" width="145" height="95" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.5" filter="url(#shadow7)"/>
+  <text x="242" y="372" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">Node (0x3F04)</text>
+  <rect x="180" y="380" width="60" height="35" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="210" y="402" text-anchor="middle" font-family="monospace" font-size="11" fill="#f8fafc">10</text>
+  <rect x="245" y="380" width="60" height="35" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="275" y="402" text-anchor="middle" font-family="monospace" font-size="10" fill="#38bdf8">0x8A12</text>
+  <text x="210" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#94a3b8">data</text>
+  <text x="275" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#94a3b8">next</text>
+
+  <path d="M 315 397 L 350 397" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrCyan7)"/>
+
+  <!-- Node 2 -->
+  <rect x="355" y="350" width="145" height="95" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.5" filter="url(#shadow7)"/>
+  <text x="427" y="372" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">Node (0x8A12)</text>
+  <rect x="365" y="380" width="60" height="35" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="395" y="402" text-anchor="middle" font-family="monospace" font-size="11" fill="#f8fafc">20</text>
+  <rect x="430" y="380" width="60" height="35" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="460" y="402" text-anchor="middle" font-family="monospace" font-size="10" fill="#38bdf8">0x12C0</text>
+  <text x="395" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#94a3b8">data</text>
+  <text x="460" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#94a3b8">next</text>
+
+  <path d="M 500 397 L 535 397" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrCyan7)"/>
+
+  <!-- Node 3 -->
+  <rect x="540" y="350" width="145" height="95" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.5" filter="url(#shadow7)"/>
+  <text x="612" y="372" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">Node (0x12C0)</text>
+  <rect x="550" y="380" width="60" height="35" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="580" y="402" text-anchor="middle" font-family="monospace" font-size="11" fill="#f8fafc">30</text>
+  <rect x="615" y="380" width="60" height="35" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="645" y="402" text-anchor="middle" font-family="monospace" font-size="10" fill="#f43f5e">null</text>
+  <text x="580" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#94a3b8">data</text>
+  <text x="645" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#94a3b8">next</text>
+
+  <!-- LL Benefits Box -->
+  <rect x="710" y="350" width="175" height="95" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="797" y="375" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#34d399">Dynamic Linking</text>
+  <text x="797" y="398" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#cbd5e1">Insert/Delete: O(1) ⚡</text>
+  <text x="797" y="420" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#94a3b8">Traversal: O(N)</text>
+
+  <text x="65" y="475" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#6ee7b7">
+    ✅ Dynamic Allocation: Nodes reside anywhere in heap memory without requiring contiguous pre-allocated space.
+  </text>
+
+  <!-- DrawIO metadata script -->
+  <script type="application/xml">
+    <mxfile host="Electron" modified="2026-10-06T11:00:00.000Z" agent="Antigravity" version="21.6.8" type="device">
+      <diagram id="array-vs-ll-memory" name="Array vs Linked List Memory Model">
+        <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="940" pageHeight="520" background="#0f172a">
+          <root>
+            <mxCell id="0"/>
+            <mxCell id="1" parent="0"/>
+          </root>
+        </mxGraphModel>
+      </diagram>
+    </mxfile>
+  </script>
+</svg>

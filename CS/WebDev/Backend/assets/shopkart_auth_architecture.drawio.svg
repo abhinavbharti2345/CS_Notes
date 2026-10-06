@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 560" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <filter id="shadow4" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <marker id="arrCyan" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#38bdf8" />
+    </marker>
+    <marker id="arrGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34d399" />
+    </marker>
+    <marker id="arrAmber" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f59e0b" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="940" height="560" rx="16" fill="url(#bgGrad4)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
+    🛒 ShopKart Authentication Architecture &amp; Security Pipeline
+  </text>
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">
+    Client Interaction ➔ Express Middleware / Validation ➔ Bcrypt Cryptography ➔ MongoDB Persistence ➔ JWT Cookie Issuance
+  </text>
+
+  <!-- Stage 1: Registration Flow -->
+  <rect x="40" y="80" width="860" height="215" rx="12" fill="#6366f112" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="65" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#a5b4fc">
+    1️⃣ REGISTRATION LIFECYCLE: POST /api/register
+  </text>
+
+  <!-- Reg Step 1 -->
+  <rect x="65" y="125" width="180" height="150" rx="8" fill="#1e293b" stroke="#0ea5e9" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="155" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#38bdf8">💻 Client POST</text>
+  <text x="155" y="172" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#cbd5e1">{ fullName,</text>
+  <text x="155" y="190" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#cbd5e1">  email, phone,</text>
+  <text x="155" y="208" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#cbd5e1">  password }</text>
+  <text x="155" y="245" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">JSON Body</text>
+
+  <path d="M 245 195 L 285 195" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrCyan)" />
+
+  <!-- Reg Step 2 -->
+  <rect x="290" y="125" width="180" height="150" rx="8" fill="#1e293b" stroke="#818cf8" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="380" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#a5b4fc">🟢 Express Controller</text>
+  <text x="380" y="172" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">1. Parse JSON body</text>
+  <text x="380" y="192" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">2. Validate length &gt;= 6</text>
+  <text x="380" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">3. Check duplicate email</text>
+  <text x="380" y="245" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#f59e0b">Customer.findOne()</text>
+
+  <path d="M 470 195 L 510 195" stroke="#818cf8" stroke-width="2" marker-end="url(#arrCyan)" />
+
+  <!-- Reg Step 3 -->
+  <rect x="515" y="125" width="180" height="150" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="605" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#fbbf24">🔐 Bcrypt Engine</text>
+  <text x="605" y="175" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">bcrypt.hash(pwd, 10)</text>
+  <text x="605" y="200" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Cryptographic Salt</text>
+  <text x="605" y="220" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Slow 1-way hashing</text>
+  <text x="605" y="245" text-anchor="middle" font-family="monospace" font-size="10" fill="#fcd34d">$2b$10$e8Z...</text>
+
+  <path d="M 695 195 L 735 195" stroke="#f59e0b" stroke-width="2" marker-end="url(#arrAmber)" />
+
+  <!-- Reg Step 4 -->
+  <rect x="740" y="125" width="140" height="150" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="810" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">🍃 MongoDB</text>
+  <text x="810" y="180" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#cbd5e1">Customer.create()</text>
+  <text x="810" y="205" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Persists Document</text>
+  <text x="810" y="245" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#6ee7b7">201 Created ✅</text>
+
+  <!-- Stage 2: Login & JWT Flow -->
+  <rect x="40" y="315" width="860" height="220" rx="12" fill="#10b98112" stroke="#10b981" stroke-width="1.5"/>
+  <text x="65" y="343" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#6ee7b7">
+    2️⃣ LOGIN &amp; JWT SESSION LIFECYCLE: POST /customers/login
+  </text>
+
+  <!-- Login Step 1 -->
+  <rect x="65" y="360" width="180" height="155" rx="8" fill="#1e293b" stroke="#0ea5e9" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="155" y="385" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#38bdf8">💻 Client Login</text>
+  <text x="155" y="410" text-anchor="middle" font-family="monospace" font-size="11" fill="#cbd5e1">{ email,</text>
+  <text x="155" y="430" text-anchor="middle" font-family="monospace" font-size="11" fill="#cbd5e1">  password }</text>
+  <text x="155" y="475" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Credentials check</text>
+
+  <path d="M 245 435 L 285 435" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrCyan)" />
+
+  <!-- Login Step 2 -->
+  <rect x="290" y="360" width="180" height="155" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="380" y="385" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">🍃 DB User Lookup</text>
+  <text x="380" y="410" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#cbd5e1">Customer.findOne()</text>
+  <text x="380" y="435" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Retrieves stored</text>
+  <text x="380" y="455" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">password hash</text>
+  <text x="380" y="485" text-anchor="middle" font-family="monospace" font-size="10" fill="#6ee7b7">userDoc._id</text>
+
+  <path d="M 470 435 L 510 435" stroke="#10b981" stroke-width="2" marker-end="url(#arrGreen)" />
+
+  <!-- Login Step 3 -->
+  <rect x="515" y="360" width="180" height="155" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="605" y="385" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#fbbf24">🔐 Verify &amp; Sign</text>
+  <text x="605" y="410" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">bcrypt.compare()</text>
+  <text x="605" y="435" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a5b4fc">jwt.sign(payload,</text>
+  <text x="605" y="455" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#a5b4fc">JWT_SECRET)</text>
+  <text x="605" y="485" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#94a3b8">Role / Expiration</text>
+
+  <path d="M 695 435 L 735 435" stroke="#f59e0b" stroke-width="2" marker-end="url(#arrAmber)" />
+
+  <!-- Login Step 4 -->
+  <rect x="740" y="360" width="140" height="155" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow4)"/>
+  <text x="810" y="385" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#38bdf8">🍪 Security Set</text>
+  <text x="810" y="415" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#f43f5e">HttpOnly Cookie</text>
+  <text x="810" y="440" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Prevents XSS</text>
+  <text x="810" y="460" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">JS theft blocked</text>
+  <text x="810" y="485" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#34d399">200 OK ✅</text>
+
+  <!-- DrawIO metadata script -->
+  <script type="application/xml">
+    <mxfile host="Electron" modified="2026-10-06T11:00:00.000Z" agent="Antigravity" version="21.6.8" type="device">
+      <diagram id="shopkart-auth" name="ShopKart Auth Architecture">
+        <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="940" pageHeight="560" background="#0f172a">
+          <root>
+            <mxCell id="0"/>
+            <mxCell id="1" parent="0"/>
+          </root>
+        </mxGraphModel>
+      </diagram>
+    </mxfile>
+  </script>
+</svg>

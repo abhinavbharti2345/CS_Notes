@@ -25,40 +25,75 @@ div[class*="language-mermaid"] {
   font-family: inherit !important;
 }
 
-/* Smooth rounded corners on flowchart nodes */
-.mermaid .node rect,
-.block-language-mermaid .node rect {
-  rx: 8px !important;
-  ry: 8px !important;
-}
-
-/* Subtle edge styling */
-.mermaid .edgePath .path,
-.block-language-mermaid .edgePath .path {
-  stroke-linecap: round !important;
-  stroke-linejoin: round !important;
-}
-
-/* Strip intrusive inline code background within SVG diagrams */
-.mermaid code,
-.block-language-mermaid code,
-.mermaid svg foreignObject code {
-  background: transparent !important;
-  color: inherit !important;
-  border: none !important;
-  padding: 0 !important;
-  box-shadow: none !important;
-  font-size: inherit !important;
+/* Subgraph / Cluster Box Styling */
+.mermaid .cluster rect,
+.block-language-mermaid .cluster rect,
+.mermaid svg .cluster > rect {
+  fill: rgba(15, 23, 42, 0.55) !important;
+  stroke: rgba(99, 102, 241, 0.35) !important;
+  stroke-width: 1.5px !important;
+  rx: 10px !important;
+  ry: 10px !important;
 }
 
 /* Subgraph and Cluster Title Text */
 .mermaid .cluster text,
 .mermaid .cluster span,
 .block-language-mermaid .cluster text,
-.block-language-mermaid .cluster span {
-  fill: #e2e8f0 !important;
-  color: #e2e8f0 !important;
+.block-language-mermaid .cluster span,
+.mermaid svg .cluster text {
+  fill: #e0e7ff !important;
+  color: #e0e7ff !important;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+  letter-spacing: 0.3px !important;
+}
+
+/* Nodes Default Base Styling */
+.mermaid .node rect,
+.mermaid .node circle,
+.mermaid .node ellipse,
+.mermaid .node polygon,
+.block-language-mermaid .node rect,
+.block-language-mermaid .node circle {
+  rx: 8px !important;
+  ry: 8px !important;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3)) !important;
+}
+
+/* Node Label Text */
+.mermaid .node .label,
+.mermaid .node text,
+.block-language-mermaid .node text {
+  fill: #f8fafc !important;
+  color: #f8fafc !important;
   font-weight: 600 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+/* Smooth Arrow & Edge styling */
+.mermaid .edgePath .path,
+.block-language-mermaid .edgePath .path {
+  stroke: #64748b !important;
+  stroke-width: 1.8px !important;
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
+
+.mermaid .marker,
+.block-language-mermaid .marker {
+  fill: #818cf8 !important;
+  stroke: #818cf8 !important;
+}
+
+/* Edge Labels */
+.mermaid .edgeLabel,
+.block-language-mermaid .edgeLabel {
+  background-color: rgba(15, 23, 42, 0.85) !important;
+  border-radius: 6px !important;
+  color: #94a3b8 !important;
+  font-size: 11.5px !important;
+  padding: 2px 6px !important;
 }
 
 /* -------------------- 2. CHARTS & CANVAS -------------------- */

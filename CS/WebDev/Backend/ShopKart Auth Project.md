@@ -19,62 +19,14 @@ date: 2026-09-04
 
 ---
 
-## 🔄 End-to-End Registration Request Lifecycle
+## 🔄 Registration & Login Security Lifecycle
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Client as 💻 Client (Browser / App)
-    participant Server as 🟢 Express Server
-    participant Bcrypt as 🔐 Bcrypt Engine
-    participant DB as 🍃 MongoDB Database
+> [!tip] 🎨 End-to-End Authentication Architecture (Draw.io Vector Model)
+> ![[shopkart_auth_architecture.drawio.svg]]
 
-    Client->>Server: POST /api/register (JSON Payload)
-    Note over Server: express.json() parses body<br/>Destructure { fullName, email, password, phone }<br/>Validate field presence & length >= 6
-    
-    Server->>DB: Customer.findOne({ email })
-    DB-->>Server: null (User does not exist)
-    
-    Server->>Bcrypt: bcrypt.hash(password, saltRounds=10)
-    Bcrypt-->>Server: hashedPassword string ($2b$10$...)
-    
-    Server->>DB: Customer.create({ fullName, email, password: hashedPassword, phone })
-    DB-->>Server: Saved Customer Document
-    
-    Server-->>Client: HTTP 201 Created ({ message: "User registered successfully", customerId })
-```
-
-> [!tip] Security Best Practice: Password Hashing
-> Passwords must **never** be stored in plaintext. `bcrypt` utilizes a cryptographic salt with a configurable cost factor (work factor) to generate a slow one-way hash, protecting against rainbow table and brute-force attacks.
-
----
-
-## 🔑 End-to-End Login Request Lifecycle
-
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Client as 💻 Client (Browser / App)
-    participant Server as 🟢 Express Server
-    participant Bcrypt as 🔐 Bcrypt Engine
-    participant DB as 🍃 MongoDB Database
-
-    Client->>Server: POST /customers/login (JSON: { email, password })
-    Note over Server: Destructure { email, password }
-    
-    Server->>DB: Customer.findOne({ email: email.toLowerCase() })
-    DB-->>Server: customer document with hashed password
-    
-    Server->>Bcrypt: bcrypt.compare(password, customer.password)
-    Bcrypt-->>Server: isMatch = true
-    
-    Note over Server: Generate JWT signed with JWT_SECRET<br/>Payload: { userId: customer._id, role: "user" }
-    
-    Server-->>Client: Set HttpOnly Cookie ("token") + HTTP 200 OK
-```
-
-> [!important] HttpOnly Cookie Protection
-> Storing authentication tokens in `HttpOnly` cookies prevents client-side JavaScript (e.g., via Cross-Site Scripting / XSS attacks) from reading the sensitive session token.
+### Key Architectural Safeguards:
+1. **Password Hashing:** Passwords must **never** be stored in plaintext. `bcrypt` utilizes a cryptographic salt with a configurable cost factor (`saltRounds = 10`) to generate a slow one-way hash, protecting against rainbow table and brute-force attacks.
+2. **HttpOnly Cookie Protection:** Storing authentication tokens in `HttpOnly` cookies prevents client-side JavaScript (e.g., via Cross-Site Scripting / XSS attacks) from reading the sensitive session token.
 
 ---
 

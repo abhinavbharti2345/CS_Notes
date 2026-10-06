@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 560" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <filter id="shadow2" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <marker id="arrDown" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6366f1" />
+    </marker>
+    <marker id="arrUp" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10b981" />
+    </marker>
+    <marker id="arrRight" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f59e0b" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="940" height="560" rx="16" fill="url(#bgGrad2)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
+    📦 End-to-End Encapsulation &amp; Decapsulation Pipeline
+  </text>
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">
+    Transmitter Header Wrapping (Downward) ➔ Physical Transmission ➔ Receiver Header Inspection (Upward)
+  </text>
+
+  <!-- Left Column: Encapsulation (Transmitter) -->
+  <rect x="40" y="80" width="410" height="400" rx="12" fill="#6366f112" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="245" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#a5b4fc">
+    ⬇️ SENDER: ENCAPSULATION (L5 ➔ L1)
+  </text>
+
+  <!-- Step 1: App Data -->
+  <rect x="60" y="125" width="370" height="48" rx="6" fill="#1e293b" stroke="#0ea5e9" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="75" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#38bdf8">1. Application Layer</text>
+  <text x="75" y="162" font-family="monospace" font-size="11" fill="#cbd5e1">[ HTTP Payload: 'Hello World' ]</text>
+
+  <path d="M 245 173 L 245 190" stroke="#6366f1" stroke-width="2" marker-end="url(#arrDown)" />
+
+  <!-- Step 2: Transport Segment -->
+  <rect x="60" y="195" width="370" height="48" rx="6" fill="#1e293b" stroke="#6366f1" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="75" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#818cf8">2. Transport Layer (Segment)</text>
+  <text x="75" y="232" font-family="monospace" font-size="11" fill="#cbd5e1">[ TCP (Port 80/443, Seq#) | HTTP Data ]</text>
+
+  <path d="M 245 243 L 245 260" stroke="#6366f1" stroke-width="2" marker-end="url(#arrDown)" />
+
+  <!-- Step 3: Network Packet -->
+  <rect x="60" y="265" width="370" height="48" rx="6" fill="#1e293b" stroke="#a855f7" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="75" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#c084fc">3. Network Layer (Packet)</text>
+  <text x="75" y="302" font-family="monospace" font-size="11" fill="#cbd5e1">[ IP (Src: 192.168.1.5, Dst: 93.184.216.34) | TCP | HTTP ]</text>
+
+  <path d="M 245 313 L 245 330" stroke="#6366f1" stroke-width="2" marker-end="url(#arrDown)" />
+
+  <!-- Step 4: Data Link Frame -->
+  <rect x="60" y="335" width="370" height="48" rx="6" fill="#1e293b" stroke="#10b981" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="75" y="356" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">4. Data Link Layer (Frame)</text>
+  <text x="75" y="372" font-family="monospace" font-size="10.5" fill="#cbd5e1">[ MAC Header | IP Header | TCP Header | HTTP | FCS Trailer ]</text>
+
+  <path d="M 245 383 L 245 400" stroke="#6366f1" stroke-width="2" marker-end="url(#arrDown)" />
+
+  <!-- Step 5: Physical Bits -->
+  <rect x="60" y="405" width="370" height="48" rx="6" fill="#1e293b" stroke="#f97316" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="75" y="426" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#fb923c">5. Physical Layer (Bits on Wire)</text>
+  <text x="75" y="442" font-family="monospace" font-size="11" fill="#fed7aa">01101001 01101110 01110100 01100101 01110010...</text>
+
+  <!-- Right Column: Decapsulation (Receiver) -->
+  <rect x="490" y="80" width="410" height="400" rx="12" fill="#10b98112" stroke="#10b981" stroke-width="1.5"/>
+  <text x="695" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#6ee7b7">
+    ⬆️ RECEIVER: DECAPSULATION (L1 ➔ L5)
+  </text>
+
+  <!-- Step 1 Recv: App Data Delivered -->
+  <rect x="510" y="125" width="370" height="48" rx="6" fill="#1e293b" stroke="#0ea5e9" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="525" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#38bdf8">5. Application Layer (Delivered)</text>
+  <text x="525" y="162" font-family="monospace" font-size="11" fill="#cbd5e1">Web Server receives clean 'Hello World' JSON</text>
+
+  <!-- Step 2 Recv: Strip TCP -->
+  <rect x="510" y="195" width="370" height="48" rx="6" fill="#1e293b" stroke="#6366f1" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="525" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#818cf8">4. Transport Layer Check</text>
+  <text x="525" y="232" font-family="monospace" font-size="11" fill="#cbd5e1">Check Port #, verify Checksum &amp; reorder stream</text>
+
+  <path d="M 695 190 L 695 175" stroke="#10b981" stroke-width="2" marker-end="url(#arrUp)" />
+
+  <!-- Step 3 Recv: Strip IP -->
+  <rect x="510" y="265" width="370" height="48" rx="6" fill="#1e293b" stroke="#a855f7" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="525" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#c084fc">3. Network Layer Check</text>
+  <text x="525" y="302" font-family="monospace" font-size="11" fill="#cbd5e1">Verify Dest IP matches host IP &amp; decrement TTL</text>
+
+  <path d="M 695 260 L 695 245" stroke="#10b981" stroke-width="2" marker-end="url(#arrUp)" />
+
+  <!-- Step 4 Recv: Strip Ethernet & Check FCS -->
+  <rect x="510" y="335" width="370" height="48" rx="6" fill="#1e293b" stroke="#10b981" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="525" y="356" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#34d399">2. Data Link Layer Check</text>
+  <text x="525" y="372" font-family="monospace" font-size="11" fill="#cbd5e1">Verify FCS CRC error checksum &amp; match Dest MAC</text>
+
+  <path d="M 695 330 L 695 315" stroke="#10b981" stroke-width="2" marker-end="url(#arrUp)" />
+
+  <!-- Step 5 Recv: Bits Ingress -->
+  <rect x="510" y="405" width="370" height="48" rx="6" fill="#1e293b" stroke="#f97316" stroke-width="1.2" filter="url(#shadow2)"/>
+  <text x="525" y="426" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#fb923c">1. Physical Reception</text>
+  <text x="525" y="442" font-family="monospace" font-size="11" fill="#fed7aa">NIC converts analog voltage/optical signal to bytes</text>
+
+  <path d="M 695 400 L 695 385" stroke="#10b981" stroke-width="2" marker-end="url(#arrUp)" />
+
+  <!-- Bottom Physical Media Connector -->
+  <rect x="40" y="495" width="860" height="45" rx="8" fill="#0f172a" stroke="#f59e0b" stroke-width="1.5"/>
+  <path d="M 430 430 Q 465 470 510 430" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-dasharray="6,4" marker-end="url(#arrRight)"/>
+  <text x="470" y="522" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#fbbf24">
+    ⚡ Physical Medium (Copper Cable / Fiber Optic / Radio Wi-Fi)
+  </text>
+
+  <!-- DrawIO metadata script -->
+  <script type="application/xml">
+    <mxfile host="Electron" modified="2026-10-06T11:00:00.000Z" agent="Antigravity" version="21.6.8" type="device">
+      <diagram id="encapsulation-pipeline" name="Encapsulation and Decapsulation">
+        <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="940" pageHeight="560" background="#0f172a">
+          <root>
+            <mxCell id="0"/>
+            <mxCell id="1" parent="0"/>
+          </root>
+        </mxGraphModel>
+      </diagram>
+    </mxfile>
+  </script>
+</svg>

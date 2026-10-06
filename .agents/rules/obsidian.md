@@ -648,7 +648,7 @@ When new CS material is provided without specific organization instructions, aut
 
 ## 23. Diagrams & Visual Flowcharts (Draw.io & Asset Storage)
 
-* **Use Draw.io for Flowcharts & Multi-Step Systems:** For complex workflows, call stack diagrams, memory models, and state charts, create `.drawio.svg` vector diagrams.
+* **Use Draw.io for Large & Complex Flowcharts:** For multi-stage workflows, call stack diagrams, memory models, protocol stacks (OSI/TCP-IP), authentication pipelines, and ML systems, create `.drawio.svg` vector diagrams.
+* **Keep Small/Compact Diagrams as Native Mermaid:** For small 2–5 node trees (like `01. Binary Tree Fundamentals.md`), simple 2–3 step linear state transitions, and module roadmaps, keep them as clean horizontal (`flowchart LR`) Mermaid graphs.
 * **Keep Note Folders Clean (Mandatory `assets/` Subfolder):** Always place `.drawio.svg` and media files in an `assets/` subfolder within the module (never directly in the notes folder).
 * **Embed via Wikilinks:** Embed diagrams inside notes with `![[diagram_name.drawio.svg]]`.
-* **Compact Mermaid Diagrams:** When using Mermaid for lightweight inline graphs, prefer horizontal (`flowchart LR`) over tall vertical layouts (`flowchart TD`).
