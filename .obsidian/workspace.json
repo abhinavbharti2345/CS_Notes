@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "3227a2e3e37c0738",
         "type": "tabs",
         "children": [
           {
-            "id": "89a56456d2a015d1",
+            "id": "8d0d6be96ae812fa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -22,770 +22,133 @@
                 "collapse-color-groups": false,
                 "colorGroups": [
                   {
-                    "query": "file:Nexus",
+                    "query": "file:Nexus OR file:Dashboard OR file:home OR file:\"00.\" OR tag:#nexus OR tag:#moc",
                     "color": {
                       "a": 1,
                       "rgb": 16007006
                     }
                   },
                   {
-                    "query": "file:Dashboard",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16007006
-                    }
-                  },
-                  {
-                    "query": "file:home",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16007006
-                    }
-                  },
-                  {
-                    "query": "file:Core",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16007006
-                    }
-                  },
-                  {
-                    "query": "tag:#nexus",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16007006
-                    }
-                  },
-                  {
-                    "query": "tag:#moc",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16007006
-                    }
-                  },
-                  {
-                    "query": "path:\"Trees & BSTs\"",
+                    "query": "path:\"Trees & BSTs\" OR path:\"Binary Search\" OR Binary Tree OR BST OR \"Binary Search\"",
                     "color": {
                       "a": 1,
                       "rgb": 3718648
                     }
                   },
                   {
-                    "query": "path:\"Binary Search\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3718648
-                    }
-                  },
-                  {
-                    "query": "Binary Tree",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3718648
-                    }
-                  },
-                  {
-                    "query": "BST",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3718648
-                    }
-                  },
-                  {
-                    "query": "path:\"Linked Lists\"",
+                    "query": "path:\"Linked Lists\" OR path:\"Bit Manipulation\" OR path:\"Stacks & Queues\" OR path:Strings OR \"Linked List\" OR Stack OR Queue OR Bitwise OR Bit",
                     "color": {
                       "a": 1,
                       "rgb": 959977
                     }
                   },
                   {
-                    "query": "path:\"Bit Manipulation\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "path:\"Stacks & Queues\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "path:Strings",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "Linked List",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "Bitwise",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "Stack",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "Queue",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "path:\"Recursion & Backtracking\"",
+                    "query": "path:\"CS/DSA\" OR path:\"BrainOS/02 - Foundations/DSA\" OR DSA OR Recursion OR Backtracking OR \"Dynamic Programming\" OR Hashing OR Sorting OR Searching",
                     "color": {
                       "a": 1,
                       "rgb": 3900150
                     }
                   },
                   {
-                    "query": "path:CS/DSA",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/02 - Foundations/DSA\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "DSA",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "Recursion",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "Backtracking",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "Dynamic Programming",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "path:\"Computer Networking\"",
+                    "query": "path:\"Computer Networking\" OR path:\"BrainOS/03 - Core CS/Computer Networks\" OR Networking OR TCP OR IP OR Subnet OR Routing OR Encapsulation OR OSI OR DNS OR HTTP",
                     "color": {
                       "a": 1,
                       "rgb": 1096065
                     }
                   },
                   {
-                    "query": "path:\"BrainOS/03 - Core CS/Computer Networks\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "Networking",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "TCP",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "IP Addressing",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "Subnet",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "Routing",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "Encapsulation",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "OSI",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "path:CS/OS",
+                    "query": "path:\"CS/OS\" OR path:\"BrainOS/03 - Core CS/Operating Systems\" OR \"Operating System\" OR \"Operating Systems\" OR Process OR Threads OR Memory OR Paging OR Architecture OR Concurrency",
                     "color": {
                       "a": 1,
                       "rgb": 11032055
                     }
                   },
                   {
-                    "query": "path:\"BrainOS/03 - Core CS/Operating Systems\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "Operating Systems",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "Operating System",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "Memory",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "Process",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "Threads",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "Architecture",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "path:CS/DBMS",
+                    "query": "path:\"CS/DBMS\" OR path:\"BrainOS/03 - Core CS/Databases\" OR Database OR Databases OR DBMS OR SQL OR ACID OR Indexing OR Redis OR Caching",
                     "color": {
                       "a": 1,
                       "rgb": 16096779
                     }
                   },
                   {
-                    "query": "path:\"BrainOS/03 - Core CS/Databases\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "Database",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "DBMS",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "SQL",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "Indexing",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "Redis",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "path:CS/JAVA",
+                    "query": "path:\"CS/JAVA\" OR path:\"CS/Python\" OR path:\"CS/WebDev/Backend/JavaScript\" OR path:\"BrainOS/02 - Foundations/Programming\" OR Java OR Python OR JavaScript",
                     "color": {
                       "a": 1,
                       "rgb": 8490232
                     }
                   },
                   {
-                    "query": "path:CS/Python",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/WebDev/Backend/JavaScript\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/02 - Foundations/Programming\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "Java",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "Python",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "JavaScript",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "path:CS/WebDev",
+                    "query": "path:\"CS/WebDev\" OR path:\"BrainOS/04 - Software Engineering\" OR Backend OR Node.js OR API OR Express OR REST OR Authentication OR \"CI/CD\" OR Testing",
                     "color": {
                       "a": 1,
                       "rgb": 1357990
                     }
                   },
                   {
-                    "query": "path:\"BrainOS/04 - Software Engineering\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1357990
-                    }
-                  },
-                  {
-                    "query": "Backend",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1357990
-                    }
-                  },
-                  {
-                    "query": "Node.js",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1357990
-                    }
-                  },
-                  {
-                    "query": "API",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1357990
-                    }
-                  },
-                  {
-                    "query": "Authentication",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1357990
-                    }
-                  },
-                  {
-                    "query": "ShopKart",
-                    "color": {
-                      "a": 1,
-                      "rgb": 2278750
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/10 - Projects\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 2278750
-                    }
-                  },
-                  {
-                    "query": "Project Ideas",
-                    "color": {
-                      "a": 1,
-                      "rgb": 2278750
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/05 - Systems\"",
+                    "query": "path:\"BrainOS/05 - Systems\" OR Distributed OR \"System Design\" OR Scalability OR Consensus OR Kafka OR Microservices OR Sharding",
                     "color": {
                       "a": 1,
                       "rgb": 16487228
                     }
                   },
                   {
-                    "query": "Distributed",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16487228
-                    }
-                  },
-                  {
-                    "query": "System Design",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16487228
-                    }
-                  },
-                  {
-                    "query": "Scalability",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16487228
-                    }
-                  },
-                  {
-                    "query": "Consensus",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16487228
-                    }
-                  },
-                  {
-                    "query": "Kafka",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16487228
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/06 - Infrastructure\"",
+                    "query": "path:\"BrainOS/06 - Infrastructure\" OR Docker OR Kubernetes OR DevOps OR Cloud OR Observability OR AWS OR Linux",
                     "color": {
                       "a": 1,
                       "rgb": 6333946
                     }
                   },
                   {
-                    "query": "Docker",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6333946
-                    }
-                  },
-                  {
-                    "query": "Kubernetes",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6333946
-                    }
-                  },
-                  {
-                    "query": "DevOps",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6333946
-                    }
-                  },
-                  {
-                    "query": "Cloud",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6333946
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/AI & ML\"",
+                    "query": "path:\"CS/AI & ML\" OR path:\"BrainOS/07 - AI & Machine Learning\" OR \"Machine Learning\" OR Regression OR Preprocessing OR Feature OR Statistics OR \"Gradient Descent\" OR Pipeline",
                     "color": {
                       "a": 1,
                       "rgb": 15485081
                     }
                   },
                   {
-                    "query": "path:\"BrainOS/07 - AI & Machine Learning\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Machine Learning",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Regression",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Preprocessing",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Pipeline",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Gradient Descent",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Deep Learning",
+                    "query": "Deep Learning OR PyTorch OR Transformer OR Transformers OR Attention OR \"Neural Network\" OR CNN OR RNN",
                     "color": {
                       "a": 1,
                       "rgb": 12616956
                     }
                   },
                   {
-                    "query": "PyTorch",
-                    "color": {
-                      "a": 1,
-                      "rgb": 12616956
-                    }
-                  },
-                  {
-                    "query": "Transformers",
-                    "color": {
-                      "a": 1,
-                      "rgb": 12616956
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/08 - LLM & GenAI\"",
+                    "query": "path:\"BrainOS/08 - LLM & GenAI\" OR path:LocalLlmHub OR LLM OR RAG OR Vector OR Prompt OR \"AI Agents\" OR Agent OR \"Fine-Tuning\" OR Embeddings OR LangChain",
                     "color": {
                       "a": 1,
                       "rgb": 15235577
                     }
                   },
                   {
-                    "query": "path:LocalLlmHub",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15235577
-                    }
-                  },
-                  {
-                    "query": "LLM",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15235577
-                    }
-                  },
-                  {
-                    "query": "RAG",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15235577
-                    }
-                  },
-                  {
-                    "query": "AI Agents",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15235577
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/09 - AI Infrastructure\"",
+                    "query": "path:\"BrainOS/09 - AI Infrastructure\" OR CUDA OR GPU OR vLLM OR Triton OR \"Model Serving\" OR Quantization OR Tensor",
                     "color": {
                       "a": 1,
                       "rgb": 16436245
                     }
                   },
                   {
-                    "query": "CUDA",
+                    "query": "path:\"BrainOS/10 - Projects\" OR ShopKart OR Project OR Projects OR \"Project Ideas\"",
                     "color": {
                       "a": 1,
-                      "rgb": 16436245
+                      "rgb": 2278750
                     }
                   },
                   {
-                    "query": "GPU",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16436245
-                    }
-                  },
-                  {
-                    "query": "vLLM",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16436245
-                    }
-                  },
-                  {
-                    "query": "Model Serving",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16436245
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/01 - Roadmap\"",
+                    "query": "path:\"BrainOS/01 - Roadmap\" OR Roadmap OR \"Skill Dependency\"",
                     "color": {
                       "a": 1,
                       "rgb": 10980346
                     }
                   },
                   {
-                    "query": "Roadmap",
-                    "color": {
-                      "a": 1,
-                      "rgb": 10980346
-                    }
-                  },
-                  {
-                    "query": "path:Ext_&_res",
+                    "query": "path:Ext_&_res OR path:\"BrainOS/11 - Resources\" OR Resources OR Courses OR Links OR Books OR Documentation",
                     "color": {
                       "a": 1,
                       "rgb": 439764
                     }
                   },
                   {
-                    "query": "path:\"BrainOS/11 - Resources\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 439764
-                    }
-                  },
-                  {
-                    "query": "Resources",
-                    "color": {
-                      "a": 1,
-                      "rgb": 439764
-                    }
-                  },
-                  {
-                    "query": "Courses",
-                    "color": {
-                      "a": 1,
-                      "rgb": 439764
-                    }
-                  },
-                  {
-                    "query": "Books",
-                    "color": {
-                      "a": 1,
-                      "rgb": 439764
-                    }
-                  },
-                  {
-                    "query": "path:TaskNotes",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  },
-                  {
-                    "query": "path:Source",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  },
-                  {
-                    "query": "path:\"My vault/Study\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  },
-                  {
-                    "query": "path:.agents",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  },
-                  {
-                    "query": "path:graphify-out",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  },
-                  {
-                    "query": ".base",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  },
-                  {
-                    "query": "Start Here",
+                    "query": "path:TaskNotes OR path:Source OR path:\"My vault/Study\" OR path:.agents OR path:graphify-out OR .base OR \"Start Here\"",
                     "color": {
                       "a": 1,
                       "rgb": 6583435
@@ -802,7 +165,7 @@
                 "repelStrength": 14,
                 "linkStrength": 1,
                 "linkDistance": 220,
-                "scale": 0.5,
+                "scale": 0.65,
                 "close": false
               },
               "icon": "lucide-git-fork",
@@ -1014,10 +377,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "89a56456d2a015d1",
+  "active": "8d0d6be96ae812fa",
   "lastOpenFiles": [
-    "BrainOS/01 - Roadmap/Skill Dependency Map.md",
     "home.md",
+    "BrainOS/01 - Roadmap/Skill Dependency Map.md",
     "TaskNotes/Views/relationships.base",
     "graphify-out/cache/ast/v0.9.53-s2/ee4eff97c6ba00e2df7338d0aae288d2dc3e69915b7edd41a0bca21633b2f8f9.json",
     "TaskNotes/Views/mini-calendar-default.base",
