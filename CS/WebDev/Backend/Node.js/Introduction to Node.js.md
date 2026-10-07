@@ -212,7 +212,7 @@ Node.js Runtime (Execution & Event Loop)
 - [[Event Loop and Non-Blocking IO]] — Deep dive into Node's concurrency and non-blocking model.
 
 ## 🔗 Related Notes
-- [[CS/WebDev/Backend/Node.js/README|🟢 Node.js Runtime MOC]]
+- [[CS/WebDev/Backend/Node.js/00. Node.js Core|🟢 Node.js Runtime MOC]]
 - [[V8 Engine]]
 - [[Event Loop and Non-Blocking IO]]
 - [[Core Modules]]

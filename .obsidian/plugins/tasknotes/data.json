@@ -488,6 +488,11 @@
     "defaultReminderMinutes": null
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.13.6",
-  "lastNotifiedReleaseVersion": "4.13.8"
+  "lastSeenVersion": "4.13.8",
+  "lastNotifiedReleaseVersion": "4.13.8",
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2026-10-06"
 }

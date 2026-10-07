@@ -20,7 +20,7 @@ date: 2026-09-08
 ---
 
 ## 🧭 Navigation & Connections
-- 🏠 **Parent Hub:** [[CS/DSA/README|DSA Master Roadmap]]
+- 🏠 **Parent Hub:** [[CS/DSA/00. DSA Nexus|DSA Master Roadmap]]
 - 🧭 **Command Center:** [[Home]]
 - ⚡ **Related Topics:** [[Bit Manipulation]] | [[02. Bit Tricks]] | [[01. Bitwise Operators]]
 
@@ -291,7 +291,7 @@ long maskRangeLtoR     = (-1L << L) & ~(-1L << (R + 1)); // 1s from bit L to R
 ---
 
 ## 🔗 6. Linked List High-Yield Boilerplates
-*(Full deep dive: [[01. Linked List Fundamentals]], [[02. Linked List Patterns]], [[CS/DSA/03. Linked Lists/README|Linked Lists Master Note]])*
+*(Full deep dive: [[01. Linked List Fundamentals]], [[02. Linked List Patterns]], [[CS/DSA/03. Linked Lists/00. Linked Lists Core|Linked Lists Master Note]])*
 
 ```java
 // 1. Definition

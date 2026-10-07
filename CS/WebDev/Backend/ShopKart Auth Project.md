@@ -113,9 +113,9 @@ module.exports = { registerCustomer };
 ---
 
 ## 🔗 Related Notes
-- [[CS/WebDev/Backend/README|🌐 Backend Master MOC]]
-- [[CS/WebDev/Backend/JavaScript/README|🟨 JavaScript Foundations MOC]]
-- [[CS/WebDev/Backend/Node.js/README|🟢 Node.js MOC]]
+- [[CS/WebDev/Backend/00. Backend Nexus|🌐 Backend Master MOC]]
+- [[CS/WebDev/Backend/JavaScript/00. JavaScript Core|🟨 JavaScript Foundations MOC]]
+- [[CS/WebDev/Backend/Node.js/00. Node.js Core|🟢 Node.js MOC]]
 - [[Objects and Destructuring]]
 - [[Async JavaScript and JSON]]
 - [[Introduction to Node.js]]

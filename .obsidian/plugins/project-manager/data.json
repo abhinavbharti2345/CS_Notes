@@ -7,6 +7,7 @@
   "defaultView": "table",
   "ganttGranularity": "week",
   "ganttWeekLabel": "weekNumber",
+  "holidays": [],
   "statuses": [
     {
       "id": "todo",
@@ -82,8 +83,6 @@
   "globalTeamMembers": [],
   "showSubtreeConnections": true,
   "lineBorders": "none",
-  "kanbanShowSubtasks": false,
-  "kanbanShowDescriptionPreview": false,
   "showTagColors": true,
   "dateFormat": "",
   "notificationsEnabled": true,
@@ -97,13 +96,21 @@
   "editorSaveModifier": "Shift",
   "projectSurface": "overview",
   "projectFilters": {},
+  "defaultFields": {},
   "scopeViews": {},
   "collapsedTasks": {},
   "collapsedProjects": [],
   "showArchivedProjects": false,
+  "projectList": {
+    "filter": {},
+    "sort": [],
+    "group": "none",
+    "activeViewId": null
+  },
+  "projectListViews": [],
   "localApiEnabled": false,
   "localApiPort": 27177,
   "localApiToken": "191c4c782358e7536b44e2385b890c85f49b30d232b56125",
   "showReleaseNotes": true,
-  "lastSeenVersion": "2.5.2"
+  "lastSeenVersion": "2.6.0"
 }

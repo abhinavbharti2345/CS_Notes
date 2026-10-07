@@ -1,37 +1,45 @@
 /* ==========================================================================
-   ✨ PREMIUM AESTHETIC DIAGRAM SUITE - CLEAN & ROBUST OBSIDIAN DIAGRAMS
+   ✨ HIGH-CONTRAST DARK CYBER DIAGRAM SUITE - OBSIDIAN MERMAID & DRAW.IO
    ========================================================================== */
 
 /* -------------------- 1. DIAGRAM CONTAINER CARD -------------------- */
 .mermaid,
 .block-language-mermaid,
 div[class*="language-mermaid"] {
-  background: rgba(17, 24, 39, 0.4) !important;
-  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  background: #0B0F14 !important;
+  background-color: #0B0F14 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
   border-radius: 12px !important;
-  padding: 18px 16px !important;
+  padding: 20px 16px !important;
   margin: 16px 0 !important;
   overflow-x: auto !important;
   text-align: center !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25) !important;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5) !important;
 }
 
 /* Ensure Mermaid SVG scales cleanly */
 .mermaid svg,
 .block-language-mermaid svg {
+  background: #0B0F14 !important;
+  background-color: #0B0F14 !important;
   max-width: 100% !important;
   height: auto !important;
   display: inline-block !important;
   font-family: inherit !important;
 }
 
-/* Subgraph / Cluster Box Styling */
+/* -------------------- 2. SUBGRAPH / CLUSTER CONTAINERS (VERY DARK) -------------------- */
 .mermaid .cluster rect,
+.mermaid .cluster polygon,
 .block-language-mermaid .cluster rect,
-.mermaid svg .cluster > rect {
-  fill: rgba(15, 23, 42, 0.55) !important;
-  stroke: rgba(99, 102, 241, 0.35) !important;
-  stroke-width: 1.5px !important;
+.block-language-mermaid .cluster polygon,
+.mermaid svg g.clusters rect,
+.mermaid svg g.cluster rect,
+.mermaid svg .cluster > rect,
+.mermaid svg rect.cluster {
+  fill: #0B0F14 !important;
+  background-color: #0B0F14 !important;
+  stroke-width: 1.8px !important;
   rx: 10px !important;
   ry: 10px !important;
 }
@@ -41,66 +49,97 @@ div[class*="language-mermaid"] {
 .mermaid .cluster span,
 .block-language-mermaid .cluster text,
 .block-language-mermaid .cluster span,
-.mermaid svg .cluster text {
-  fill: #e0e7ff !important;
-  color: #e0e7ff !important;
+.mermaid svg .cluster text,
+.mermaid svg g.clusters text {
+  fill: #38BDF8 !important;
+  color: #38BDF8 !important;
   font-weight: 700 !important;
   font-size: 13px !important;
   letter-spacing: 0.3px !important;
 }
 
-/* Nodes Default Base Styling */
+/* -------------------- 3. ALL NODES (DARK BOXES & HIGH CONTRAST) -------------------- */
 .mermaid .node rect,
 .mermaid .node circle,
 .mermaid .node ellipse,
 .mermaid .node polygon,
+.mermaid .node path,
+.mermaid .node .label-container,
 .block-language-mermaid .node rect,
-.block-language-mermaid .node circle {
+.block-language-mermaid .node circle,
+.block-language-mermaid .node polygon,
+.mermaid svg g.nodes rect,
+.mermaid svg g.nodes .label-container,
+.mermaid svg .node > rect {
+  fill: #111827 !important;
+  background-color: #111827 !important;
+  stroke-width: 1.8px !important;
   rx: 8px !important;
   ry: 8px !important;
-  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3)) !important;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.4)) !important;
 }
 
-/* Node Label Text */
+/* -------------------- 4. ALL NODE LABELS & TEXT (ULTRA BRIGHT) -------------------- */
 .mermaid .node .label,
 .mermaid .node text,
-.block-language-mermaid .node text {
-  fill: #f8fafc !important;
-  color: #f8fafc !important;
+.mermaid .node span,
+.mermaid .node b,
+.mermaid .node i,
+.mermaid .node div,
+.block-language-mermaid .node text,
+.block-language-mermaid .node span,
+.block-language-mermaid .node div,
+.mermaid svg g.nodes text,
+.mermaid svg g.nodes span,
+.mermaid svg g.nodes div,
+.mermaid svg .node text {
+  fill: #F8FAFC !important;
+  color: #F8FAFC !important;
   font-weight: 600 !important;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif !important;
 }
 
-/* Smooth Arrow & Edge styling */
+.mermaid .node i,
+.mermaid .node span i,
+.block-language-mermaid .node i {
+  color: #CBD5E1 !important;
+  fill: #CBD5E1 !important;
+}
+
+/* -------------------- 5. EDGES, ARROWS & PATHS -------------------- */
 .mermaid .edgePath .path,
-.block-language-mermaid .edgePath .path {
-  stroke: #64748b !important;
+.block-language-mermaid .edgePath .path,
+.mermaid svg .edgePaths .path {
+  stroke: #64748B !important;
   stroke-width: 1.8px !important;
   stroke-linecap: round !important;
   stroke-linejoin: round !important;
 }
 
 .mermaid .marker,
-.block-language-mermaid .marker {
-  fill: #818cf8 !important;
-  stroke: #818cf8 !important;
+.block-language-mermaid .marker,
+.mermaid svg marker path {
+  fill: #38BDF8 !important;
+  stroke: #38BDF8 !important;
 }
 
 /* Edge Labels */
 .mermaid .edgeLabel,
-.block-language-mermaid .edgeLabel {
-  background-color: rgba(15, 23, 42, 0.85) !important;
+.block-language-mermaid .edgeLabel,
+.mermaid svg .edgeLabels .edgeLabel {
+  background-color: #0B0F14 !important;
+  border: 1px solid #334155 !important;
   border-radius: 6px !important;
-  color: #94a3b8 !important;
-  font-size: 11.5px !important;
+  color: #CBD5E1 !important;
+  font-size: 11px !important;
   padding: 2px 6px !important;
 }
 
-/* -------------------- 2. CHARTS & CANVAS -------------------- */
+/* -------------------- 6. CHARTS & CANVAS -------------------- */
 .chart-container,
 .obsidian-charts-container {
-  background: rgba(17, 24, 39, 0.4) !important;
-  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  background: #0B0F14 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
   border-radius: 12px !important;
   padding: 16px !important;
   margin: 16px 0 !important;

@@ -20,6 +20,7 @@ date: 2026-09-05
 ## 📖 Module Learning Path
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     BM["⚡ Bit Manipulation Mastery"]
     BM --> B1["01. [[01. Bitwise Operators]]<br/><i>AND, OR, XOR, NOT & Truth Tables</i>"]
@@ -27,8 +28,8 @@ flowchart TD
     BM --> B3["03. [[03. XOR Patterns]]<br/><i>Identities, Duplicate Cancellation & Parity</i>"]
     BM --> B4["04. [[04. Bit Manipulation Problems]]<br/><i>Single Number, Two Missing & Bit Contribution</i>"]
 
-    classDef core fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.5px;
-    classDef step fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef core fill:#111827,stroke:#0ea5e9,stroke-width:1.5px,color:#F8FAFC;
+    classDef step fill:#111827,stroke:#10b981,stroke-width:1.8px,color:#F8FAFC;
     class BM core;
     class B1,B2,B3,B4 step;
 ```
@@ -127,7 +128,7 @@ Count 1s:    N = N & (N - 1)     → Brian Kernighan algorithm O(set bits)
 ---
 
 ## 🔗 Related Notes
-- [[CS/DSA/README|🌳 DSA Master MOC]]
+- [[CS/DSA/00. DSA Nexus|🌳 DSA Master MOC]]
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
 - [[01. Bitwise Operators]]
 - [[02. Bit Tricks]]

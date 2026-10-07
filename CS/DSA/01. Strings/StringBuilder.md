@@ -15,7 +15,7 @@ date: 2026-09-08
 # 🏗️ StringBuilder (Architecture, Methods & DSA Patterns)
 
 > [!abstract] Module Overview
-> **Module Hub:** [[CS/DSA/01. Strings/README|01. Strings]] | **Roadmap:** [[CS/DSA/README|DSA Master Roadmap]] | **Java Foundations:** [[CS/JAVA/README|Java MOC]]
+> **Module Hub:** [[CS/DSA/01. Strings/00. Strings Core|01. Strings]] | **Roadmap:** [[CS/DSA/00. DSA Nexus|DSA Master Roadmap]] | **Java Foundations:** [[CS/JAVA/00. Java Nexus|Java MOC]]
 
 ---
 
@@ -24,6 +24,7 @@ date: 2026-09-08
 `StringBuilder` is a **mutable sequence of characters** in Java. Unlike standard `String` objects (which are immutable and cannot be altered once created), a `StringBuilder` allows characters and substrings to be appended, inserted, modified, or removed in-place without generating garbage objects on the heap.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph S ["❌ String Concatenation (Immutable Heap Allocation: O(N^2))"]
         direction TD
@@ -38,8 +39,8 @@ flowchart TD
     style S fill:none,stroke:#f43f5e,stroke-width:1.5px,stroke-dasharray:4 4
     style SB fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
 
-    classDef bad fill:#f43f5e18,stroke:#f43f5e,stroke-width:1.8px;
-    classDef good fill:#10b98118,stroke:#10b981,stroke-width:1.8px;
+    classDef bad fill:#111827,stroke:#f43f5e,stroke-width:1.8px,color:#F8FAFC;
+    classDef good fill:#111827,stroke:#10b981,stroke-width:1.8px,color:#F8FAFC;
     class S1,S2 bad;
     class B1,B2 good;
 ```
@@ -111,13 +112,14 @@ Internally, `StringBuilder` is backed by a resizable character array (`char[]` i
 ### Pattern 1: Backtracking & DFS (Path Construction)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     Start["sb = 'root'"] --> Checkpoint["Save checkpoint: len = 4"]
     Checkpoint --> Append["sb.append('->left')<br/>sb = 'root->left'"]
     Append --> Recurse["recurse(left)"]
     Recurse --> Rollback["sb.setLength(len)<br/>⚡ Instant rollback to 'root'!"]
 
-    classDef step fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
+    classDef step fill:#111827,stroke:#0ea5e9,stroke-width:1.8px,color:#F8FAFC;
     class Start,Checkpoint,Append,Recurse,Rollback step;
 ```
 
@@ -200,9 +202,9 @@ for (String query : queries) {
 ---
 
 ## 🔗 Related Notes
-- [[CS/DSA/01. Strings/README|📁 01. Strings Master MOC]]
+- [[CS/DSA/01. Strings/00. Strings Core|📁 01. Strings Master MOC]]
 - [[CS/DSA/01. Strings/Add Binary & String Arithmetic|➕ Add Binary & String Arithmetic]]
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
-- [[CS/JAVA/README|☕ Java Foundations]]
+- [[CS/JAVA/00. Java Nexus|☕ Java Foundations]]
 - [[Home|🧭 Main Command Center]]
 

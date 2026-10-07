@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 500" width="100%" height="100%">
   <defs>
     <linearGradient id="bgGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e1b4b" />
+      <stop offset="0%" stop-color="#0B0F14" />
+      <stop offset="100%" stop-color="#0B0F14" />
     </linearGradient>
     <filter id="shadow6" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
@@ -28,14 +28,14 @@
   <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
     🔀 Scikit-Learn ColumnTransformer Architecture
   </text>
-  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#CBD5E1">
     Heterogeneous Feature Dispatching ➔ Parallel Sub-Pipelines ➔ Column Concatenation ➔ Final Estimator
   </text>
 
   <!-- Raw Heterogeneous Input Data -->
-  <rect x="40" y="160" width="160" height="200" rx="10" fill="#1e293b" stroke="#64748b" stroke-width="1.5" filter="url(#shadow6)"/>
+  <rect x="40" y="160" width="160" height="200" rx="10" fill="#111827" stroke="#64748b" stroke-width="1.5" filter="url(#shadow6)"/>
   <text x="120" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#cbd5e1">🗄️ Raw Dataset</text>
-  <text x="120" y="215" text-anchor="middle" font-family="monospace" font-size="11" fill="#94a3b8">X_train Matrix</text>
+  <text x="120" y="215" text-anchor="middle" font-family="monospace" font-size="11" fill="#CBD5E1">X_train Matrix</text>
   
   <rect x="55" y="235" width="130" height="50" rx="6" fill="#0ea5e918" stroke="#0ea5e9" stroke-width="1"/>
   <text x="120" y="255" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#38bdf8">Numerical Cols</text>
@@ -52,13 +52,13 @@
     🔢 Numerical Sub-Pipeline ('num')
   </text>
   
-  <rect x="280" y="145" width="125" height="70" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <rect x="280" y="145" width="125" height="70" rx="6" fill="#111827" stroke="#38bdf8" stroke-width="1"/>
   <text x="342" y="172" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#38bdf8">SimpleImputer</text>
   <text x="342" y="195" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#cbd5e1">strategy='median'</text>
 
   <path d="M 405 180 L 430 180" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrCyan6)"/>
 
-  <rect x="435" y="145" width="115" height="70" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <rect x="435" y="145" width="115" height="70" rx="6" fill="#111827" stroke="#38bdf8" stroke-width="1"/>
   <text x="492" y="172" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#38bdf8">StandardScaler</text>
   <text x="492" y="195" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#cbd5e1">μ=0, σ=1</text>
 
@@ -69,13 +69,13 @@
     🏷️ Categorical Sub-Pipeline ('cat')
   </text>
   
-  <rect x="280" y="330" width="125" height="70" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+  <rect x="280" y="330" width="125" height="70" rx="6" fill="#111827" stroke="#f59e0b" stroke-width="1"/>
   <text x="342" y="357" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#fbbf24">SimpleImputer</text>
   <text x="342" y="380" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#cbd5e1">fill='Unknown'</text>
 
   <path d="M 405 365 L 430 365" stroke="#f59e0b" stroke-width="2" marker-end="url(#arrAmber6)"/>
 
-  <rect x="435" y="330" width="115" height="70" rx="6" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+  <rect x="435" y="330" width="115" height="70" rx="6" fill="#111827" stroke="#f59e0b" stroke-width="1"/>
   <text x="492" y="357" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#fbbf24">OneHotEncoder</text>
   <text x="492" y="380" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#cbd5e1">drop='first'</text>
 
@@ -83,15 +83,15 @@
   <path d="M 570 170 L 625 240" stroke="#0ea5e9" stroke-width="2.2" marker-end="url(#arrPurple6)"/>
   <path d="M 570 355 L 625 280" stroke="#f59e0b" stroke-width="2.2" marker-end="url(#arrPurple6)"/>
 
-  <rect x="630" y="210" width="120" height="100" rx="8" fill="#1e293b" stroke="#c084fc" stroke-width="1.5" filter="url(#shadow6)"/>
+  <rect x="630" y="210" width="120" height="100" rx="8" fill="#111827" stroke="#c084fc" stroke-width="1.5" filter="url(#shadow6)"/>
   <text x="690" y="245" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#c084fc">🔗 Feature</text>
   <text x="690" y="265" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#c084fc">Matrix Merge</text>
-  <text x="690" y="290" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94a3b8">np.hstack()</text>
+  <text x="690" y="290" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#CBD5E1">np.hstack()</text>
 
   <!-- Final Estimator Stage -->
   <path d="M 750 260 L 785 260" stroke="#10b981" stroke-width="2.5" marker-end="url(#arrGreen6)"/>
 
-  <rect x="790" y="195" width="120" height="130" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.8" filter="url(#shadow6)"/>
+  <rect x="790" y="195" width="120" height="130" rx="8" fill="#111827" stroke="#10b981" stroke-width="1.8" filter="url(#shadow6)"/>
   <text x="850" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#34d399">🧠 Estimator</text>
   <text x="850" y="260" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#cbd5e1">LinearRegression</text>
   <text x="850" y="280" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#cbd5e1">or Ridge / RF</text>

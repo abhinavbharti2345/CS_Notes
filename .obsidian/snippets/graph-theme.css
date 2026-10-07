@@ -1,0 +1,81 @@
+/* ==========================================================================
+   🌌 CYBER GRAPH THEME - OBSIDIAN GRAPH VIEW HIGH-CONTRAST DARK STYLING
+   ========================================================================== */
+
+/* -------------------- 1. GRAPH CANVAS & CONTAINER -------------------- */
+.graph-view-container,
+.workspace-leaf-content[data-type="graph"],
+.workspace-leaf-content[data-type="localgraph"] {
+  background-color: #0b0f14 !important;
+}
+
+/* -------------------- 2. GRAPH THEME VARIABLES -------------------- */
+.theme-dark {
+  --graph-line: #334155;
+  --graph-node: #64748b;
+  --graph-node-unresolved: #1e293b;
+  --graph-node-focused: #38bdf8;
+  --graph-node-tag: #c084fc;
+  --graph-node-attachment: #f472b6;
+  --graph-text: #f8fafc;
+}
+
+/* -------------------- 3. GRAPH LABELS & TEXT -------------------- */
+.graph-view.color-text,
+.graph-view-container text {
+  fill: #f8fafc !important;
+  color: #f8fafc !important;
+  font-weight: 600 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* -------------------- 4. GRAPH EDGES & LINES -------------------- */
+.graph-view.color-line {
+  color: #334155 !important;
+  opacity: 0.65 !important;
+}
+
+/* -------------------- 5. GRAPH CONTROLS HUD -------------------- */
+.graph-controls {
+  background-color: rgba(15, 23, 42, 0.85) !important;
+  backdrop-filter: blur(14px) !important;
+  -webkit-backdrop-filter: blur(14px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6) !important;
+  color: #f8fafc !important;
+}
+
+.graph-controls .tree-item-self {
+  color: #f8fafc !important;
+  font-weight: 600 !important;
+}
+
+.graph-controls .tree-item-inner {
+  color: #cbd5e1 !important;
+}
+
+.graph-controls input[type="text"],
+.graph-controls input[type="search"] {
+  background-color: #111827 !important;
+  border: 1px solid #334155 !important;
+  border-radius: 6px !important;
+  color: #f8fafc !important;
+}
+
+.graph-controls input[type="range"] {
+  accent-color: #38bdf8 !important;
+}
+
+.graph-controls button {
+  background-color: #1e293b !important;
+  border: 1px solid #475569 !important;
+  color: #f8fafc !important;
+  border-radius: 6px !important;
+}
+
+.graph-controls button:hover {
+  background-color: #334155 !important;
+  border-color: #38bdf8 !important;
+}

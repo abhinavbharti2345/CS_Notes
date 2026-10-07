@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradCicd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F14" />
+      <stop offset="100%" stop-color="#0A0A0F" />
+    </linearGradient>
+    <marker id="arrGreenCicd" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34D399" />
+    </marker>
+  </defs>
+
+  <rect width="940" height="480" rx="14" fill="url(#bgGradCicd)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">
+    🚀 Production Automated CI/CD &amp; Testing Pipeline
+  </text>
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#CBD5E1">
+    From git push through unit testing, security scanning, container build, and zero-downtime deployment
+  </text>
+
+  <!-- Stage 1 -->
+  <rect x="40" y="90" width="150" height="350" rx="8" fill="#111827" stroke="#38BDF8" stroke-width="1.5"/>
+  <text x="115" y="120" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38BDF8">1. Commit &amp; Lint</text>
+  <text x="115" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">Git Pre-commit</text>
+  <text x="115" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">ESLint / Checkstyle</text>
+  <text x="115" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Formatting</text>
+  <text x="115" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Branch Protection</text>
+
+  <!-- Stage 2 -->
+  <rect x="220" y="90" width="150" height="350" rx="8" fill="#111827" stroke="#34D399" stroke-width="1.5"/>
+  <text x="295" y="120" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#34D399">2. Automated Tests</text>
+  <text x="295" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">Unit Testing (JUnit)</text>
+  <text x="295" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Testcontainers</text>
+  <text x="295" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Integration Tests</text>
+  <text x="295" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Coverage &gt; 80%</text>
+
+  <!-- Stage 3 -->
+  <rect x="400" y="90" width="150" height="350" rx="8" fill="#111827" stroke="#FACC15" stroke-width="1.5"/>
+  <text x="475" y="120" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#FACC15">3. Security Scan</text>
+  <text x="475" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">SAST Analysis</text>
+  <text x="475" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">SonarQube Scan</text>
+  <text x="475" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Trivy Vulnerability</text>
+  <text x="475" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Secret Detection</text>
+
+  <!-- Stage 4 -->
+  <rect x="580" y="90" width="150" height="350" rx="8" fill="#111827" stroke="#22D3EE" stroke-width="1.5"/>
+  <text x="655" y="120" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#22D3EE">4. Container Build</text>
+  <text x="655" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">Docker Multi-Stage</text>
+  <text x="655" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Minimal Alpine Base</text>
+  <text x="655" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Image SHA Signing</text>
+  <text x="655" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Push to ECR / OCI</text>
+
+  <!-- Stage 5 -->
+  <rect x="760" y="90" width="150" height="350" rx="8" fill="#111827" stroke="#FB7185" stroke-width="1.5"/>
+  <text x="835" y="120" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#FB7185">5. Deploy &amp; Observe</text>
+  <text x="835" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">Kubernetes / ArgoCD</text>
+  <text x="835" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Canary / Rolling</text>
+  <text x="835" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Prometheus Metrics</text>
+  <text x="835" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#CBD5E1">Grafana Dashboard</text>
+
+  <!-- Flow Arrows -->
+  <path d="M 190 265 L 220 265" stroke="#34D399" stroke-width="2" marker-end="url(#arrGreenCicd)"/>
+  <path d="M 370 265 L 400 265" stroke="#34D399" stroke-width="2" marker-end="url(#arrGreenCicd)"/>
+  <path d="M 550 265 L 580 265" stroke="#34D399" stroke-width="2" marker-end="url(#arrGreenCicd)"/>
+  <path d="M 730 265 L 760 265" stroke="#34D399" stroke-width="2" marker-end="url(#arrGreenCicd)"/>
+</svg>

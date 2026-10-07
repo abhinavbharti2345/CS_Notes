@@ -6,6 +6,7 @@
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "dashboard",
-    "diagrams"
+    "diagrams",
+    "graph-theme"
   ]
 }

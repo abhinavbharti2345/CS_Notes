@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 500" width="100%" height="100%">
   <defs>
     <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e1b4b" />
+      <stop offset="0%" stop-color="#0B0F14" />
+      <stop offset="100%" stop-color="#0B0F14" />
     </linearGradient>
     <filter id="shadow3" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
@@ -22,7 +22,7 @@
   <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#f8fafc">
     🌐 Router Architecture: Routing (Control Plane) vs. Forwarding (Data Plane)
   </text>
-  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#CBD5E1">
     Global Path Computation in Software ➔ Local Hardware Packet Forwarding at Wire-Speed
   </text>
 
@@ -33,25 +33,25 @@
   </text>
 
   <!-- Routing Protocols Box -->
-  <rect x="75" y="130" width="240" height="110" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow3)"/>
+  <rect x="75" y="130" width="240" height="110" rx="8" fill="#111827" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow3)"/>
   <text x="195" y="155" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">📡 Routing Protocols</text>
   <text x="195" y="175" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">RIP • OSPF • BGP</text>
-  <text x="195" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Exchanges topology graphs</text>
-  <text x="195" y="215" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Runs Dijkstra / Bellman-Ford</text>
+  <text x="195" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">Exchanges topology graphs</text>
+  <text x="195" y="215" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">Runs Dijkstra / Bellman-Ford</text>
 
   <path d="M 315 185 L 365 185" stroke="#818cf8" stroke-width="2" marker-end="url(#arrIndigo)" />
 
   <!-- RIB Table Box -->
-  <rect x="370" y="130" width="495" height="110" rx="8" fill="#1e293b" stroke="#818cf8" stroke-width="1.2" filter="url(#shadow3)"/>
+  <rect x="370" y="130" width="495" height="110" rx="8" fill="#111827" stroke="#818cf8" stroke-width="1.2" filter="url(#shadow3)"/>
   <text x="617" y="155" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#a5b4fc">📋 Routing Information Base (RIB / Routing Table)</text>
   
-  <rect x="390" y="170" width="455" height="55" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <rect x="390" y="170" width="455" height="55" rx="6" fill="#111827" stroke="#334155" stroke-width="1"/>
   <text x="405" y="190" font-family="monospace" font-size="11" fill="#7dd3fc">Prefix: 198.51.100.0/24 ➔ Next-Hop: 10.0.0.2  (OSPF Cost: 10)</text>
   <text x="405" y="210" font-family="monospace" font-size="11" fill="#7dd3fc">Prefix: 203.0.113.0/24  ➔ Next-Hop: 10.0.1.1  (BGP AS-Path: 64512)</text>
 
   <!-- Downward Sync Path -->
   <path d="M 617 240 L 617 285" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="6,4" marker-end="url(#arrIndigo)" />
-  <rect x="630" y="250" width="220" height="26" rx="4" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+  <rect x="630" y="250" width="220" height="26" rx="4" fill="#111827" stroke="#f59e0b" stroke-width="1"/>
   <text x="740" y="267" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#fbbf24">
     ⚡ Installs Active Routes into ASIC
   </text>
@@ -63,15 +63,15 @@
   </text>
 
   <!-- Incoming Packet -->
-  <rect x="75" y="345" width="210" height="105" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="1.2" filter="url(#shadow3)"/>
+  <rect x="75" y="345" width="210" height="105" rx="8" fill="#111827" stroke="#f59e0b" stroke-width="1.2" filter="url(#shadow3)"/>
   <text x="180" y="375" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#fbbf24">📦 Incoming Packet</text>
   <text x="180" y="400" text-anchor="middle" font-family="monospace" font-size="11" fill="#cbd5e1">Input Interface 1</text>
-  <text x="180" y="420" text-anchor="middle" font-family="monospace" font-size="11" fill="#94a3b8">Dest: 198.51.100.4</text>
+  <text x="180" y="420" text-anchor="middle" font-family="monospace" font-size="11" fill="#CBD5E1">Dest: 198.51.100.4</text>
 
   <path d="M 285 397 L 335 397" stroke="#34d399" stroke-width="2.5" marker-end="url(#arrEmerald)" />
 
   <!-- FIB Fast Hardware Lookup -->
-  <rect x="340" y="345" width="300" height="105" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.5" filter="url(#shadow3)"/>
+  <rect x="340" y="345" width="300" height="105" rx="8" fill="#111827" stroke="#10b981" stroke-width="1.5" filter="url(#shadow3)"/>
   <text x="490" y="375" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#34d399">🔍 Forwarding Table (FIB)</text>
   <text x="490" y="398" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">TCAM Hardware Lookup</text>
   <text x="490" y="418" text-anchor="middle" font-family="monospace" font-size="11" fill="#6ee7b7">Match: 198.51.100.0/24 ➔ Port 3</text>
@@ -79,7 +79,7 @@
   <path d="M 640 397 L 690 397" stroke="#34d399" stroke-width="2.5" marker-end="url(#arrEmerald)" />
 
   <!-- Outgoing Interface -->
-  <rect x="695" y="345" width="170" height="105" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow3)"/>
+  <rect x="695" y="345" width="170" height="105" rx="8" fill="#111827" stroke="#38bdf8" stroke-width="1.2" filter="url(#shadow3)"/>
   <text x="780" y="375" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">🚀 Output Port 3</text>
   <text x="780" y="400" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">Transmitted to</text>
   <text x="780" y="420" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#cbd5e1">Next Router B</text>

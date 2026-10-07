@@ -86,12 +86,12 @@
   </g>
 
   <!-- Center Container: RAM Call Stack Model -->
-  <rect x="325" y="90" width="270" height="460" rx="12" fill="#0f172a" stroke="#475569" stroke-width="1.2"/>
+  <rect x="325" y="90" width="270" height="460" rx="12" fill="#111827" stroke="#475569" stroke-width="1.2"/>
   <rect x="340" y="105" width="240" height="30" rx="6" fill="#334155"/>
   <text x="460" y="125" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle">
     📦 RAM CALL STACK (LIFO)
   </text>
-  <text x="460" y="152" fill="#94a3b8" font-family="sans-serif" font-size="11.5" text-anchor="middle">
+  <text x="460" y="152" fill="#CBD5E1" font-family="sans-serif" font-size="11.5" text-anchor="middle">
     Stores function state, NOT output!
   </text>
 
@@ -103,28 +103,28 @@
     <text x="115" y="36" fill="#fbcfe8" font-family="sans-serif" font-size="9.5" text-anchor="middle">TOP ➔ Returns instantly</text>
 
     <!-- Frame 1 -->
-    <rect x="0" y="48" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <rect x="0" y="48" width="230" height="42" rx="6" fill="#111827" stroke="#64748b" stroke-width="1.2"/>
     <text x="115" y="70" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(1)</text>
-    <text x="115" y="84" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 1 (Waiting)</text>
+    <text x="115" y="84" fill="#CBD5E1" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 1 (Waiting)</text>
 
     <!-- Frame 2 -->
-    <rect x="0" y="96" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <rect x="0" y="96" width="230" height="42" rx="6" fill="#111827" stroke="#64748b" stroke-width="1.2"/>
     <text x="115" y="118" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(2)</text>
-    <text x="115" y="132" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 2 (Waiting)</text>
+    <text x="115" y="132" fill="#CBD5E1" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 2 (Waiting)</text>
 
     <!-- Frame 3 -->
-    <rect x="0" y="144" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <rect x="0" y="144" width="230" height="42" rx="6" fill="#111827" stroke="#64748b" stroke-width="1.2"/>
     <text x="115" y="166" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(3)</text>
-    <text x="115" y="180" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 3 (Waiting)</text>
+    <text x="115" y="180" fill="#CBD5E1" font-family="sans-serif" font-size="9.5" text-anchor="middle">Local state: n = 3 (Waiting)</text>
 
     <!-- Frame 4 (Bottom) -->
-    <rect x="0" y="192" width="230" height="42" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+    <rect x="0" y="192" width="230" height="42" rx="6" fill="#111827" stroke="#64748b" stroke-width="1.2"/>
     <text x="115" y="214" fill="#e2e8f0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Stack Frame: print(4)</text>
-    <text x="115" y="228" fill="#94a3b8" font-family="sans-serif" font-size="9.5" text-anchor="middle">BOTTOM ➔ First called, Last finished</text>
+    <text x="115" y="228" fill="#CBD5E1" font-family="sans-serif" font-size="9.5" text-anchor="middle">BOTTOM ➔ First called, Last finished</text>
 
     <!-- Stack Base Line -->
     <line x1="-5" y1="245" x2="235" y2="245" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
-    <text x="115" y="265" fill="#64748b" font-family="sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle">STACK BASE MEMORY</text>
+    <text x="115" y="265" fill="#CBD5E1" font-family="sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle">STACK BASE MEMORY</text>
   </g>
 
   <!-- Container Right: Phase 2 (Coming Up) -->

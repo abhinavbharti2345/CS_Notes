@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradDist" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F14" />
+      <stop offset="100%" stop-color="#0A0A0F" />
+    </linearGradient>
+    <filter id="glowOrangeDist" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#FB923C" flood-opacity="0.15"/>
+    </filter>
+    <marker id="arrOrangeDist" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FB923C" />
+    </marker>
+    <marker id="arrCyanDist" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#38BDF8" />
+    </marker>
+  </defs>
+
+  <rect width="940" height="500" rx="14" fill="url(#bgGradDist)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <text x="470" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">
+    🌐 Distributed Systems Consensus &amp; CAP Theorem Model
+  </text>
+  <text x="470" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#CBD5E1">
+    Trade-offs between Strong Consistency (CP), High Availability (AP), and Consensus Protocols (Raft / Paxos)
+  </text>
+
+  <!-- CAP Section -->
+  <rect x="40" y="85" width="410" height="380" rx="10" fill="#111827" stroke="#FB923C" stroke-width="1.8" filter="url(#glowOrangeDist)"/>
+  <text x="60" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#FB923C">
+    1. CAP THEOREM &amp; PARTITION TOLERANCE
+  </text>
+
+  <rect x="55" y="135" width="380" height="95" rx="8" fill="#0B0F14" stroke="#FB923C" stroke-width="1.2"/>
+  <text x="70" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#F8FAFC">CP Systems (Consistency + Partition Tolerance)</text>
+  <text x="70" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">• Rejects writes during network split to prevent split-brain state.</text>
+  <text x="70" y="202" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38BDF8">Examples: PostgreSQL (Sync Replication), ZooKeeper, Raft, etcd</text>
+
+  <rect x="55" y="245" width="380" height="95" rx="8" fill="#0B0F14" stroke="#FB923C" stroke-width="1.2"/>
+  <text x="70" y="270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#F8FAFC">AP Systems (Availability + Partition Tolerance)</text>
+  <text x="70" y="292" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">• Always responds to reads/writes; reconciles data eventually.</text>
+  <text x="70" y="312" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34D399">Examples: Apache Cassandra, DynamoDB (Eventual Consistency), DNS</text>
+
+  <rect x="55" y="355" width="380" height="95" rx="8" fill="#0B0F14" stroke="#FB923C" stroke-width="1.2"/>
+  <text x="70" y="380" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#F8FAFC">PACELC Extension</text>
+  <text x="70" y="402" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">If Partition: Choose (A vs C); Else: Choose (Latency vs Consistency)</text>
+  <text x="70" y="422" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#FACC15">Guides database tuning under normal operation conditions</text>
+
+  <!-- Consensus Section -->
+  <rect x="490" y="85" width="410" height="380" rx="10" fill="#111827" stroke="#38BDF8" stroke-width="1.8" filter="url(#glowOrangeDist)"/>
+  <text x="510" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#38BDF8">
+    2. RAFT CONSENSUS &amp; LEADER ELECTION
+  </text>
+
+  <rect x="510" y="135" width="370" height="90" rx="8" fill="#0B0F14" stroke="#38BDF8" stroke-width="1.2"/>
+  <text x="525" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#38BDF8">Leader Node (Active)</text>
+  <text x="525" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">• Handles all client requests, appends log entries, sends heartbeats.</text>
+  <text x="525" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">Quorum Requirement: Majorities (N/2 + 1) commit writes</text>
+
+  <rect x="510" y="240" width="370" height="90" rx="8" fill="#0B0F14" stroke="#38BDF8" stroke-width="1.2"/>
+  <text x="525" y="263" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#38BDF8">Follower Nodes</text>
+  <text x="525" y="285" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">• Passively replicate log entries received from current Leader.</text>
+  <text x="525" y="305" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#F8FAFC">If heartbeat times out (150–300ms) → Transitions to Candidate</text>
+
+  <rect x="510" y="345" width="370" height="105" rx="8" fill="#0B0F14" stroke="#FACC15" stroke-width="1.2"/>
+  <text x="525" y="368" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#FACC15">Candidate State (Election)</text>
+  <text x="525" y="390" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">• Increments Term counter, votes for self, requests votes from peers.</text>
+  <text x="525" y="410" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#CBD5E1">• Wins election once majority quorum votes received.</text>
+</svg>

@@ -15,7 +15,7 @@ date: 2026-09-08
 # ➕ String Arithmetic & Add Binary Pattern
 
 > [!abstract] Module Overview
-> **Module Hub:** [[CS/DSA/01. Strings/README|01. Strings]] | **Master Roadmap:** [[CS/DSA/README|DSA Master Roadmap]] | **Quick Reference:** [[Quick Look|⚡ Quick Look Cheatsheet]]
+> **Module Hub:** [[CS/DSA/01. Strings/00. Strings Core|01. Strings]] | **Master Roadmap:** [[CS/DSA/00. DSA Nexus|DSA Master Roadmap]] | **Quick Reference:** [[Quick Look|⚡ Quick Look Cheatsheet]]
 
 ---
 
@@ -32,6 +32,7 @@ When adding two large numbers represented as strings (such as **binary strings**
 We simulate manual column-by-column addition from **right to left** (least significant digit to most significant).
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph Simulation ["Right-to-Left Arithmetic Loop"]
         direction TD
@@ -47,9 +48,9 @@ flowchart TD
 
     style Simulation fill:none,stroke:#6366f1,stroke-width:1.5px,stroke-dasharray:4 4
 
-    classDef step fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
-    classDef decision fill:#f59e0b18,stroke:#f59e0b,stroke-width:1.8px;
-    classDef finish fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef step fill:#111827,stroke:#0ea5e9,stroke-width:1.8px,color:#F8FAFC;
+    classDef decision fill:#111827,stroke:#f59e0b,stroke-width:1.8px,color:#F8FAFC;
+    classDef finish fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
 
     class Start,Extract,Calc,Decrement step;
     class Condition decision;
@@ -66,11 +67,12 @@ When processing right $\to$ left:
 - 3rd calculated bit $\to$ next bit to the left
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     P["Processed Order: 1 -> 0 -> 1 -> 1"] --> R["Reversed Final String: 1 1 0 1"]
     
-    classDef proc fill:#0ea5e918,stroke:#0ea5e9,stroke-width:1.8px;
-    classDef rev fill:#10b98118,stroke:#10b981,stroke-width:2px;
+    classDef proc fill:#111827,stroke:#0ea5e9,stroke-width:1.8px,color:#F8FAFC;
+    classDef rev fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
     
     class P proc;
     class R rev;
@@ -193,10 +195,10 @@ class Solution {
 ---
 
 ## 🔗 Related Notes
-- [[CS/DSA/01. Strings/README|📁 01. Strings Master MOC]]
+- [[CS/DSA/01. Strings/00. Strings Core|📁 01. Strings Master MOC]]
 - [[CS/DSA/DSA Problems/67. Add Binary|💡 67. Add Binary (Problem Walkthrough & Top 100% char[] Optimization)]]
 - [[CS/DSA/01. Strings/StringBuilder|🏗️ StringBuilder Deep Dive]]
-- [[CS/DSA/README|🌳 DSA Master Roadmap]]
+- [[CS/DSA/00. DSA Nexus|🌳 DSA Master Roadmap]]
 - [[Quick Look|⚡ Quick Look (Java / DSA Cheatsheet)]]
 - [[Home|🧭 Main Command Center]]
 

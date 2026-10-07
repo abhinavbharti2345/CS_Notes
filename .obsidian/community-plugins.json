@@ -15,9 +15,9 @@
   "terminal",
   "obsidian-charts",
   "advanced-canvas",
-  "drawio-obsidian",
   "project-manager",
   "execute-code",
   "heatmap-calendar",
-  "tasknotes"
+  "tasknotes",
+  "drawio-obsidian"
 ]
