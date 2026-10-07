@@ -49,7 +49,7 @@ flowchart TD
         ADD2 --> OUT["<b>Output to Next Layer</b>"]
     end
 
-    style XFORMER_BLOCK fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
+    style XFORMER_BLOCK stroke:#E879F9,stroke-width:1.8px,color:#E879F9
 
     classDef ioNode stroke:#38BDF8,stroke-width:1.8px;
     classDef normNode stroke:#64748B,stroke-width:1.5px;

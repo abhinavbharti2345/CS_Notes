@@ -68,7 +68,17 @@ div[class*="language-mermaid"] {
 }
 
 /* -------------------- 4. CLEAN SUBGRAPHS / CLUSTERS -------------------- */
-.mermaid .cluster rect {
+.mermaid .cluster rect,
+.block-language-mermaid .cluster rect,
+div[class*="language-mermaid"] .cluster rect,
+svg[id^="mermaid-"] .cluster rect,
+svg[id^="mermaid-"] g.clusters rect,
+svg[id^="mermaid-"] g.cluster rect,
+svg[id^="mermaid-"] .cluster > rect {
+  fill: transparent !important;
+  fill-opacity: 0 !important;
+  background: transparent !important;
+  background-color: transparent !important;
   rx: 12px !important;
   ry: 12px !important;
   stroke-dasharray: 4 4 !important;

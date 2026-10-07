@@ -44,8 +44,8 @@ flowchart TD
         CONTEXT & Q --> LLM["<b>LLM Generation with Citations</b>"]
     end
 
-    style INGESTION fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
-    style RETRIEVAL fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
+    style INGESTION stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
+    style RETRIEVAL stroke:#E879F9,stroke-width:1.8px,color:#E879F9
 
     classDef ingestNode stroke:#38BDF8,stroke-width:1.8px;
     classDef vdbNode stroke:#A78BFA,stroke-width:2px;

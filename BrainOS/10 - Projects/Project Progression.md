@@ -31,17 +31,17 @@ flowchart TD
     L9 --> L10["<b>Level 10:</b> Enterprise Production RAG Engine<br/><i>(Qdrant Hybrid Search, Cohere Re-ranker, AI Agents)</i>"]
     L10 --> L11["<b>Level 11:</b> Distributed LLM Inference Gateway<br/><i>(vLLM, Continuous Batching, PagedAttention, CUDA)</i>"]
 
-    style L1 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style L2 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style L3 fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
-    style L4 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
-    style L5 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style L6 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style L7 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style L8 fill:#111827,stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC
-    style L9 fill:#111827,stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC
-    style L10 fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
-    style L11 fill:#111827,stroke:#FACC15,stroke-width:2.2px,color:#F8FAFC
+    style L1 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style L2 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style L3 stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
+    style L4 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style L5 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style L6 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style L7 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style L8 stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC
+    style L9 stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC
+    style L10 stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
+    style L11 stroke:#FACC15,stroke-width:2.2px,color:#F8FAFC
 ```
 
 ---

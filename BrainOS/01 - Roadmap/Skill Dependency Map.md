@@ -104,14 +104,14 @@ flowchart TD
     SERVE --> SCALE_AI
 
     %% Styling
-    style S_LANG fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
-    style S_DSA fill:#0B0F14,stroke:#A78BFA,stroke-width:1.8px,color:#A78BFA
-    style S_CORE fill:#0B0F14,stroke:#C084FC,stroke-width:1.8px,color:#C084FC
-    style S_BE fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
-    style S_DIST fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
-    style S_INFRA fill:#0B0F14,stroke:#22D3EE,stroke-width:1.8px,color:#22D3EE
-    style S_AI fill:#0B0F14,stroke:#F472B6,stroke-width:1.8px,color:#F472B6
-    style S_AI_INFRA fill:#0B0F14,stroke:#FACC15,stroke-width:2px,color:#FACC15
+    style S_LANG stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
+    style S_DSA stroke:#A78BFA,stroke-width:1.8px,color:#A78BFA
+    style S_CORE stroke:#C084FC,stroke-width:1.8px,color:#C084FC
+    style S_BE stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style S_DIST stroke:#FB923C,stroke-width:1.8px,color:#FB923C
+    style S_INFRA stroke:#22D3EE,stroke-width:1.8px,color:#22D3EE
+    style S_AI stroke:#F472B6,stroke-width:1.8px,color:#F472B6
+    style S_AI_INFRA stroke:#FACC15,stroke-width:2px,color:#FACC15
 
     classDef fndNode stroke:#38BDF8,stroke-width:1.8px;
     classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;

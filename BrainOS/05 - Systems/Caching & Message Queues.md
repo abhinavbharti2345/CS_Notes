@@ -31,7 +31,7 @@ flowchart TD
         RA["<b>4. Refresh-Ahead</b><br/>Cache proactively reloads data before TTL expires based on usage."]
     end
 
-    style CACHE_PATTERNS fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
+    style CACHE_PATTERNS stroke:#FB923C,stroke-width:1.8px,color:#FB923C
 
     classDef sysNode stroke:#FB923C,stroke-width:1.8px;
     class CA,WT,WB,RA sysNode;

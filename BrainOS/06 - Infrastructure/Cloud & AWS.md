@@ -41,12 +41,12 @@ flowchart TD
     CL4 --> CL5["<b>5. Observability & Security:</b> CloudWatch, CloudTrail, KMS Encryption"]
     CL5 --> CL6["<b>6. Infrastructure-as-Code:</b> Terraform, AWS CDK, Declarative Stacks"]
 
-    style CL1 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style CL2 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style CL3 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style CL4 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style CL5 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
-    style CL6 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style CL1 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style CL2 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style CL3 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style CL4 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style CL5 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style CL6 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. Identity & Core Compute

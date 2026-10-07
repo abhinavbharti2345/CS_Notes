@@ -42,16 +42,16 @@ flowchart TD
     P7 --> P8["<b>08. LLM & GenAI</b><br/>Transformers, RAG, AI Agents, Fine-Tuning"]
     P8 --> P9["<b>09. AI Infrastructure</b><br/>CUDA, Model Serving, Quantization, vLLM"]
 
-    style P0 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style P1 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style P2 fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
-    style P3 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
-    style P4 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
-    style P5 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style P6 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style P7 fill:#111827,stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC
-    style P8 fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
-    style P9 fill:#111827,stroke:#FACC15,stroke-width:2.2px,color:#F8FAFC
+    style P0 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style P1 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style P2 stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
+    style P3 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style P4 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style P5 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style P6 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style P7 stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC
+    style P8 stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
+    style P9 stroke:#FACC15,stroke-width:2.2px,color:#F8FAFC
 ```
 
 ---

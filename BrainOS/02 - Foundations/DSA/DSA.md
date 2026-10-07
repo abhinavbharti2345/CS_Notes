@@ -42,15 +42,15 @@ flowchart TD
     A7 --> A8["<b>8. Networks:</b> Graphs (BFS/DFS, Topological Sort, Dijkstra)"]
     A8 --> A9["<b>9. Optimization:</b> Dynamic Programming & Greedy"]
 
-    style A1 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style A2 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style A3 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style A4 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style A5 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style A6 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style A7 fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
-    style A8 fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
-    style A9 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style A1 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style A2 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style A3 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style A4 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style A5 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style A6 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style A7 stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC
+    style A8 stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
+    style A9 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. Linear Foundations

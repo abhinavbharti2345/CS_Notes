@@ -35,7 +35,7 @@ flowchart LR
         BWD --> STEP["<b>Optimizer Step</b><br/>(optimizer.step() - AdamW)"]
     end
 
-    style NN_FLOW fill:#0B0F14,stroke:#F472B6,stroke-width:1.8px,color:#F472B6
+    style NN_FLOW stroke:#F472B6,stroke-width:1.8px,color:#F472B6
 
     classDef dlNode stroke:#F472B6,stroke-width:1.8px;
     class IN,FWD,LOSS,BWD,STEP dlNode;

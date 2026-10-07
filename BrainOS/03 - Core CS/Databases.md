@@ -42,12 +42,12 @@ flowchart TD
     DB4 --> DB5["<b>5. NoSQL Paradigms:</b> Key-Value (Redis), Document, Wide-Column"]
     DB5 --> DB6["<b>6. Scale & Partitions:</b> Read Replicas, Sharding, Connection Pooling"]
 
-    style DB1 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style DB2 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style DB3 fill:#111827,stroke:#F59E0B,stroke-width:1.8px,color:#F8FAFC
-    style DB4 fill:#111827,stroke:#F59E0B,stroke-width:1.8px,color:#F8FAFC
-    style DB5 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
-    style DB6 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style DB1 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style DB2 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style DB3 stroke:#F59E0B,stroke-width:1.8px,color:#F8FAFC
+    style DB4 stroke:#F59E0B,stroke-width:1.8px,color:#F8FAFC
+    style DB5 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style DB6 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. Relational Data Modeling & Normalization

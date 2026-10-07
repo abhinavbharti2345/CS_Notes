@@ -52,10 +52,10 @@ flowchart TD
         TABLE --> P7 & P2 & P9
     end
 
-    style PAGED_ATTN fill:#0B0F14,stroke:#FACC15,stroke-width:2px,color:#FACC15
-    style LOGICAL fill:#0B0F14,stroke:#38BDF8,stroke-width:1.5px,color:#38BDF8
-    style TABLE fill:#0B0F14,stroke:#E879F9,stroke-width:1.5px,color:#E879F9
-    style PHYSICAL fill:#0B0F14,stroke:#FACC15,stroke-width:1.5px,color:#FACC15
+    style PAGED_ATTN stroke:#FACC15,stroke-width:2px,color:#FACC15
+    style LOGICAL stroke:#38BDF8,stroke-width:1.5px,color:#38BDF8
+    style TABLE stroke:#E879F9,stroke-width:1.5px,color:#E879F9
+    style PHYSICAL stroke:#FACC15,stroke-width:1.5px,color:#FACC15
 
     classDef logNode stroke:#38BDF8,stroke-width:1.8px;
     classDef tabNode stroke:#E879F9,stroke-width:1.8px;

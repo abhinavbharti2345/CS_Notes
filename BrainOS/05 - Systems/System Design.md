@@ -40,11 +40,11 @@ flowchart TD
     S3 --> S4["<b>4. Deep Dive Components:</b> Caching, Queuing, Partitioning, Sharding"]
     S4 --> S5["<b>5. Resilience & Edge Cases:</b> Circuit Breakers, Rate Limiters, Failover"]
 
-    style S1 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style S2 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style S3 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style S4 fill:#111827,stroke:#F59E0B,stroke-width:1.8px,color:#F8FAFC
-    style S5 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style S1 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style S2 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style S3 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style S4 stroke:#F59E0B,stroke-width:1.8px,color:#F8FAFC
+    style S5 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. Requirements & Capacity Estimation

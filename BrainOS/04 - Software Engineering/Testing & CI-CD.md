@@ -48,7 +48,7 @@ flowchart LR
         SCAN --> DEPLOY["<b>Deploy to Kubernetes (AWS EKS)</b>"]
     end
 
-    style PIPELINE fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style PIPELINE stroke:#34D399,stroke-width:1.8px,color:#34D399
 
     classDef seNode stroke:#34D399,stroke-width:1.8px;
     class G,LINT,TEST,BUILD,SCAN,DEPLOY seNode;

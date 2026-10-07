@@ -41,12 +41,12 @@ flowchart TD
     DK4 --> DK5["<b>5. Ingress & Routing:</b> Nginx Ingress Controller, TLS, Path Routing"]
     DK5 --> DK6["<b>6. Advanced Scaling & GitOps:</b> HPA, Helm Charts, ArgoCD Deployments"]
 
-    style DK1 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style DK2 fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
-    style DK3 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style DK4 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style DK5 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
-    style DK6 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style DK1 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style DK2 stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC
+    style DK3 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style DK4 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style DK5 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style DK6 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. Docker & Container Internals

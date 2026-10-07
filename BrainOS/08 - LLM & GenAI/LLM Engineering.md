@@ -42,12 +42,12 @@ flowchart TD
     L4 --> L5["<b>5. Adaptation:</b> LoRA / QLoRA Parameter-Efficient Fine-Tuning"]
     L5 --> L6["<b>6. Evaluation & Guardrails:</b> RAGAS Metrics, NeMo Guardrails, Latency Profiling"]
 
-    style L1 fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
-    style L2 fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
-    style L3 fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
-    style L4 fill:#111827,stroke:#D946EF,stroke-width:1.8px,color:#F8FAFC
-    style L5 fill:#111827,stroke:#D946EF,stroke-width:1.8px,color:#F8FAFC
-    style L6 fill:#111827,stroke:#FB7185,stroke-width:1.8px,color:#F8FAFC
+    style L1 stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
+    style L2 stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
+    style L3 stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC
+    style L4 stroke:#D946EF,stroke-width:1.8px,color:#F8FAFC
+    style L5 stroke:#D946EF,stroke-width:1.8px,color:#F8FAFC
+    style L6 stroke:#FB7185,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. LLM Core Mechanics

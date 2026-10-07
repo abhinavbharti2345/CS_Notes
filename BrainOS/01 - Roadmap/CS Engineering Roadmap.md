@@ -83,18 +83,18 @@ flowchart TD
     P0 ==> P1 ==> P2 ==> P3 ==> P4 ==> P5 ==> P6 ==> P7
     P7 ==> P8 ==> P10 ==> P11 ==> P12
 
-    style P0 fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
-    style P1 fill:#0B0F14,stroke:#A78BFA,stroke-width:1.8px,color:#A78BFA
-    style P2 fill:#0B0F14,stroke:#C084FC,stroke-width:1.8px,color:#C084FC
-    style P3 fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
-    style P4 fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
-    style P5 fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
-    style P6 fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
-    style P7 fill:#0B0F14,stroke:#22D3EE,stroke-width:1.8px,color:#22D3EE
-    style P8 fill:#0B0F14,stroke:#F472B6,stroke-width:1.8px,color:#F472B6
-    style P10 fill:#0B0F14,stroke:#F472B6,stroke-width:1.8px,color:#F472B6
-    style P11 fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
-    style P12 fill:#0B0F14,stroke:#FACC15,stroke-width:2px,color:#FACC15
+    style P0 stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
+    style P1 stroke:#A78BFA,stroke-width:1.8px,color:#A78BFA
+    style P2 stroke:#C084FC,stroke-width:1.8px,color:#C084FC
+    style P3 stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style P4 stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style P5 stroke:#FB923C,stroke-width:1.8px,color:#FB923C
+    style P6 stroke:#FB923C,stroke-width:1.8px,color:#FB923C
+    style P7 stroke:#22D3EE,stroke-width:1.8px,color:#22D3EE
+    style P8 stroke:#F472B6,stroke-width:1.8px,color:#F472B6
+    style P10 stroke:#F472B6,stroke-width:1.8px,color:#F472B6
+    style P11 stroke:#E879F9,stroke-width:1.8px,color:#E879F9
+    style P12 stroke:#FACC15,stroke-width:2px,color:#FACC15
 
     classDef fndNode stroke:#38BDF8,stroke-width:1.8px;
     classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;

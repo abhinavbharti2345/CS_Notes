@@ -42,9 +42,9 @@ flowchart TD
         DUM["<b>dummy (val: 0)</b>"] --> HD["head"]
     end
 
-    style P1 fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
-    style P2 fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
-    style P3 fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
+    style P1 stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
+    style P2 stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style P3 stroke:#FB923C,stroke-width:1.8px,color:#FB923C
 
     classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;
     class S,F,PR,CU,NX,DUM,HD dsaNode;

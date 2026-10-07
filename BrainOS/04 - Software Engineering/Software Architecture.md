@@ -42,7 +42,7 @@ flowchart TD
         FW --> AD --> UC --> ENT
     end
 
-    style CLEAN fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style CLEAN stroke:#34D399,stroke-width:1.8px,color:#34D399
 
     classDef fwNode stroke:#64748B,stroke-width:1.8px;
     classDef adNode stroke:#38BDF8,stroke-width:1.8px;

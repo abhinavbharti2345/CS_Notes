@@ -43,8 +43,8 @@ flowchart TD
 
     G_TYPES ==> G_ADV
 
-    style G_TYPES fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
-    style G_ADV fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style G_TYPES stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
+    style G_ADV stroke:#34D399,stroke-width:1.8px,color:#34D399
 
     classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;
     class BFS,DFS,DIJK,TOPO,DSU dsaNode;

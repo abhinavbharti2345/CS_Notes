@@ -32,7 +32,7 @@ flowchart TD
         CHECK -- Yes --> FINAL["<b>Deliver Final Response / Result</b>"]
     end
 
-    style REACT_CYCLE fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
+    style REACT_CYCLE stroke:#E879F9,stroke-width:1.8px,color:#E879F9
 
     classDef ioNode stroke:#38BDF8,stroke-width:1.8px;
     classDef thoughtNode stroke:#E879F9,stroke-width:1.8px;

@@ -43,7 +43,7 @@ flowchart LR
         RL["<b>Token Bucket Rate Limiting</b><br/>(Protects downstream capacity)"]
     end
 
-    style RESILIENCE fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
+    style RESILIENCE stroke:#FB923C,stroke-width:1.8px,color:#FB923C
 
     classDef sysNode stroke:#FB923C,stroke-width:1.8px;
     class CB,RETRY,BH,RL sysNode;

@@ -42,12 +42,12 @@ flowchart TD
     OS4 --> OS5["<b>5. Storage & I/O:</b> File Systems, Inodes, Async Non-Blocking I/O"]
     OS5 --> OS6["<b>6. Linux Internals:</b> Syscalls, Signals, epoll, cgroups, namespaces"]
 
-    style OS1 fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
-    style OS2 fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
-    style OS3 fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
-    style OS4 fill:#111827,stroke:#A855F7,stroke-width:1.8px,color:#F8FAFC
-    style OS5 fill:#111827,stroke:#A855F7,stroke-width:1.8px,color:#F8FAFC
-    style OS6 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style OS1 stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
+    style OS2 stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
+    style OS3 stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC
+    style OS4 stroke:#A855F7,stroke-width:1.8px,color:#F8FAFC
+    style OS5 stroke:#A855F7,stroke-width:1.8px,color:#F8FAFC
+    style OS6 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. Process & Thread Management

@@ -50,10 +50,10 @@ flowchart TD
         end
     end
 
-    style PARALLEL_MODELS fill:#0B0F14,stroke:#FACC15,stroke-width:2px,color:#FACC15
-    style TP fill:#0B0F14,stroke:#38BDF8,stroke-width:1.5px,color:#38BDF8
-    style PP fill:#0B0F14,stroke:#A78BFA,stroke-width:1.5px,color:#A78BFA
-    style DP fill:#0B0F14,stroke:#34D399,stroke-width:1.5px,color:#34D399
+    style PARALLEL_MODELS stroke:#FACC15,stroke-width:2px,color:#FACC15
+    style TP stroke:#38BDF8,stroke-width:1.5px,color:#38BDF8
+    style PP stroke:#A78BFA,stroke-width:1.5px,color:#A78BFA
+    style DP stroke:#34D399,stroke-width:1.5px,color:#34D399
 
     classDef tpSt stroke:#38BDF8,stroke-width:1.8px;
     classDef ppSt stroke:#A78BFA,stroke-width:1.8px;

@@ -41,11 +41,11 @@ flowchart TD
     AI3 --> AI4["<b>4. Distributed Multi-GPU:</b> Tensor Parallelism (TP), Pipeline Parallelism (PP)"]
     AI4 --> AI5["<b>5. Production Cluster Operations:</b> Ray Clusters, Triton Inference Server, Slurm"]
 
-    style AI1 fill:#111827,stroke:#FACC15,stroke-width:2px,color:#F8FAFC
-    style AI2 fill:#111827,stroke:#FACC15,stroke-width:2px,color:#F8FAFC
-    style AI3 fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
-    style AI4 fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
-    style AI5 fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
+    style AI1 stroke:#FACC15,stroke-width:2px,color:#F8FAFC
+    style AI2 stroke:#FACC15,stroke-width:2px,color:#F8FAFC
+    style AI3 stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC
+    style AI4 stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC
+    style AI5 stroke:#34D399,stroke-width:1.8px,color:#F8FAFC
 ```
 
 ### 1. GPU Hardware Architecture & CUDA Internals

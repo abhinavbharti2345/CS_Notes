@@ -43,7 +43,7 @@ flowchart TD
         BE -->|6. Serves Protected Data| C
     end
 
-    style JWT_FLOW fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
+    style JWT_FLOW stroke:#34D399,stroke-width:1.8px,color:#34D399
 
     classDef cNode stroke:#38BDF8,stroke-width:1.8px;
     classDef sNode stroke:#FB923C,stroke-width:1.8px;
