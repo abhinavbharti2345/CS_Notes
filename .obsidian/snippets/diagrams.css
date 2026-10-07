@@ -28,7 +28,7 @@ div[class*="language-mermaid"] {
   -moz-osx-font-smoothing: grayscale !important;
 }
 
-/* -------------------- 2. SHARP VECTOR NODES -------------------- */
+/* -------------------- 2. SHARP VECTOR NODES (WITH SOFT AMBIENT INNER GLOW) -------------------- */
 .mermaid .node rect,
 .mermaid .node circle,
 .mermaid .node polygon,
@@ -37,7 +37,19 @@ div[class*="language-mermaid"] {
 .mermaid .node .label-container {
   rx: 8px !important;
   ry: 8px !important;
-  filter: none !important;
+  filter: drop-shadow(0 0 5px rgba(56, 189, 248, 0.15)) !important;
+}
+
+.mermaid .node foreignObject div,
+.mermaid .node .label div {
+  box-shadow: inset 0 0 16px rgba(255, 255, 255, 0.04), inset 0 0 8px rgba(56, 189, 248, 0.08) !important;
+  border-radius: 8px !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+body.theme-light .mermaid .node foreignObject div,
+.theme-light .mermaid .node foreignObject div {
+  box-shadow: inset 0 0 12px rgba(2, 132, 199, 0.06), 0 1px 3px rgba(0, 0, 0, 0.05) !important;
 }
 
 /* -------------------- 3. CRISP TYPOGRAPHY (ZERO BLUR) -------------------- */

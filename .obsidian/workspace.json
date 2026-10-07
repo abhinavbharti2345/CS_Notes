@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BrainOS/01 - Roadmap/Skill Dependency Map.md",
+                "file": "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill Dependency Map"
+              "title": "01. Binary Tree Fundamentals"
             }
           }
         ]
@@ -225,6 +225,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "BrainOS/01 - Roadmap/Skill Dependency Map.md",
     "graphify-out/cache/ast/v0.9.53-s2/1a9b2858aa53252b2e1282fff5019d8bf1cb1d792867724b0826564fe3c333b3.json",
     "graphify-out/cache/ast/v0.9.53-s2/8aff565b2f72a5ad4498a50d9ba3d2b4fd954bfe83313c605a372ae25c3688ac.json",
     "graphify-out/cache/ast/v0.9.53-s2/9db9eff9775923ab8dc4fb266a9b7f0f02eb68c51338f3013154eb52b223a084.json",
@@ -235,7 +236,6 @@
     "graphify-out/cache/ast/v0.9.53-s2/f3fa82cd57e9c9cad9b480cc888ea7542664ad18cb12aaea640dda6e5f716e3a.json",
     "graphify-out/cache/ast/v0.9.53-s2/d042fbf1ae9886a7febb2bda92b68632fc526a26298eda24bd9990999dc811cd.json",
     "graphify-out/cache/ast/v0.9.53-s2/408f5b42548661f3427deb8b13c60d8fe662a7773b490bee876c38360cc23e76.json",
-    "graphify-out/cache/ast/v0.9.53-s2/0350dc5f51d1ddb2e91f34248a65fa2ec1306eacec22e8a6fbe1422a015cf5b6.json",
     "BrainOS/01 - Roadmap/Learning Progress.md",
     "BrainOS/01 - Roadmap/CS Engineering Roadmap.md",
     "CS/DSA/03. Linked Lists/01. Linked List Fundamentals.md",
@@ -265,7 +265,6 @@
     "CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals.md",
     "CS/DSA/05. Recursion & Backtracking/00. Recursion Core.md",
     "CS/DSA/07. Trees & BSTs/assets/preorder_recursive_trace.drawio.svg",
-    "BrainOS/01 - Roadmap/Skill Dependency Map.md",
     "BrainOS/04 - Software Engineering/assets/testing_and_cicd_pipeline.drawio.svg",
     "BrainOS/05 - Systems/assets/distributed_systems_architecture.drawio.svg",
     "BrainOS/05 - Systems/assets/caching_and_queues_architecture.drawio.svg",
