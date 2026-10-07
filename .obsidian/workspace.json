@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DSA/06. Stacks & Queues/03. Queue Fundamentals.md",
+                "file": "CS/DSA/06. Stacks & Queues/06. Sliding Window Maximum.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Queue Fundamentals"
+              "title": "06. Sliding Window Maximum"
             }
           }
         ]
@@ -228,25 +228,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home.md",
-    "graphify-out/cache/ast/v0.9.53-s2/08f8fa659e67b4379b244ec9d0b14e9fd57b08cd06fd1ebfdf33cfb29d23122b.json",
-    "graphify-out/cache/ast/v0.9.53-s2/87122fde40e4668f86d1698849595ca69a14c47ee6a0cfe55293e92ee3119a14.json",
-    "graphify-out/cache/ast/v0.9.53-s2/0da4246d54bae0b3b54cd0e677f543024e135c37a7cd024104cd2651d4724774.json",
-    "graphify-out/cache/ast/v0.9.53-s2/cd064419800fbe2bd54a54f99cf4203382c3e5081d1790b8ffb6a7ece7308a8b.json",
-    "graphify-out/cache/ast/v0.9.53-s2/5dfce337112fc3dfd98f14796370cc368e3f0c18b087d3270e8918ca4cb36e7e.json",
-    "CS/DSA/06. Stacks & Queues/05. Circular Queue.md",
-    "CS/DSA/06. Stacks & Queues/06. Sliding Window Maximum.md",
+    "graphify-out/cache/ast/v0.9.53-s2/a1849e9e5faef3298dc84e52f3a83d2c6914d8fbfc3a2176f4c0aa340ad72460.json",
+    "graphify-out/cache/ast/v0.9.53-s2/6a07326ee76361817093e2be8f489aa6b915b1cbb8891266eff78cf9c73700a8.json",
     "CS/DSA/06. Stacks & Queues/05. Deque Fundamentals.md",
-    "CS/DSA/06. Stacks & Queues/04. Queue Implementation from Scratch.md",
     "CS/DSA/06. Stacks & Queues/04. Implement Queue using Stacks.md",
+    "graphify-out/cache/ast/v0.9.53-s2/bc978ecff97f51bc32ddbb4bb47699d1042a222db67f6c58413453f9958b3777.json",
+    "graphify-out/cache/ast/v0.9.53-s2/c16b570b279b861e67bfa1862e6ab24a827023725da5cba23c5ed56a18c4b304.json",
+    "graphify-out/cache/ast/v0.9.53-s2/f52abe0e06d4cfc57de5b8c78d778f3544c53a3c019ee1b431e8c4500ecf4439.json",
+    "CS/DSA/06. Stacks & Queues/06. Sliding Window Maximum.md",
+    "graphify-out/cache/ast/v0.9.53-s2/9c4f45fd01dd585bf09f5964d0047e97276ec6ee50d96717bc5356e0f7ac8b99.json",
+    "graphify-out/cache/ast/v0.9.53-s2/a55322e8e764d4d20322001dad5e481ed4e612a1eba6227c7614b76741ee3575.json",
+    "graphify-out/cache/ast/v0.9.53-s2/95a4bd099f484ff7712da435ed11766f64e014612a27cb59defced8ef8b07164.json",
     "CS/DSA/06. Stacks & Queues/03. Queue Fundamentals.md",
     "CS/DSA/06. Stacks & Queues/00. Stacks & Queues Core.md",
-    "graphify-out/cache/ast/v0.9.53-s2/d854515b03750c49abb69fbc39f5c2fba397b9f3f784349bf755410d91bdf836.json",
-    "graphify-out/cache/ast/v0.9.53-s2/f7b007581c7ec68995ebfc2412ee8923ae679701f34386890ed5a236c178bf55.json",
-    "graphify-out/cache/ast/v0.9.53-s2/87f8016e903f32b6a0acadd8786b54afc79b587819f4e7e9e632115866e5db03.json",
+    "graphify-out/cache/ast/v0.9.53-s2/3aa02bc49b0b80bfd68f3a0679498e58fb7cd7a9de4615cc365d0e9064f8125c.json",
+    "graphify-out/cache/ast/v0.9.53-s2/52d56417ca9fcc22adeb650d5ec6dcedace7bb2ca94da0a7c878a6b37c7b65fb.json",
+    "home.md",
+    "graphify-out/cache/ast/v0.9.53-s2/08f8fa659e67b4379b244ec9d0b14e9fd57b08cd06fd1ebfdf33cfb29d23122b.json",
+    "CS/DSA/06. Stacks & Queues/05. Circular Queue.md",
+    "CS/DSA/06. Stacks & Queues/04. Queue Implementation from Scratch.md",
     "CS/DSA/06. Stacks & Queues/08. Priority Queue Fundamentals.md",
-    "graphify-out/cache/ast/v0.9.53-s2/43198f9e4c11ba655272e25c2fe30b5b77e49912a4d33ac0f3fee3ecd6d38fc3.json",
-    "graphify-out/cache/ast/v0.9.53-s2/89f8cd0ab38294aeb16ea985a1df3c5b26152137d50fa0f6c86bbb591e02424a.json",
     "CS/DSA/06. Stacks & Queues/07. Deque Fundamentals.md",
     "CS/DSA/06. Stacks & Queues/06. Queue Linked List Implementation.md",
     "BrainOS/01 - Roadmap/Skill Dependency Map.md",
