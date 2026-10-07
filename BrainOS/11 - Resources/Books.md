@@ -40,4 +40,4 @@ tags:
 ## 🔗 Related Notes
 - Video Courses: **[[BrainOS/11 - Resources/Courses|Canonical Courses]]**
 - Official Docs: **[[BrainOS/11 - Resources/Documentation|Official Documentation]]**
-- Main Dashboard: **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Main Dashboard: **[[00 - BrainOS Dashboard|Main Dashboard]]**

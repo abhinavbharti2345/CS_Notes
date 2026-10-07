@@ -47,4 +47,4 @@ Where $\theta$ represents model parameters, $\eta$ is the learning rate, and $\n
 ## 🔗 Related Topics
 - [[BrainOS/07 - AI & Machine Learning/Machine Learning|Machine Learning Master Hub]]
 - [[BrainOS/07 - AI & Machine Learning/Deep Learning & PyTorch|Deep Learning & PyTorch]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

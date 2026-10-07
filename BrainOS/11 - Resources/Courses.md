@@ -28,4 +28,4 @@ tags:
 ## 🔗 Related Notes
 - Reading List: **[[BrainOS/11 - Resources/Books|Canonical Books]]**
 - Official Docs: **[[BrainOS/11 - Resources/Documentation|Official Documentation]]**
-- Main Dashboard: **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Main Dashboard: **[[00 - BrainOS Dashboard|Main Dashboard]]**

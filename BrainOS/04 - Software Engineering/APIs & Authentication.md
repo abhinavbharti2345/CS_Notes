@@ -68,4 +68,4 @@ flowchart TD
 ## 🔗 Related Topics
 - [[BrainOS/04 - Software Engineering/Backend Engineering|Backend Engineering (Spring Security)]]
 - [[BrainOS/05 - Systems/Distributed Systems|Distributed Systems (Rate Limiting & Gateways)]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

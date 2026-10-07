@@ -49,4 +49,4 @@ tags:
 ## 🔗 Related Topics
 - [[BrainOS/04 - Software Engineering/Software Architecture|Clean Architecture & SOLID]]
 - [[BrainOS/04 - Software Engineering/Backend Engineering|Backend Engineering]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

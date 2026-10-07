@@ -67,4 +67,4 @@ flowchart TD
 ## 🔗 Related Topics
 - [[BrainOS/08 - LLM & GenAI/LLM Engineering|LLM Engineering]]
 - [[BrainOS/08 - LLM & GenAI/RAG & Vector Databases|RAG & Vector Databases]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

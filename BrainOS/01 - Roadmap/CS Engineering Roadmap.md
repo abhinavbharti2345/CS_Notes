@@ -245,4 +245,4 @@ flowchart TD
 ## 🔗 Next Steps & Navigation
 - Track your real-time milestones in **[[BrainOS/01 - Roadmap/Learning Progress|Learning Progress Tracker]]**
 - Inspect the topological graph in **[[BrainOS/01 - Roadmap/Skill Dependency Map|Skill Dependency Map]]**
-- Return to the **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Return to the **[[00 - BrainOS Dashboard|Main Dashboard]]**

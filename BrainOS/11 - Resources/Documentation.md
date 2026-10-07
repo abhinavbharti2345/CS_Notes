@@ -47,4 +47,4 @@ tags:
 ## 🔗 Related Notes
 - Reading List: **[[BrainOS/11 - Resources/Books|Canonical Books]]**
 - Useful Links: **[[BrainOS/11 - Resources/Useful Links|Useful Engineering Links]]**
-- Main Dashboard: **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Main Dashboard: **[[00 - BrainOS Dashboard|Main Dashboard]]**

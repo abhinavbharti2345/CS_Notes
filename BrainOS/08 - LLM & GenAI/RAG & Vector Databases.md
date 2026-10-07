@@ -74,4 +74,4 @@ flowchart TD
 - [[BrainOS/08 - LLM & GenAI/LLM Engineering|LLM Engineering]]
 - [[BrainOS/08 - LLM & GenAI/AI Agents|AI Agents]]
 - [[BrainOS/08 - LLM & GenAI/Fine Tuning & Evaluation|Evaluation & RAGAS]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

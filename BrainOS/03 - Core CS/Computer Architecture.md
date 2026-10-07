@@ -48,4 +48,4 @@ Rotational Disk (HDD)   2 - 20 TB            ~ 10,000,000 ns (10 ms)
 ## 🔗 Related Topics
 - [[BrainOS/03 - Core CS/Operating Systems|Operating Systems & Paging]]
 - [[BrainOS/09 - AI Infrastructure/GPU Computing & CUDA|GPU Computing & CUDA]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

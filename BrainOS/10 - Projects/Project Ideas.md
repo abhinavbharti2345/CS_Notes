@@ -56,4 +56,4 @@ tags:
 ## 🔗 Related Notes
 - Progressive Ladder: **[[BrainOS/10 - Projects/Project Progression|11-Level Project Progression]]**
 - Master Roadmap: **[[BrainOS/01 - Roadmap/CS Engineering Roadmap|Master Roadmap]]**
-- Main Dashboard: **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Main Dashboard: **[[00 - BrainOS Dashboard|Main Dashboard]]**

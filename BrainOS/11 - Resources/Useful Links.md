@@ -33,4 +33,4 @@ tags:
 ## 🔗 Navigation
 - Reading List: **[[BrainOS/11 - Resources/Books|Canonical Books]]**
 - Official Docs: **[[BrainOS/11 - Resources/Documentation|Official Documentation]]**
-- Master Dashboard: **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Master Dashboard: **[[00 - BrainOS Dashboard|Main Dashboard]]**

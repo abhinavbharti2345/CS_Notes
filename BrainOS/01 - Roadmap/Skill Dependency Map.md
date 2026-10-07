@@ -150,5 +150,5 @@ flowchart TD
 
 ## 🧭 Navigation
 - Complete Stage Details: **[[BrainOS/01 - Roadmap/CS Engineering Roadmap]]**
-- Main Dashboard: **[[BrainOS/00 - BrainOS Dashboard]]**
+- Main Dashboard: **[[00 - BrainOS Dashboard]]**
 - Project Progression: **[[BrainOS/10 - Projects/Project Progression]]**

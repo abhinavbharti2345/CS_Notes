@@ -50,4 +50,4 @@ Full Weight Matrix (d x k)  ≈  Original Frozen W0  +  Low-Rank Decomposition (
 - [[BrainOS/08 - LLM & GenAI/LLM Engineering|LLM Engineering]]
 - [[BrainOS/08 - LLM & GenAI/RAG & Vector Databases|RAG & Vector Databases]]
 - [[BrainOS/09 - AI Infrastructure/Quantization & Distributed Inference|Quantization & Scaling]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

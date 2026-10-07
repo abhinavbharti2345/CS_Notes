@@ -106,4 +106,4 @@ def train_epoch(model, loader, optimizer, criterion):
 - [[BrainOS/07 - AI & Machine Learning/Transformers|Transformer Architecture]]
 - [[BrainOS/08 - LLM & GenAI/LLM Engineering|LLM Engineering]]
 - [[BrainOS/09 - AI Infrastructure/GPU Computing & CUDA|GPU Computing & CUDA]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

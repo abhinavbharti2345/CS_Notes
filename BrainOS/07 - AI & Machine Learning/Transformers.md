@@ -75,4 +75,4 @@ flowchart TD
 - [[BrainOS/07 - AI & Machine Learning/Deep Learning & PyTorch|Deep Learning & PyTorch]]
 - [[BrainOS/08 - LLM & GenAI/LLM Engineering|LLM Engineering]]
 - [[BrainOS/09 - AI Infrastructure/Model Serving & Inference|vLLM & KV-Cache Management]]
-- [[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]
+- [[00 - BrainOS Dashboard|Main Dashboard]]

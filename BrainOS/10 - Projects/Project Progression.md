@@ -97,4 +97,4 @@ flowchart TD
 ## 🔗 Navigation
 - Additional Ideas: **[[BrainOS/10 - Projects/Project Ideas|Curated Project Ideas & Extensions]]**
 - Master Roadmap: **[[BrainOS/01 - Roadmap/CS Engineering Roadmap|Master Roadmap]]**
-- Main Dashboard: **[[BrainOS/00 - BrainOS Dashboard|Main Dashboard]]**
+- Main Dashboard: **[[00 - BrainOS Dashboard|Main Dashboard]]**
