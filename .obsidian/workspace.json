@@ -4,172 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3227a2e3e37c0738",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8d0d6be96ae812fa",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
               "state": {
-                "collapse-filter": false,
-                "search": "",
-                "showTags": false,
-                "showAttachments": false,
-                "hideUnresolved": false,
-                "showOrphans": true,
-                "collapse-color-groups": false,
-                "colorGroups": [
-                  {
-                    "query": "file:Nexus OR file:Dashboard OR file:home OR file:\"00.\" OR tag:#nexus OR tag:#moc",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16007006
-                    }
-                  },
-                  {
-                    "query": "path:\"Trees & BSTs\" OR path:\"Binary Search\" OR Binary Tree OR BST OR \"Binary Search\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3718648
-                    }
-                  },
-                  {
-                    "query": "path:\"Linked Lists\" OR path:\"Bit Manipulation\" OR path:\"Stacks & Queues\" OR path:Strings OR \"Linked List\" OR Stack OR Queue OR Bitwise OR Bit",
-                    "color": {
-                      "a": 1,
-                      "rgb": 959977
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/DSA\" OR path:\"BrainOS/02 - Foundations/DSA\" OR DSA OR Recursion OR Backtracking OR \"Dynamic Programming\" OR Hashing OR Sorting OR Searching",
-                    "color": {
-                      "a": 1,
-                      "rgb": 3900150
-                    }
-                  },
-                  {
-                    "query": "path:\"Computer Networking\" OR path:\"BrainOS/03 - Core CS/Computer Networks\" OR Networking OR TCP OR IP OR Subnet OR Routing OR Encapsulation OR OSI OR DNS OR HTTP",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1096065
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/OS\" OR path:\"BrainOS/03 - Core CS/Operating Systems\" OR \"Operating System\" OR \"Operating Systems\" OR Process OR Threads OR Memory OR Paging OR Architecture OR Concurrency",
-                    "color": {
-                      "a": 1,
-                      "rgb": 11032055
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/DBMS\" OR path:\"BrainOS/03 - Core CS/Databases\" OR Database OR Databases OR DBMS OR SQL OR ACID OR Indexing OR Redis OR Caching",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16096779
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/JAVA\" OR path:\"CS/Python\" OR path:\"CS/WebDev/Backend/JavaScript\" OR path:\"BrainOS/02 - Foundations/Programming\" OR Java OR Python OR JavaScript",
-                    "color": {
-                      "a": 1,
-                      "rgb": 8490232
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/WebDev\" OR path:\"BrainOS/04 - Software Engineering\" OR Backend OR Node.js OR API OR Express OR REST OR Authentication OR \"CI/CD\" OR Testing",
-                    "color": {
-                      "a": 1,
-                      "rgb": 1357990
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/05 - Systems\" OR Distributed OR \"System Design\" OR Scalability OR Consensus OR Kafka OR Microservices OR Sharding",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16487228
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/06 - Infrastructure\" OR Docker OR Kubernetes OR DevOps OR Cloud OR Observability OR AWS OR Linux",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6333946
-                    }
-                  },
-                  {
-                    "query": "path:\"CS/AI & ML\" OR path:\"BrainOS/07 - AI & Machine Learning\" OR \"Machine Learning\" OR Regression OR Preprocessing OR Feature OR Statistics OR \"Gradient Descent\" OR Pipeline",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15485081
-                    }
-                  },
-                  {
-                    "query": "Deep Learning OR PyTorch OR Transformer OR Transformers OR Attention OR \"Neural Network\" OR CNN OR RNN",
-                    "color": {
-                      "a": 1,
-                      "rgb": 12616956
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/08 - LLM & GenAI\" OR path:LocalLlmHub OR LLM OR RAG OR Vector OR Prompt OR \"AI Agents\" OR Agent OR \"Fine-Tuning\" OR Embeddings OR LangChain",
-                    "color": {
-                      "a": 1,
-                      "rgb": 15235577
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/09 - AI Infrastructure\" OR CUDA OR GPU OR vLLM OR Triton OR \"Model Serving\" OR Quantization OR Tensor",
-                    "color": {
-                      "a": 1,
-                      "rgb": 16436245
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/10 - Projects\" OR ShopKart OR Project OR Projects OR \"Project Ideas\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 2278750
-                    }
-                  },
-                  {
-                    "query": "path:\"BrainOS/01 - Roadmap\" OR Roadmap OR \"Skill Dependency\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 10980346
-                    }
-                  },
-                  {
-                    "query": "path:Ext_&_res OR path:\"BrainOS/11 - Resources\" OR Resources OR Courses OR Links OR Books OR Documentation",
-                    "color": {
-                      "a": 1,
-                      "rgb": 439764
-                    }
-                  },
-                  {
-                    "query": "path:TaskNotes OR path:Source OR path:\"My vault/Study\" OR path:.agents OR path:graphify-out OR .base OR \"Start Here\"",
-                    "color": {
-                      "a": 1,
-                      "rgb": 6583435
-                    }
-                  }
-                ],
-                "collapse-display": false,
-                "showArrow": true,
-                "textFadeMultiplier": 0,
-                "nodeSizeMultiplier": 1.25,
-                "lineSizeMultiplier": 1.1,
-                "collapse-forces": false,
-                "centerStrength": 0.45,
-                "repelStrength": 14,
-                "linkStrength": 1,
-                "linkDistance": 220,
-                "scale": 0.65,
-                "close": false
+                "file": "CS/DSA/06. Stacks & Queues/04. Queue Implementation from Scratch.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "04. Queue Implementation from Scratch"
             }
           }
         ]
@@ -377,22 +226,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8d0d6be96ae812fa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "graphify-out/cache/ast/v0.9.53-s2/1a5b280d26f634cbc4986771e66b9b7e684d66059b166342314e21dd14bfedbc.json",
+    "graphify-out/cache/ast/v0.9.53-s2/e51ac8ace1c8af596af10e9198ffa48316740a834d223bd8e61446adce05dc33.json",
+    "graphify-out/cache/ast/v0.9.53-s2/0d5c6c5293e97f51294319cd43b52cf120b609514e1d5da3f063fe2c321afcec.json",
+    "CS/DSA/06. Stacks & Queues/05. Circular Queue.md",
+    "CS/DSA/06. Stacks & Queues/03. Queue Fundamentals.md",
+    "graphify-out/cache/ast/v0.9.53-s2/f80c1fae068884328403ae7dab60b0ec84e8a867756e956f86dc78938af306bf.json",
+    "graphify-out/cache/ast/v0.9.53-s2/ea46db0950d1b913acfe36934364ebcf9f435202e8b9ac487f0aac7751a2c8f7.json",
+    "graphify-out/cache/ast/v0.9.53-s2/a15d3f063c63d8f40ce21842cac561b3043fb0599c6d3c8397f492c9f7a849db.json",
     "home.md",
+    "CS/DSA/06. Stacks & Queues/04. Queue Implementation from Scratch.md",
+    "graphify-out/cache/ast/v0.9.53-s2/8f52368916e848163c6b268eea896293629d078db4ea5eaf75d05bd98edf5339.json",
+    "graphify-out/cache/ast/v0.9.53-s2/8c5b523fd4d460ebec619f67a9005460f1f49be41cc6b928a258c733128afc62.json",
+    "graphify-out/cache/ast/v0.9.53-s2/b8a8a71391ba0aa6923c072904b0eedd4c53fe161911ec044316d5f2df5db9cc.json",
     "BrainOS/01 - Roadmap/Skill Dependency Map.md",
     "TaskNotes/Views/relationships.base",
     "graphify-out/cache/ast/v0.9.53-s2/ee4eff97c6ba00e2df7338d0aae288d2dc3e69915b7edd41a0bca21633b2f8f9.json",
-    "TaskNotes/Views/mini-calendar-default.base",
     "BrainOS/00 - BrainOS Dashboard.md",
-    "graphify-out/cache/ast/v0.9.53-s2/98b6ec1844d05660e75690fe5ea928728c44be31f015be723177eab0c96935c9.json",
     "BrainOS/01 - Roadmap/CS Engineering Roadmap.md",
-    "graphify-out/cache/ast/v0.9.53-s2/47b20ac11c0f9457cd9f10fa893500f419093157e86a2f2d10e3eb9f43c01a5d.json",
-    "graphify-out/cache/ast/v0.9.53-s2/ca608d36a02d9f61f1d2c9e47ce97ef237beddb0957fd45f49c9f21b93793f8e.json",
-    "graphify-out/cache/ast/v0.9.53-s2/01d941d1491f773a0584e47bf2c8a2fb7c73d11b1e1d1698a9450de0f24e2811.json",
-    "graphify-out/cache/ast/v0.9.53-s2/9255f3d061118f29fa883995dfdcc1079da6f61ba90c2a90d21b86d91e1eca64.json",
-    "graphify-out/cache/ast/v0.9.53-s2/ed8b27350252005418ab602da3849ef7c1421ddb05c94fade84d14a871f8dd0a.json",
-    "graphify-out/cache/ast/v0.9.53-s2/b1c112a48d06b273ff791c41e54c7e3b267ec678b5032f6d5430346372557ede.json",
     "BrainOS/01 - Roadmap/Learning Progress.md",
     "CS/DSA/07. Trees & BSTs/01. Binary Tree Fundamentals.md",
     "CS/DSA/03. Linked Lists/01. Linked List Fundamentals.md",
@@ -415,9 +268,6 @@
     "CS/WebDev/Backend/JavaScript/Async JavaScript and JSON.md",
     "CS/WebDev/Backend/assets/shopkart_auth_architecture.drawio.svg",
     "CS/Python.md",
-    "CS/DSA/00. DSA Nexus.md",
-    "CS/DSA/05. Recursion & Backtracking/01. Recursion Fundamentals.md",
-    "CS/DSA/05. Recursion & Backtracking/00. Recursion Core.md",
     "CS/DSA/07. Trees & BSTs/assets/preorder_recursive_trace.drawio.svg",
     "BrainOS/04 - Software Engineering/assets/testing_and_cicd_pipeline.drawio.svg",
     "BrainOS/05 - Systems/assets/distributed_systems_architecture.drawio.svg",
