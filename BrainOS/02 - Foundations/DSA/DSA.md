@@ -32,7 +32,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     A1["<b>1. Linear Basics:</b> Arrays, Strings & Hashing"] --> A2["<b>2. Pointer Techniques:</b> Two Pointers & Sliding Window"]
     A2 --> A3["<b>3. Sequential Memory:</b> Linked Lists & Memory Locality"]

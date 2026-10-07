@@ -35,7 +35,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     DB1["<b>1. Relational Modeling:</b> Schema Design, Normalization, Foreign Keys"] --> DB2["<b>2. Advanced SQL:</b> Joins, Subqueries, Aggregations, Window Functions"]
     DB2 --> DB3["<b>3. Storage Engines & Indexes:</b> B+ Trees, LSM Trees, Clustered Indexes"]

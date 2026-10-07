@@ -24,7 +24,6 @@ date: 2026-09-08
 `StringBuilder` is a **mutable sequence of characters** in Java. Unlike standard `String` objects (which are immutable and cannot be altered once created), a `StringBuilder` allows characters and substrings to be appended, inserted, modified, or removed in-place without generating garbage objects on the heap.
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph S ["❌ String Concatenation (Immutable Heap Allocation: O(N^2))"]
         direction TD
@@ -39,8 +38,8 @@ flowchart TD
     style S fill:none,stroke:#f43f5e,stroke-width:1.5px,stroke-dasharray:4 4
     style SB fill:none,stroke:#10b981,stroke-width:1.5px,stroke-dasharray:4 4
 
-    classDef bad fill:#111827,stroke:#f43f5e,stroke-width:1.8px,color:#F8FAFC;
-    classDef good fill:#111827,stroke:#10b981,stroke-width:1.8px,color:#F8FAFC;
+    classDef bad stroke:#f43f5e,stroke-width:1.8px;
+    classDef good stroke:#10b981,stroke-width:1.8px;
     class S1,S2 bad;
     class B1,B2 good;
 ```
@@ -112,14 +111,13 @@ Internally, `StringBuilder` is backed by a resizable character array (`char[]` i
 ### Pattern 1: Backtracking & DFS (Path Construction)
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     Start["sb = 'root'"] --> Checkpoint["Save checkpoint: len = 4"]
     Checkpoint --> Append["sb.append('->left')<br/>sb = 'root->left'"]
     Append --> Recurse["recurse(left)"]
     Recurse --> Rollback["sb.setLength(len)<br/>⚡ Instant rollback to 'root'!"]
 
-    classDef step fill:#111827,stroke:#0ea5e9,stroke-width:1.8px,color:#F8FAFC;
+    classDef step stroke:#0ea5e9,stroke-width:1.8px;
     class Start,Checkpoint,Append,Recurse,Rollback step;
 ```
 

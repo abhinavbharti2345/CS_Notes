@@ -43,7 +43,6 @@ Then discard half of the remaining search space based on a single comparison:
 ### 📉 Search Space Halving ($O(\log N)$)
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart LR
     N["N Elements (1024)"] -->|Pass 1| N2["N / 2 (512)"]
     N2 -->|Pass 2| N4["N / 4 (256)"]
@@ -51,8 +50,8 @@ flowchart LR
     N8 -->|...| Dot["..."]
     Dot -->|Pass k| One["🎯 1 Target Found"]
 
-    classDef stage fill:#111827,stroke:#0ea5e9,stroke-width:1.5px,color:#F8FAFC;
-    classDef target fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
+    classDef stage stroke:#0ea5e9,stroke-width:1.5px;
+    classDef target stroke:#10b981,stroke-width:2px;
     class N,N2,N4,N8,Dot stage;
     class One target;
 ```
@@ -106,7 +105,6 @@ return -1; // ❌ Target not present in array
 > - **Target:** `23`
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart LR
     subgraph Step1 ["1. Inspect index 4"]
         direction TB
@@ -125,10 +123,9 @@ flowchart LR
 
     Step1 ==> Step2 ==> Step3
 
-    classDef stepCard fill:#111827,stroke:#0ea5e9,stroke-width:1.5px,color:#F8FAFC;
-    classDef foundCard fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
-    class Step1,Step2 stepCard;
-    class Step3 foundCard;
+    classDef stepCard stroke:#0ea5e9,stroke-width:1.5px;
+    classDef foundCard stroke:#10b981,stroke-width:2px;
+;
 ```
 
 ### 🔍 Detailed Iteration Log
@@ -194,7 +191,6 @@ If `low` and `high` are large (e.g. $1.5 \times 10^9$), their sum `low + high` (
 ## 🧠 5. Mental Model: Virtual Window Shrinking
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     A["1. Calculate Midpoint: mid = low + (high - low) / 2"] --> B["2. Compare A[mid] against target"]
     B -->|Found| C["🎯 Return mid"]
@@ -205,9 +201,9 @@ flowchart TD
     F -->|Yes| A
     F -->|No| G["❌ Exhausted: Return -1"]
 
-    classDef proc fill:#111827,stroke:#0ea5e9,stroke-width:1.5px,color:#F8FAFC;
-    classDef win fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
-    classDef fail fill:#111827,stroke:#f43f5e,stroke-width:1.5px,color:#F8FAFC;
+    classDef proc stroke:#0ea5e9,stroke-width:1.5px;
+    classDef win stroke:#10b981,stroke-width:2px;
+    classDef fail stroke:#f43f5e,stroke-width:1.5px;
     class A,B,D,E,F proc;
     class C win;
     class G fail;

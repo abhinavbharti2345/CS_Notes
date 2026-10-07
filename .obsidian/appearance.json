@@ -5,8 +5,8 @@
   "baseFontSizeAction": false,
   "baseFontSize": 15,
   "enabledCssSnippets": [
+    "graph-theme",
     "dashboard",
-    "diagrams",
-    "graph-theme"
+    "diagrams"
   ]
 }

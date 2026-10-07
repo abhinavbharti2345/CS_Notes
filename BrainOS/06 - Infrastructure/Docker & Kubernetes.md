@@ -34,7 +34,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     DK1["<b>1. Container Basics:</b> Dockerfile, Multi-Stage Builds, Images, Layers"] --> DK2["<b>2. Multi-Container Orchestration:</b> Docker Compose, Bridge Networks, Volumes"]
     DK2 --> DK3["<b>3. Kubernetes Fundamentals:</b> Pods, Deployments, ReplicaSets, Services"]

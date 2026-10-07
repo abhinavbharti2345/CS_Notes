@@ -38,7 +38,6 @@ tags:
 ![[testing_and_cicd_pipeline.drawio.svg]]
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart LR
     subgraph PIPELINE ["Automated GitHub Actions Pipeline"]
         direction LR
@@ -51,7 +50,7 @@ flowchart LR
 
     style PIPELINE fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
 
-    classDef seNode fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC;
+    classDef seNode stroke:#34D399,stroke-width:1.8px;
     class G,LINT,TEST,BUILD,SCAN,DEPLOY seNode;
 ```
 

@@ -34,7 +34,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     CL1["<b>1. Core Compute:</b> AWS EC2, Auto-Scaling Groups (ASG), IAM Roles"] --> CL2["<b>2. Cloud Networking:</b> VPC, Public/Private Subnets, NAT, Security Groups"]
     CL2 --> CL3["<b>3. Storage & Persistence:</b> S3 Object Storage, EBS Volumes, RDS PostgreSQL"]

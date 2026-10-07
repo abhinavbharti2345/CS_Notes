@@ -18,7 +18,6 @@ tags:
 ## 🌳 Interactive Topological Dependency Graph
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph S_LANG ["1. Language Foundations"]
         direction LR
@@ -114,14 +113,14 @@ flowchart TD
     style S_AI fill:#0B0F14,stroke:#F472B6,stroke-width:1.8px,color:#F472B6
     style S_AI_INFRA fill:#0B0F14,stroke:#FACC15,stroke-width:2px,color:#FACC15
 
-    classDef fndNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef dsaNode fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC;
-    classDef coreNode fill:#111827,stroke:#C084FC,stroke-width:1.8px,color:#F8FAFC;
-    classDef seNode fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC;
-    classDef sysNode fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC;
-    classDef cloudNode fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC;
-    classDef mlNode fill:#111827,stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC;
-    classDef aiInfraNode fill:#111827,stroke:#FACC15,stroke-width:2px,color:#F8FAFC;
+    classDef fndNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;
+    classDef coreNode stroke:#C084FC,stroke-width:1.8px;
+    classDef seNode stroke:#34D399,stroke-width:1.8px;
+    classDef sysNode stroke:#FB923C,stroke-width:1.8px;
+    classDef cloudNode stroke:#22D3EE,stroke-width:1.8px;
+    classDef mlNode stroke:#F472B6,stroke-width:1.8px;
+    classDef aiInfraNode stroke:#FACC15,stroke-width:2px;
 
     class JAVA,PY,LNX fndNode;
     class DSA dsaNode;

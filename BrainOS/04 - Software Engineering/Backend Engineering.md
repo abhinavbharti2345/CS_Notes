@@ -35,7 +35,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     BE1["<b>1. API Protocols:</b> HTTP/REST, JSON, URI Design, OpenAPI"] --> BE2["<b>2. Framework Foundations:</b> Spring Boot, IoC / Dependency Injection"]
     BE2 --> BE3["<b>3. Data Persistence:</b> Spring Data JPA, Hibernate, Flyway Migrations"]

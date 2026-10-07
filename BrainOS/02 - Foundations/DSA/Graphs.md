@@ -27,7 +27,6 @@ tags:
 ## 🧠 Core Graph Paradigms
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph G_TYPES ["1. Core Graph Algorithms"]
         direction LR
@@ -47,7 +46,7 @@ flowchart TD
     style G_TYPES fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
     style G_ADV fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
 
-    classDef dsaNode fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC;
+    classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;
     class BFS,DFS,DIJK,TOPO,DSU dsaNode;
 ```
 

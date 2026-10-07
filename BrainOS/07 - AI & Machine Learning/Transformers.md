@@ -37,7 +37,6 @@ Where:
 ## 🏗️ Transformer Block Architecture
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph XFORMER_BLOCK ["Standard Decoder Layer (GPT/Llama Style)"]
         direction TB
@@ -52,10 +51,10 @@ flowchart TD
 
     style XFORMER_BLOCK fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
 
-    classDef ioNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef normNode fill:#111827,stroke:#64748B,stroke-width:1.5px,color:#F8FAFC;
-    classDef attnNode fill:#111827,stroke:#E879F9,stroke-width:2px,color:#F8FAFC;
-    classDef mlpNode fill:#111827,stroke:#F472B6,stroke-width:2px,color:#F8FAFC;
+    classDef ioNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef normNode stroke:#64748B,stroke-width:1.5px;
+    classDef attnNode stroke:#E879F9,stroke-width:2px;
+    classDef mlpNode stroke:#F472B6,stroke-width:2px;
 
     class IN,OUT ioNode;
     class LN1,LN2,ADD1,ADD2 normNode;

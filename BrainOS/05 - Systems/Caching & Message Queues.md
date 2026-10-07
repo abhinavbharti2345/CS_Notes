@@ -22,7 +22,6 @@ tags:
 ![[caching_and_queues_architecture.drawio.svg]]
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph CACHE_PATTERNS ["Core Caching Access Patterns"]
         direction TB
@@ -34,7 +33,7 @@ flowchart TD
 
     style CACHE_PATTERNS fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
 
-    classDef sysNode fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC;
+    classDef sysNode stroke:#FB923C,stroke-width:1.8px;
     class CA,WT,WB,RA sysNode;
 ```
 

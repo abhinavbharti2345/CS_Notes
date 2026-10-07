@@ -35,7 +35,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     L1["<b>1. Transformer Fundamentals:</b> Self-Attention, KV-Cache, Tokenization (BPE)"] --> L2["<b>2. Structured Output & Tools:</b> JSON Schema, Function Calling, System Prompts"]
     L2 --> L3["<b>3. RAG Architecture:</b> Chunking, Vector DBs (Qdrant), Cross-Encoder Re-rankers"]

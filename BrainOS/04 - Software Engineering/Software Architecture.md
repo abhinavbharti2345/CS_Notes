@@ -31,7 +31,6 @@ tags:
 ## 🧠 Hexagonal (Ports & Adapters) & Clean Architecture
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph CLEAN ["Clean Architecture Dependency Direction (Inward)"]
         direction TB
@@ -45,10 +44,10 @@ flowchart TD
 
     style CLEAN fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
 
-    classDef fwNode fill:#111827,stroke:#64748B,stroke-width:1.8px,color:#F8FAFC;
-    classDef adNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef ucNode fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC;
-    classDef entNode fill:#111827,stroke:#34D399,stroke-width:2px,color:#F8FAFC;
+    classDef fwNode stroke:#64748B,stroke-width:1.8px;
+    classDef adNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef ucNode stroke:#22D3EE,stroke-width:1.8px;
+    classDef entNode stroke:#34D399,stroke-width:2px;
 
     class FW fwNode;
     class AD adNode;

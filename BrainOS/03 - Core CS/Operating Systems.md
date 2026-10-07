@@ -35,7 +35,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     OS1["<b>1. Processes & Threads:</b> PCB, Context Switching, Thread Models"] --> OS2["<b>2. CPU Scheduling:</b> Round Robin, CFS, Multi-Level Queues"]
     OS2 --> OS3["<b>3. Synchronization:</b> Mutex, Semaphores, Deadlocks (Coffman)"]

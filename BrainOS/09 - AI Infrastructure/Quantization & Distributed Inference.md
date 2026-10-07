@@ -31,7 +31,6 @@ tags:
 ## 🌐 Multi-GPU Parallelism Models
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph PARALLEL_MODELS ["Distributed GPU Parallelism Strategies"]
         direction TB
@@ -56,9 +55,9 @@ flowchart TD
     style PP fill:#0B0F14,stroke:#A78BFA,stroke-width:1.5px,color:#A78BFA
     style DP fill:#0B0F14,stroke:#34D399,stroke-width:1.5px,color:#34D399
 
-    classDef tpSt fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef ppSt fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC;
-    classDef dpSt fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC;
+    classDef tpSt stroke:#38BDF8,stroke-width:1.8px;
+    classDef ppSt stroke:#A78BFA,stroke-width:1.8px;
+    classDef dpSt stroke:#34D399,stroke-width:1.8px;
     class W1,W2 tpSt;
     class L1,L2 ppSt;
     class D1,D2 dpSt;

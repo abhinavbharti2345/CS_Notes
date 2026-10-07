@@ -32,7 +32,6 @@ tags:
 ## 🛡️ Authentication & Authorization Models
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph JWT_FLOW ["JWT (JSON Web Token) Stateless Authentication"]
         direction TB
@@ -46,9 +45,9 @@ flowchart TD
 
     style JWT_FLOW fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
 
-    classDef cNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef sNode fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC;
-    classDef beNode fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC;
+    classDef cNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef sNode stroke:#FB923C,stroke-width:1.8px;
+    classDef beNode stroke:#34D399,stroke-width:1.8px;
 
     class C cNode;
     class S sNode;

@@ -32,7 +32,6 @@ When adding two large numbers represented as strings (such as **binary strings**
 We simulate manual column-by-column addition from **right to left** (least significant digit to most significant).
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph Simulation ["Right-to-Left Arithmetic Loop"]
         direction TD
@@ -48,9 +47,9 @@ flowchart TD
 
     style Simulation fill:none,stroke:#6366f1,stroke-width:1.5px,stroke-dasharray:4 4
 
-    classDef step fill:#111827,stroke:#0ea5e9,stroke-width:1.8px,color:#F8FAFC;
-    classDef decision fill:#111827,stroke:#f59e0b,stroke-width:1.8px,color:#F8FAFC;
-    classDef finish fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
+    classDef step stroke:#0ea5e9,stroke-width:1.8px;
+    classDef decision stroke:#f59e0b,stroke-width:1.8px;
+    classDef finish stroke:#10b981,stroke-width:2px;
 
     class Start,Extract,Calc,Decrement step;
     class Condition decision;
@@ -67,12 +66,11 @@ When processing right $\to$ left:
 - 3rd calculated bit $\to$ next bit to the left
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     P["Processed Order: 1 -> 0 -> 1 -> 1"] --> R["Reversed Final String: 1 1 0 1"]
     
-    classDef proc fill:#111827,stroke:#0ea5e9,stroke-width:1.8px,color:#F8FAFC;
-    classDef rev fill:#111827,stroke:#10b981,stroke-width:2px,color:#F8FAFC;
+    classDef proc stroke:#0ea5e9,stroke-width:1.8px;
+    classDef rev stroke:#10b981,stroke-width:2px;
     
     class P proc;
     class R rev;

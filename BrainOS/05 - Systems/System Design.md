@@ -34,7 +34,6 @@ tags:
 ## 🗺️ Learning Order & System Design Framework
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     S1["<b>1. Requirements & Scope:</b> Functional vs Non-Functional, Back-of-the-Envelope Math"] --> S2["<b>2. API & Data Model:</b> REST/gRPC Endpoints, Relational / NoSQL Schemas"]
     S2 --> S3["<b>3. High-Level Architecture:</b> Client → DNS → CDN → Load Balancer → Services → DB"]

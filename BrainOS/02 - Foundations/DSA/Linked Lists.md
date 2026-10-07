@@ -26,7 +26,6 @@ tags:
 ## 🧠 Core Patterns
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph P1 ["Pattern 1: Fast & Slow Pointers (Tortoise & Hare)"]
         direction LR
@@ -47,7 +46,7 @@ flowchart TD
     style P2 fill:#0B0F14,stroke:#34D399,stroke-width:1.8px,color:#34D399
     style P3 fill:#0B0F14,stroke:#FB923C,stroke-width:1.8px,color:#FB923C
 
-    classDef dsaNode fill:#111827,stroke:#A78BFA,stroke-width:1.8px,color:#F8FAFC;
+    classDef dsaNode stroke:#A78BFA,stroke-width:1.8px;
     class S,F,PR,CU,NX,DUM,HD dsaNode;
 ```
 

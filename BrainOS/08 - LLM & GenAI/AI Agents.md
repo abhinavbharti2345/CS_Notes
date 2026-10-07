@@ -20,7 +20,6 @@ tags:
 ## 🎯 The ReAct (Reason + Act) Loop
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph REACT_CYCLE ["The Autonomous Agent Execution Loop"]
         direction TB
@@ -35,11 +34,11 @@ flowchart TD
 
     style REACT_CYCLE fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
 
-    classDef ioNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef thoughtNode fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC;
-    classDef toolNode fill:#111827,stroke:#FB923C,stroke-width:1.8px,color:#F8FAFC;
-    classDef obsNode fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC;
-    classDef checkNode fill:#111827,stroke:#FACC15,stroke-width:1.8px,color:#F8FAFC;
+    classDef ioNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef thoughtNode stroke:#E879F9,stroke-width:1.8px;
+    classDef toolNode stroke:#FB923C,stroke-width:1.8px;
+    classDef obsNode stroke:#34D399,stroke-width:1.8px;
+    classDef checkNode stroke:#FACC15,stroke-width:1.8px;
 
     class GOAL,FINAL ioNode;
     class THOUGHT thoughtNode;

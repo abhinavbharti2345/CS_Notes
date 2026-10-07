@@ -31,7 +31,6 @@ tags:
 ## 🗺️ 2. The 10-Stage CS Curriculum Progression
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     P0["<b>00. Programming Foundations</b><br/>Java / Python / Git / Linux CLI"] --> P1["<b>01. DSA & Algorithms</b><br/>Trees, Graphs, DP, Heaps"]
     P1 --> P2["<b>02. Core CS Fundamentals</b><br/>OS, Computer Networks, DBMS"]

@@ -26,7 +26,6 @@ tags:
 ## 🧠 Core Neural Network Mechanics
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart LR
     subgraph NN_FLOW ["Forward & Backward Pass Loop"]
         direction LR
@@ -38,7 +37,7 @@ flowchart LR
 
     style NN_FLOW fill:#0B0F14,stroke:#F472B6,stroke-width:1.8px,color:#F472B6
 
-    classDef dlNode fill:#111827,stroke:#F472B6,stroke-width:1.8px,color:#F8FAFC;
+    classDef dlNode stroke:#F472B6,stroke-width:1.8px;
     class IN,FWD,LOSS,BWD,STEP dlNode;
 ```
 

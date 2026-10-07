@@ -19,7 +19,6 @@ tags:
 ## 🧗 The 11-Level Project Progression Ladder
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     L1["<b>Level 1:</b> CLI File Organizer & Metadata Parser<br/><i>(Java OOP, File I/O, CLI Flags)</i>"] --> L2["<b>Level 2:</b> Custom Data Structure Engine<br/><i>(Thread-Safe LRU Cache, Heap, B-Tree)</i>"]
     L2 --> L3["<b>Level 3:</b> Multi-Threaded HTTP/1.1 Socket Server<br/><i>(Raw Sockets, ThreadPool, HTTP Parser)</i>"]

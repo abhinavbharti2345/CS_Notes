@@ -27,7 +27,6 @@ tags:
 ## 🏗️ Advanced Production RAG Pipeline
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph INGESTION ["1. Document Ingestion Pipeline"]
         direction LR
@@ -48,11 +47,11 @@ flowchart TD
     style INGESTION fill:#0B0F14,stroke:#38BDF8,stroke-width:1.8px,color:#38BDF8
     style RETRIEVAL fill:#0B0F14,stroke:#E879F9,stroke-width:1.8px,color:#E879F9
 
-    classDef ingestNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef vdbNode fill:#111827,stroke:#A78BFA,stroke-width:2px,color:#F8FAFC;
-    classDef queryNode fill:#111827,stroke:#22D3EE,stroke-width:1.8px,color:#F8FAFC;
-    classDef rankNode fill:#111827,stroke:#34D399,stroke-width:1.8px,color:#F8FAFC;
-    classDef llmNode fill:#111827,stroke:#E879F9,stroke-width:2px,color:#F8FAFC;
+    classDef ingestNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef vdbNode stroke:#A78BFA,stroke-width:2px;
+    classDef queryNode stroke:#22D3EE,stroke-width:1.8px;
+    classDef rankNode stroke:#34D399,stroke-width:1.8px;
+    classDef llmNode stroke:#E879F9,stroke-width:2px;
 
     class DOC,CHUNK,EMBED ingestNode;
     class VDB vdbNode;

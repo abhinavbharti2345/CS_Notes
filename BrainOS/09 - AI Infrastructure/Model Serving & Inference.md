@@ -24,7 +24,6 @@ tags:
 - **The Solution:** Inspired by **Virtual Memory Paging in Operating Systems**, PagedAttention splits KV-Cache into fixed-size physical blocks (e.g. 16 tokens) mapped dynamically via a logical Block Table.
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     subgraph PAGED_ATTN ["PagedAttention: Logical vs Physical KV Memory"]
         direction LR
@@ -58,9 +57,9 @@ flowchart TD
     style TABLE fill:#0B0F14,stroke:#E879F9,stroke-width:1.5px,color:#E879F9
     style PHYSICAL fill:#0B0F14,stroke:#FACC15,stroke-width:1.5px,color:#FACC15
 
-    classDef logNode fill:#111827,stroke:#38BDF8,stroke-width:1.8px,color:#F8FAFC;
-    classDef tabNode fill:#111827,stroke:#E879F9,stroke-width:1.8px,color:#F8FAFC;
-    classDef physNode fill:#111827,stroke:#FACC15,stroke-width:2px,color:#F8FAFC;
+    classDef logNode stroke:#38BDF8,stroke-width:1.8px;
+    classDef tabNode stroke:#E879F9,stroke-width:1.8px;
+    classDef physNode stroke:#FACC15,stroke-width:2px;
 
     class L1,L2,L3 logNode;
     class T1,T2,T3 tabNode;

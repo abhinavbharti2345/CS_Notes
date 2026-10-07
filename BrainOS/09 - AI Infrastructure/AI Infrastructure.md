@@ -35,7 +35,6 @@ tags:
 ## 🗺️ Learning Order & Topic Breakdown
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'darkMode': true, 'background': '#0B0F14', 'mainBkg': '#111827', 'primaryColor': '#111827', 'primaryTextColor': '#F8FAFC', 'primaryBorderColor': '#38BDF8', 'lineColor': '#64748B', 'secondaryColor': '#0B0F14', 'tertiaryColor': '#0B0F14', 'clusterBkg': '#0B0F14', 'clusterBorder': '#38BDF8' }}}%%
 flowchart TD
     AI1["<b>1. GPU Architecture & CUDA:</b> Streaming Multiprocessors, HBM3, Warps, SRAM"] --> AI2["<b>2. Inference Engines:</b> vLLM, PagedAttention, Continuous Batching"]
     AI2 --> AI3["<b>3. Quantization:</b> FP16 → FP8 (Hopper), AWQ (4-bit), GPTQ"]
